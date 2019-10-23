@@ -2692,3 +2692,878 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.10.23-01.43.34:381][263]LogSavePackage: Moving 'E:/level design 2 stuff/github stuff/spoopylevel/MMartinSpoopy/Saved/spoopylevelFEF08CAA497919C6269E9A831709652A.tmp' to 'E:/level design 2 stuff/github stuff/spoopylevel/MMartinSpoopy/Content/Maps/spoopylevel.umap'
 [2019.10.23-01.43.34:406][263]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/spoopylevel_BuiltData" FILE="E:/level design 2 stuff/github stuff/spoopylevel/MMartinSpoopy/Content/Maps/spoopylevel_BuiltData.uasset" SILENT=true
 [2019.10.23-01.43.34:422][263]LogSavePackage: Moving 'E:/level design 2 stuff/github stuff/spoopylevel/MMartinSpoopy/Saved/spoopylevel_BuiltDataB255F43345BA80A54BE637BF62DD6A9A.tmp' to 'E:/level design 2 stuff/github stuff/spoopylevel/MMartinSpoopy/Content/Maps/spoopylevel_BuiltData.uasset'
+[2019.10.23-01.44.53:314][ 54]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.23-01.44.56:700][ 95]LogSlate: Window 'Message' being destroyed
+[2019.10.23-01.44.58:855][170]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.23-01.45.00:369][170]LogSlate: Window 'Message' being destroyed
+[2019.10.23-01.45.01:809][220]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.23-01.45.02:962][220]LogSlate: Window 'Message' being destroyed
+[2019.10.23-01.45.03:596][243]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.23-01.45.04:543][243]LogSlate: Window 'Message' being destroyed
+[2019.10.23-01.45.05:150][265]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.23-01.45.06:131][265]LogSlate: Window 'Message' being destroyed
+[2019.10.23-01.45.08:093][328]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.23-01.45.13:716][421]LogSlate: Window 'Create New Landscape Layer Info Object' being destroyed
+[2019.10.23-01.45.19:664][602]Cmd: TRANSACTION UNDO
+[2019.10.23-01.45.19:664][602]LogEditorTransaction: Undo Landscape Editing: Paint
+[2019.10.23-01.45.22:311][665]Cmd: TRANSACTION REDO
+[2019.10.23-01.45.22:311][665]LogEditorTransaction: Redo Landscape Editing: Paint
+[2019.10.23-01.45.22:430][665]LogTexture: Display: Building textures: Texture2D_38 (BGRA8, 32X32)
+[2019.10.23-01.45.22:438][665]LogTexture: Display: Building textures: Texture2D_6 (BGRA8, 32X32)
+[2019.10.23-01.45.22:446][665]LogTexture: Display: Building textures: Texture2D_19 (BGRA8, 32X32)
+[2019.10.23-01.45.22:457][665]LogTexture: Display: Building textures: Texture2D_37 (BGRA8, 32X32)
+[2019.10.23-01.45.22:467][665]LogTexture: Display: Building textures: Texture2D_7 (BGRA8, 32X32)
+[2019.10.23-01.45.22:476][665]LogTexture: Display: Building textures: Texture2D_8 (BGRA8, 32X32)
+[2019.10.23-01.45.22:484][665]LogTexture: Display: Building textures: Texture2D_25 (BGRA8, 32X32)
+[2019.10.23-01.45.22:491][665]LogTexture: Display: Building textures: Texture2D_24 (BGRA8, 32X32)
+[2019.10.23-01.45.22:499][665]LogTexture: Display: Building textures: Texture2D_23 (BGRA8, 32X32)
+[2019.10.23-01.45.24:099][698]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.23-01.45.25:123][718]LogMaterial: Display: Missing cached shader map for material landscapestuff, compiling. 
+[2019.10.23-01.45.25:166][718]LogMaterial: Display: Missing cached shader map for material landscapestuff, compiling. 
+[2019.10.23-01.45.25:217][718]LogTexture: Display: Building textures: Texture2D_41 (BGRA8, 32X32)
+[2019.10.23-01.45.25:312][719]LogTexture: Display: Building textures: Texture2D_42 (BGRA8, 32X32)
+[2019.10.23-01.45.25:342][719]LogTexture: Display: Building textures: Texture2D_43 (BGRA8, 32X32)
+[2019.10.23-01.45.52:672][587]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.23-01.45.52:924][591]LogAssetEditorManager: Opening Asset editor for Material /Game/Maps/spoopylevel_sharedassets/landscapestuff.landscapestuff
+[2019.10.23-01.45.52:927][591]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_5, compiling. 
+[2019.10.23-01.45.53:115][591]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_5, compiling. 
+[2019.10.23-01.45.53:130][591]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_5, compiling. 
+[2019.10.23-01.45.53:171][591]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.10.23-01.45.53:179][591]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2019.10.23-01.45.53:187][591]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2019.10.23-01.46.05:914][878]MaterialEditorStats: Base pass shader: 107 instructions
+[2019.10.23-01.46.05:914][878]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2019.10.23-01.46.05:914][878]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.10.23-01.46.05:914][878]MaterialEditorStats: Texture samplers: 3/16
+[2019.10.23-01.46.20:762][174]LogAssetEditorManager: Opening Asset editor for Material /Game/StarterContent/Materials/M_Ground_Grass.M_Ground_Grass
+[2019.10.23-01.46.20:765][174]LogMaterial: Display: Missing cached shader map for material M_Ground_Grass, compiling. 
+[2019.10.23-01.46.21:082][174]LogMaterial: Display: Missing cached shader map for material M_Ground_Grass, compiling. 
+[2019.10.23-01.46.21:103][174]LogMaterial: Display: Missing cached shader map for material M_Ground_Grass, compiling. 
+[2019.10.23-01.46.21:147][174]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_10, compiling. 
+[2019.10.23-01.46.21:154][174]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_29, compiling. 
+[2019.10.23-01.46.21:162][174]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_30, compiling. 
+[2019.10.23-01.46.21:171][174]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_9, compiling. 
+[2019.10.23-01.46.21:178][174]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_11, compiling. 
+[2019.10.23-01.46.21:185][174]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_12, compiling. 
+[2019.10.23-01.46.21:193][174]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_13, compiling. 
+[2019.10.23-01.46.21:200][174]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_6, compiling. 
+[2019.10.23-01.46.21:207][174]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_7, compiling. 
+[2019.10.23-01.46.21:214][174]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_8, compiling. 
+[2019.10.23-01.46.30:590][385]MaterialEditorStats: Base pass shader: 132 instructions
+[2019.10.23-01.46.30:590][385]MaterialEditorStats: Base pass shader with Surface Lightmap: 154 instructions
+[2019.10.23-01.46.30:590][385]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 200 instructions
+[2019.10.23-01.46.30:590][385]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2019.10.23-01.46.30:590][385]MaterialEditorStats: Texture samplers: 7/16
+[2019.10.23-01.46.30:591][385]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(6)
+[2019.10.23-01.46.30:591][385]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.10.23-01.46.33:911][465]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_20 or MaterialGraphNode /Engine/Transient.PreviewMaterial_5:MaterialGraph_0.MaterialGraphNode_20
+[2019.10.23-01.46.33:911][465]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionLinearInterpolate'"MaterialGraphNode_20.MaterialExpressionLinearInterpolate_12"')'
+[2019.10.23-01.46.33:911][465]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_35 or MaterialGraphNode /Engine/Transient.PreviewMaterial_5:MaterialGraph_0.MaterialGraphNode_35
+[2019.10.23-01.46.33:911][465]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionLinearInterpolate'"MaterialGraphNode_35.MaterialExpressionLinearInterpolate_11"')'
+[2019.10.23-01.46.33:911][465]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.landscapestuff:MaterialGraph_0.MaterialGraphNode_10 or MaterialGraphNode /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_10
+[2019.10.23-01.46.33:911][465]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.landscapestuff:MaterialGraph_0.MaterialGraphNode_10 or MaterialGraphNode /Engine/Transient.PreviewMaterial_5:MaterialGraph_0.MaterialGraphNode_10
+[2019.10.23-01.46.33:911][465]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionClamp'"MaterialGraphNode_10.MaterialExpressionClamp_6"')'
+[2019.10.23-01.46.33:912][465]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.landscapestuff:MaterialGraph_0.MaterialGraphNode_4 or MaterialGraphNode /Engine/Transient.PreviewMaterial_5:MaterialGraph_0.MaterialGraphNode_4
+[2019.10.23-01.46.33:912][465]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.landscapestuff:MaterialGraph_0.MaterialGraphNode_4 or MaterialGraphNode /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_4
+[2019.10.23-01.46.33:912][465]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionTextureSample'"MaterialGraphNode_4.MaterialExpressionTextureSample_29"',Mask=1,MaskR=1,MaskG=1,MaskB=1)'
+[2019.10.23-01.46.33:912][465]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_19 or MaterialGraphNode /Engine/Transient.PreviewMaterial_5:MaterialGraph_0.MaterialGraphNode_19
+[2019.10.23-01.46.33:912][465]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionConstant3Vector'"MaterialGraphNode_19.MaterialExpressionConstant3Vector_9"')'
+[2019.10.23-01.46.33:912][465]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.landscapestuff:MaterialGraph_0.MaterialGraphNode_10 or MaterialGraphNode /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_10
+[2019.10.23-01.46.33:912][465]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.landscapestuff:MaterialGraph_0.MaterialGraphNode_10 or MaterialGraphNode /Engine/Transient.PreviewMaterial_5:MaterialGraph_0.MaterialGraphNode_10
+[2019.10.23-01.46.33:912][465]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionClamp'"MaterialGraphNode_10.MaterialExpressionClamp_6"')'
+[2019.10.23-01.46.33:912][465]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_27 or MaterialGraphNode /Engine/Transient.PreviewMaterial_5:MaterialGraph_0.MaterialGraphNode_27
+[2019.10.23-01.46.33:912][465]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionTextureCoordinate'"MaterialGraphNode_27.MaterialExpressionTextureCoordinate_11"')'
+[2019.10.23-01.46.33:912][465]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_27 or MaterialGraphNode /Engine/Transient.PreviewMaterial_5:MaterialGraph_0.MaterialGraphNode_27
+[2019.10.23-01.46.33:912][465]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionTextureCoordinate'"MaterialGraphNode_27.MaterialExpressionTextureCoordinate_11"')'
+[2019.10.23-01.46.33:913][465]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_15 or MaterialGraphNode /Engine/Transient.PreviewMaterial_5:MaterialGraph_0.MaterialGraphNode_15
+[2019.10.23-01.46.33:913][465]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionAdd'"MaterialGraphNode_15.MaterialExpressionAdd_24"')'
+[2019.10.23-01.46.33:913][465]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.landscapestuff:MaterialGraph_0.MaterialGraphNode_6 or MaterialGraphNode /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_6
+[2019.10.23-01.46.33:913][465]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.landscapestuff:MaterialGraph_0.MaterialGraphNode_6 or MaterialGraphNode /Engine/Transient.PreviewMaterial_5:MaterialGraph_0.MaterialGraphNode_6
+[2019.10.23-01.46.33:913][465]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionConstant'"MaterialGraphNode_6.MaterialExpressionConstant_48"')'
+[2019.10.23-01.46.33:914][465]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.landscapestuff:MaterialGraph_0.MaterialGraphNode_7 or MaterialGraphNode /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_7
+[2019.10.23-01.46.33:914][465]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.landscapestuff:MaterialGraph_0.MaterialGraphNode_7 or MaterialGraphNode /Engine/Transient.PreviewMaterial_5:MaterialGraph_0.MaterialGraphNode_7
+[2019.10.23-01.46.33:914][465]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionSubtract'"MaterialGraphNode_7.MaterialExpressionSubtract_6"')'
+[2019.10.23-01.46.33:914][465]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.landscapestuff:MaterialGraph_0.MaterialGraphNode_9 or MaterialGraphNode /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_9
+[2019.10.23-01.46.33:914][465]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.landscapestuff:MaterialGraph_0.MaterialGraphNode_9 or MaterialGraphNode /Engine/Transient.PreviewMaterial_5:MaterialGraph_0.MaterialGraphNode_9
+[2019.10.23-01.46.33:914][465]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionConstant'"MaterialGraphNode_9.MaterialExpressionConstant_49"')'
+[2019.10.23-01.46.33:914][465]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.landscapestuff:MaterialGraph_0.MaterialGraphNode_8 or MaterialGraphNode /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_8
+[2019.10.23-01.46.33:914][465]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.landscapestuff:MaterialGraph_0.MaterialGraphNode_8 or MaterialGraphNode /Engine/Transient.PreviewMaterial_5:MaterialGraph_0.MaterialGraphNode_8
+[2019.10.23-01.46.33:914][465]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionDivide'"MaterialGraphNode_8.MaterialExpressionDivide_6"')'
+[2019.10.23-01.46.33:915][465]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_17 or MaterialGraphNode /Engine/Transient.PreviewMaterial_5:MaterialGraph_0.MaterialGraphNode_17
+[2019.10.23-01.46.33:915][465]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionMultiply'"MaterialGraphNode_17.MaterialExpressionMultiply_51"')'
+[2019.10.23-01.46.33:915][465]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.landscapestuff:MaterialGraph_0.MaterialGraphNode_13 or MaterialGraphNode /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_13
+[2019.10.23-01.46.33:915][465]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.landscapestuff:MaterialGraph_0.MaterialGraphNode_13 or MaterialGraphNode /Engine/Transient.PreviewMaterial_5:MaterialGraph_0.MaterialGraphNode_13
+[2019.10.23-01.46.33:915][465]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionConstant'"MaterialGraphNode_13.MaterialExpressionConstant_50"')'
+[2019.10.23-01.46.33:915][465]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.landscapestuff:MaterialGraph_0.MaterialGraphNode_14 or MaterialGraphNode /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_14
+[2019.10.23-01.46.33:915][465]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.landscapestuff:MaterialGraph_0.MaterialGraphNode_14 or MaterialGraphNode /Engine/Transient.PreviewMaterial_5:MaterialGraph_0.MaterialGraphNode_14
+[2019.10.23-01.46.33:915][465]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionConstant'"MaterialGraphNode_14.MaterialExpressionConstant_51"')'
+[2019.10.23-01.46.33:915][465]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.landscapestuff:MaterialGraph_0.MaterialGraphNode_11 or MaterialGraphNode /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_11
+[2019.10.23-01.46.33:915][465]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.landscapestuff:MaterialGraph_0.MaterialGraphNode_11 or MaterialGraphNode /Engine/Transient.PreviewMaterial_5:MaterialGraph_0.MaterialGraphNode_11
+[2019.10.23-01.46.33:915][465]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionTextureSample'"MaterialGraphNode_11.MaterialExpressionTextureSample_30"',OutputIndex=1,Mask=1,MaskR=1)'
+[2019.10.23-01.46.33:916][465]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.landscapestuff:MaterialGraph_0.MaterialGraphNode_12 or MaterialGraphNode /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_12
+[2019.10.23-01.46.33:916][465]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.landscapestuff:MaterialGraph_0.MaterialGraphNode_12 or MaterialGraphNode /Engine/Transient.PreviewMaterial_5:MaterialGraph_0.MaterialGraphNode_12
+[2019.10.23-01.46.33:916][465]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionLinearInterpolate'"MaterialGraphNode_12.MaterialExpressionLinearInterpolate_28"')'
+[2019.10.23-01.46.33:916][465]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.landscapestuff:MaterialGraph_0.MaterialGraphNode_5 or MaterialGraphNode /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_5
+[2019.10.23-01.46.33:916][465]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.landscapestuff:MaterialGraph_0.MaterialGraphNode_5 or MaterialGraphNode /Engine/Transient.PreviewMaterial_5:MaterialGraph_0.MaterialGraphNode_5
+[2019.10.23-01.46.33:916][465]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionPixelDepth'"MaterialGraphNode_5.MaterialExpressionPixelDepth_6"',Mask=1,MaskR=1)'
+[2019.10.23-01.46.33:917][465]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_16 or MaterialGraphNode /Engine/Transient.PreviewMaterial_5:MaterialGraph_0.MaterialGraphNode_16
+[2019.10.23-01.46.33:917][465]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionTextureCoordinate'"MaterialGraphNode_16.MaterialExpressionTextureCoordinate_24"')'
+[2019.10.23-01.46.33:917][465]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_18 or MaterialGraphNode /Engine/Transient.PreviewMaterial_5:MaterialGraph_0.MaterialGraphNode_18
+[2019.10.23-01.46.33:917][465]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionConstant'"MaterialGraphNode_18.MaterialExpressionConstant_52"')'
+[2019.10.23-01.46.33:917][465]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_21 or MaterialGraphNode /Engine/Transient.PreviewMaterial_5:MaterialGraph_0.MaterialGraphNode_21
+[2019.10.23-01.46.33:917][465]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionMultiply'"MaterialGraphNode_21.MaterialExpressionMultiply_10"')'
+[2019.10.23-01.46.33:917][465]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_38 or MaterialGraphNode /Engine/Transient.PreviewMaterial_5:MaterialGraph_0.MaterialGraphNode_38
+[2019.10.23-01.46.33:917][465]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionMultiply'"MaterialGraphNode_38.MaterialExpressionMultiply_9"')'
+[2019.10.23-01.46.33:917][465]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_26 or MaterialGraphNode /Engine/Transient.PreviewMaterial_5:MaterialGraph_0.MaterialGraphNode_26
+[2019.10.23-01.46.33:917][465]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionClamp'"MaterialGraphNode_26.MaterialExpressionClamp_5"')'
+[2019.10.23-01.46.33:918][465]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.landscapestuff:MaterialGraph_0.MaterialGraphNode_3 or MaterialGraphNode /Engine/Transient.PreviewMaterial_5:MaterialGraph_0.MaterialGraphNode_3
+[2019.10.23-01.46.33:918][465]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.landscapestuff:MaterialGraph_0.MaterialGraphNode_3 or MaterialGraphNode /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_3
+[2019.10.23-01.46.33:918][465]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionTextureSample'"MaterialGraphNode_3.MaterialExpressionTextureSample_10"',OutputIndex=2,Mask=1,MaskG=1)'
+[2019.10.23-01.46.33:918][465]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_36 or MaterialGraphNode /Engine/Transient.PreviewMaterial_5:MaterialGraph_0.MaterialGraphNode_36
+[2019.10.23-01.46.33:918][465]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionVectorParameter'"MaterialGraphNode_36.MaterialExpressionVectorParameter_6"',Mask=1,MaskR=1,MaskG=1,MaskB=1)'
+[2019.10.23-01.46.33:918][465]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_24 or MaterialGraphNode /Engine/Transient.PreviewMaterial_5:MaterialGraph_0.MaterialGraphNode_24
+[2019.10.23-01.46.33:918][465]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionMultiply'"MaterialGraphNode_24.MaterialExpressionMultiply_7"')'
+[2019.10.23-01.46.33:919][465]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_23 or MaterialGraphNode /Engine/Transient.PreviewMaterial_5:MaterialGraph_0.MaterialGraphNode_23
+[2019.10.23-01.46.33:919][465]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionTextureCoordinate'"MaterialGraphNode_23.MaterialExpressionTextureCoordinate_10"')'
+[2019.10.23-01.46.33:919][465]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_22 or MaterialGraphNode /Engine/Transient.PreviewMaterial_5:MaterialGraph_0.MaterialGraphNode_22
+[2019.10.23-01.46.33:919][465]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionTextureSample'"MaterialGraphNode_22.MaterialExpressionTextureSample_11"',OutputIndex=1,Mask=1,MaskR=1)'
+[2019.10.23-01.46.33:919][465]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_25 or MaterialGraphNode /Engine/Transient.PreviewMaterial_5:MaterialGraph_0.MaterialGraphNode_25
+[2019.10.23-01.46.33:920][465]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionLinearInterpolate'"MaterialGraphNode_25.MaterialExpressionLinearInterpolate_9"')'
+[2019.10.23-01.46.33:920][465]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_29 or MaterialGraphNode /Engine/Transient.PreviewMaterial_5:MaterialGraph_0.MaterialGraphNode_29
+[2019.10.23-01.46.33:921][465]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionTextureCoordinate'"MaterialGraphNode_29.MaterialExpressionTextureCoordinate_12"')'
+[2019.10.23-01.46.33:921][465]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_28 or MaterialGraphNode /Engine/Transient.PreviewMaterial_5:MaterialGraph_0.MaterialGraphNode_28
+[2019.10.23-01.46.33:921][465]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionTextureSample'"MaterialGraphNode_28.MaterialExpressionTextureSample_12"',Mask=1,MaskR=1,MaskG=1,MaskB=1)'
+[2019.10.23-01.46.33:921][465]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_37 or MaterialGraphNode /Engine/Transient.PreviewMaterial_5:MaterialGraph_0.MaterialGraphNode_37
+[2019.10.23-01.46.33:921][465]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionVectorParameter'"MaterialGraphNode_37.MaterialExpressionVectorParameter_7"',Mask=1,MaskR=1,MaskG=1,MaskB=1)'
+[2019.10.23-01.46.33:921][465]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_31 or MaterialGraphNode /Engine/Transient.PreviewMaterial_5:MaterialGraph_0.MaterialGraphNode_31
+[2019.10.23-01.46.33:921][465]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionConstant'"MaterialGraphNode_31.MaterialExpressionConstant_4"')'
+[2019.10.23-01.46.33:921][465]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_34 or MaterialGraphNode /Engine/Transient.PreviewMaterial_5:MaterialGraph_0.MaterialGraphNode_34
+[2019.10.23-01.46.33:921][465]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionMultiply'"MaterialGraphNode_34.MaterialExpressionMultiply_8"')'
+[2019.10.23-01.46.33:922][465]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_33 or MaterialGraphNode /Engine/Transient.PreviewMaterial_5:MaterialGraph_0.MaterialGraphNode_33
+[2019.10.23-01.46.33:922][465]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionTextureCoordinate'"MaterialGraphNode_33.MaterialExpressionTextureCoordinate_13"')'
+[2019.10.23-01.46.33:922][465]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_20 or MaterialGraphNode /Engine/Transient.PreviewMaterial_5:MaterialGraph_0.MaterialGraphNode_20
+[2019.10.23-01.46.33:922][465]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionLinearInterpolate'"MaterialGraphNode_20.MaterialExpressionLinearInterpolate_12"')'
+[2019.10.23-01.46.33:922][465]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_30 or MaterialGraphNode /Engine/Transient.PreviewMaterial_5:MaterialGraph_0.MaterialGraphNode_30
+[2019.10.23-01.46.33:922][465]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionLinearInterpolate'"MaterialGraphNode_30.MaterialExpressionLinearInterpolate_10"')'
+[2019.10.23-01.46.33:922][465]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_32 or MaterialGraphNode /Engine/Transient.PreviewMaterial_5:MaterialGraph_0.MaterialGraphNode_32
+[2019.10.23-01.46.33:922][465]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionTextureSample'"MaterialGraphNode_32.MaterialExpressionTextureSample_13"',OutputIndex=1,Mask=1,MaskR=1)'
+[2019.10.23-01.46.33:923][465]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.landscapestuff:MaterialGraph_0.MaterialGraphNode_3 or MaterialGraphNode /Engine/Transient.PreviewMaterial_5:MaterialGraph_0.MaterialGraphNode_3
+[2019.10.23-01.46.33:923][465]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.landscapestuff:MaterialGraph_0.MaterialGraphNode_3 or MaterialGraphNode /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_3
+[2019.10.23-01.46.33:923][465]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionTextureSample'"MaterialGraphNode_3.MaterialExpressionTextureSample_10"',Mask=1,MaskR=1,MaskG=1,MaskB=1)'
+[2019.10.23-01.46.33:923][465]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_39 or MaterialGraphNode /Engine/Transient.PreviewMaterial_5:MaterialGraph_0.MaterialGraphNode_39
+[2019.10.23-01.46.33:923][465]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionVectorParameter'"MaterialGraphNode_39.MaterialExpressionVectorParameter_8"',Mask=1,MaskR=1,MaskG=1,MaskB=1)'
+[2019.10.23-01.46.33:986][465]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_5, compiling. 
+[2019.10.23-01.46.34:004][465]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_10, compiling. 
+[2019.10.23-01.46.34:010][465]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_29, compiling. 
+[2019.10.23-01.46.34:016][465]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_30, compiling. 
+[2019.10.23-01.46.34:022][465]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_9, compiling. 
+[2019.10.23-01.46.34:031][465]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_11, compiling. 
+[2019.10.23-01.46.34:039][465]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_12, compiling. 
+[2019.10.23-01.46.34:045][465]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_13, compiling. 
+[2019.10.23-01.46.34:051][465]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_6, compiling. 
+[2019.10.23-01.46.34:058][465]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_7, compiling. 
+[2019.10.23-01.46.34:065][465]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_8, compiling. 
+[2019.10.23-01.46.37:135][539]LogEditorTransaction: Undo Material Editor: Paste
+[2019.10.23-01.46.37:142][539]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_5, compiling. 
+[2019.10.23-01.46.37:204][539]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_5, compiling. 
+[2019.10.23-01.46.37:230][539]LogMaterial: Display: Missing cached shader map for material M_Ground_Grass, compiling. 
+[2019.10.23-01.46.37:254][539]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_10, compiling. 
+[2019.10.23-01.46.37:286][539]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_29, compiling. 
+[2019.10.23-01.46.37:317][539]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_30, compiling. 
+[2019.10.23-01.46.37:351][539]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_9, compiling. 
+[2019.10.23-01.46.37:385][539]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_11, compiling. 
+[2019.10.23-01.46.37:419][539]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_12, compiling. 
+[2019.10.23-01.46.37:455][539]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_13, compiling. 
+[2019.10.23-01.46.37:489][539]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_6, compiling. 
+[2019.10.23-01.46.37:522][539]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_7, compiling. 
+[2019.10.23-01.46.37:555][539]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_8, compiling. 
+[2019.10.23-01.46.39:203][577]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.PreviewMaterial_5:MaterialGraph_0.MaterialGraphNode_0 or MaterialGraphNode /Engine/Transient.PreviewMaterial_5:MaterialGraph_0.MaterialGraphNode_0
+[2019.10.23-01.46.39:203][577]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.PreviewMaterial_5:MaterialGraph_0.MaterialGraphNode_1 or MaterialGraphNode /Engine/Transient.PreviewMaterial_5:MaterialGraph_0.MaterialGraphNode_1
+[2019.10.23-01.46.39:203][577]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.PreviewMaterial_5:MaterialGraph_0.MaterialGraphNode_2 or MaterialGraphNode /Engine/Transient.PreviewMaterial_5:MaterialGraph_0.MaterialGraphNode_2
+[2019.10.23-01.46.39:203][577]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.PreviewMaterial_5:MaterialGraph_0.MaterialGraphNode_3 or MaterialGraphNode /Engine/Transient.PreviewMaterial_5:MaterialGraph_0.MaterialGraphNode_3
+[2019.10.23-01.46.39:203][577]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.PreviewMaterial_5:MaterialGraph_0.MaterialGraphNode_4 or MaterialGraphNode /Engine/Transient.PreviewMaterial_5:MaterialGraph_0.MaterialGraphNode_4
+[2019.10.23-01.46.39:206][577]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_20 or MaterialGraphNode /Engine/Transient.PreviewMaterial_5:MaterialGraph_0.MaterialGraphNode_20
+[2019.10.23-01.46.39:206][577]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionLinearInterpolate'"MaterialGraphNode_20.MaterialExpressionLinearInterpolate_12"')'
+[2019.10.23-01.46.39:207][577]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_35 or MaterialGraphNode /Engine/Transient.PreviewMaterial_5:MaterialGraph_0.MaterialGraphNode_35
+[2019.10.23-01.46.39:207][577]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionLinearInterpolate'"MaterialGraphNode_35.MaterialExpressionLinearInterpolate_11"')'
+[2019.10.23-01.46.39:207][577]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.landscapestuff:MaterialGraph_0.MaterialGraphNode_10 or MaterialGraphNode /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_10
+[2019.10.23-01.46.39:207][577]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.landscapestuff:MaterialGraph_0.MaterialGraphNode_10 or MaterialGraphNode /Engine/Transient.PreviewMaterial_5:MaterialGraph_0.MaterialGraphNode_10
+[2019.10.23-01.46.39:207][577]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionClamp'"MaterialGraphNode_10.MaterialExpressionClamp_6"')'
+[2019.10.23-01.46.39:207][577]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_19 or MaterialGraphNode /Engine/Transient.PreviewMaterial_5:MaterialGraph_0.MaterialGraphNode_19
+[2019.10.23-01.46.39:208][577]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionConstant3Vector'"MaterialGraphNode_19.MaterialExpressionConstant3Vector_9"')'
+[2019.10.23-01.46.39:208][577]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.landscapestuff:MaterialGraph_0.MaterialGraphNode_10 or MaterialGraphNode /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_10
+[2019.10.23-01.46.39:208][577]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.landscapestuff:MaterialGraph_0.MaterialGraphNode_10 or MaterialGraphNode /Engine/Transient.PreviewMaterial_5:MaterialGraph_0.MaterialGraphNode_10
+[2019.10.23-01.46.39:208][577]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionClamp'"MaterialGraphNode_10.MaterialExpressionClamp_6"')'
+[2019.10.23-01.46.39:208][577]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_27 or MaterialGraphNode /Engine/Transient.PreviewMaterial_5:MaterialGraph_0.MaterialGraphNode_27
+[2019.10.23-01.46.39:208][577]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionTextureCoordinate'"MaterialGraphNode_27.MaterialExpressionTextureCoordinate_11"')'
+[2019.10.23-01.46.39:208][577]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_27 or MaterialGraphNode /Engine/Transient.PreviewMaterial_5:MaterialGraph_0.MaterialGraphNode_27
+[2019.10.23-01.46.39:208][577]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionTextureCoordinate'"MaterialGraphNode_27.MaterialExpressionTextureCoordinate_11"')'
+[2019.10.23-01.46.39:209][577]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_15 or MaterialGraphNode /Engine/Transient.PreviewMaterial_5:MaterialGraph_0.MaterialGraphNode_15
+[2019.10.23-01.46.39:209][577]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionAdd'"MaterialGraphNode_15.MaterialExpressionAdd_24"')'
+[2019.10.23-01.46.39:209][577]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.landscapestuff:MaterialGraph_0.MaterialGraphNode_6 or MaterialGraphNode /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_6
+[2019.10.23-01.46.39:209][577]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.landscapestuff:MaterialGraph_0.MaterialGraphNode_6 or MaterialGraphNode /Engine/Transient.PreviewMaterial_5:MaterialGraph_0.MaterialGraphNode_6
+[2019.10.23-01.46.39:209][577]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionConstant'"MaterialGraphNode_6.MaterialExpressionConstant_48"')'
+[2019.10.23-01.46.39:210][577]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.landscapestuff:MaterialGraph_0.MaterialGraphNode_7 or MaterialGraphNode /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_7
+[2019.10.23-01.46.39:210][577]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.landscapestuff:MaterialGraph_0.MaterialGraphNode_7 or MaterialGraphNode /Engine/Transient.PreviewMaterial_5:MaterialGraph_0.MaterialGraphNode_7
+[2019.10.23-01.46.39:210][577]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionSubtract'"MaterialGraphNode_7.MaterialExpressionSubtract_6"')'
+[2019.10.23-01.46.39:210][577]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.landscapestuff:MaterialGraph_0.MaterialGraphNode_9 or MaterialGraphNode /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_9
+[2019.10.23-01.46.39:210][577]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.landscapestuff:MaterialGraph_0.MaterialGraphNode_9 or MaterialGraphNode /Engine/Transient.PreviewMaterial_5:MaterialGraph_0.MaterialGraphNode_9
+[2019.10.23-01.46.39:210][577]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionConstant'"MaterialGraphNode_9.MaterialExpressionConstant_49"')'
+[2019.10.23-01.46.39:210][577]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.landscapestuff:MaterialGraph_0.MaterialGraphNode_8 or MaterialGraphNode /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_8
+[2019.10.23-01.46.39:210][577]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.landscapestuff:MaterialGraph_0.MaterialGraphNode_8 or MaterialGraphNode /Engine/Transient.PreviewMaterial_5:MaterialGraph_0.MaterialGraphNode_8
+[2019.10.23-01.46.39:210][577]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionDivide'"MaterialGraphNode_8.MaterialExpressionDivide_6"')'
+[2019.10.23-01.46.39:211][577]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_17 or MaterialGraphNode /Engine/Transient.PreviewMaterial_5:MaterialGraph_0.MaterialGraphNode_17
+[2019.10.23-01.46.39:211][577]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionMultiply'"MaterialGraphNode_17.MaterialExpressionMultiply_51"')'
+[2019.10.23-01.46.39:211][577]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.landscapestuff:MaterialGraph_0.MaterialGraphNode_13 or MaterialGraphNode /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_13
+[2019.10.23-01.46.39:211][577]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.landscapestuff:MaterialGraph_0.MaterialGraphNode_13 or MaterialGraphNode /Engine/Transient.PreviewMaterial_5:MaterialGraph_0.MaterialGraphNode_13
+[2019.10.23-01.46.39:211][577]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionConstant'"MaterialGraphNode_13.MaterialExpressionConstant_50"')'
+[2019.10.23-01.46.39:211][577]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.landscapestuff:MaterialGraph_0.MaterialGraphNode_14 or MaterialGraphNode /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_14
+[2019.10.23-01.46.39:211][577]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.landscapestuff:MaterialGraph_0.MaterialGraphNode_14 or MaterialGraphNode /Engine/Transient.PreviewMaterial_5:MaterialGraph_0.MaterialGraphNode_14
+[2019.10.23-01.46.39:211][577]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionConstant'"MaterialGraphNode_14.MaterialExpressionConstant_51"')'
+[2019.10.23-01.46.39:211][577]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.landscapestuff:MaterialGraph_0.MaterialGraphNode_11 or MaterialGraphNode /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_11
+[2019.10.23-01.46.39:211][577]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.landscapestuff:MaterialGraph_0.MaterialGraphNode_11 or MaterialGraphNode /Engine/Transient.PreviewMaterial_5:MaterialGraph_0.MaterialGraphNode_11
+[2019.10.23-01.46.39:211][577]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionTextureSample'"MaterialGraphNode_11.MaterialExpressionTextureSample_30"',OutputIndex=1,Mask=1,MaskR=1)'
+[2019.10.23-01.46.39:212][577]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.landscapestuff:MaterialGraph_0.MaterialGraphNode_12 or MaterialGraphNode /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_12
+[2019.10.23-01.46.39:212][577]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.landscapestuff:MaterialGraph_0.MaterialGraphNode_12 or MaterialGraphNode /Engine/Transient.PreviewMaterial_5:MaterialGraph_0.MaterialGraphNode_12
+[2019.10.23-01.46.39:212][577]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionLinearInterpolate'"MaterialGraphNode_12.MaterialExpressionLinearInterpolate_28"')'
+[2019.10.23-01.46.39:212][577]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.landscapestuff:MaterialGraph_0.MaterialGraphNode_5 or MaterialGraphNode /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_5
+[2019.10.23-01.46.39:212][577]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.landscapestuff:MaterialGraph_0.MaterialGraphNode_5 or MaterialGraphNode /Engine/Transient.PreviewMaterial_5:MaterialGraph_0.MaterialGraphNode_5
+[2019.10.23-01.46.39:212][577]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionPixelDepth'"MaterialGraphNode_5.MaterialExpressionPixelDepth_6"',Mask=1,MaskR=1)'
+[2019.10.23-01.46.39:213][577]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_16 or MaterialGraphNode /Engine/Transient.PreviewMaterial_5:MaterialGraph_0.MaterialGraphNode_16
+[2019.10.23-01.46.39:213][577]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionTextureCoordinate'"MaterialGraphNode_16.MaterialExpressionTextureCoordinate_24"')'
+[2019.10.23-01.46.39:213][577]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_18 or MaterialGraphNode /Engine/Transient.PreviewMaterial_5:MaterialGraph_0.MaterialGraphNode_18
+[2019.10.23-01.46.39:213][577]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionConstant'"MaterialGraphNode_18.MaterialExpressionConstant_52"')'
+[2019.10.23-01.46.39:213][577]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_21 or MaterialGraphNode /Engine/Transient.PreviewMaterial_5:MaterialGraph_0.MaterialGraphNode_21
+[2019.10.23-01.46.39:213][577]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionMultiply'"MaterialGraphNode_21.MaterialExpressionMultiply_10"')'
+[2019.10.23-01.46.39:213][577]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_38 or MaterialGraphNode /Engine/Transient.PreviewMaterial_5:MaterialGraph_0.MaterialGraphNode_38
+[2019.10.23-01.46.39:213][577]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionMultiply'"MaterialGraphNode_38.MaterialExpressionMultiply_9"')'
+[2019.10.23-01.46.39:213][577]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_26 or MaterialGraphNode /Engine/Transient.PreviewMaterial_5:MaterialGraph_0.MaterialGraphNode_26
+[2019.10.23-01.46.39:213][577]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionClamp'"MaterialGraphNode_26.MaterialExpressionClamp_5"')'
+[2019.10.23-01.46.39:214][577]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.landscapestuff:MaterialGraph_0.MaterialGraphNode_3 or MaterialGraphNode /Engine/Transient.PreviewMaterial_5:MaterialGraph_0.MaterialGraphNode_3
+[2019.10.23-01.46.39:214][577]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.landscapestuff:MaterialGraph_0.MaterialGraphNode_3 or MaterialGraphNode /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_3
+[2019.10.23-01.46.39:214][577]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionTextureSample'"MaterialGraphNode_3.MaterialExpressionTextureSample_10"',OutputIndex=2,Mask=1,MaskG=1)'
+[2019.10.23-01.46.39:214][577]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_36 or MaterialGraphNode /Engine/Transient.PreviewMaterial_5:MaterialGraph_0.MaterialGraphNode_36
+[2019.10.23-01.46.39:214][577]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionVectorParameter'"MaterialGraphNode_36.MaterialExpressionVectorParameter_6"',Mask=1,MaskR=1,MaskG=1,MaskB=1)'
+[2019.10.23-01.46.39:214][577]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_24 or MaterialGraphNode /Engine/Transient.PreviewMaterial_5:MaterialGraph_0.MaterialGraphNode_24
+[2019.10.23-01.46.39:214][577]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionMultiply'"MaterialGraphNode_24.MaterialExpressionMultiply_7"')'
+[2019.10.23-01.46.39:215][577]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_23 or MaterialGraphNode /Engine/Transient.PreviewMaterial_5:MaterialGraph_0.MaterialGraphNode_23
+[2019.10.23-01.46.39:215][577]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionTextureCoordinate'"MaterialGraphNode_23.MaterialExpressionTextureCoordinate_10"')'
+[2019.10.23-01.46.39:215][577]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_22 or MaterialGraphNode /Engine/Transient.PreviewMaterial_5:MaterialGraph_0.MaterialGraphNode_22
+[2019.10.23-01.46.39:215][577]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionTextureSample'"MaterialGraphNode_22.MaterialExpressionTextureSample_11"',OutputIndex=1,Mask=1,MaskR=1)'
+[2019.10.23-01.46.39:216][577]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_25 or MaterialGraphNode /Engine/Transient.PreviewMaterial_5:MaterialGraph_0.MaterialGraphNode_25
+[2019.10.23-01.46.39:216][577]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionLinearInterpolate'"MaterialGraphNode_25.MaterialExpressionLinearInterpolate_9"')'
+[2019.10.23-01.46.39:216][577]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_29 or MaterialGraphNode /Engine/Transient.PreviewMaterial_5:MaterialGraph_0.MaterialGraphNode_29
+[2019.10.23-01.46.39:216][577]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionTextureCoordinate'"MaterialGraphNode_29.MaterialExpressionTextureCoordinate_12"')'
+[2019.10.23-01.46.39:217][577]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_28 or MaterialGraphNode /Engine/Transient.PreviewMaterial_5:MaterialGraph_0.MaterialGraphNode_28
+[2019.10.23-01.46.39:217][577]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionTextureSample'"MaterialGraphNode_28.MaterialExpressionTextureSample_12"',Mask=1,MaskR=1,MaskG=1,MaskB=1)'
+[2019.10.23-01.46.39:217][577]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_37 or MaterialGraphNode /Engine/Transient.PreviewMaterial_5:MaterialGraph_0.MaterialGraphNode_37
+[2019.10.23-01.46.39:217][577]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionVectorParameter'"MaterialGraphNode_37.MaterialExpressionVectorParameter_7"',Mask=1,MaskR=1,MaskG=1,MaskB=1)'
+[2019.10.23-01.46.39:217][577]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_31 or MaterialGraphNode /Engine/Transient.PreviewMaterial_5:MaterialGraph_0.MaterialGraphNode_31
+[2019.10.23-01.46.39:217][577]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionConstant'"MaterialGraphNode_31.MaterialExpressionConstant_4"')'
+[2019.10.23-01.46.39:218][577]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_34 or MaterialGraphNode /Engine/Transient.PreviewMaterial_5:MaterialGraph_0.MaterialGraphNode_34
+[2019.10.23-01.46.39:218][577]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionMultiply'"MaterialGraphNode_34.MaterialExpressionMultiply_8"')'
+[2019.10.23-01.46.39:219][577]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_33 or MaterialGraphNode /Engine/Transient.PreviewMaterial_5:MaterialGraph_0.MaterialGraphNode_33
+[2019.10.23-01.46.39:219][577]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionTextureCoordinate'"MaterialGraphNode_33.MaterialExpressionTextureCoordinate_13"')'
+[2019.10.23-01.46.39:219][577]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_20 or MaterialGraphNode /Engine/Transient.PreviewMaterial_5:MaterialGraph_0.MaterialGraphNode_20
+[2019.10.23-01.46.39:219][577]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionLinearInterpolate'"MaterialGraphNode_20.MaterialExpressionLinearInterpolate_12"')'
+[2019.10.23-01.46.39:219][577]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_30 or MaterialGraphNode /Engine/Transient.PreviewMaterial_5:MaterialGraph_0.MaterialGraphNode_30
+[2019.10.23-01.46.39:219][577]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionLinearInterpolate'"MaterialGraphNode_30.MaterialExpressionLinearInterpolate_10"')'
+[2019.10.23-01.46.39:219][577]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_32 or MaterialGraphNode /Engine/Transient.PreviewMaterial_5:MaterialGraph_0.MaterialGraphNode_32
+[2019.10.23-01.46.39:219][577]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionTextureSample'"MaterialGraphNode_32.MaterialExpressionTextureSample_13"',OutputIndex=1,Mask=1,MaskR=1)'
+[2019.10.23-01.46.39:219][577]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.landscapestuff:MaterialGraph_0.MaterialGraphNode_3 or MaterialGraphNode /Engine/Transient.PreviewMaterial_5:MaterialGraph_0.MaterialGraphNode_3
+[2019.10.23-01.46.39:219][577]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.landscapestuff:MaterialGraph_0.MaterialGraphNode_3 or MaterialGraphNode /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_3
+[2019.10.23-01.46.39:220][577]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionTextureSample'"MaterialGraphNode_3.MaterialExpressionTextureSample_10"',Mask=1,MaskR=1,MaskG=1,MaskB=1)'
+[2019.10.23-01.46.39:220][577]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_39 or MaterialGraphNode /Engine/Transient.PreviewMaterial_5:MaterialGraph_0.MaterialGraphNode_39
+[2019.10.23-01.46.39:220][577]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionVectorParameter'"MaterialGraphNode_39.MaterialExpressionVectorParameter_8"',Mask=1,MaskR=1,MaskG=1,MaskB=1)'
+[2019.10.23-01.46.39:256][577]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_5, compiling. 
+[2019.10.23-01.46.39:326][577]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_10, compiling. 
+[2019.10.23-01.46.39:332][577]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_29, compiling. 
+[2019.10.23-01.46.39:337][577]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_30, compiling. 
+[2019.10.23-01.46.39:343][577]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_9, compiling. 
+[2019.10.23-01.46.39:348][577]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_11, compiling. 
+[2019.10.23-01.46.39:354][577]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_12, compiling. 
+[2019.10.23-01.46.39:360][577]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_13, compiling. 
+[2019.10.23-01.46.39:366][577]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_6, compiling. 
+[2019.10.23-01.46.39:372][577]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_7, compiling. 
+[2019.10.23-01.46.39:378][577]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_8, compiling. 
+[2019.10.23-01.47.05:507][208]MaterialEditorStats: Base pass shader: 132 instructions
+[2019.10.23-01.47.05:507][208]MaterialEditorStats: Base pass shader with Surface Lightmap: 154 instructions
+[2019.10.23-01.47.05:507][208]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 200 instructions
+[2019.10.23-01.47.05:507][208]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2019.10.23-01.47.05:507][208]MaterialEditorStats: Texture samplers: 7/16
+[2019.10.23-01.47.05:507][208]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(6)
+[2019.10.23-01.47.05:507][208]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.10.23-01.47.15:156][441]MaterialEditorStats: Base pass shader: 107 instructions
+[2019.10.23-01.47.15:156][441]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2019.10.23-01.47.15:156][441]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.10.23-01.47.15:156][441]MaterialEditorStats: Texture samplers: 3/16
+[2019.10.23-01.51.15:218][344]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_5, compiling. 
+[2019.10.23-01.51.15:238][344]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_30, compiling. 
+[2019.10.23-01.51.15:272][344]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_9, compiling. 
+[2019.10.23-01.51.15:306][344]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_11, compiling. 
+[2019.10.23-01.51.15:340][344]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_12, compiling. 
+[2019.10.23-01.51.15:373][344]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_13, compiling. 
+[2019.10.23-01.51.15:405][344]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_6, compiling. 
+[2019.10.23-01.51.15:441][344]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_7, compiling. 
+[2019.10.23-01.51.15:472][344]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_8, compiling. 
+[2019.10.23-01.51.21:465][492]MaterialEditorStats: Base pass shader: 107 instructions
+[2019.10.23-01.51.21:465][492]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2019.10.23-01.51.21:465][492]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.10.23-01.51.21:465][492]MaterialEditorStats: Texture samplers: 3/16
+[2019.10.23-01.51.29:365][617]LogAssetEditorManager: Opening Asset editor for Material /Game/StarterContent/Materials/M_Ground_Moss.M_Ground_Moss
+[2019.10.23-01.51.29:369][617]LogMaterial: Display: Missing cached shader map for material M_Ground_Moss, compiling. 
+[2019.10.23-01.51.29:436][617]LogMaterial: Display: Missing cached shader map for material M_Ground_Moss, compiling. 
+[2019.10.23-01.51.29:456][617]LogMaterial: Display: Missing cached shader map for material M_Ground_Moss, compiling. 
+[2019.10.23-01.51.29:502][617]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2019.10.23-01.51.29:510][617]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_4, compiling. 
+[2019.10.23-01.51.29:518][617]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_12, compiling. 
+[2019.10.23-01.51.29:526][617]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_5, compiling. 
+[2019.10.23-01.51.29:532][617]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_13, compiling. 
+[2019.10.23-01.51.29:542][617]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_14, compiling. 
+[2019.10.23-01.51.29:550][617]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_15, compiling. 
+[2019.10.23-01.51.39:046][841]MaterialEditorStats: Base pass shader: 148 instructions
+[2019.10.23-01.51.39:046][841]MaterialEditorStats: Base pass shader with Surface Lightmap: 176 instructions
+[2019.10.23-01.51.39:046][841]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 222 instructions
+[2019.10.23-01.51.39:046][841]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2019.10.23-01.51.39:046][841]MaterialEditorStats: Texture samplers: 7/16
+[2019.10.23-01.51.39:046][841]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(6)
+[2019.10.23-01.51.39:046][841]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.10.23-01.52.53:314][670]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.landscapestuff:MaterialGraph_0.MaterialGraphNode_11 or MaterialGraphNode /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_11
+[2019.10.23-01.52.53:314][670]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.landscapestuff:MaterialGraph_0.MaterialGraphNode_11 or MaterialGraphNode /Engine/Transient.PreviewMaterial_5:MaterialGraph_0.MaterialGraphNode_11
+[2019.10.23-01.52.53:314][670]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.landscapestuff:MaterialGraph_0.MaterialGraphNode_11 or MaterialGraphNode /Engine/Transient.M_Ground_Moss:MaterialGraph_0.MaterialGraphNode_11
+[2019.10.23-01.52.53:314][670]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionMultiply'"MaterialGraphNode_11.MaterialExpressionMultiply_2"')'
+[2019.10.23-01.52.53:314][670]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.landscapestuff:MaterialGraph_0.MaterialGraphNode_9 or MaterialGraphNode /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_9
+[2019.10.23-01.52.53:314][670]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.landscapestuff:MaterialGraph_0.MaterialGraphNode_9 or MaterialGraphNode /Engine/Transient.PreviewMaterial_5:MaterialGraph_0.MaterialGraphNode_9
+[2019.10.23-01.52.53:314][670]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.landscapestuff:MaterialGraph_0.MaterialGraphNode_9 or MaterialGraphNode /Engine/Transient.M_Ground_Moss:MaterialGraph_0.MaterialGraphNode_9
+[2019.10.23-01.52.53:314][670]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionPower'"MaterialGraphNode_9.MaterialExpressionPower_0"')'
+[2019.10.23-01.52.53:314][670]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.landscapestuff:MaterialGraph_0.MaterialGraphNode_7 or MaterialGraphNode /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_7
+[2019.10.23-01.52.53:314][670]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.landscapestuff:MaterialGraph_0.MaterialGraphNode_7 or MaterialGraphNode /Engine/Transient.PreviewMaterial_5:MaterialGraph_0.MaterialGraphNode_7
+[2019.10.23-01.52.53:314][670]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.landscapestuff:MaterialGraph_0.MaterialGraphNode_7 or MaterialGraphNode /Engine/Transient.M_Ground_Moss:MaterialGraph_0.MaterialGraphNode_7
+[2019.10.23-01.52.53:314][670]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionFresnel'"MaterialGraphNode_7.MaterialExpressionFresnel_0"')'
+[2019.10.23-01.52.53:315][670]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.landscapestuff:MaterialGraph_0.MaterialGraphNode_5 or MaterialGraphNode /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_5
+[2019.10.23-01.52.53:315][670]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.landscapestuff:MaterialGraph_0.MaterialGraphNode_5 or MaterialGraphNode /Engine/Transient.PreviewMaterial_5:MaterialGraph_0.MaterialGraphNode_5
+[2019.10.23-01.52.53:315][670]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.landscapestuff:MaterialGraph_0.MaterialGraphNode_5 or MaterialGraphNode /Engine/Transient.M_Ground_Moss:MaterialGraph_0.MaterialGraphNode_5
+[2019.10.23-01.52.53:315][670]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionConstant'"MaterialGraphNode_5.MaterialExpressionConstant_2"')'
+[2019.10.23-01.52.53:315][670]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.landscapestuff:MaterialGraph_0.MaterialGraphNode_6 or MaterialGraphNode /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_6
+[2019.10.23-01.52.53:315][670]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.landscapestuff:MaterialGraph_0.MaterialGraphNode_6 or MaterialGraphNode /Engine/Transient.PreviewMaterial_5:MaterialGraph_0.MaterialGraphNode_6
+[2019.10.23-01.52.53:315][670]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.landscapestuff:MaterialGraph_0.MaterialGraphNode_6 or MaterialGraphNode /Engine/Transient.M_Ground_Moss:MaterialGraph_0.MaterialGraphNode_6
+[2019.10.23-01.52.53:315][670]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionConstant'"MaterialGraphNode_6.MaterialExpressionConstant_3"')'
+[2019.10.23-01.52.53:315][670]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.M_Ground_Moss:MaterialGraph_0.MaterialGraphNode_43 or MaterialGraphNode /Engine/Transient.PreviewMaterial_5:MaterialGraph_0.MaterialGraphNode_43
+[2019.10.23-01.52.53:315][670]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionMultiply'"MaterialGraphNode_43.MaterialExpressionMultiply_30"')'
+[2019.10.23-01.52.53:315][670]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.landscapestuff:MaterialGraph_0.MaterialGraphNode_4 or MaterialGraphNode /Engine/Transient.PreviewMaterial_5:MaterialGraph_0.MaterialGraphNode_4
+[2019.10.23-01.52.53:315][670]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.landscapestuff:MaterialGraph_0.MaterialGraphNode_4 or MaterialGraphNode /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_4
+[2019.10.23-01.52.53:315][670]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.landscapestuff:MaterialGraph_0.MaterialGraphNode_4 or MaterialGraphNode /Engine/Transient.M_Ground_Moss:MaterialGraph_0.MaterialGraphNode_4
+[2019.10.23-01.52.53:315][670]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionTextureSample'"MaterialGraphNode_4.MaterialExpressionTextureSample_4"',Mask=1,MaskR=1,MaskG=1,MaskB=1)'
+[2019.10.23-01.52.53:316][670]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_28 or MaterialGraphNode /Engine/Transient.PreviewMaterial_5:MaterialGraph_0.MaterialGraphNode_28
+[2019.10.23-01.52.53:316][670]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_28 or MaterialGraphNode /Engine/Transient.M_Ground_Moss:MaterialGraph_0.MaterialGraphNode_28
+[2019.10.23-01.52.53:316][670]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionConstant3Vector'"MaterialGraphNode_28.MaterialExpressionConstant3Vector_5"')'
+[2019.10.23-01.52.53:316][670]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_19 or MaterialGraphNode /Engine/Transient.PreviewMaterial_5:MaterialGraph_0.MaterialGraphNode_19
+[2019.10.23-01.52.53:316][670]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_19 or MaterialGraphNode /Engine/Transient.M_Ground_Moss:MaterialGraph_0.MaterialGraphNode_19
+[2019.10.23-01.52.53:316][670]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionClamp'"MaterialGraphNode_19.MaterialExpressionClamp_3"')'
+[2019.10.23-01.52.53:317][670]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.landscapestuff:MaterialGraph_0.MaterialGraphNode_10 or MaterialGraphNode /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_10
+[2019.10.23-01.52.53:317][670]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.landscapestuff:MaterialGraph_0.MaterialGraphNode_10 or MaterialGraphNode /Engine/Transient.PreviewMaterial_5:MaterialGraph_0.MaterialGraphNode_10
+[2019.10.23-01.52.53:317][670]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.landscapestuff:MaterialGraph_0.MaterialGraphNode_10 or MaterialGraphNode /Engine/Transient.M_Ground_Moss:MaterialGraph_0.MaterialGraphNode_10
+[2019.10.23-01.52.53:317][670]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionConstant'"MaterialGraphNode_10.MaterialExpressionConstant_1"')'
+[2019.10.23-01.52.53:317][670]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.landscapestuff:MaterialGraph_0.MaterialGraphNode_8 or MaterialGraphNode /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_8
+[2019.10.23-01.52.53:317][670]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.landscapestuff:MaterialGraph_0.MaterialGraphNode_8 or MaterialGraphNode /Engine/Transient.PreviewMaterial_5:MaterialGraph_0.MaterialGraphNode_8
+[2019.10.23-01.52.53:317][670]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.landscapestuff:MaterialGraph_0.MaterialGraphNode_8 or MaterialGraphNode /Engine/Transient.M_Ground_Moss:MaterialGraph_0.MaterialGraphNode_8
+[2019.10.23-01.52.53:317][670]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionVertexNormalWS'"MaterialGraphNode_8.MaterialExpressionVertexNormalWS_0"')'
+[2019.10.23-01.52.53:318][670]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.M_Ground_Moss:MaterialGraph_0.MaterialGraphNode_44 or MaterialGraphNode /Engine/Transient.PreviewMaterial_5:MaterialGraph_0.MaterialGraphNode_44
+[2019.10.23-01.52.53:318][670]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionMultiply'"MaterialGraphNode_44.MaterialExpressionMultiply_31"')'
+[2019.10.23-01.52.53:318][670]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.landscapestuff:MaterialGraph_0.MaterialGraphNode_13 or MaterialGraphNode /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_13
+[2019.10.23-01.52.53:318][670]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.landscapestuff:MaterialGraph_0.MaterialGraphNode_13 or MaterialGraphNode /Engine/Transient.PreviewMaterial_5:MaterialGraph_0.MaterialGraphNode_13
+[2019.10.23-01.52.53:318][670]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.landscapestuff:MaterialGraph_0.MaterialGraphNode_13 or MaterialGraphNode /Engine/Transient.M_Ground_Moss:MaterialGraph_0.MaterialGraphNode_13
+[2019.10.23-01.52.53:318][670]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionConstant'"MaterialGraphNode_13.MaterialExpressionConstant_9"')'
+[2019.10.23-01.52.53:318][670]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.M_Ground_Moss:MaterialGraph_0.MaterialGraphNode_44 or MaterialGraphNode /Engine/Transient.PreviewMaterial_5:MaterialGraph_0.MaterialGraphNode_44
+[2019.10.23-01.52.53:318][670]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionMultiply'"MaterialGraphNode_44.MaterialExpressionMultiply_31"')'
+[2019.10.23-01.52.53:318][670]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.landscapestuff:MaterialGraph_0.MaterialGraphNode_12 or MaterialGraphNode /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_12
+[2019.10.23-01.52.53:318][670]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.landscapestuff:MaterialGraph_0.MaterialGraphNode_12 or MaterialGraphNode /Engine/Transient.PreviewMaterial_5:MaterialGraph_0.MaterialGraphNode_12
+[2019.10.23-01.52.53:318][670]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.landscapestuff:MaterialGraph_0.MaterialGraphNode_12 or MaterialGraphNode /Engine/Transient.M_Ground_Moss:MaterialGraph_0.MaterialGraphNode_12
+[2019.10.23-01.52.53:319][670]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionConstant'"MaterialGraphNode_12.MaterialExpressionConstant_4"')'
+[2019.10.23-01.52.53:319][670]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_24 or MaterialGraphNode /Engine/Transient.PreviewMaterial_5:MaterialGraph_0.MaterialGraphNode_24
+[2019.10.23-01.52.53:319][670]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_24 or MaterialGraphNode /Engine/Transient.M_Ground_Moss:MaterialGraph_0.MaterialGraphNode_24
+[2019.10.23-01.52.53:319][670]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionAdd'"MaterialGraphNode_24.MaterialExpressionAdd_12"')'
+[2019.10.23-01.52.53:319][670]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_15 or MaterialGraphNode /Engine/Transient.PreviewMaterial_5:MaterialGraph_0.MaterialGraphNode_15
+[2019.10.23-01.52.53:319][670]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_15 or MaterialGraphNode /Engine/Transient.M_Ground_Moss:MaterialGraph_0.MaterialGraphNode_15
+[2019.10.23-01.52.53:319][670]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionConstant'"MaterialGraphNode_15.MaterialExpressionConstant_18"')'
+[2019.10.23-01.52.53:320][670]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_16 or MaterialGraphNode /Engine/Transient.PreviewMaterial_5:MaterialGraph_0.MaterialGraphNode_16
+[2019.10.23-01.52.53:320][670]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_16 or MaterialGraphNode /Engine/Transient.M_Ground_Moss:MaterialGraph_0.MaterialGraphNode_16
+[2019.10.23-01.52.53:320][670]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionSubtract'"MaterialGraphNode_16.MaterialExpressionSubtract_3"')'
+[2019.10.23-01.52.53:320][670]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_18 or MaterialGraphNode /Engine/Transient.PreviewMaterial_5:MaterialGraph_0.MaterialGraphNode_18
+[2019.10.23-01.52.53:320][670]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_18 or MaterialGraphNode /Engine/Transient.M_Ground_Moss:MaterialGraph_0.MaterialGraphNode_18
+[2019.10.23-01.52.53:320][670]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionConstant'"MaterialGraphNode_18.MaterialExpressionConstant_19"')'
+[2019.10.23-01.52.53:320][670]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_17 or MaterialGraphNode /Engine/Transient.PreviewMaterial_5:MaterialGraph_0.MaterialGraphNode_17
+[2019.10.23-01.52.53:320][670]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_17 or MaterialGraphNode /Engine/Transient.M_Ground_Moss:MaterialGraph_0.MaterialGraphNode_17
+[2019.10.23-01.52.53:320][670]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionDivide'"MaterialGraphNode_17.MaterialExpressionDivide_3"')'
+[2019.10.23-01.52.53:321][670]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_26 or MaterialGraphNode /Engine/Transient.PreviewMaterial_5:MaterialGraph_0.MaterialGraphNode_26
+[2019.10.23-01.52.53:321][670]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_26 or MaterialGraphNode /Engine/Transient.M_Ground_Moss:MaterialGraph_0.MaterialGraphNode_26
+[2019.10.23-01.52.53:321][670]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionMultiply'"MaterialGraphNode_26.MaterialExpressionMultiply_24"')'
+[2019.10.23-01.52.53:321][670]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_22 or MaterialGraphNode /Engine/Transient.PreviewMaterial_5:MaterialGraph_0.MaterialGraphNode_22
+[2019.10.23-01.52.53:321][670]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_22 or MaterialGraphNode /Engine/Transient.M_Ground_Moss:MaterialGraph_0.MaterialGraphNode_22
+[2019.10.23-01.52.53:321][670]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionConstant'"MaterialGraphNode_22.MaterialExpressionConstant_20"')'
+[2019.10.23-01.52.53:321][670]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_23 or MaterialGraphNode /Engine/Transient.PreviewMaterial_5:MaterialGraph_0.MaterialGraphNode_23
+[2019.10.23-01.52.53:321][670]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_23 or MaterialGraphNode /Engine/Transient.M_Ground_Moss:MaterialGraph_0.MaterialGraphNode_23
+[2019.10.23-01.52.53:321][670]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionConstant'"MaterialGraphNode_23.MaterialExpressionConstant_21"')'
+[2019.10.23-01.52.53:321][670]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_20 or MaterialGraphNode /Engine/Transient.PreviewMaterial_5:MaterialGraph_0.MaterialGraphNode_20
+[2019.10.23-01.52.53:321][670]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_20 or MaterialGraphNode /Engine/Transient.M_Ground_Moss:MaterialGraph_0.MaterialGraphNode_20
+[2019.10.23-01.52.53:321][670]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionTextureSample'"MaterialGraphNode_20.MaterialExpressionTextureSample_12"',OutputIndex=1,Mask=1,MaskR=1)'
+[2019.10.23-01.52.53:322][670]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_21 or MaterialGraphNode /Engine/Transient.PreviewMaterial_5:MaterialGraph_0.MaterialGraphNode_21
+[2019.10.23-01.52.53:322][670]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_21 or MaterialGraphNode /Engine/Transient.M_Ground_Moss:MaterialGraph_0.MaterialGraphNode_21
+[2019.10.23-01.52.53:322][670]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionLinearInterpolate'"MaterialGraphNode_21.MaterialExpressionLinearInterpolate_9"')'
+[2019.10.23-01.52.53:322][670]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.landscapestuff:MaterialGraph_0.MaterialGraphNode_14 or MaterialGraphNode /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_14
+[2019.10.23-01.52.53:322][670]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.landscapestuff:MaterialGraph_0.MaterialGraphNode_14 or MaterialGraphNode /Engine/Transient.PreviewMaterial_5:MaterialGraph_0.MaterialGraphNode_14
+[2019.10.23-01.52.53:322][670]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.landscapestuff:MaterialGraph_0.MaterialGraphNode_14 or MaterialGraphNode /Engine/Transient.M_Ground_Moss:MaterialGraph_0.MaterialGraphNode_14
+[2019.10.23-01.52.53:322][670]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionPixelDepth'"MaterialGraphNode_14.MaterialExpressionPixelDepth_3"',Mask=1,MaskR=1)'
+[2019.10.23-01.52.53:323][670]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_25 or MaterialGraphNode /Engine/Transient.PreviewMaterial_5:MaterialGraph_0.MaterialGraphNode_25
+[2019.10.23-01.52.53:323][670]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_25 or MaterialGraphNode /Engine/Transient.M_Ground_Moss:MaterialGraph_0.MaterialGraphNode_25
+[2019.10.23-01.52.53:323][670]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionTextureCoordinate'"MaterialGraphNode_25.MaterialExpressionTextureCoordinate_12"')'
+[2019.10.23-01.52.53:323][670]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_27 or MaterialGraphNode /Engine/Transient.PreviewMaterial_5:MaterialGraph_0.MaterialGraphNode_27
+[2019.10.23-01.52.53:323][670]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_27 or MaterialGraphNode /Engine/Transient.M_Ground_Moss:MaterialGraph_0.MaterialGraphNode_27
+[2019.10.23-01.52.53:323][670]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionConstant'"MaterialGraphNode_27.MaterialExpressionConstant_22"')'
+[2019.10.23-01.52.53:323][670]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_31 or MaterialGraphNode /Engine/Transient.PreviewMaterial_5:MaterialGraph_0.MaterialGraphNode_31
+[2019.10.23-01.52.53:323][670]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_31 or MaterialGraphNode /Engine/Transient.M_Ground_Moss:MaterialGraph_0.MaterialGraphNode_31
+[2019.10.23-01.52.53:323][670]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionMultiply'"MaterialGraphNode_31.MaterialExpressionMultiply_25"')'
+[2019.10.23-01.52.53:324][670]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_30 or MaterialGraphNode /Engine/Transient.PreviewMaterial_5:MaterialGraph_0.MaterialGraphNode_30
+[2019.10.23-01.52.53:324][670]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_30 or MaterialGraphNode /Engine/Transient.M_Ground_Moss:MaterialGraph_0.MaterialGraphNode_30
+[2019.10.23-01.52.53:324][670]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionTextureCoordinate'"MaterialGraphNode_30.MaterialExpressionTextureCoordinate_13"')'
+[2019.10.23-01.52.53:324][670]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_29 or MaterialGraphNode /Engine/Transient.PreviewMaterial_5:MaterialGraph_0.MaterialGraphNode_29
+[2019.10.23-01.52.53:324][670]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_29 or MaterialGraphNode /Engine/Transient.M_Ground_Moss:MaterialGraph_0.MaterialGraphNode_29
+[2019.10.23-01.52.53:324][670]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionTextureSample'"MaterialGraphNode_29.MaterialExpressionTextureSample_13"',OutputIndex=1,Mask=1,MaskR=1)'
+[2019.10.23-01.52.53:325][670]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_35 or MaterialGraphNode /Engine/Transient.PreviewMaterial_5:MaterialGraph_0.MaterialGraphNode_35
+[2019.10.23-01.52.53:325][670]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_35 or MaterialGraphNode /Engine/Transient.M_Ground_Moss:MaterialGraph_0.MaterialGraphNode_35
+[2019.10.23-01.52.53:325][670]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionMultiply'"MaterialGraphNode_35.MaterialExpressionMultiply_26"')'
+[2019.10.23-01.52.53:325][670]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_34 or MaterialGraphNode /Engine/Transient.PreviewMaterial_5:MaterialGraph_0.MaterialGraphNode_34
+[2019.10.23-01.52.53:325][670]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_34 or MaterialGraphNode /Engine/Transient.M_Ground_Moss:MaterialGraph_0.MaterialGraphNode_34
+[2019.10.23-01.52.53:325][670]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionTextureCoordinate'"MaterialGraphNode_34.MaterialExpressionTextureCoordinate_14"')'
+[2019.10.23-01.52.53:326][670]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_33 or MaterialGraphNode /Engine/Transient.PreviewMaterial_5:MaterialGraph_0.MaterialGraphNode_33
+[2019.10.23-01.52.53:326][670]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_33 or MaterialGraphNode /Engine/Transient.M_Ground_Moss:MaterialGraph_0.MaterialGraphNode_33
+[2019.10.23-01.52.53:326][670]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionTextureSample'"MaterialGraphNode_33.MaterialExpressionTextureSample_14"',OutputIndex=1,Mask=1,MaskR=1)'
+[2019.10.23-01.52.53:326][670]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_39 or MaterialGraphNode /Engine/Transient.PreviewMaterial_5:MaterialGraph_0.MaterialGraphNode_39
+[2019.10.23-01.52.53:326][670]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_39 or MaterialGraphNode /Engine/Transient.M_Ground_Moss:MaterialGraph_0.MaterialGraphNode_39
+[2019.10.23-01.52.53:326][670]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionMultiply'"MaterialGraphNode_39.MaterialExpressionMultiply_27"')'
+[2019.10.23-01.52.53:327][670]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_38 or MaterialGraphNode /Engine/Transient.PreviewMaterial_5:MaterialGraph_0.MaterialGraphNode_38
+[2019.10.23-01.52.53:327][670]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_38 or MaterialGraphNode /Engine/Transient.M_Ground_Moss:MaterialGraph_0.MaterialGraphNode_38
+[2019.10.23-01.52.53:327][670]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionTextureCoordinate'"MaterialGraphNode_38.MaterialExpressionTextureCoordinate_15"')'
+[2019.10.23-01.52.53:327][670]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_37 or MaterialGraphNode /Engine/Transient.PreviewMaterial_5:MaterialGraph_0.MaterialGraphNode_37
+[2019.10.23-01.52.53:327][670]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_37 or MaterialGraphNode /Engine/Transient.M_Ground_Moss:MaterialGraph_0.MaterialGraphNode_37
+[2019.10.23-01.52.53:327][670]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionTextureSample'"MaterialGraphNode_37.MaterialExpressionTextureSample_15"',OutputIndex=1,Mask=1,MaskR=1)'
+[2019.10.23-01.52.53:327][670]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_36 or MaterialGraphNode /Engine/Transient.PreviewMaterial_5:MaterialGraph_0.MaterialGraphNode_36
+[2019.10.23-01.52.53:327][670]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_36 or MaterialGraphNode /Engine/Transient.M_Ground_Moss:MaterialGraph_0.MaterialGraphNode_36
+[2019.10.23-01.52.53:327][670]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionAdd'"MaterialGraphNode_36.MaterialExpressionAdd_14"')'
+[2019.10.23-01.52.53:327][670]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.M_Ground_Moss:MaterialGraph_0.MaterialGraphNode_40 or MaterialGraphNode /Engine/Transient.PreviewMaterial_5:MaterialGraph_0.MaterialGraphNode_40
+[2019.10.23-01.52.53:327][670]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionAdd'"MaterialGraphNode_40.MaterialExpressionAdd_15"')'
+[2019.10.23-01.52.53:328][670]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_32 or MaterialGraphNode /Engine/Transient.PreviewMaterial_5:MaterialGraph_0.MaterialGraphNode_32
+[2019.10.23-01.52.53:328][670]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_32 or MaterialGraphNode /Engine/Transient.M_Ground_Moss:MaterialGraph_0.MaterialGraphNode_32
+[2019.10.23-01.52.53:328][670]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionAdd'"MaterialGraphNode_32.MaterialExpressionAdd_13"')'
+[2019.10.23-01.52.53:328][670]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.M_Ground_Moss:MaterialGraph_0.MaterialGraphNode_41 or MaterialGraphNode /Engine/Transient.PreviewMaterial_5:MaterialGraph_0.MaterialGraphNode_41
+[2019.10.23-01.52.53:328][670]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionMultiply'"MaterialGraphNode_41.MaterialExpressionMultiply_28"')'
+[2019.10.23-01.52.53:328][670]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.M_Ground_Moss:MaterialGraph_0.MaterialGraphNode_42 or MaterialGraphNode /Engine/Transient.PreviewMaterial_5:MaterialGraph_0.MaterialGraphNode_42
+[2019.10.23-01.52.53:328][670]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionMultiply'"MaterialGraphNode_42.MaterialExpressionMultiply_29"')'
+[2019.10.23-01.52.53:328][670]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.landscapestuff:MaterialGraph_0.MaterialGraphNode_3 or MaterialGraphNode /Engine/Transient.PreviewMaterial_5:MaterialGraph_0.MaterialGraphNode_3
+[2019.10.23-01.52.53:328][670]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.landscapestuff:MaterialGraph_0.MaterialGraphNode_3 or MaterialGraphNode /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_3
+[2019.10.23-01.52.53:328][670]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.landscapestuff:MaterialGraph_0.MaterialGraphNode_3 or MaterialGraphNode /Engine/Transient.M_Ground_Moss:MaterialGraph_0.MaterialGraphNode_3
+[2019.10.23-01.52.53:328][670]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionTextureSample'"MaterialGraphNode_3.MaterialExpressionTextureSample_1"',OutputIndex=4,Mask=1,MaskA=1)'
+[2019.10.23-01.52.53:329][670]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.M_Ground_Moss:MaterialGraph_0.MaterialGraphNode_42 or MaterialGraphNode /Engine/Transient.PreviewMaterial_5:MaterialGraph_0.MaterialGraphNode_42
+[2019.10.23-01.52.53:329][670]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionMultiply'"MaterialGraphNode_42.MaterialExpressionMultiply_29"')'
+[2019.10.23-01.52.53:329][670]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.landscapestuff:MaterialGraph_0.MaterialGraphNode_3 or MaterialGraphNode /Engine/Transient.PreviewMaterial_5:MaterialGraph_0.MaterialGraphNode_3
+[2019.10.23-01.52.53:329][670]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.landscapestuff:MaterialGraph_0.MaterialGraphNode_3 or MaterialGraphNode /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_3
+[2019.10.23-01.52.53:329][670]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.landscapestuff:MaterialGraph_0.MaterialGraphNode_3 or MaterialGraphNode /Engine/Transient.M_Ground_Moss:MaterialGraph_0.MaterialGraphNode_3
+[2019.10.23-01.52.53:329][670]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionTextureSample'"MaterialGraphNode_3.MaterialExpressionTextureSample_1"',Mask=1,MaskR=1,MaskG=1,MaskB=1)'
+[2019.10.23-01.52.53:371][670]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_5, compiling. 
+[2019.10.23-01.52.53:385][670]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2019.10.23-01.52.53:391][670]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_4, compiling. 
+[2019.10.23-01.52.53:396][670]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_5, compiling. 
+[2019.10.23-01.52.53:402][670]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_5, compiling. 
+[2019.10.23-01.52.53:408][670]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_6, compiling. 
+[2019.10.23-01.52.53:417][670]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_14, compiling. 
+[2019.10.23-01.52.53:426][670]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_15, compiling. 
+[2019.10.23-01.53.00:155][834]MaterialEditorStats: Base pass shader: 107 instructions
+[2019.10.23-01.53.00:155][834]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2019.10.23-01.53.00:155][834]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.10.23-01.53.00:155][834]MaterialEditorStats: Texture samplers: 3/16
+[2019.10.23-01.53.28:988][539]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_5, compiling. 
+[2019.10.23-01.53.29:007][539]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2019.10.23-01.53.29:042][539]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_4, compiling. 
+[2019.10.23-01.53.29:079][539]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_5, compiling. 
+[2019.10.23-01.53.29:113][539]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_5, compiling. 
+[2019.10.23-01.53.29:146][539]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_6, compiling. 
+[2019.10.23-01.53.29:179][539]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_14, compiling. 
+[2019.10.23-01.53.29:212][539]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_15, compiling. 
+[2019.10.23-01.53.35:309][681]MaterialEditorStats: Base pass shader: 107 instructions
+[2019.10.23-01.53.35:310][681]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2019.10.23-01.53.35:310][681]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.10.23-01.53.35:310][681]MaterialEditorStats: Texture samplers: 3/16
+[2019.10.23-01.53.50:551][928]LogAssetEditorManager: Opening Asset editor for Material /Game/StarterContent/Materials/M_Ground_Gravel.M_Ground_Gravel
+[2019.10.23-01.53.50:554][928]LogMaterial: Display: Missing cached shader map for material M_Ground_Gravel, compiling. 
+[2019.10.23-01.53.50:622][928]LogMaterial: Display: Missing cached shader map for material M_Ground_Gravel, compiling. 
+[2019.10.23-01.53.50:643][928]LogMaterial: Display: Missing cached shader map for material M_Ground_Gravel, compiling. 
+[2019.10.23-01.53.50:693][928]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_25, compiling. 
+[2019.10.23-01.53.50:701][928]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_26, compiling. 
+[2019.10.23-01.53.50:709][928]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_4, compiling. 
+[2019.10.23-01.53.50:716][928]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_4, compiling. 
+[2019.10.23-01.53.50:725][928]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_5, compiling. 
+[2019.10.23-01.53.50:732][928]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_6, compiling. 
+[2019.10.23-01.53.50:738][928]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_7, compiling. 
+[2019.10.23-01.54.00:011][149]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_35 or MaterialGraphNode /Engine/Transient.PreviewMaterial_5:MaterialGraph_0.MaterialGraphNode_35
+[2019.10.23-01.54.00:011][149]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_35 or MaterialGraphNode /Engine/Transient.M_Ground_Moss:MaterialGraph_0.MaterialGraphNode_35
+[2019.10.23-01.54.00:011][149]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_35 or MaterialGraphNode /Engine/Transient.M_Ground_Gravel:MaterialGraph_0.MaterialGraphNode_35
+[2019.10.23-01.54.00:011][149]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionMultiply'"MaterialGraphNode_35.MaterialExpressionMultiply_13"')'
+[2019.10.23-01.54.00:011][149]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.landscapestuff:MaterialGraph_0.MaterialGraphNode_3 or MaterialGraphNode /Engine/Transient.PreviewMaterial_5:MaterialGraph_0.MaterialGraphNode_3
+[2019.10.23-01.54.00:011][149]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.landscapestuff:MaterialGraph_0.MaterialGraphNode_3 or MaterialGraphNode /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_3
+[2019.10.23-01.54.00:011][149]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.landscapestuff:MaterialGraph_0.MaterialGraphNode_3 or MaterialGraphNode /Engine/Transient.M_Ground_Moss:MaterialGraph_0.MaterialGraphNode_3
+[2019.10.23-01.54.00:011][149]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.landscapestuff:MaterialGraph_0.MaterialGraphNode_3 or MaterialGraphNode /Engine/Transient.M_Ground_Gravel:MaterialGraph_0.MaterialGraphNode_3
+[2019.10.23-01.54.00:011][149]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionTextureSample'"MaterialGraphNode_3.MaterialExpressionTextureSample_25"',Mask=1,MaskR=1,MaskG=1,MaskB=1)'
+[2019.10.23-01.54.00:012][149]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.landscapestuff:MaterialGraph_0.MaterialGraphNode_5 or MaterialGraphNode /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_5
+[2019.10.23-01.54.00:012][149]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.landscapestuff:MaterialGraph_0.MaterialGraphNode_5 or MaterialGraphNode /Engine/Transient.PreviewMaterial_5:MaterialGraph_0.MaterialGraphNode_5
+[2019.10.23-01.54.00:012][149]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.landscapestuff:MaterialGraph_0.MaterialGraphNode_5 or MaterialGraphNode /Engine/Transient.M_Ground_Moss:MaterialGraph_0.MaterialGraphNode_5
+[2019.10.23-01.54.00:012][149]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.landscapestuff:MaterialGraph_0.MaterialGraphNode_5 or MaterialGraphNode /Engine/Transient.M_Ground_Gravel:MaterialGraph_0.MaterialGraphNode_5
+[2019.10.23-01.54.00:012][149]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionConstant'"MaterialGraphNode_5.MaterialExpressionConstant_65"')'
+[2019.10.23-01.54.00:012][149]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.landscapestuff:MaterialGraph_0.MaterialGraphNode_6 or MaterialGraphNode /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_6
+[2019.10.23-01.54.00:012][149]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.landscapestuff:MaterialGraph_0.MaterialGraphNode_6 or MaterialGraphNode /Engine/Transient.PreviewMaterial_5:MaterialGraph_0.MaterialGraphNode_6
+[2019.10.23-01.54.00:012][149]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.landscapestuff:MaterialGraph_0.MaterialGraphNode_6 or MaterialGraphNode /Engine/Transient.M_Ground_Moss:MaterialGraph_0.MaterialGraphNode_6
+[2019.10.23-01.54.00:012][149]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.landscapestuff:MaterialGraph_0.MaterialGraphNode_6 or MaterialGraphNode /Engine/Transient.M_Ground_Gravel:MaterialGraph_0.MaterialGraphNode_6
+[2019.10.23-01.54.00:012][149]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionConstant'"MaterialGraphNode_6.MaterialExpressionConstant_66"')'
+[2019.10.23-01.54.00:012][149]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_36 or MaterialGraphNode /Engine/Transient.PreviewMaterial_5:MaterialGraph_0.MaterialGraphNode_36
+[2019.10.23-01.54.00:012][149]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_36 or MaterialGraphNode /Engine/Transient.M_Ground_Moss:MaterialGraph_0.MaterialGraphNode_36
+[2019.10.23-01.54.00:012][149]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_36 or MaterialGraphNode /Engine/Transient.M_Ground_Gravel:MaterialGraph_0.MaterialGraphNode_36
+[2019.10.23-01.54.00:012][149]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionMultiply'"MaterialGraphNode_36.MaterialExpressionMultiply_14"')'
+[2019.10.23-01.54.00:013][149]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.landscapestuff:MaterialGraph_0.MaterialGraphNode_4 or MaterialGraphNode /Engine/Transient.PreviewMaterial_5:MaterialGraph_0.MaterialGraphNode_4
+[2019.10.23-01.54.00:013][149]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.landscapestuff:MaterialGraph_0.MaterialGraphNode_4 or MaterialGraphNode /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_4
+[2019.10.23-01.54.00:013][149]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.landscapestuff:MaterialGraph_0.MaterialGraphNode_4 or MaterialGraphNode /Engine/Transient.M_Ground_Moss:MaterialGraph_0.MaterialGraphNode_4
+[2019.10.23-01.54.00:013][149]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.landscapestuff:MaterialGraph_0.MaterialGraphNode_4 or MaterialGraphNode /Engine/Transient.M_Ground_Gravel:MaterialGraph_0.MaterialGraphNode_4
+[2019.10.23-01.54.00:013][149]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionTextureSample'"MaterialGraphNode_4.MaterialExpressionTextureSample_26"',Mask=1,MaskR=1,MaskG=1,MaskB=1)'
+[2019.10.23-01.54.00:013][149]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_21 or MaterialGraphNode /Engine/Transient.PreviewMaterial_5:MaterialGraph_0.MaterialGraphNode_21
+[2019.10.23-01.54.00:013][149]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_21 or MaterialGraphNode /Engine/Transient.M_Ground_Moss:MaterialGraph_0.MaterialGraphNode_21
+[2019.10.23-01.54.00:013][149]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_21 or MaterialGraphNode /Engine/Transient.M_Ground_Gravel:MaterialGraph_0.MaterialGraphNode_21
+[2019.10.23-01.54.00:013][149]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionConstant3Vector'"MaterialGraphNode_21.MaterialExpressionConstant3Vector_4"')'
+[2019.10.23-01.54.00:013][149]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.landscapestuff:MaterialGraph_0.MaterialGraphNode_12 or MaterialGraphNode /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_12
+[2019.10.23-01.54.00:013][149]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.landscapestuff:MaterialGraph_0.MaterialGraphNode_12 or MaterialGraphNode /Engine/Transient.PreviewMaterial_5:MaterialGraph_0.MaterialGraphNode_12
+[2019.10.23-01.54.00:013][149]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.landscapestuff:MaterialGraph_0.MaterialGraphNode_12 or MaterialGraphNode /Engine/Transient.M_Ground_Moss:MaterialGraph_0.MaterialGraphNode_12
+[2019.10.23-01.54.00:013][149]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.landscapestuff:MaterialGraph_0.MaterialGraphNode_12 or MaterialGraphNode /Engine/Transient.M_Ground_Gravel:MaterialGraph_0.MaterialGraphNode_12
+[2019.10.23-01.54.00:013][149]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionClamp'"MaterialGraphNode_12.MaterialExpressionClamp_1"')'
+[2019.10.23-01.54.00:015][149]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_17 or MaterialGraphNode /Engine/Transient.PreviewMaterial_5:MaterialGraph_0.MaterialGraphNode_17
+[2019.10.23-01.54.00:015][149]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_17 or MaterialGraphNode /Engine/Transient.M_Ground_Moss:MaterialGraph_0.MaterialGraphNode_17
+[2019.10.23-01.54.00:015][149]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_17 or MaterialGraphNode /Engine/Transient.M_Ground_Gravel:MaterialGraph_0.MaterialGraphNode_17
+[2019.10.23-01.54.00:015][149]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionAdd'"MaterialGraphNode_17.MaterialExpressionAdd_4"')'
+[2019.10.23-01.54.00:015][149]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.landscapestuff:MaterialGraph_0.MaterialGraphNode_8 or MaterialGraphNode /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_8
+[2019.10.23-01.54.00:015][149]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.landscapestuff:MaterialGraph_0.MaterialGraphNode_8 or MaterialGraphNode /Engine/Transient.PreviewMaterial_5:MaterialGraph_0.MaterialGraphNode_8
+[2019.10.23-01.54.00:015][149]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.landscapestuff:MaterialGraph_0.MaterialGraphNode_8 or MaterialGraphNode /Engine/Transient.M_Ground_Moss:MaterialGraph_0.MaterialGraphNode_8
+[2019.10.23-01.54.00:015][149]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.landscapestuff:MaterialGraph_0.MaterialGraphNode_8 or MaterialGraphNode /Engine/Transient.M_Ground_Gravel:MaterialGraph_0.MaterialGraphNode_8
+[2019.10.23-01.54.00:015][149]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionConstant'"MaterialGraphNode_8.MaterialExpressionConstant_5"')'
+[2019.10.23-01.54.00:015][149]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.landscapestuff:MaterialGraph_0.MaterialGraphNode_9 or MaterialGraphNode /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_9
+[2019.10.23-01.54.00:015][149]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.landscapestuff:MaterialGraph_0.MaterialGraphNode_9 or MaterialGraphNode /Engine/Transient.PreviewMaterial_5:MaterialGraph_0.MaterialGraphNode_9
+[2019.10.23-01.54.00:015][149]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.landscapestuff:MaterialGraph_0.MaterialGraphNode_9 or MaterialGraphNode /Engine/Transient.M_Ground_Moss:MaterialGraph_0.MaterialGraphNode_9
+[2019.10.23-01.54.00:015][149]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.landscapestuff:MaterialGraph_0.MaterialGraphNode_9 or MaterialGraphNode /Engine/Transient.M_Ground_Gravel:MaterialGraph_0.MaterialGraphNode_9
+[2019.10.23-01.54.00:015][149]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionSubtract'"MaterialGraphNode_9.MaterialExpressionSubtract_1"')'
+[2019.10.23-01.54.00:015][149]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.landscapestuff:MaterialGraph_0.MaterialGraphNode_11 or MaterialGraphNode /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_11
+[2019.10.23-01.54.00:015][149]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.landscapestuff:MaterialGraph_0.MaterialGraphNode_11 or MaterialGraphNode /Engine/Transient.PreviewMaterial_5:MaterialGraph_0.MaterialGraphNode_11
+[2019.10.23-01.54.00:015][149]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.landscapestuff:MaterialGraph_0.MaterialGraphNode_11 or MaterialGraphNode /Engine/Transient.M_Ground_Moss:MaterialGraph_0.MaterialGraphNode_11
+[2019.10.23-01.54.00:015][149]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.landscapestuff:MaterialGraph_0.MaterialGraphNode_11 or MaterialGraphNode /Engine/Transient.M_Ground_Gravel:MaterialGraph_0.MaterialGraphNode_11
+[2019.10.23-01.54.00:016][149]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionConstant'"MaterialGraphNode_11.MaterialExpressionConstant_6"')'
+[2019.10.23-01.54.00:016][149]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.landscapestuff:MaterialGraph_0.MaterialGraphNode_10 or MaterialGraphNode /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_10
+[2019.10.23-01.54.00:016][149]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.landscapestuff:MaterialGraph_0.MaterialGraphNode_10 or MaterialGraphNode /Engine/Transient.PreviewMaterial_5:MaterialGraph_0.MaterialGraphNode_10
+[2019.10.23-01.54.00:016][149]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.landscapestuff:MaterialGraph_0.MaterialGraphNode_10 or MaterialGraphNode /Engine/Transient.M_Ground_Moss:MaterialGraph_0.MaterialGraphNode_10
+[2019.10.23-01.54.00:016][149]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.landscapestuff:MaterialGraph_0.MaterialGraphNode_10 or MaterialGraphNode /Engine/Transient.M_Ground_Gravel:MaterialGraph_0.MaterialGraphNode_10
+[2019.10.23-01.54.00:016][149]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionDivide'"MaterialGraphNode_10.MaterialExpressionDivide_1"')'
+[2019.10.23-01.54.00:016][149]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_19 or MaterialGraphNode /Engine/Transient.PreviewMaterial_5:MaterialGraph_0.MaterialGraphNode_19
+[2019.10.23-01.54.00:016][149]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_19 or MaterialGraphNode /Engine/Transient.M_Ground_Moss:MaterialGraph_0.MaterialGraphNode_19
+[2019.10.23-01.54.00:016][149]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_19 or MaterialGraphNode /Engine/Transient.M_Ground_Gravel:MaterialGraph_0.MaterialGraphNode_19
+[2019.10.23-01.54.00:016][149]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionMultiply'"MaterialGraphNode_19.MaterialExpressionMultiply_8"')'
+[2019.10.23-01.54.00:017][149]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_15 or MaterialGraphNode /Engine/Transient.PreviewMaterial_5:MaterialGraph_0.MaterialGraphNode_15
+[2019.10.23-01.54.00:017][149]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_15 or MaterialGraphNode /Engine/Transient.M_Ground_Moss:MaterialGraph_0.MaterialGraphNode_15
+[2019.10.23-01.54.00:017][149]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_15 or MaterialGraphNode /Engine/Transient.M_Ground_Gravel:MaterialGraph_0.MaterialGraphNode_15
+[2019.10.23-01.54.00:017][149]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionConstant'"MaterialGraphNode_15.MaterialExpressionConstant_7"')'
+[2019.10.23-01.54.00:017][149]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_16 or MaterialGraphNode /Engine/Transient.PreviewMaterial_5:MaterialGraph_0.MaterialGraphNode_16
+[2019.10.23-01.54.00:017][149]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_16 or MaterialGraphNode /Engine/Transient.M_Ground_Moss:MaterialGraph_0.MaterialGraphNode_16
+[2019.10.23-01.54.00:017][149]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_16 or MaterialGraphNode /Engine/Transient.M_Ground_Gravel:MaterialGraph_0.MaterialGraphNode_16
+[2019.10.23-01.54.00:017][149]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionConstant'"MaterialGraphNode_16.MaterialExpressionConstant_8"')'
+[2019.10.23-01.54.00:017][149]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.landscapestuff:MaterialGraph_0.MaterialGraphNode_13 or MaterialGraphNode /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_13
+[2019.10.23-01.54.00:017][149]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.landscapestuff:MaterialGraph_0.MaterialGraphNode_13 or MaterialGraphNode /Engine/Transient.PreviewMaterial_5:MaterialGraph_0.MaterialGraphNode_13
+[2019.10.23-01.54.00:017][149]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.landscapestuff:MaterialGraph_0.MaterialGraphNode_13 or MaterialGraphNode /Engine/Transient.M_Ground_Moss:MaterialGraph_0.MaterialGraphNode_13
+[2019.10.23-01.54.00:017][149]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.landscapestuff:MaterialGraph_0.MaterialGraphNode_13 or MaterialGraphNode /Engine/Transient.M_Ground_Gravel:MaterialGraph_0.MaterialGraphNode_13
+[2019.10.23-01.54.00:017][149]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionTextureSample'"MaterialGraphNode_13.MaterialExpressionTextureSample_4"',OutputIndex=1,Mask=1,MaskR=1)'
+[2019.10.23-01.54.00:018][149]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.landscapestuff:MaterialGraph_0.MaterialGraphNode_14 or MaterialGraphNode /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_14
+[2019.10.23-01.54.00:018][149]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.landscapestuff:MaterialGraph_0.MaterialGraphNode_14 or MaterialGraphNode /Engine/Transient.PreviewMaterial_5:MaterialGraph_0.MaterialGraphNode_14
+[2019.10.23-01.54.00:018][149]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.landscapestuff:MaterialGraph_0.MaterialGraphNode_14 or MaterialGraphNode /Engine/Transient.M_Ground_Moss:MaterialGraph_0.MaterialGraphNode_14
+[2019.10.23-01.54.00:018][149]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.landscapestuff:MaterialGraph_0.MaterialGraphNode_14 or MaterialGraphNode /Engine/Transient.M_Ground_Gravel:MaterialGraph_0.MaterialGraphNode_14
+[2019.10.23-01.54.00:018][149]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionLinearInterpolate'"MaterialGraphNode_14.MaterialExpressionLinearInterpolate_2"')'
+[2019.10.23-01.54.00:018][149]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.landscapestuff:MaterialGraph_0.MaterialGraphNode_7 or MaterialGraphNode /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_7
+[2019.10.23-01.54.00:018][149]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.landscapestuff:MaterialGraph_0.MaterialGraphNode_7 or MaterialGraphNode /Engine/Transient.PreviewMaterial_5:MaterialGraph_0.MaterialGraphNode_7
+[2019.10.23-01.54.00:018][149]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.landscapestuff:MaterialGraph_0.MaterialGraphNode_7 or MaterialGraphNode /Engine/Transient.M_Ground_Moss:MaterialGraph_0.MaterialGraphNode_7
+[2019.10.23-01.54.00:018][149]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.landscapestuff:MaterialGraph_0.MaterialGraphNode_7 or MaterialGraphNode /Engine/Transient.M_Ground_Gravel:MaterialGraph_0.MaterialGraphNode_7
+[2019.10.23-01.54.00:018][149]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionPixelDepth'"MaterialGraphNode_7.MaterialExpressionPixelDepth_1"',Mask=1,MaskR=1)'
+[2019.10.23-01.54.00:018][149]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_18 or MaterialGraphNode /Engine/Transient.PreviewMaterial_5:MaterialGraph_0.MaterialGraphNode_18
+[2019.10.23-01.54.00:018][149]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_18 or MaterialGraphNode /Engine/Transient.M_Ground_Moss:MaterialGraph_0.MaterialGraphNode_18
+[2019.10.23-01.54.00:018][149]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_18 or MaterialGraphNode /Engine/Transient.M_Ground_Gravel:MaterialGraph_0.MaterialGraphNode_18
+[2019.10.23-01.54.00:019][149]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionTextureCoordinate'"MaterialGraphNode_18.MaterialExpressionTextureCoordinate_4"')'
+[2019.10.23-01.54.00:019][149]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_20 or MaterialGraphNode /Engine/Transient.PreviewMaterial_5:MaterialGraph_0.MaterialGraphNode_20
+[2019.10.23-01.54.00:019][149]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_20 or MaterialGraphNode /Engine/Transient.M_Ground_Moss:MaterialGraph_0.MaterialGraphNode_20
+[2019.10.23-01.54.00:019][149]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_20 or MaterialGraphNode /Engine/Transient.M_Ground_Gravel:MaterialGraph_0.MaterialGraphNode_20
+[2019.10.23-01.54.00:019][149]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionConstant'"MaterialGraphNode_20.MaterialExpressionConstant_9"')'
+[2019.10.23-01.54.00:019][149]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_24 or MaterialGraphNode /Engine/Transient.PreviewMaterial_5:MaterialGraph_0.MaterialGraphNode_24
+[2019.10.23-01.54.00:019][149]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_24 or MaterialGraphNode /Engine/Transient.M_Ground_Moss:MaterialGraph_0.MaterialGraphNode_24
+[2019.10.23-01.54.00:019][149]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_24 or MaterialGraphNode /Engine/Transient.M_Ground_Gravel:MaterialGraph_0.MaterialGraphNode_24
+[2019.10.23-01.54.00:019][149]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionMultiply'"MaterialGraphNode_24.MaterialExpressionMultiply_9"')'
+[2019.10.23-01.54.00:020][149]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_23 or MaterialGraphNode /Engine/Transient.PreviewMaterial_5:MaterialGraph_0.MaterialGraphNode_23
+[2019.10.23-01.54.00:020][149]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_23 or MaterialGraphNode /Engine/Transient.M_Ground_Moss:MaterialGraph_0.MaterialGraphNode_23
+[2019.10.23-01.54.00:020][149]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_23 or MaterialGraphNode /Engine/Transient.M_Ground_Gravel:MaterialGraph_0.MaterialGraphNode_23
+[2019.10.23-01.54.00:020][149]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionTextureCoordinate'"MaterialGraphNode_23.MaterialExpressionTextureCoordinate_5"')'
+[2019.10.23-01.54.00:020][149]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_22 or MaterialGraphNode /Engine/Transient.PreviewMaterial_5:MaterialGraph_0.MaterialGraphNode_22
+[2019.10.23-01.54.00:021][149]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_22 or MaterialGraphNode /Engine/Transient.M_Ground_Moss:MaterialGraph_0.MaterialGraphNode_22
+[2019.10.23-01.54.00:021][149]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_22 or MaterialGraphNode /Engine/Transient.M_Ground_Gravel:MaterialGraph_0.MaterialGraphNode_22
+[2019.10.23-01.54.00:021][149]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionTextureSample'"MaterialGraphNode_22.MaterialExpressionTextureSample_5"',OutputIndex=1,Mask=1,MaskR=1)'
+[2019.10.23-01.54.00:021][149]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_28 or MaterialGraphNode /Engine/Transient.PreviewMaterial_5:MaterialGraph_0.MaterialGraphNode_28
+[2019.10.23-01.54.00:021][149]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_28 or MaterialGraphNode /Engine/Transient.M_Ground_Moss:MaterialGraph_0.MaterialGraphNode_28
+[2019.10.23-01.54.00:021][149]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_28 or MaterialGraphNode /Engine/Transient.M_Ground_Gravel:MaterialGraph_0.MaterialGraphNode_28
+[2019.10.23-01.54.00:021][149]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionMultiply'"MaterialGraphNode_28.MaterialExpressionMultiply_10"')'
+[2019.10.23-01.54.00:022][149]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_27 or MaterialGraphNode /Engine/Transient.PreviewMaterial_5:MaterialGraph_0.MaterialGraphNode_27
+[2019.10.23-01.54.00:022][149]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_27 or MaterialGraphNode /Engine/Transient.M_Ground_Moss:MaterialGraph_0.MaterialGraphNode_27
+[2019.10.23-01.54.00:022][149]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_27 or MaterialGraphNode /Engine/Transient.M_Ground_Gravel:MaterialGraph_0.MaterialGraphNode_27
+[2019.10.23-01.54.00:022][149]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionTextureCoordinate'"MaterialGraphNode_27.MaterialExpressionTextureCoordinate_6"')'
+[2019.10.23-01.54.00:022][149]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_26 or MaterialGraphNode /Engine/Transient.PreviewMaterial_5:MaterialGraph_0.MaterialGraphNode_26
+[2019.10.23-01.54.00:022][149]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_26 or MaterialGraphNode /Engine/Transient.M_Ground_Moss:MaterialGraph_0.MaterialGraphNode_26
+[2019.10.23-01.54.00:022][149]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_26 or MaterialGraphNode /Engine/Transient.M_Ground_Gravel:MaterialGraph_0.MaterialGraphNode_26
+[2019.10.23-01.54.00:022][149]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionTextureSample'"MaterialGraphNode_26.MaterialExpressionTextureSample_6"',OutputIndex=1,Mask=1,MaskR=1)'
+[2019.10.23-01.54.00:022][149]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_32 or MaterialGraphNode /Engine/Transient.PreviewMaterial_5:MaterialGraph_0.MaterialGraphNode_32
+[2019.10.23-01.54.00:022][149]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_32 or MaterialGraphNode /Engine/Transient.M_Ground_Moss:MaterialGraph_0.MaterialGraphNode_32
+[2019.10.23-01.54.00:022][149]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_32 or MaterialGraphNode /Engine/Transient.M_Ground_Gravel:MaterialGraph_0.MaterialGraphNode_32
+[2019.10.23-01.54.00:022][149]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionMultiply'"MaterialGraphNode_32.MaterialExpressionMultiply_11"')'
+[2019.10.23-01.54.00:024][149]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_31 or MaterialGraphNode /Engine/Transient.PreviewMaterial_5:MaterialGraph_0.MaterialGraphNode_31
+[2019.10.23-01.54.00:024][149]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_31 or MaterialGraphNode /Engine/Transient.M_Ground_Moss:MaterialGraph_0.MaterialGraphNode_31
+[2019.10.23-01.54.00:024][149]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_31 or MaterialGraphNode /Engine/Transient.M_Ground_Gravel:MaterialGraph_0.MaterialGraphNode_31
+[2019.10.23-01.54.00:024][149]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionTextureCoordinate'"MaterialGraphNode_31.MaterialExpressionTextureCoordinate_7"')'
+[2019.10.23-01.54.00:024][149]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_30 or MaterialGraphNode /Engine/Transient.PreviewMaterial_5:MaterialGraph_0.MaterialGraphNode_30
+[2019.10.23-01.54.00:024][149]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_30 or MaterialGraphNode /Engine/Transient.M_Ground_Moss:MaterialGraph_0.MaterialGraphNode_30
+[2019.10.23-01.54.00:024][149]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_30 or MaterialGraphNode /Engine/Transient.M_Ground_Gravel:MaterialGraph_0.MaterialGraphNode_30
+[2019.10.23-01.54.00:024][149]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionTextureSample'"MaterialGraphNode_30.MaterialExpressionTextureSample_7"',OutputIndex=1,Mask=1,MaskR=1)'
+[2019.10.23-01.54.00:024][149]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_29 or MaterialGraphNode /Engine/Transient.PreviewMaterial_5:MaterialGraph_0.MaterialGraphNode_29
+[2019.10.23-01.54.00:024][149]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_29 or MaterialGraphNode /Engine/Transient.M_Ground_Moss:MaterialGraph_0.MaterialGraphNode_29
+[2019.10.23-01.54.00:024][149]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_29 or MaterialGraphNode /Engine/Transient.M_Ground_Gravel:MaterialGraph_0.MaterialGraphNode_29
+[2019.10.23-01.54.00:024][149]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionAdd'"MaterialGraphNode_29.MaterialExpressionAdd_6"')'
+[2019.10.23-01.54.00:024][149]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_33 or MaterialGraphNode /Engine/Transient.PreviewMaterial_5:MaterialGraph_0.MaterialGraphNode_33
+[2019.10.23-01.54.00:024][149]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_33 or MaterialGraphNode /Engine/Transient.M_Ground_Moss:MaterialGraph_0.MaterialGraphNode_33
+[2019.10.23-01.54.00:024][149]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_33 or MaterialGraphNode /Engine/Transient.M_Ground_Gravel:MaterialGraph_0.MaterialGraphNode_33
+[2019.10.23-01.54.00:024][149]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionAdd'"MaterialGraphNode_33.MaterialExpressionAdd_7"')'
+[2019.10.23-01.54.00:024][149]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_25 or MaterialGraphNode /Engine/Transient.PreviewMaterial_5:MaterialGraph_0.MaterialGraphNode_25
+[2019.10.23-01.54.00:024][149]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_25 or MaterialGraphNode /Engine/Transient.M_Ground_Moss:MaterialGraph_0.MaterialGraphNode_25
+[2019.10.23-01.54.00:024][149]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_25 or MaterialGraphNode /Engine/Transient.M_Ground_Gravel:MaterialGraph_0.MaterialGraphNode_25
+[2019.10.23-01.54.00:024][149]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionAdd'"MaterialGraphNode_25.MaterialExpressionAdd_5"')'
+[2019.10.23-01.54.00:024][149]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_34 or MaterialGraphNode /Engine/Transient.PreviewMaterial_5:MaterialGraph_0.MaterialGraphNode_34
+[2019.10.23-01.54.00:024][149]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_34 or MaterialGraphNode /Engine/Transient.M_Ground_Moss:MaterialGraph_0.MaterialGraphNode_34
+[2019.10.23-01.54.00:024][149]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_34 or MaterialGraphNode /Engine/Transient.M_Ground_Gravel:MaterialGraph_0.MaterialGraphNode_34
+[2019.10.23-01.54.00:024][149]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionMultiply'"MaterialGraphNode_34.MaterialExpressionMultiply_12"')'
+[2019.10.23-01.54.00:025][149]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_35 or MaterialGraphNode /Engine/Transient.PreviewMaterial_5:MaterialGraph_0.MaterialGraphNode_35
+[2019.10.23-01.54.00:025][149]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_35 or MaterialGraphNode /Engine/Transient.M_Ground_Moss:MaterialGraph_0.MaterialGraphNode_35
+[2019.10.23-01.54.00:026][149]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_35 or MaterialGraphNode /Engine/Transient.M_Ground_Gravel:MaterialGraph_0.MaterialGraphNode_35
+[2019.10.23-01.54.00:026][149]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionMultiply'"MaterialGraphNode_35.MaterialExpressionMultiply_13"')'
+[2019.10.23-01.54.00:026][149]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.landscapestuff:MaterialGraph_0.MaterialGraphNode_3 or MaterialGraphNode /Engine/Transient.PreviewMaterial_5:MaterialGraph_0.MaterialGraphNode_3
+[2019.10.23-01.54.00:026][149]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.landscapestuff:MaterialGraph_0.MaterialGraphNode_3 or MaterialGraphNode /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_3
+[2019.10.23-01.54.00:026][149]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.landscapestuff:MaterialGraph_0.MaterialGraphNode_3 or MaterialGraphNode /Engine/Transient.M_Ground_Moss:MaterialGraph_0.MaterialGraphNode_3
+[2019.10.23-01.54.00:026][149]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.landscapestuff:MaterialGraph_0.MaterialGraphNode_3 or MaterialGraphNode /Engine/Transient.M_Ground_Gravel:MaterialGraph_0.MaterialGraphNode_3
+[2019.10.23-01.54.00:026][149]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionTextureSample'"MaterialGraphNode_3.MaterialExpressionTextureSample_25"',OutputIndex=4,Mask=1,MaskA=1)'
+[2019.10.23-01.54.00:074][149]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_5, compiling. 
+[2019.10.23-01.54.00:087][149]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_25, compiling. 
+[2019.10.23-01.54.00:093][149]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_26, compiling. 
+[2019.10.23-01.54.00:099][149]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_7, compiling. 
+[2019.10.23-01.54.00:105][149]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_4, compiling. 
+[2019.10.23-01.54.00:112][149]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_8, compiling. 
+[2019.10.23-01.54.00:120][149]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_9, compiling. 
+[2019.10.23-01.54.00:127][149]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_16, compiling. 
+[2019.10.23-01.54.00:249][150]MaterialEditorStats: Base pass shader: 134 instructions
+[2019.10.23-01.54.00:249][150]MaterialEditorStats: Base pass shader with Surface Lightmap: 162 instructions
+[2019.10.23-01.54.00:249][150]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 208 instructions
+[2019.10.23-01.54.00:249][150]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2019.10.23-01.54.00:249][150]MaterialEditorStats: Texture samplers: 7/16
+[2019.10.23-01.54.00:249][150]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(6)
+[2019.10.23-01.54.00:249][150]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.10.23-01.54.08:890][363]MaterialEditorStats: Base pass shader: 107 instructions
+[2019.10.23-01.54.08:890][363]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2019.10.23-01.54.08:890][363]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.10.23-01.54.08:890][363]MaterialEditorStats: Texture samplers: 3/16
+[2019.10.23-01.54.24:040][733]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_5, compiling. 
+[2019.10.23-01.54.24:062][733]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_25, compiling. 
+[2019.10.23-01.54.24:095][733]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_26, compiling. 
+[2019.10.23-01.54.24:129][733]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_7, compiling. 
+[2019.10.23-01.54.24:163][733]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_4, compiling. 
+[2019.10.23-01.54.24:197][733]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_8, compiling. 
+[2019.10.23-01.54.24:232][733]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_9, compiling. 
+[2019.10.23-01.54.24:265][733]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_16, compiling. 
+[2019.10.23-01.54.30:414][885]MaterialEditorStats: Base pass shader: 107 instructions
+[2019.10.23-01.54.30:414][885]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2019.10.23-01.54.30:414][885]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.10.23-01.54.30:414][885]MaterialEditorStats: Texture samplers: 3/16
+[2019.10.23-01.54.55:124][487]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2019.10.23-01.54.55:331][487]LogTexture: Display: Building textures: Texture2D_23 (BGRA8, 32X32)
+[2019.10.23-01.54.55:332][487]LogTexture: Display: Building textures: Texture2D_8 (BGRA8, 32X32)
+[2019.10.23-01.54.55:332][487]LogTexture: Display: Building textures: Texture2D_42 (BGRA8, 32X32)
+[2019.10.23-01.54.55:333][487]LogTexture: Display: Building textures: Texture2D_24 (BGRA8, 32X32)
+[2019.10.23-01.54.55:333][487]LogTexture: Display: Building textures: Texture2D_25 (BGRA8, 32X32)
+[2019.10.23-01.54.55:333][487]LogTexture: Display: Building textures: Texture2D_6 (BGRA8, 32X32)
+[2019.10.23-01.54.55:334][487]LogTexture: Display: Building textures: Texture2D_7 (BGRA8, 32X32)
+[2019.10.23-01.54.55:334][487]LogTexture: Display: Building textures: Texture2D_43 (BGRA8, 32X32)
+[2019.10.23-01.54.55:334][487]LogTexture: Display: Building textures: Texture2D_41 (BGRA8, 32X32)
+[2019.10.23-01.54.55:335][487]LogTexture: Display: Building textures: Texture2D_38 (BGRA8, 32X32)
+[2019.10.23-01.54.55:335][487]LogTexture: Display: Building textures: Texture2D_19 (BGRA8, 32X32)
+[2019.10.23-01.54.55:335][487]LogTexture: Display: Building textures: Texture2D_37 (BGRA8, 32X32)
+[2019.10.23-01.54.55:760][487]LogSavePackage: Moving 'E:/level design 2 stuff/github stuff/spoopylevel/MMartinSpoopy/Saved/spoopylevel_Auto6F149D1A34EA10D51E17DBBAC4E76F93F.tmp' to 'E:/level design 2 stuff/github stuff/spoopylevel/MMartinSpoopy/Saved/Autosaves/Game/Maps/spoopylevel_Auto6.umap'
+[2019.10.23-01.54.55:792][487]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/spoopylevel' took 0.695
+[2019.10.23-01.54.55:793][487]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.695
+[2019.10.23-01.54.55:794][487]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Maps/spoopylevel_sharedassets/gravel_LayerInfo] ([1] browsable assets)...
+[2019.10.23-01.54.55:795][487]OBJ SavePackage: Finished generating thumbnails for package [/Game/Maps/spoopylevel_sharedassets/gravel_LayerInfo]
+[2019.10.23-01.54.55:846][487]LogSavePackage: Moving 'E:/level design 2 stuff/github stuff/spoopylevel/MMartinSpoopy/Saved/gravel_LayerInfo_Auto6C9A27D574AE2A910297C8891F495CD09.tmp' to 'E:/level design 2 stuff/github stuff/spoopylevel/MMartinSpoopy/Saved/Autosaves/Game/Maps/spoopylevel_sharedassets/gravel_LayerInfo_Auto6.uasset'
+[2019.10.23-01.54.55:858][487]LogFileHelpers: Auto-saving content packages took 0.064
+[2019.10.23-01.55.47:382][757]LogMaterialEditor: Applying material landscapestuff
+[2019.10.23-01.55.47:824][757]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_5, compiling. 
+[2019.10.23-01.55.47:882][757]LogMaterial: Display: Missing cached shader map for material landscapestuff, compiling. 
+[2019.10.23-01.55.47:904][757]LogMaterial: Display: Missing cached shader map for material landscapestuff, compiling. 
+[2019.10.23-01.55.47:933][757]LogMaterial: Display: Missing cached shader map for material landscapestuff, compiling. 
+[2019.10.23-01.55.47:967][757]LogMaterial: Display: Missing cached shader map for material landscapestuff, compiling. 
+[2019.10.23-01.55.47:995][757]LogMaterial: Display: Missing cached shader map for material landscapestuff, compiling. 
+[2019.10.23-01.55.48:004][757]LogMaterial: Display: Missing cached shader map for material landscapestuff, compiling. 
+[2019.10.23-01.55.48:013][757]LogMaterial: Display: Missing cached shader map for material landscapestuff, compiling. 
+[2019.10.23-01.55.48:022][757]LogMaterial: Display: Missing cached shader map for material landscapestuff, compiling. 
+[2019.10.23-01.55.48:032][757]LogMaterial: Display: Missing cached shader map for material landscapestuff, compiling. 
+[2019.10.23-01.55.48:058][757]LogMaterial: Display: Missing cached shader map for material landscapestuff, compiling. 
+[2019.10.23-01.55.48:101][757]LogMaterial: Display: Missing cached shader map for material landscapestuff, compiling. 
+[2019.10.23-01.55.48:168][757]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2019.10.23-01.55.48:176][757]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.23-01.56.41:303][757]TextureStreamingBuild: Display: Compiling optional shaders took 53.133 seconds.
+[2019.10.23-01.56.41:326][757]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2019.10.23-01.56.41:561][758]MaterialEditorStats: Base pass shader: 107 instructions
+[2019.10.23-01.56.41:561][758]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2019.10.23-01.56.41:561][758]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.10.23-01.56.41:561][758]MaterialEditorStats: Texture samplers: 3/16
+[2019.10.23-01.57.06:308][359]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.23-01.57.06:922][373]LogEditorTransaction: Undo Create Pin Link
+[2019.10.23-01.57.06:925][373]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_5, compiling. 
+[2019.10.23-01.57.06:984][373]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_5, compiling. 
+[2019.10.23-01.57.07:026][373]LogMaterial: Display: Missing cached shader map for material M_Ground_Grass, compiling. 
+[2019.10.23-01.57.07:090][373]LogMaterial: Display: Missing cached shader map for material M_Ground_Moss, compiling. 
+[2019.10.23-01.57.07:119][373]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2019.10.23-01.57.07:155][373]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_4, compiling. 
+[2019.10.23-01.57.07:190][373]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_12, compiling. 
+[2019.10.23-01.57.07:226][373]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_5, compiling. 
+[2019.10.23-01.57.07:262][373]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_13, compiling. 
+[2019.10.23-01.57.07:296][373]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_14, compiling. 
+[2019.10.23-01.57.07:329][373]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_15, compiling. 
+[2019.10.23-01.57.07:368][373]LogMaterial: Display: Missing cached shader map for material M_Ground_Gravel, compiling. 
+[2019.10.23-01.57.07:389][373]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_25, compiling. 
+[2019.10.23-01.57.07:421][373]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_26, compiling. 
+[2019.10.23-01.57.07:455][373]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_4, compiling. 
+[2019.10.23-01.57.07:487][373]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_4, compiling. 
+[2019.10.23-01.57.07:520][373]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_5, compiling. 
+[2019.10.23-01.57.07:554][373]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_6, compiling. 
+[2019.10.23-01.57.07:588][373]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_7, compiling. 
+[2019.10.23-01.57.08:174][384]LogEditorTransaction: Undo Move Node
+[2019.10.23-01.57.08:208][384]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_5, compiling. 
+[2019.10.23-01.57.08:243][384]LogMaterial: Display: Missing cached shader map for material M_Ground_Grass, compiling. 
+[2019.10.23-01.57.08:266][384]LogMaterial: Display: Missing cached shader map for material M_Ground_Moss, compiling. 
+[2019.10.23-01.57.08:288][384]LogMaterial: Display: Missing cached shader map for material M_Ground_Gravel, compiling. 
+[2019.10.23-01.57.08:914][396]LogEditorTransaction: Undo Material Editor: Paste
+[2019.10.23-01.57.08:920][396]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_5, compiling. 
+[2019.10.23-01.57.08:968][396]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_5, compiling. 
+[2019.10.23-01.57.09:003][396]LogMaterial: Display: Missing cached shader map for material M_Ground_Grass, compiling. 
+[2019.10.23-01.57.09:024][396]LogMaterial: Display: Missing cached shader map for material M_Ground_Moss, compiling. 
+[2019.10.23-01.57.09:044][396]LogMaterial: Display: Missing cached shader map for material M_Ground_Gravel, compiling. 
+[2019.10.23-01.57.09:487][403]LogEditorTransaction: Undo Create Pin Link
+[2019.10.23-01.57.09:490][403]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_5, compiling. 
+[2019.10.23-01.57.09:537][403]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_5, compiling. 
+[2019.10.23-01.57.09:567][403]LogMaterial: Display: Missing cached shader map for material M_Ground_Grass, compiling. 
+[2019.10.23-01.57.09:591][403]LogMaterial: Display: Missing cached shader map for material M_Ground_Moss, compiling. 
+[2019.10.23-01.57.09:617][403]LogMaterial: Display: Missing cached shader map for material M_Ground_Gravel, compiling. 
+[2019.10.23-01.57.10:008][410]LogEditorTransaction: Undo Move Node
+[2019.10.23-01.57.10:042][410]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_5, compiling. 
+[2019.10.23-01.57.10:071][410]LogMaterial: Display: Missing cached shader map for material M_Ground_Grass, compiling. 
+[2019.10.23-01.57.10:098][410]LogMaterial: Display: Missing cached shader map for material M_Ground_Moss, compiling. 
+[2019.10.23-01.57.10:120][410]LogMaterial: Display: Missing cached shader map for material M_Ground_Gravel, compiling. 
+[2019.10.23-01.57.10:435][415]LogEditorTransaction: Undo Material Editor: Paste
+[2019.10.23-01.57.10:444][415]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_5, compiling. 
+[2019.10.23-01.57.10:491][415]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_5, compiling. 
+[2019.10.23-01.57.10:518][415]LogMaterial: Display: Missing cached shader map for material M_Ground_Grass, compiling. 
+[2019.10.23-01.57.10:547][415]LogMaterial: Display: Missing cached shader map for material M_Ground_Moss, compiling. 
+[2019.10.23-01.57.10:570][415]LogMaterial: Display: Missing cached shader map for material M_Ground_Gravel, compiling. 
+[2019.10.23-01.57.10:970][423]LogEditorTransaction: Undo Move Node
+[2019.10.23-01.57.11:006][423]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_5, compiling. 
+[2019.10.23-01.57.11:030][423]LogMaterial: Display: Missing cached shader map for material M_Ground_Grass, compiling. 
+[2019.10.23-01.57.11:052][423]LogMaterial: Display: Missing cached shader map for material M_Ground_Moss, compiling. 
+[2019.10.23-01.57.11:074][423]LogMaterial: Display: Missing cached shader map for material M_Ground_Gravel, compiling. 
+[2019.10.23-01.57.11:397][429]LogEditorTransaction: Undo Move Node
+[2019.10.23-01.57.11:434][429]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_5, compiling. 
+[2019.10.23-01.57.11:457][429]LogMaterial: Display: Missing cached shader map for material M_Ground_Grass, compiling. 
+[2019.10.23-01.57.11:477][429]LogMaterial: Display: Missing cached shader map for material M_Ground_Moss, compiling. 
+[2019.10.23-01.57.11:500][429]LogMaterial: Display: Missing cached shader map for material M_Ground_Gravel, compiling. 
+[2019.10.23-01.57.11:951][438]LogEditorTransaction: Undo Create Pin Link
+[2019.10.23-01.57.11:954][438]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_5, compiling. 
+[2019.10.23-01.57.12:010][438]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_5, compiling. 
+[2019.10.23-01.57.12:034][438]LogMaterial: Display: Missing cached shader map for material M_Ground_Grass, compiling. 
+[2019.10.23-01.57.12:056][438]LogMaterial: Display: Missing cached shader map for material M_Ground_Moss, compiling. 
+[2019.10.23-01.57.12:079][438]LogMaterial: Display: Missing cached shader map for material M_Ground_Gravel, compiling. 
+[2019.10.23-01.57.12:363][443]LogEditorTransaction: Undo Move Node
+[2019.10.23-01.57.12:399][443]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_5, compiling. 
+[2019.10.23-01.57.12:425][443]LogMaterial: Display: Missing cached shader map for material M_Ground_Grass, compiling. 
+[2019.10.23-01.57.12:450][443]LogMaterial: Display: Missing cached shader map for material M_Ground_Moss, compiling. 
+[2019.10.23-01.57.12:471][443]LogMaterial: Display: Missing cached shader map for material M_Ground_Gravel, compiling. 
+[2019.10.23-01.57.12:744][448]LogEditorTransaction: Undo Move Node
+[2019.10.23-01.57.12:778][448]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_5, compiling. 
+[2019.10.23-01.57.12:800][448]LogMaterial: Display: Missing cached shader map for material M_Ground_Grass, compiling. 
+[2019.10.23-01.57.12:823][448]LogMaterial: Display: Missing cached shader map for material M_Ground_Moss, compiling. 
+[2019.10.23-01.57.12:845][448]LogMaterial: Display: Missing cached shader map for material M_Ground_Gravel, compiling. 
+[2019.10.23-01.57.13:118][453]LogEditorTransaction: Undo Material Editor: Paste
+[2019.10.23-01.57.13:125][453]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_5, compiling. 
+[2019.10.23-01.57.13:181][453]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_5, compiling. 
+[2019.10.23-01.57.13:206][453]LogMaterial: Display: Missing cached shader map for material M_Ground_Grass, compiling. 
+[2019.10.23-01.57.13:229][453]LogMaterial: Display: Missing cached shader map for material M_Ground_Moss, compiling. 
+[2019.10.23-01.57.13:253][453]LogMaterial: Display: Missing cached shader map for material M_Ground_Gravel, compiling. 
+[2019.10.23-01.57.16:006][516]LogMaterialEditor: Applying material landscapestuff
+[2019.10.23-01.57.16:681][516]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_5, compiling. 
+[2019.10.23-01.57.16:743][516]LogMaterial: Display: Missing cached shader map for material landscapestuff, compiling. 
+[2019.10.23-01.57.16:760][516]LogMaterial: Display: Missing cached shader map for material landscapestuff, compiling. 
+[2019.10.23-01.57.16:777][516]LogMaterial: Display: Missing cached shader map for material landscapestuff, compiling. 
+[2019.10.23-01.57.16:786][516]LogMaterial: Display: Missing cached shader map for material landscapestuff, compiling. 
+[2019.10.23-01.57.16:795][516]LogMaterial: Display: Missing cached shader map for material landscapestuff, compiling. 
+[2019.10.23-01.57.16:806][516]LogMaterial: Display: Missing cached shader map for material landscapestuff, compiling. 
+[2019.10.23-01.57.16:819][516]LogMaterial: Display: Missing cached shader map for material landscapestuff, compiling. 
+[2019.10.23-01.57.16:849][516]LogMaterial: Display: Missing cached shader map for material landscapestuff, compiling. 
+[2019.10.23-01.57.16:889][516]LogMaterial: Display: Missing cached shader map for material landscapestuff, compiling. 
+[2019.10.23-01.57.16:920][516]LogMaterial: Display: Missing cached shader map for material landscapestuff, compiling. 
+[2019.10.23-01.57.16:963][516]LogMaterial: Display: Missing cached shader map for material landscapestuff, compiling. 
+[2019.10.23-01.57.17:033][516]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2019.10.23-01.57.17:044][516]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.23-02.03.42:074][516]TextureStreamingBuild: Display: Compiling optional shaders took 385.037 seconds.
+[2019.10.23-02.03.42:097][516]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2019.10.23-02.03.42:161][517]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.23-02.03.42:161][517]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.23-02.03.42:161][517]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.23-02.03.42:161][517]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.23-02.03.42:161][517]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.23-02.03.42:161][517]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.23-02.03.42:507][520]MaterialEditorStats: Base pass shader: 107 instructions
+[2019.10.23-02.03.42:507][520]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2019.10.23-02.03.42:507][520]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.10.23-02.03.42:507][520]MaterialEditorStats: Texture samplers: 3/16
+[2019.10.23-02.03.42:507][520]MaterialEditorStats: Base pass shader: 132 instructions
+[2019.10.23-02.03.42:507][520]MaterialEditorStats: Base pass shader with Surface Lightmap: 154 instructions
+[2019.10.23-02.03.42:507][520]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 200 instructions
+[2019.10.23-02.03.42:507][520]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2019.10.23-02.03.42:507][520]MaterialEditorStats: Texture samplers: 7/16
+[2019.10.23-02.03.42:507][520]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(6)
+[2019.10.23-02.03.42:507][520]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.10.23-02.03.42:507][520]MaterialEditorStats: Base pass shader: 148 instructions
+[2019.10.23-02.03.42:507][520]MaterialEditorStats: Base pass shader with Surface Lightmap: 176 instructions
+[2019.10.23-02.03.42:507][520]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 222 instructions
+[2019.10.23-02.03.42:507][520]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2019.10.23-02.03.42:507][520]MaterialEditorStats: Texture samplers: 7/16
+[2019.10.23-02.03.42:507][520]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(6)
+[2019.10.23-02.03.42:507][520]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.10.23-02.03.42:507][520]MaterialEditorStats: Base pass shader: 134 instructions
+[2019.10.23-02.03.42:507][520]MaterialEditorStats: Base pass shader with Surface Lightmap: 162 instructions
+[2019.10.23-02.03.42:507][520]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 208 instructions
+[2019.10.23-02.03.42:507][520]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2019.10.23-02.03.42:507][520]MaterialEditorStats: Texture samplers: 7/16
+[2019.10.23-02.03.42:507][520]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(6)
+[2019.10.23-02.03.42:508][520]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.10.23-02.03.46:461][714]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/spoopylevel" FILE="E:/level design 2 stuff/github stuff/spoopylevel/MMartinSpoopy/Content/Maps/spoopylevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.10.23-02.03.46:487][714]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2019.10.23-02.03.47:077][714]LogSavePackage: Moving 'E:/level design 2 stuff/github stuff/spoopylevel/MMartinSpoopy/Saved/spoopylevelE0585D3B4B431523B3DB00BF9CFD86C1.tmp' to 'E:/level design 2 stuff/github stuff/spoopylevel/MMartinSpoopy/Content/Maps/spoopylevel.umap'
+[2019.10.23-02.03.47:108][714]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/spoopylevel_BuiltData" FILE="E:/level design 2 stuff/github stuff/spoopylevel/MMartinSpoopy/Content/Maps/spoopylevel_BuiltData.uasset" SILENT=true
+[2019.10.23-02.03.47:157][714]LogSavePackage: Moving 'E:/level design 2 stuff/github stuff/spoopylevel/MMartinSpoopy/Saved/spoopylevel_BuiltData381C31FC4AB387B369C209838FCBE54B.tmp' to 'E:/level design 2 stuff/github stuff/spoopylevel/MMartinSpoopy/Content/Maps/spoopylevel_BuiltData.uasset'
