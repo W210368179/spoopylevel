@@ -612,3 +612,320 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.10.23-00.38.16:601][893]LogDirectoryWatcher: A directory notification failed for 'E:/level design 2 stuff/github stuff/spoopylevel/MMartinSpoopy/Content/Collections/' because it could not be accessed. Aborting watch request...
 [2019.10.23-00.38.16:602][893]LogDirectoryWatcher: A directory notification failed for 'E:/level design 2 stuff/github stuff/spoopylevel/MMartinSpoopy/Content/Developers/w210368179/Collections/' because it could not be accessed. Aborting watch request...
 [2019.10.23-00.38.16:914][894]LogDirectoryWatcher: A directory notification failed for 'E:/level design 2 stuff/github stuff/spoopylevel/MMartinSpoopy/Saved/Collections/' because it could not be accessed. Aborting watch request...
+[2019.10.23-00.44.05:676][198]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.23-00.44.06:234][205]LogTexture: Display: Building textures: Texture2D_2 (G8, 128X128)
+[2019.10.23-00.44.21:767][749]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.23-00.44.40:576][466]Cmd: TRANSACTION UNDO
+[2019.10.23-00.44.40:576][466]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2019.10.23-00.44.40:628][466]LogTexture: Display: Building textures: Texture2D_114 (BGRA8, 32X32)
+[2019.10.23-00.44.40:632][466]LogTexture: Display: Building textures: Texture2D_115 (BGRA8, 32X32)
+[2019.10.23-00.44.40:637][466]LogTexture: Display: Building textures: Texture2D_106 (BGRA8, 32X32)
+[2019.10.23-00.44.40:641][466]LogTexture: Display: Building textures: Texture2D_99 (BGRA8, 32X32)
+[2019.10.23-00.44.40:645][466]LogTexture: Display: Building textures: Texture2D_98 (BGRA8, 32X32)
+[2019.10.23-00.44.40:651][466]LogTexture: Display: Building textures: Texture2D_107 (BGRA8, 32X32)
+[2019.10.23-00.44.51:070][814]Cmd: TRANSACTION UNDO
+[2019.10.23-00.44.51:070][814]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2019.10.23-00.44.51:134][814]LogTexture: Display: Building textures: Texture2D_100 (BGRA8, 32X32)
+[2019.10.23-00.44.51:138][814]LogTexture: Display: Building textures: Texture2D_99 (BGRA8, 32X32)
+[2019.10.23-00.44.51:142][814]LogTexture: Display: Building textures: Texture2D_107 (BGRA8, 32X32)
+[2019.10.23-00.44.51:147][814]LogTexture: Display: Building textures: Texture2D_108 (BGRA8, 32X32)
+[2019.10.23-00.44.57:116][ 17]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.23-00.45.00:068][154]Cmd: TRANSACTION UNDO
+[2019.10.23-00.45.00:068][154]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2019.10.23-00.45.00:129][154]LogTexture: Display: Building textures: Texture2D_107 (BGRA8, 32X32)
+[2019.10.23-00.45.00:133][154]LogTexture: Display: Building textures: Texture2D_99 (BGRA8, 32X32)
+[2019.10.23-00.45.00:137][154]LogTexture: Display: Building textures: Texture2D_100 (BGRA8, 32X32)
+[2019.10.23-00.45.00:142][154]LogTexture: Display: Building textures: Texture2D_108 (BGRA8, 32X32)
+[2019.10.23-00.45.10:465][495]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.23-00.45.20:619][894]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.23-00.45.29:088][177]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.23-00.45.30:911][245]Cmd: TRANSACTION UNDO
+[2019.10.23-00.45.30:911][245]LogEditorTransaction: Undo Clicking on Actors
+[2019.10.23-00.45.36:114][502]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2019.10.23-00.45.38:431][574]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2019.10.23-00.45.39:990][622]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2019.10.23-00.45.40:220][628]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.10.23-00.45.42:718][699]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2019.10.23-00.45.45:176][779]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2019.10.23-00.45.46:085][808]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2019.10.23-00.45.48:881][900]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2019.10.23-00.45.49:890][932]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.23-00.45.51:939][  3]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2019.10.23-00.45.53:184][ 43]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.23-00.45.53:261][ 47]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.23-00.45.53:270][ 47]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/spoopylevel.spoopylevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/spoopylevel.spoopylevel:PersistentLevel.spoopylevel' with GeneratedClass '/Game/Maps/spoopylevel.spoopylevel_C' with ClassGeneratedBy '/Game/Maps/spoopylevel.spoopylevel:PersistentLevel.spoopylevel'
+[2019.10.23-00.45.53:270][ 47]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.23-00.45.53:270][ 47]PIE: New page: PIE session: spoopylevel (Oct 22, 2019, 2:45:53 PM)
+[2019.10.23-00.45.53:283][ 47]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_spoopylevel
+[2019.10.23-00.45.53:303][ 47]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020441s)
+[2019.10.23-00.45.53:304][ 47]LogAIModule: Creating AISystem for world spoopylevel
+[2019.10.23-00.45.53:304][ 47]LogPlayLevel: PIE: World Init took: (0.000919s)
+[2019.10.23-00.45.53:304][ 47]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/spoopylevel.spoopylevel to /Game/Maps/UEDPIE_0_spoopylevel.spoopylevel (0.021608s)
+[2019.10.23-00.45.53:327][ 47]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2019.10.23-00.45.53:330][ 47]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.23-00.45.53:356][ 47]LogInit: FAudioDevice initialized.
+[2019.10.23-00.45.53:398][ 47]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.10.23-00.45.53:400][ 47]LogWorld: Bringing World /Game/Maps/UEDPIE_0_spoopylevel.spoopylevel up for play (max tick rate 0) at 2019.10.22-19.45.53
+[2019.10.23-00.45.53:401][ 47]LogWorld: Bringing up level for play took: 0.001351
+[2019.10.23-00.45.53:422][ 47]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2019.10.23-00.45.53:425][ 47]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_spoopylevel -0.688
+[2019.10.23-00.45.53:425][ 47]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/spoopylevel.spoopylevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/spoopylevel.spoopylevel:PersistentLevel.spoopylevel' with GeneratedClass '/Game/Maps/spoopylevel.spoopylevel_C' with ClassGeneratedBy '/Game/Maps/spoopylevel.spoopylevel:PersistentLevel.spoopylevel'
+[2019.10.23-00.45.54:223][ 77]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/spoopylevel.spoopylevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/spoopylevel.spoopylevel:PersistentLevel.spoopylevel' with GeneratedClass '/Game/Maps/spoopylevel.spoopylevel_C' with ClassGeneratedBy '/Game/Maps/spoopylevel.spoopylevel:PersistentLevel.spoopylevel'
+[2019.10.23-00.45.54:223][ 77]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.23-00.45.54:281][ 77]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.23-00.45.54:281][ 77]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/spoopylevel.spoopylevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/spoopylevel.spoopylevel:PersistentLevel.spoopylevel' with GeneratedClass '/Game/Maps/spoopylevel.spoopylevel_C' with ClassGeneratedBy '/Game/Maps/spoopylevel.spoopylevel:PersistentLevel.spoopylevel'
+[2019.10.23-00.45.54:306][ 77]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.23-00.45.54:309][ 77]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2019.10.23-00.45.54:328][ 79]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2019.10.23-00.45.57:500][182]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2019.10.23-00.45.58:798][226]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.23-00.46.01:603][323]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2019.10.23-00.46.03:603][385]LogEditorViewport: Clicking on Actor (LMB): SkyLight (SkyLight)
+[2019.10.23-00.46.04:484][406]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (Light Source)
+[2019.10.23-00.46.05:562][440]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.23-00.46.16:220][792]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.23-00.46.17:193][902]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.23-00.46.29:030][668]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.23-00.46.40:604][ 87]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.23-00.46.42:370][210]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.23-00.46.45:241][362]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 32X32)
+[2019.10.23-00.46.46:618][409]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 32X32)
+[2019.10.23-00.46.48:751][479]LogTexture: Display: Building textures: Texture2D_2 (BGRA8, 32X32)
+[2019.10.23-00.46.52:493][605]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.23-00.47.01:592][ 14]Cmd: TRANSACTION UNDO
+[2019.10.23-00.47.01:592][ 14]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2019.10.23-00.47.01:660][ 14]LogTexture: Display: Building textures: Texture2D_98 (BGRA8, 32X32)
+[2019.10.23-00.47.01:663][ 14]LogTexture: Display: Building textures: Texture2D_90 (BGRA8, 32X32)
+[2019.10.23-00.47.01:670][ 14]LogTexture: Display: Building textures: Texture2D_114 (BGRA8, 32X32)
+[2019.10.23-00.47.01:674][ 14]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 32X32)
+[2019.10.23-00.47.01:679][ 14]LogTexture: Display: Building textures: Texture2D_106 (BGRA8, 32X32)
+[2019.10.23-00.47.01:683][ 14]LogTexture: Display: Building textures: Texture2D_2 (BGRA8, 32X32)
+[2019.10.23-00.47.05:816][153]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.23-00.47.26:796][958]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.23-00.47.26:887][964]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.23-00.47.27:200][964]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/spoopylevel.spoopylevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/spoopylevel.spoopylevel:PersistentLevel.spoopylevel' with GeneratedClass '/Game/Maps/spoopylevel.spoopylevel_C' with ClassGeneratedBy '/Game/Maps/spoopylevel.spoopylevel:PersistentLevel.spoopylevel'
+[2019.10.23-00.47.27:201][964]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.23-00.47.27:201][964]PIE: New page: PIE session: spoopylevel (Oct 22, 2019, 2:47:27 PM)
+[2019.10.23-00.47.27:201][964]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_spoopylevel
+[2019.10.23-00.47.27:221][964]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019953s)
+[2019.10.23-00.47.27:222][964]LogAIModule: Creating AISystem for world spoopylevel
+[2019.10.23-00.47.27:222][964]LogPlayLevel: PIE: World Init took: (0.001011s)
+[2019.10.23-00.47.27:222][964]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/spoopylevel.spoopylevel to /Game/Maps/UEDPIE_0_spoopylevel.spoopylevel (0.021445s)
+[2019.10.23-00.47.27:246][964]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2019.10.23-00.47.27:253][964]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.23-00.47.27:277][964]LogInit: FAudioDevice initialized.
+[2019.10.23-00.47.27:306][964]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.10.23-00.47.27:308][964]LogWorld: Bringing World /Game/Maps/UEDPIE_0_spoopylevel.spoopylevel up for play (max tick rate 0) at 2019.10.22-19.47.27
+[2019.10.23-00.47.27:308][964]LogWorld: Bringing up level for play took: 0.001526
+[2019.10.23-00.47.27:322][964]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_spoopylevel -0.794
+[2019.10.23-00.47.27:322][964]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/spoopylevel.spoopylevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/spoopylevel.spoopylevel:PersistentLevel.spoopylevel' with GeneratedClass '/Game/Maps/spoopylevel.spoopylevel_C' with ClassGeneratedBy '/Game/Maps/spoopylevel.spoopylevel:PersistentLevel.spoopylevel'
+[2019.10.23-00.47.33:285][188]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/spoopylevel.spoopylevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/spoopylevel.spoopylevel:PersistentLevel.spoopylevel' with GeneratedClass '/Game/Maps/spoopylevel.spoopylevel_C' with ClassGeneratedBy '/Game/Maps/spoopylevel.spoopylevel:PersistentLevel.spoopylevel'
+[2019.10.23-00.47.33:285][188]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.23-00.47.33:341][188]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.23-00.47.33:341][188]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/spoopylevel.spoopylevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/spoopylevel.spoopylevel:PersistentLevel.spoopylevel' with GeneratedClass '/Game/Maps/spoopylevel.spoopylevel_C' with ClassGeneratedBy '/Game/Maps/spoopylevel.spoopylevel:PersistentLevel.spoopylevel'
+[2019.10.23-00.47.33:367][188]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.23-00.47.33:370][188]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2019.10.23-00.47.33:388][189]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2019.10.23-00.48.05:313][254]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.23-00.48.29:223][ 51]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.23-00.48.45:395][556]Cmd: TRANSACTION UNDO
+[2019.10.23-00.48.45:395][556]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2019.10.23-00.48.45:467][556]LogTexture: Display: Building textures: Texture2D_94 (BGRA8, 32X32)
+[2019.10.23-00.48.45:472][556]LogTexture: Display: Building textures: Texture2D_107 (BGRA8, 32X32)
+[2019.10.23-00.48.45:477][556]LogTexture: Display: Building textures: Texture2D_100 (BGRA8, 32X32)
+[2019.10.23-00.48.45:480][556]LogTexture: Display: Building textures: Texture2D_92 (BGRA8, 32X32)
+[2019.10.23-00.48.45:548][556]LogTexture: Display: Building textures: Texture2D_108 (BGRA8, 32X32)
+[2019.10.23-00.48.45:552][556]LogTexture: Display: Building textures: Texture2D_91 (BGRA8, 32X32)
+[2019.10.23-00.48.45:556][556]LogTexture: Display: Building textures: Texture2D_99 (BGRA8, 32X32)
+[2019.10.23-00.48.45:562][556]LogTexture: Display: Building textures: Texture2D_93 (BGRA8, 32X32)
+[2019.10.23-00.48.45:568][556]LogTexture: Display: Building textures: Texture2D_110 (BGRA8, 32X32)
+[2019.10.23-00.48.45:574][556]LogTexture: Display: Building textures: Texture2D_109 (BGRA8, 32X32)
+[2019.10.23-00.48.45:582][556]LogTexture: Display: Building textures: Texture2D_101 (BGRA8, 32X32)
+[2019.10.23-00.48.45:589][556]LogTexture: Display: Building textures: Texture2D_102 (BGRA8, 32X32)
+[2019.10.23-00.49.19:946][683]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.23-00.49.55:577][882]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.23-00.50.00:155][ 39]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.23-00.50.04:905][202]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.23-00.50.22:088][782]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.23-00.50.30:373][ 56]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.23-00.50.35:638][231]Cmd: TRANSACTION UNDO
+[2019.10.23-00.50.35:638][231]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2019.10.23-00.50.35:657][231]LogTexture: Display: Building textures: Texture2D_102 (BGRA8, 32X32)
+[2019.10.23-00.50.35:660][231]LogTexture: Display: Building textures: Texture2D_94 (BGRA8, 32X32)
+[2019.10.23-00.50.47:139][608]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.23-00.50.52:050][774]Cmd: TRANSACTION UNDO
+[2019.10.23-00.50.52:050][774]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2019.10.23-00.50.52:104][774]LogTexture: Display: Building textures: Texture2D_110 (BGRA8, 32X32)
+[2019.10.23-00.50.52:108][774]LogTexture: Display: Building textures: Texture2D_111 (BGRA8, 32X32)
+[2019.10.23-00.50.52:119][774]LogTexture: Display: Building textures: Texture2D_103 (BGRA8, 32X32)
+[2019.10.23-00.50.52:122][774]LogTexture: Display: Building textures: Texture2D_102 (BGRA8, 32X32)
+[2019.10.23-00.50.52:233][779]Cmd: TRANSACTION UNDO
+[2019.10.23-00.50.52:233][779]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2019.10.23-00.50.52:280][779]LogTexture: Display: Building textures: Texture2D_103 (BGRA8, 32X32)
+[2019.10.23-00.50.52:282][779]LogTexture: Display: Building textures: Texture2D_111 (BGRA8, 32X32)
+[2019.10.23-00.50.52:770][795]Cmd: TRANSACTION UNDO
+[2019.10.23-00.50.52:770][795]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2019.10.23-00.50.52:833][795]LogTexture: Display: Building textures: Texture2D_110 (BGRA8, 32X32)
+[2019.10.23-00.50.52:836][795]LogTexture: Display: Building textures: Texture2D_111 (BGRA8, 32X32)
+[2019.10.23-00.50.52:838][795]LogTexture: Display: Building textures: Texture2D_103 (BGRA8, 32X32)
+[2019.10.23-00.50.52:841][795]LogTexture: Display: Building textures: Texture2D_102 (BGRA8, 32X32)
+[2019.10.23-00.50.53:106][803]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.23-00.50.54:012][831]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.23-00.51.07:285][282]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.23-00.51.23:451][830]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.23-00.51.26:717][940]Cmd: TRANSACTION UNDO
+[2019.10.23-00.51.26:717][940]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2019.10.23-00.51.26:763][940]LogTexture: Display: Building textures: Texture2D_91 (BGRA8, 32X32)
+[2019.10.23-00.51.26:767][940]LogTexture: Display: Building textures: Texture2D_99 (BGRA8, 32X32)
+[2019.10.23-00.51.27:214][955]Cmd: TRANSACTION UNDO
+[2019.10.23-00.51.27:214][955]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2019.10.23-00.51.27:230][955]LogTexture: Display: Building textures: Texture2D_91 (BGRA8, 32X32)
+[2019.10.23-00.51.27:233][955]LogTexture: Display: Building textures: Texture2D_99 (BGRA8, 32X32)
+[2019.10.23-00.51.43:777][523]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.23-00.51.51:696][788]Cmd: TRANSACTION UNDO
+[2019.10.23-00.51.51:696][788]LogEditorTransaction: Undo Landscape Editing: Smooth
+[2019.10.23-00.51.51:742][788]LogTexture: Display: Building textures: Texture2D_98 (BGRA8, 32X32)
+[2019.10.23-00.51.51:747][788]LogTexture: Display: Building textures: Texture2D_99 (BGRA8, 32X32)
+[2019.10.23-00.52.27:478][998]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.23-00.52.36:687][321]Cmd: TRANSACTION UNDO
+[2019.10.23-00.52.36:687][321]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2019.10.23-00.52.36:761][321]LogTexture: Display: Building textures: Texture2D_70 (BGRA8, 32X32)
+[2019.10.23-00.52.36:766][321]LogTexture: Display: Building textures: Texture2D_77 (BGRA8, 32X32)
+[2019.10.23-00.52.36:770][321]LogTexture: Display: Building textures: Texture2D_75 (BGRA8, 32X32)
+[2019.10.23-00.52.36:773][321]LogTexture: Display: Building textures: Texture2D_76 (BGRA8, 32X32)
+[2019.10.23-00.52.36:777][321]LogTexture: Display: Building textures: Texture2D_69 (BGRA8, 32X32)
+[2019.10.23-00.52.36:781][321]LogTexture: Display: Building textures: Texture2D_68 (BGRA8, 32X32)
+[2019.10.23-00.52.36:785][321]LogTexture: Display: Building textures: Texture2D_66 (BGRA8, 32X32)
+[2019.10.23-00.52.36:789][321]LogTexture: Display: Building textures: Texture2D_67 (BGRA8, 32X32)
+[2019.10.23-00.52.46:682][657]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.23-00.52.48:530][721]LogTexture: Display: Building textures: Texture2D_3 (BGRA8, 32X32)
+[2019.10.23-00.52.49:470][754]LogTexture: Display: Building textures: Texture2D_4 (BGRA8, 32X32)
+[2019.10.23-00.52.50:186][779]LogTexture: Display: Building textures: Texture2D_5 (BGRA8, 32X32)
+[2019.10.23-00.52.53:679][900]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.23-00.53.03:998][253]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.23-00.53.05:304][297]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.23-00.53.07:761][382]Cmd: TRANSACTION UNDO
+[2019.10.23-00.53.07:761][382]LogEditorTransaction: Undo Landscape Editing: Smooth
+[2019.10.23-00.53.07:823][382]LogTexture: Display: Building textures: Texture2D_69 (BGRA8, 32X32)
+[2019.10.23-00.53.07:826][382]LogTexture: Display: Building textures: Texture2D_68 (BGRA8, 32X32)
+[2019.10.23-00.53.07:831][382]LogTexture: Display: Building textures: Texture2D_77 (BGRA8, 32X32)
+[2019.10.23-00.53.07:836][382]LogTexture: Display: Building textures: Texture2D_76 (BGRA8, 32X32)
+[2019.10.23-00.53.07:996][387]Cmd: TRANSACTION UNDO
+[2019.10.23-00.53.07:996][387]LogEditorTransaction: Undo Landscape Editing: Smooth
+[2019.10.23-00.53.08:027][387]LogTexture: Display: Building textures: Texture2D_84 (BGRA8, 32X32)
+[2019.10.23-00.53.08:030][387]LogTexture: Display: Building textures: Texture2D_77 (BGRA8, 32X32)
+[2019.10.23-00.53.08:034][387]LogTexture: Display: Building textures: Texture2D_76 (BGRA8, 32X32)
+[2019.10.23-00.53.08:038][387]LogTexture: Display: Building textures: Texture2D_85 (BGRA8, 32X32)
+[2019.10.23-00.53.08:281][396]Cmd: TRANSACTION UNDO
+[2019.10.23-00.53.08:281][396]LogEditorTransaction: Undo Landscape Editing: Smooth
+[2019.10.23-00.53.08:342][396]LogTexture: Display: Building textures: Texture2D_84 (BGRA8, 32X32)
+[2019.10.23-00.53.08:345][396]LogTexture: Display: Building textures: Texture2D_85 (BGRA8, 32X32)
+[2019.10.23-00.53.08:348][396]LogTexture: Display: Building textures: Texture2D_77 (BGRA8, 32X32)
+[2019.10.23-00.53.08:352][396]LogTexture: Display: Building textures: Texture2D_76 (BGRA8, 32X32)
+[2019.10.23-00.53.08:622][406]Cmd: TRANSACTION UNDO
+[2019.10.23-00.53.08:622][406]LogEditorTransaction: Undo Landscape Editing: Smooth
+[2019.10.23-00.53.09:023][419]Cmd: TRANSACTION UNDO
+[2019.10.23-00.53.09:023][419]LogEditorTransaction: Undo Edit Brush Size
+[2019.10.23-00.53.10:346][462]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.23-00.53.58:067][ 93]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.23-00.54.25:790][ 47]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.23-00.54.29:018][157]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.23-00.54.51:804][916]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.23-00.54.54:795][ 17]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.23-00.54.58:375][137]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.23-00.54.59:568][177]Cmd: TRANSACTION UNDO
+[2019.10.23-00.54.59:568][177]LogEditorTransaction: Undo Landscape Editing: Smooth
+[2019.10.23-00.54.59:615][177]LogTexture: Display: Building textures: Texture2D_99 (BGRA8, 32X32)
+[2019.10.23-00.54.59:619][177]LogTexture: Display: Building textures: Texture2D_107 (BGRA8, 32X32)
+[2019.10.23-00.55.00:015][187]Cmd: TRANSACTION UNDO
+[2019.10.23-00.55.00:015][187]LogEditorTransaction: Undo Landscape Editing: Smooth
+[2019.10.23-00.55.00:046][187]LogTexture: Display: Building textures: Texture2D_107 (BGRA8, 32X32)
+[2019.10.23-00.55.00:049][187]LogTexture: Display: Building textures: Texture2D_100 (BGRA8, 32X32)
+[2019.10.23-00.55.00:054][187]LogTexture: Display: Building textures: Texture2D_99 (BGRA8, 32X32)
+[2019.10.23-00.55.00:058][187]LogTexture: Display: Building textures: Texture2D_108 (BGRA8, 32X32)
+[2019.10.23-00.55.00:542][201]Cmd: TRANSACTION UNDO
+[2019.10.23-00.55.00:543][201]LogEditorTransaction: Undo Landscape Editing: Smooth
+[2019.10.23-00.55.00:604][201]LogTexture: Display: Building textures: Texture2D_107 (BGRA8, 32X32)
+[2019.10.23-00.55.00:606][201]LogTexture: Display: Building textures: Texture2D_100 (BGRA8, 32X32)
+[2019.10.23-00.55.00:610][201]LogTexture: Display: Building textures: Texture2D_99 (BGRA8, 32X32)
+[2019.10.23-00.55.00:613][201]LogTexture: Display: Building textures: Texture2D_108 (BGRA8, 32X32)
+[2019.10.23-00.55.01:030][213]Cmd: TRANSACTION UNDO
+[2019.10.23-00.55.01:030][213]LogEditorTransaction: Undo Landscape Editing: Smooth
+[2019.10.23-00.55.01:091][213]LogTexture: Display: Building textures: Texture2D_107 (BGRA8, 32X32)
+[2019.10.23-00.55.01:095][213]LogTexture: Display: Building textures: Texture2D_100 (BGRA8, 32X32)
+[2019.10.23-00.55.01:098][213]LogTexture: Display: Building textures: Texture2D_99 (BGRA8, 32X32)
+[2019.10.23-00.55.01:101][213]LogTexture: Display: Building textures: Texture2D_108 (BGRA8, 32X32)
+[2019.10.23-00.55.01:517][225]Cmd: TRANSACTION UNDO
+[2019.10.23-00.55.01:518][225]LogEditorTransaction: Undo Landscape Editing: Smooth
+[2019.10.23-00.55.01:591][225]LogTexture: Display: Building textures: Texture2D_107 (BGRA8, 32X32)
+[2019.10.23-00.55.01:628][225]LogTexture: Display: Building textures: Texture2D_108 (BGRA8, 32X32)
+[2019.10.23-00.55.01:631][225]LogTexture: Display: Building textures: Texture2D_100 (BGRA8, 32X32)
+[2019.10.23-00.55.01:634][225]LogTexture: Display: Building textures: Texture2D_99 (BGRA8, 32X32)
+[2019.10.23-00.55.01:638][225]LogTexture: Display: Building textures: Texture2D_92 (BGRA8, 32X32)
+[2019.10.23-00.55.01:642][225]LogTexture: Display: Building textures: Texture2D_91 (BGRA8, 32X32)
+[2019.10.23-00.55.14:590][663]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.23-00.55.21:252][879]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.23-00.56.04:457][359]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.23-00.56.04:970][359]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2019.10.23-00.56.05:019][359]LogTexture: Display: Building textures: Texture2D_100 (BGRA8, 32X32)
+[2019.10.23-00.56.05:019][359]LogTexture: Display: Building textures: Texture2D_101 (BGRA8, 32X32)
+[2019.10.23-00.56.05:020][359]LogTexture: Display: Building textures: Texture2D_102 (BGRA8, 32X32)
+[2019.10.23-00.56.05:021][359]LogTexture: Display: Building textures: Texture2D_103 (BGRA8, 32X32)
+[2019.10.23-00.56.05:021][359]LogTexture: Display: Building textures: Texture2D_106 (BGRA8, 32X32)
+[2019.10.23-00.56.05:021][359]LogTexture: Display: Building textures: Texture2D_107 (BGRA8, 32X32)
+[2019.10.23-00.56.05:022][359]LogTexture: Display: Building textures: Texture2D_108 (BGRA8, 32X32)
+[2019.10.23-00.56.05:022][359]LogTexture: Display: Building textures: Texture2D_109 (BGRA8, 32X32)
+[2019.10.23-00.56.05:023][359]LogTexture: Display: Building textures: Texture2D_110 (BGRA8, 32X32)
+[2019.10.23-00.56.05:023][359]LogTexture: Display: Building textures: Texture2D_111 (BGRA8, 32X32)
+[2019.10.23-00.56.05:023][359]LogTexture: Display: Building textures: Texture2D_114 (BGRA8, 32X32)
+[2019.10.23-00.56.05:024][359]LogTexture: Display: Building textures: Texture2D_115 (BGRA8, 32X32)
+[2019.10.23-00.56.05:024][359]LogTexture: Display: Building textures: Texture2D_116 (BGRA8, 32X32)
+[2019.10.23-00.56.05:024][359]LogTexture: Display: Building textures: Texture2D_117 (BGRA8, 32X32)
+[2019.10.23-00.56.05:025][359]LogTexture: Display: Building textures: Texture2D_118 (BGRA8, 32X32)
+[2019.10.23-00.56.05:025][359]LogTexture: Display: Building textures: Texture2D_119 (BGRA8, 32X32)
+[2019.10.23-00.56.05:025][359]LogTexture: Display: Building textures: Texture2D_66 (BGRA8, 32X32)
+[2019.10.23-00.56.05:026][359]LogTexture: Display: Building textures: Texture2D_67 (BGRA8, 32X32)
+[2019.10.23-00.56.05:026][359]LogTexture: Display: Building textures: Texture2D_68 (BGRA8, 32X32)
+[2019.10.23-00.56.05:026][359]LogTexture: Display: Building textures: Texture2D_69 (BGRA8, 32X32)
+[2019.10.23-00.56.05:027][359]LogTexture: Display: Building textures: Texture2D_70 (BGRA8, 32X32)
+[2019.10.23-00.56.05:027][359]LogTexture: Display: Building textures: Texture2D_71 (BGRA8, 32X32)
+[2019.10.23-00.56.05:027][359]LogTexture: Display: Building textures: Texture2D_74 (BGRA8, 32X32)
+[2019.10.23-00.56.05:028][359]LogTexture: Display: Building textures: Texture2D_75 (BGRA8, 32X32)
+[2019.10.23-00.56.05:028][359]LogTexture: Display: Building textures: Texture2D_76 (BGRA8, 32X32)
+[2019.10.23-00.56.05:028][359]LogTexture: Display: Building textures: Texture2D_77 (BGRA8, 32X32)
+[2019.10.23-00.56.05:029][359]LogTexture: Display: Building textures: Texture2D_78 (BGRA8, 32X32)
+[2019.10.23-00.56.05:029][359]LogTexture: Display: Building textures: Texture2D_79 (BGRA8, 32X32)
+[2019.10.23-00.56.05:029][359]LogTexture: Display: Building textures: Texture2D_82 (BGRA8, 32X32)
+[2019.10.23-00.56.05:030][359]LogTexture: Display: Building textures: Texture2D_83 (BGRA8, 32X32)
+[2019.10.23-00.56.05:030][359]LogTexture: Display: Building textures: Texture2D_84 (BGRA8, 32X32)
+[2019.10.23-00.56.05:031][359]LogTexture: Display: Building textures: Texture2D_85 (BGRA8, 32X32)
+[2019.10.23-00.56.05:031][359]LogTexture: Display: Building textures: Texture2D_86 (BGRA8, 32X32)
+[2019.10.23-00.56.05:031][359]LogTexture: Display: Building textures: Texture2D_87 (BGRA8, 32X32)
+[2019.10.23-00.56.05:109][359]LogTexture: Display: Building textures: Texture2D_90 (BGRA8, 32X32)
+[2019.10.23-00.56.05:109][359]LogTexture: Display: Building textures: Texture2D_91 (BGRA8, 32X32)
+[2019.10.23-00.56.05:110][359]LogTexture: Display: Building textures: Texture2D_92 (BGRA8, 32X32)
+[2019.10.23-00.56.05:111][359]LogTexture: Display: Building textures: Texture2D_93 (BGRA8, 32X32)
+[2019.10.23-00.56.05:111][359]LogTexture: Display: Building textures: Texture2D_94 (BGRA8, 32X32)
+[2019.10.23-00.56.05:112][359]LogTexture: Display: Building textures: Texture2D_95 (BGRA8, 32X32)
+[2019.10.23-00.56.05:112][359]LogTexture: Display: Building textures: Texture2D_98 (BGRA8, 32X32)
+[2019.10.23-00.56.05:114][359]LogTexture: Display: Building textures: Texture2D_99 (BGRA8, 32X32)
+[2019.10.23-00.56.05:274][359]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 32X32)
+[2019.10.23-00.56.05:274][359]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 32X32)
+[2019.10.23-00.56.05:275][359]LogTexture: Display: Building textures: Texture2D_2 (BGRA8, 32X32)
+[2019.10.23-00.56.05:275][359]LogTexture: Display: Building textures: Texture2D_3 (BGRA8, 32X32)
+[2019.10.23-00.56.05:276][359]LogTexture: Display: Building textures: Texture2D_4 (BGRA8, 32X32)
+[2019.10.23-00.56.05:276][359]LogTexture: Display: Building textures: Texture2D_5 (BGRA8, 32X32)
+[2019.10.23-00.56.05:616][359]LogSavePackage: Moving 'E:/level design 2 stuff/github stuff/spoopylevel/MMartinSpoopy/Saved/spoopylevel_Auto1F887BDD14ECBD9223DBE73BE50853300.tmp' to 'E:/level design 2 stuff/github stuff/spoopylevel/MMartinSpoopy/Saved/Autosaves/Game/Maps/spoopylevel_Auto1.umap'
+[2019.10.23-00.56.05:710][359]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/spoopylevel' took 0.766
+[2019.10.23-00.56.05:710][359]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.766
+[2019.10.23-00.57.07:343][487]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.23-00.57.09:815][570]LogActorComponent: UnregisterComponent: (/Engine/Transient.SphereBrushComponent) Not registered. Aborting.
+[2019.10.23-00.57.12:208][649]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/spoopylevel" FILE="E:/level design 2 stuff/github stuff/spoopylevel/MMartinSpoopy/Content/Maps/spoopylevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.10.23-00.57.12:233][649]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2019.10.23-00.57.12:328][649]LogTexture: Display: Building textures: Texture2D_91 (BGRA8, 32X32)
+[2019.10.23-00.57.12:328][649]LogTexture: Display: Building textures: Texture2D_92 (BGRA8, 32X32)
+[2019.10.23-00.57.12:389][649]LogTexture: Display: Building textures: Texture2D_99 (BGRA8, 32X32)
+[2019.10.23-00.57.12:390][649]LogTexture: Display: Building textures: Texture2D_100 (BGRA8, 32X32)
+[2019.10.23-00.57.12:390][649]LogTexture: Display: Building textures: Texture2D_107 (BGRA8, 32X32)
+[2019.10.23-00.57.12:390][649]LogTexture: Display: Building textures: Texture2D_108 (BGRA8, 32X32)
+[2019.10.23-00.57.12:680][649]LogSavePackage: Moving 'E:/level design 2 stuff/github stuff/spoopylevel/MMartinSpoopy/Saved/spoopylevel1F24145B4630A1B39CF88DADC010CD4A.tmp' to 'E:/level design 2 stuff/github stuff/spoopylevel/MMartinSpoopy/Content/Maps/spoopylevel.umap'
