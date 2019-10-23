@@ -1,0 +1,835 @@
+﻿Log file open, 10/22/19 18:25:06
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: MMartinSpoopy
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.303006
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -6:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogHMD: Failed initializing OVRPlugin 1.32.0
+LogInit: Build: ++UE4+Release-4.22-CL-7053642
+LogInit: Engine Version: 4.22.3-7053642+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1803) (), CPU: Intel(R) Core(TM) i7-4770 CPU @ 3.40GHz, GPU: AMD Radeon HD 8570
+LogInit: Compiled (64-bit): Jun 18 2019 03:09:11
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line: 
+LogInit: Base Directory: C:/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.10.22-23.25.06:448][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.10.22-23.25.06:448][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.10.22-23.25.06:448][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [E:/level design 2 stuff/spoopylevel/MMartinSpoopy/Saved/Config/Windows/Engine.ini]
+[2019.10.22-23.25.06:448][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.10.22-23.25.06:448][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [E:/level design 2 stuff/spoopylevel/MMartinSpoopy/Saved/Config/Windows/Engine.ini]
+[2019.10.22-23.25.06:448][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [E:/level design 2 stuff/spoopylevel/MMartinSpoopy/Saved/Config/Windows/Engine.ini]
+[2019.10.22-23.25.06:448][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.10.22-23.25.06:448][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.10.22-23.25.06:448][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.10.22-23.25.06:448][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.10.22-23.25.06:448][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.10.22-23.25.06:448][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.10.22-23.25.06:448][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.10.22-23.25.06:449][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.10.22-23.25.06:449][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.10.22-23.25.06:449][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.10.22-23.25.06:449][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.10.22-23.25.06:449][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.10.22-23.25.06:449][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.10.22-23.25.06:449][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [E:/level design 2 stuff/spoopylevel/MMartinSpoopy/Saved/Config/Windows/Engine.ini]
+[2019.10.22-23.25.06:449][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.10.22-23.25.06:449][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.10.22-23.25.06:449][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.10.22-23.25.06:449][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.10.22-23.25.06:449][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.10.22-23.25.06:449][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.10.22-23.25.06:449][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.10.22-23.25.06:449][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.10.22-23.25.06:449][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.10.22-23.25.06:449][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.10.22-23.25.06:449][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.10.22-23.25.06:449][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.10.22-23.25.06:449][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.10.22-23.25.06:449][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [E:/level design 2 stuff/spoopylevel/MMartinSpoopy/Saved/Config/Windows/Engine.ini]
+[2019.10.22-23.25.06:449][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [E:/level design 2 stuff/spoopylevel/MMartinSpoopy/Saved/Config/Windows/Engine.ini]
+[2019.10.22-23.25.06:450][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [E:/level design 2 stuff/spoopylevel/MMartinSpoopy/Saved/Config/Windows/Scalability.ini]
+[2019.10.22-23.25.06:450][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.10.22-23.25.06:450][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.10.22-23.25.06:450][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [E:/level design 2 stuff/spoopylevel/MMartinSpoopy/Saved/Config/Windows/Scalability.ini]
+[2019.10.22-23.25.06:450][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.10.22-23.25.06:450][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [E:/level design 2 stuff/spoopylevel/MMartinSpoopy/Saved/Config/Windows/Scalability.ini]
+[2019.10.22-23.25.06:450][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.10.22-23.25.06:450][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.10.22-23.25.06:451][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.10.22-23.25.06:451][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.10.22-23.25.06:451][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.10.22-23.25.06:451][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.10.22-23.25.06:451][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.10.22-23.25.06:451][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.10.22-23.25.06:451][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.10.22-23.25.06:451][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.10.22-23.25.06:451][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.10.22-23.25.06:451][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.10.22-23.25.06:451][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.10.22-23.25.06:451][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.10.22-23.25.06:451][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.10.22-23.25.06:451][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.10.22-23.25.06:451][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.10.22-23.25.06:451][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.10.22-23.25.06:451][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [E:/level design 2 stuff/spoopylevel/MMartinSpoopy/Saved/Config/Windows/Scalability.ini]
+[2019.10.22-23.25.06:451][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.10.22-23.25.06:451][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.10.22-23.25.06:451][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.10.22-23.25.06:451][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.10.22-23.25.06:451][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.10.22-23.25.06:451][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.10.22-23.25.06:451][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.10.22-23.25.06:451][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.10.22-23.25.06:451][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.10.22-23.25.06:451][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.10.22-23.25.06:451][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.10.22-23.25.06:451][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.10.22-23.25.06:451][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.10.22-23.25.06:451][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.10.22-23.25.06:451][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.10.22-23.25.06:451][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.10.22-23.25.06:451][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.10.22-23.25.06:451][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.10.22-23.25.06:451][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.10.22-23.25.06:451][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.10.22-23.25.06:451][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.10.22-23.25.06:451][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.10.22-23.25.06:451][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.10.22-23.25.06:451][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.10.22-23.25.06:451][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.10.22-23.25.06:451][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.10.22-23.25.06:451][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.10.22-23.25.06:451][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.10.22-23.25.06:451][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.10.22-23.25.06:451][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.10.22-23.25.06:451][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [E:/level design 2 stuff/spoopylevel/MMartinSpoopy/Saved/Config/Windows/Scalability.ini]
+[2019.10.22-23.25.06:451][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.10.22-23.25.06:451][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.10.22-23.25.06:451][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.10.22-23.25.06:451][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.10.22-23.25.06:451][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.10.22-23.25.06:451][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.10.22-23.25.06:451][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.10.22-23.25.06:451][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.10.22-23.25.06:451][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [E:/level design 2 stuff/spoopylevel/MMartinSpoopy/Saved/Config/Windows/Scalability.ini]
+[2019.10.22-23.25.06:451][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.10.22-23.25.06:451][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.10.22-23.25.06:451][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.10.22-23.25.06:451][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.10.22-23.25.06:451][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.10.22-23.25.06:451][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.10.22-23.25.06:451][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.10.22-23.25.06:451][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.10.22-23.25.06:451][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.10.22-23.25.06:451][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.10.22-23.25.06:451][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.10.22-23.25.06:451][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.10.22-23.25.06:451][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.10.22-23.25.06:451][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [E:/level design 2 stuff/spoopylevel/MMartinSpoopy/Saved/Config/Windows/Scalability.ini]
+[2019.10.22-23.25.06:451][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.10.22-23.25.06:451][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.10.22-23.25.06:451][  0]LogInit: Selected Device Profile: [Windows]
+[2019.10.22-23.25.06:451][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.10.22-23.25.06:460][  0]LogHAL: Display: Platform has ~ 16 GB [17119154176 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.10.22-23.25.06:460][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2019.10.22-23.25.06:460][  0]LogInit: Going up to parent DeviceProfile []
+[2019.10.22-23.25.06:460][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [E:/level design 2 stuff/spoopylevel/MMartinSpoopy/Saved/Config/Windows/Scalability.ini]
+[2019.10.22-23.25.06:461][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.10.22-23.25.06:461][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.10.22-23.25.06:461][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [E:/level design 2 stuff/spoopylevel/MMartinSpoopy/Saved/Config/Windows/Scalability.ini]
+[2019.10.22-23.25.06:461][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.10.22-23.25.06:461][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [E:/level design 2 stuff/spoopylevel/MMartinSpoopy/Saved/Config/Windows/Scalability.ini]
+[2019.10.22-23.25.06:461][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.10.22-23.25.06:461][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.10.22-23.25.06:461][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.10.22-23.25.06:461][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.10.22-23.25.06:461][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.10.22-23.25.06:461][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.10.22-23.25.06:461][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.10.22-23.25.06:461][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.10.22-23.25.06:461][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.10.22-23.25.06:461][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.10.22-23.25.06:461][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.10.22-23.25.06:461][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.10.22-23.25.06:461][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.10.22-23.25.06:461][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.10.22-23.25.06:461][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.10.22-23.25.06:461][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.10.22-23.25.06:461][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.10.22-23.25.06:461][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.10.22-23.25.06:461][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [E:/level design 2 stuff/spoopylevel/MMartinSpoopy/Saved/Config/Windows/Scalability.ini]
+[2019.10.22-23.25.06:461][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.10.22-23.25.06:461][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.10.22-23.25.06:461][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.10.22-23.25.06:461][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.10.22-23.25.06:461][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.10.22-23.25.06:461][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.10.22-23.25.06:461][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.10.22-23.25.06:461][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.10.22-23.25.06:461][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.10.22-23.25.06:461][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.10.22-23.25.06:461][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.10.22-23.25.06:461][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.10.22-23.25.06:461][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.10.22-23.25.06:461][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.10.22-23.25.06:461][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.10.22-23.25.06:461][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.10.22-23.25.06:461][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.10.22-23.25.06:461][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.10.22-23.25.06:461][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.10.22-23.25.06:461][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.10.22-23.25.06:461][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.10.22-23.25.06:461][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.10.22-23.25.06:461][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.10.22-23.25.06:461][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.10.22-23.25.06:461][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.10.22-23.25.06:461][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.10.22-23.25.06:461][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.10.22-23.25.06:461][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.10.22-23.25.06:461][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.10.22-23.25.06:461][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.10.22-23.25.06:461][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [E:/level design 2 stuff/spoopylevel/MMartinSpoopy/Saved/Config/Windows/Scalability.ini]
+[2019.10.22-23.25.06:461][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.10.22-23.25.06:461][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.10.22-23.25.06:461][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.10.22-23.25.06:461][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.10.22-23.25.06:461][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.10.22-23.25.06:461][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.10.22-23.25.06:461][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.10.22-23.25.06:461][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.10.22-23.25.06:461][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [E:/level design 2 stuff/spoopylevel/MMartinSpoopy/Saved/Config/Windows/Scalability.ini]
+[2019.10.22-23.25.06:461][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.10.22-23.25.06:461][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.10.22-23.25.06:461][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.10.22-23.25.06:461][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.10.22-23.25.06:461][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.10.22-23.25.06:461][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.10.22-23.25.06:461][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.10.22-23.25.06:461][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.10.22-23.25.06:461][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.10.22-23.25.06:461][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.10.22-23.25.06:461][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.10.22-23.25.06:461][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.10.22-23.25.06:461][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.10.22-23.25.06:461][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [E:/level design 2 stuff/spoopylevel/MMartinSpoopy/Saved/Config/Windows/Scalability.ini]
+[2019.10.22-23.25.06:461][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.10.22-23.25.06:461][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.10.22-23.25.06:461][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.10.22-23.25.06:462][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.10.22-23.25.06:462][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.10.22-23.25.06:462][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [E:/level design 2 stuff/spoopylevel/MMartinSpoopy/Saved/Config/Windows/Engine.ini]
+[2019.10.22-23.25.06:462][  0]LogInit: Computer: SW-WLC124-08
+[2019.10.22-23.25.06:462][  0]LogInit: User: w210368179
+[2019.10.22-23.25.06:462][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.10.22-23.25.06:462][  0]LogInit: High frequency timer resolution =3.312652 MHz
+[2019.10.22-23.25.06:462][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.10.22-23.25.06:462][  0]LogMemory: Platform Memory Stats for Windows
+[2019.10.22-23.25.06:462][  0]LogMemory: Process Physical Memory: 97.09 MB used, 97.09 MB peak
+[2019.10.22-23.25.06:462][  0]LogMemory: Process Virtual Memory: 93.20 MB used, 93.20 MB peak
+[2019.10.22-23.25.06:462][  0]LogMemory: Physical Memory: 4196.01 MB used,  12130.09 MB free, 16326.10 MB total
+[2019.10.22-23.25.06:462][  0]LogMemory: Virtual Memory: 4662.09 MB used,  134213064.00 MB free, 134217728.00 MB total
+[2019.10.22-23.25.06:488][  0]LogInit: Using OS detected language (en-US).
+[2019.10.22-23.25.06:488][  0]LogInit: Using OS detected locale (en-US).
+[2019.10.22-23.25.06:489][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.10.22-23.25.06:661][  0]LogInit: Setting process to per monitor DPI aware
+[2019.10.22-23.25.06:692][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.10.22-23.25.06:692][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.10.22-23.25.06:863][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.10.22-23.25.06:863][  0]LogD3D11RHI: D3D11 adapters:
+[2019.10.22-23.25.06:878][  0]LogD3D11RHI:    0. 'AMD Radeon HD 8570' (Feature Level 11_0)
+[2019.10.22-23.25.06:878][  0]LogD3D11RHI:       1005/0/8163 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x1002
+[2019.10.22-23.25.06:880][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.10.22-23.25.06:880][  0]LogD3D11RHI:       0/0/8163 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.10.22-23.25.06:880][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.10.22-23.25.06:886][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.10.22-23.25.06:886][  0]LogD3D11RHI:     GPU DeviceId: 0x6611 (for the marketing name, search the web for "GPU Device Id")
+[2019.10.22-23.25.06:887][  0]LogWindows: EnumDisplayDevices:
+[2019.10.22-23.25.06:887][  0]LogWindows:    0. 'AMD Radeon HD 8570' (P:1 D:1)
+[2019.10.22-23.25.06:887][  0]LogWindows:    1. 'AMD Radeon HD 8570' (P:0 D:0)
+[2019.10.22-23.25.06:888][  0]LogWindows: DebugString: FoundDriverCount:2 
+[2019.10.22-23.25.06:888][  0]LogD3D11RHI:     Adapter Name: AMD Radeon HD 8570
+[2019.10.22-23.25.06:888][  0]LogD3D11RHI:   Driver Version: Crimson 16.6 (internal:21.19.144.32768, unified:21.19.144.32768)
+[2019.10.22-23.25.06:888][  0]LogD3D11RHI:      Driver Date: 10-25-2016
+[2019.10.22-23.25.06:888][  0]LogRHI: Texture pool is 703 MB (70% of 1005 MB)
+[2019.10.22-23.25.06:931][  0]LogD3D11RHI: Async texture creation enabled
+[2019.10.22-23.25.06:936][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.10.22-23.25.06:936][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.10.22-23.25.06:936][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.10.22-23.25.06:943][  0]LogD3D11RHI: GPU Timing Frequency: 27.000000 (Debug: 2 1)
+[2019.10.22-23.25.07:257][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.10.22-23.25.07:273][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.10.22-23.25.07:289][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.10.22-23.25.07:304][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.10.22-23.25.07:320][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.10.22-23.25.07:335][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.10.22-23.25.07:350][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.10.22-23.25.07:366][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.10.22-23.25.07:374][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.10.22-23.25.07:451][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.10.22-23.25.07:452][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.10.22-23.25.07:452][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.10.22-23.25.07:452][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.10.22-23.25.07:452][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.10.22-23.25.07:452][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.10.22-23.25.07:452][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.10.22-23.25.07:452][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.10.22-23.25.07:452][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.10.22-23.25.07:452][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.10.22-23.25.07:452][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.10.22-23.25.07:452][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.10.22-23.25.07:452][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.10.22-23.25.07:452][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.10.22-23.25.07:452][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.10.22-23.25.07:452][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.10.22-23.25.07:452][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.10.22-23.25.07:452][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.10.22-23.25.07:454][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.10.22-23.25.07:505][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.10.22-23.25.07:505][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.10.22-23.25.07:531][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.10.22-23.25.07:531][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.10.22-23.25.07:544][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.10.22-23.25.07:557][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.10.22-23.25.07:570][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.10.22-23.25.07:583][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.10.22-23.25.07:627][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.10.22-23.25.07:627][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.10.22-23.25.07:628][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.10.22-23.25.07:639][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.10.22-23.25.07:706][  0]LogShaderCompilers: Guid format shader working directory is 2 characters bigger than the processId version (E:/level design 2 stuff/spoopylevel/MMartinSpoopy/Intermediate/Shaders/WorkingDirectory/10984/).
+[2019.10.22-23.25.07:706][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/TEMP.AD.003/AppData/Local/Temp/UnrealShaderWorkingDir/F570EA1D4F63C46E4EB3599A83A3EAD1/'.
+[2019.10.22-23.25.07:709][  0]LogXGEController: Cleaning working directory: C:/Users/TEMP.AD.003/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.10.22-23.25.07:721][  0]LogShaderCompilers: Display: Using XGE Shader Compiler (Interception Interface).
+[2019.10.22-23.25.08:276][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.10.22-23.25.08:358][  0]LogDerivedDataCache: Loaded boot cache 0.08s 73MB C:/Users/TEMP.AD.003/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.10.22-23.25.08:358][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/TEMP.AD.003/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2019.10.22-23.25.08:358][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file E:/level design 2 stuff/spoopylevel/MMartinSpoopy/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.10.22-23.25.08:358][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.10.22-23.25.08:358][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file E:/level design 2 stuff/spoopylevel/MMartinSpoopy/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.10.22-23.25.08:358][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.10.22-23.25.08:370][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.10.22-23.25.08:370][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.10.22-23.25.08:370][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.10.22-23.25.08:382][  0]LogDerivedDataCache: Using Local data cache path C:/Users/TEMP.AD.003/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.10.22-23.25.08:382][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.10.22-23.25.08:382][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.10.22-23.25.08:404][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.10.22-23.25.08:406][  0]LogSlate: Using FreeType 2.6.0
+[2019.10.22-23.25.08:406][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.10.22-23.25.08:490][  0]LogAssetRegistry: FAssetRegistry took 0.0336 seconds to start up
+[2019.10.22-23.25.08:818][  0]LogInit: Selected Device Profile: [Windows]
+[2019.10.22-23.25.08:958][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.10.22-23.25.08:958][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.10.22-23.25.08:958][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.10.22-23.25.08:958][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.10.22-23.25.08:958][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.10.22-23.25.08:967][  0]LogNetVersion: MMartinSpoopy 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 2920722984)
+[2019.10.22-23.25.09:496][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.187293 seconds
+[2019.10.22-23.25.09:505][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2019.10.22-23.25.09:505][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2019.10.22-23.25.09:505][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.10.22-23.25.10:351][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.10.22-23.25.10:364][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.10.22-23.25.10:468][  0]SourceControl: Source control is disabled
+[2019.10.22-23.25.10:468][  0]SourceControl: Source control is disabled
+[2019.10.22-23.25.10:470][  0]SourceControl: Source control is disabled
+[2019.10.22-23.25.10:471][  0]SourceControl: Source control is disabled
+[2019.10.22-23.25.10:549][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.10.22-23.25.10:605][  0]LogOcInput: OculusInput pre-init called
+[2019.10.22-23.25.11:376][  0]LogEngine: Initializing Engine...
+[2019.10.22-23.25.11:376][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.10.22-23.25.11:377][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2019.10.22-23.25.11:582][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.10.22-23.25.11:602][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.10.22-23.25.11:610][  0]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.22-23.25.11:784][  0]LogInit: FAudioDevice initialized.
+[2019.10.22-23.25.11:784][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.10.22-23.25.12:003][  0]LogDerivedDataCache: Saved boot cache 0.22s 73MB C:/Users/TEMP.AD.003/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.10.22-23.25.12:027][  0]LogInit: Texture streaming: Enabled
+[2019.10.22-23.25.12:052][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.10.22-23.25.12:080][  0]LogInit: Transaction tracking system initialized
+[2019.10.22-23.25.12:117][  0]BlueprintLog: New page: Editor Load
+[2019.10.22-23.25.12:333][  0]LocalizationService: Localization service is disabled
+[2019.10.22-23.25.12:632][  0]LogFileCache: Scanning file cache for directory 'E:/level design 2 stuff/spoopylevel/MMartinSpoopy/Content/' took 0.02s
+[2019.10.22-23.25.12:632][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.10.22-23.25.12:632][  0]LogCook: Display: Mobile HDR setting 1
+[2019.10.22-23.25.12:837][  0]SourceControl: Source control is disabled
+[2019.10.22-23.25.12:837][  0]Cmd: MAP LOAD FILE="E:/level design 2 stuff/spoopylevel/MMartinSpoopy/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.10.22-23.25.12:837][  0]LightingResults: New page: Lighting Build
+[2019.10.22-23.25.12:842][  0]MapCheck: New page: Map Check
+[2019.10.22-23.25.12:842][  0]LightingResults: New page: Lighting Build
+[2019.10.22-23.25.12:868][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2019.10.22-23.25.13:171][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.10.22-23.25.13:179][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.10.22-23.25.13:211][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2019.10.22-23.25.13:212][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.10.22-23.25.13:212][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.118ms to complete.
+[2019.10.22-23.25.13:212][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.375
+[2019.10.22-23.25.13:310][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.22-23.25.13:318][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.22-23.25.13:325][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.22-23.25.13:332][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.22-23.25.13:340][  0]LogCollectionManager: Loaded 0 collections in 0.002752 seconds
+[2019.10.22-23.25.13:381][  0]LogFileCache: Scanning file cache for directory 'E:/level design 2 stuff/spoopylevel/MMartinSpoopy/Saved/Collections/' took 0.01s
+[2019.10.22-23.25.13:381][  0]LogFileCache: Scanning file cache for directory 'E:/level design 2 stuff/spoopylevel/MMartinSpoopy/Content/Developers/w210368179/Collections/' took 0.01s
+[2019.10.22-23.25.13:381][  0]LogFileCache: Scanning file cache for directory 'E:/level design 2 stuff/spoopylevel/MMartinSpoopy/Content/Collections/' took 0.01s
+[2019.10.22-23.25.13:381][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.10.22-23.25.13:390][  0]LogContentBrowser: Native class hierarchy populated in 0.0081 seconds. Added 2732 classes and 659 folders.
+[2019.10.22-23.25.13:399][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.10.22-23.25.13:400][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.22-23.25.13:401][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.22-23.25.13:401][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.22-23.25.13:402][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.22-23.25.13:402][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.22-23.25.13:403][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.22-23.25.13:403][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.22-23.25.13:404][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.22-23.25.13:404][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.22-23.25.13:405][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.22-23.25.13:405][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.22-23.25.13:406][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.22-23.25.13:406][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.22-23.25.13:406][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.22-23.25.13:407][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.22-23.25.13:407][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.22-23.25.13:408][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.22-23.25.13:408][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.22-23.25.13:409][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.22-23.25.13:409][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.22-23.25.13:409][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.22-23.25.13:410][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.22-23.25.13:411][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.22-23.25.13:411][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.22-23.25.13:412][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.22-23.25.13:412][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.22-23.25.13:456][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.10.22-23.25.13:463][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2019.10.22-23.25.13:476][  0]LogSlate: Took 0.000211 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.10.22-23.25.13:478][  0]LogSlate: Took 0.000180 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.10.22-23.25.13:483][  0]LogSlate: Took 0.000152 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.10.22-23.25.13:543][  0]LogRenderer: Reallocating scene render targets to support 1208x572 Format 10 NumSamples 1 (Frame:1).
+[2019.10.22-23.25.13:666][  0]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.22-23.25.13:678][  0]LogSlate: Window 'Tutorials' being destroyed
+[2019.10.22-23.25.13:709][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.10.22-23.25.13:709][  0]LogLoad: (Engine Initialization) Total time: 10.16 seconds
+[2019.10.22-23.25.13:709][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.10.22-23.25.13:719][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.10.22-23.25.13:741][  0]LogAssetRegistry: Asset discovery search completed in 5.2731 seconds
+[2019.10.22-23.25.13:743][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.10.22-23.25.13:743][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000034 seconds (updated 0 objects)
+[2019.10.22-23.25.13:745][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.10.22-23.25.13:806][  0]LogSlate: Took 0.000168 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.10.22-23.25.15:608][ 71]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.22-23.25.16:485][109]LogSlate: Took 0.000225 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.10.22-23.25.16:563][109]LogAIModule: Creating AISystem for world spoopylevel
+[2019.10.22-23.25.16:570][109]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/spoopylevel.spoopylevel
+[2019.10.22-23.25.16:590][109]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2019.10.22-23.25.16:591][109]Cmd: MAP LOAD FILE="E:/level design 2 stuff/spoopylevel/MMartinSpoopy/Content/Maps/spoopylevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.10.22-23.25.16:591][109]LightingResults: New page: Lighting Build
+[2019.10.22-23.25.16:591][109]LoadErrors: New page: Loading map: spoopylevel.umap
+[2019.10.22-23.25.16:592][109]MapCheck: New page: Map Check
+[2019.10.22-23.25.16:592][109]LightingResults: New page: Lighting Build
+[2019.10.22-23.25.16:615][109]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2019.10.22-23.25.16:629][109]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.10.22-23.25.16:653][109]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2019.10.22-23.25.16:663][109]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.10.22-23.25.16:664][109]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.117ms to complete.
+[2019.10.22-23.25.16:664][109]LogFileHelpers: Loading map 'spoopylevel' took 0.074
+[2019.10.22-23.25.19:151][190]LogTexture: Display: Building textures: Texture2D_2 (G8, 128X128)
+[2019.10.22-23.25.26:508][449]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.22-23.25.32:875][856]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.22-23.31.54:014][639]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.22-23.31.54:087][643]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.22-23.31.54:618][643]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/spoopylevel.spoopylevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/spoopylevel.spoopylevel:PersistentLevel.spoopylevel' with GeneratedClass '/Game/Maps/spoopylevel.spoopylevel_C' with ClassGeneratedBy '/Game/Maps/spoopylevel.spoopylevel:PersistentLevel.spoopylevel'
+[2019.10.22-23.31.54:618][643]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.22-23.31.54:618][643]PIE: New page: PIE session: spoopylevel (Oct 22, 2019, 1:31:54 PM)
+[2019.10.22-23.31.54:631][643]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_spoopylevel
+[2019.10.22-23.31.54:651][643]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020190s)
+[2019.10.22-23.31.54:652][643]LogAIModule: Creating AISystem for world spoopylevel
+[2019.10.22-23.31.54:652][643]LogPlayLevel: PIE: World Init took: (0.001023s)
+[2019.10.22-23.31.54:652][643]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/spoopylevel.spoopylevel to /Game/Maps/UEDPIE_0_spoopylevel.spoopylevel (0.021508s)
+[2019.10.22-23.31.54:677][643]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2019.10.22-23.31.54:686][643]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.22-23.31.54:709][643]LogInit: FAudioDevice initialized.
+[2019.10.22-23.31.54:753][643]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.10.22-23.31.54:755][643]LogWorld: Bringing World /Game/Maps/UEDPIE_0_spoopylevel.spoopylevel up for play (max tick rate 0) at 2019.10.22-18.31.54
+[2019.10.22-23.31.54:755][643]LogWorld: Bringing up level for play took: 0.001510
+[2019.10.22-23.31.54:775][643]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2019.10.22-23.31.54:777][643]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_spoopylevel 0.763
+[2019.10.22-23.31.54:777][643]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/spoopylevel.spoopylevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/spoopylevel.spoopylevel:PersistentLevel.spoopylevel' with GeneratedClass '/Game/Maps/spoopylevel.spoopylevel_C' with ClassGeneratedBy '/Game/Maps/spoopylevel.spoopylevel:PersistentLevel.spoopylevel'
+[2019.10.22-23.32.00:018][836]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/spoopylevel.spoopylevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/spoopylevel.spoopylevel:PersistentLevel.spoopylevel' with GeneratedClass '/Game/Maps/spoopylevel.spoopylevel_C' with ClassGeneratedBy '/Game/Maps/spoopylevel.spoopylevel:PersistentLevel.spoopylevel'
+[2019.10.22-23.32.00:018][836]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.22-23.32.00:071][836]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.22-23.32.00:071][836]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/spoopylevel.spoopylevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/spoopylevel.spoopylevel:PersistentLevel.spoopylevel' with GeneratedClass '/Game/Maps/spoopylevel.spoopylevel_C' with ClassGeneratedBy '/Game/Maps/spoopylevel.spoopylevel:PersistentLevel.spoopylevel'
+[2019.10.22-23.32.00:097][836]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.22-23.32.00:100][836]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2019.10.22-23.32.00:118][837]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2019.10.22-23.32.06:536][ 51]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.22-23.32.14:247][309]Cmd: TRANSACTION UNDO
+[2019.10.22-23.32.14:247][309]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2019.10.22-23.32.14:338][309]LogTexture: Display: Building textures: Texture2D_92 (BGRA8, 32X32)
+[2019.10.22-23.32.14:341][309]LogTexture: Display: Building textures: Texture2D_100 (BGRA8, 32X32)
+[2019.10.22-23.32.14:344][309]LogTexture: Display: Building textures: Texture2D_93 (BGRA8, 32X32)
+[2019.10.22-23.32.14:347][309]LogTexture: Display: Building textures: Texture2D_101 (BGRA8, 32X32)
+[2019.10.22-23.32.14:350][309]LogTexture: Display: Building textures: Texture2D_98 (BGRA8, 32X32)
+[2019.10.22-23.32.14:354][309]LogTexture: Display: Building textures: Texture2D_91 (BGRA8, 32X32)
+[2019.10.22-23.32.14:357][309]LogTexture: Display: Building textures: Texture2D_90 (BGRA8, 32X32)
+[2019.10.22-23.32.14:361][309]LogTexture: Display: Building textures: Texture2D_99 (BGRA8, 32X32)
+[2019.10.22-23.32.23:951][625]Cmd: TRANSACTION UNDO
+[2019.10.22-23.32.23:951][625]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2019.10.22-23.32.24:052][625]LogTexture: Display: Building textures: Texture2D_100 (BGRA8, 32X32)
+[2019.10.22-23.32.24:055][625]LogTexture: Display: Building textures: Texture2D_103 (BGRA8, 32X32)
+[2019.10.22-23.32.24:059][625]LogTexture: Display: Building textures: Texture2D_94 (BGRA8, 32X32)
+[2019.10.22-23.32.24:063][625]LogTexture: Display: Building textures: Texture2D_86 (BGRA8, 32X32)
+[2019.10.22-23.32.24:066][625]LogTexture: Display: Building textures: Texture2D_102 (BGRA8, 32X32)
+[2019.10.22-23.32.24:070][625]LogTexture: Display: Building textures: Texture2D_87 (BGRA8, 32X32)
+[2019.10.22-23.32.24:074][625]LogTexture: Display: Building textures: Texture2D_95 (BGRA8, 32X32)
+[2019.10.22-23.32.24:077][625]LogTexture: Display: Building textures: Texture2D_101 (BGRA8, 32X32)
+[2019.10.22-23.32.24:083][625]LogTexture: Display: Building textures: Texture2D_93 (BGRA8, 32X32)
+[2019.10.22-23.32.24:091][625]LogTexture: Display: Building textures: Texture2D_85 (BGRA8, 32X32)
+[2019.10.22-23.32.24:097][625]LogTexture: Display: Building textures: Texture2D_84 (BGRA8, 32X32)
+[2019.10.22-23.32.24:104][625]LogTexture: Display: Building textures: Texture2D_92 (BGRA8, 32X32)
+[2019.10.22-23.32.38:685][132]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.22-23.32.38:799][136]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.22-23.32.38:808][136]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/spoopylevel.spoopylevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/spoopylevel.spoopylevel:PersistentLevel.spoopylevel' with GeneratedClass '/Game/Maps/spoopylevel.spoopylevel_C' with ClassGeneratedBy '/Game/Maps/spoopylevel.spoopylevel:PersistentLevel.spoopylevel'
+[2019.10.22-23.32.38:809][136]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.22-23.32.38:809][136]PIE: New page: PIE session: spoopylevel (Oct 22, 2019, 1:32:38 PM)
+[2019.10.22-23.32.38:809][136]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_spoopylevel
+[2019.10.22-23.32.38:829][136]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019735s)
+[2019.10.22-23.32.38:829][136]LogAIModule: Creating AISystem for world spoopylevel
+[2019.10.22-23.32.38:830][136]LogPlayLevel: PIE: World Init took: (0.000661s)
+[2019.10.22-23.32.38:830][136]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/spoopylevel.spoopylevel to /Game/Maps/UEDPIE_0_spoopylevel.spoopylevel (0.020876s)
+[2019.10.22-23.32.38:851][136]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2019.10.22-23.32.38:853][136]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.22-23.32.38:876][136]LogInit: FAudioDevice initialized.
+[2019.10.22-23.32.38:908][136]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.10.22-23.32.38:910][136]LogWorld: Bringing World /Game/Maps/UEDPIE_0_spoopylevel.spoopylevel up for play (max tick rate 0) at 2019.10.22-18.32.38
+[2019.10.22-23.32.38:910][136]LogWorld: Bringing up level for play took: 0.001339
+[2019.10.22-23.32.38:923][136]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_spoopylevel 0.909
+[2019.10.22-23.32.38:924][136]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/spoopylevel.spoopylevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/spoopylevel.spoopylevel:PersistentLevel.spoopylevel' with GeneratedClass '/Game/Maps/spoopylevel.spoopylevel_C' with ClassGeneratedBy '/Game/Maps/spoopylevel.spoopylevel:PersistentLevel.spoopylevel'
+[2019.10.22-23.32.40:243][189]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/spoopylevel.spoopylevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/spoopylevel.spoopylevel:PersistentLevel.spoopylevel' with GeneratedClass '/Game/Maps/spoopylevel.spoopylevel_C' with ClassGeneratedBy '/Game/Maps/spoopylevel.spoopylevel:PersistentLevel.spoopylevel'
+[2019.10.22-23.32.40:243][189]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.22-23.32.40:294][189]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.22-23.32.40:294][189]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/spoopylevel.spoopylevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/spoopylevel.spoopylevel:PersistentLevel.spoopylevel' with GeneratedClass '/Game/Maps/spoopylevel.spoopylevel_C' with ClassGeneratedBy '/Game/Maps/spoopylevel.spoopylevel:PersistentLevel.spoopylevel'
+[2019.10.22-23.32.40:320][189]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.22-23.32.40:323][189]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2019.10.22-23.32.40:393][191]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2019.10.22-23.32.43:022][283]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.22-23.32.55:524][732]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2019.10.22-23.32.57:716][800]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2019.10.22-23.32.59:402][852]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2019.10.22-23.33.00:207][876]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.22-23.33.00:270][878]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.22-23.33.00:279][878]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/spoopylevel.spoopylevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/spoopylevel.spoopylevel:PersistentLevel.spoopylevel' with GeneratedClass '/Game/Maps/spoopylevel.spoopylevel_C' with ClassGeneratedBy '/Game/Maps/spoopylevel.spoopylevel:PersistentLevel.spoopylevel'
+[2019.10.22-23.33.00:279][878]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.22-23.33.00:279][878]PIE: New page: PIE session: spoopylevel (Oct 22, 2019, 1:33:00 PM)
+[2019.10.22-23.33.00:279][878]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_spoopylevel
+[2019.10.22-23.33.00:298][878]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019215s)
+[2019.10.22-23.33.00:299][878]LogAIModule: Creating AISystem for world spoopylevel
+[2019.10.22-23.33.00:299][878]LogPlayLevel: PIE: World Init took: (0.000802s)
+[2019.10.22-23.33.00:299][878]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/spoopylevel.spoopylevel to /Game/Maps/UEDPIE_0_spoopylevel.spoopylevel (0.020186s)
+[2019.10.22-23.33.00:324][878]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2019.10.22-23.33.00:326][878]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.22-23.33.00:349][878]LogInit: FAudioDevice initialized.
+[2019.10.22-23.33.00:375][878]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.10.22-23.33.00:377][878]LogWorld: Bringing World /Game/Maps/UEDPIE_0_spoopylevel.spoopylevel up for play (max tick rate 0) at 2019.10.22-18.33.00
+[2019.10.22-23.33.00:377][878]LogWorld: Bringing up level for play took: 0.001411
+[2019.10.22-23.33.00:391][878]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_spoopylevel 0.376
+[2019.10.22-23.33.00:391][878]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/spoopylevel.spoopylevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/spoopylevel.spoopylevel:PersistentLevel.spoopylevel' with GeneratedClass '/Game/Maps/spoopylevel.spoopylevel_C' with ClassGeneratedBy '/Game/Maps/spoopylevel.spoopylevel:PersistentLevel.spoopylevel'
+[2019.10.22-23.33.05:881][ 85]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/spoopylevel.spoopylevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/spoopylevel.spoopylevel:PersistentLevel.spoopylevel' with GeneratedClass '/Game/Maps/spoopylevel.spoopylevel_C' with ClassGeneratedBy '/Game/Maps/spoopylevel.spoopylevel:PersistentLevel.spoopylevel'
+[2019.10.22-23.33.05:881][ 85]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.22-23.33.05:936][ 85]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.22-23.33.05:936][ 85]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/spoopylevel.spoopylevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/spoopylevel.spoopylevel:PersistentLevel.spoopylevel' with GeneratedClass '/Game/Maps/spoopylevel.spoopylevel_C' with ClassGeneratedBy '/Game/Maps/spoopylevel.spoopylevel:PersistentLevel.spoopylevel'
+[2019.10.22-23.33.05:961][ 85]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.22-23.33.05:964][ 85]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2019.10.22-23.33.05:995][ 86]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2019.10.22-23.33.11:321][265]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.10.22-23.33.11:979][284]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.22-23.33.13:522][333]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.10.22-23.33.14:476][362]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.22-23.33.19:454][530]Cmd: TRANSACTION UNDO
+[2019.10.22-23.33.19:454][530]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2019.10.22-23.33.19:542][530]LogTexture: Display: Building textures: Texture2D_107 (BGRA8, 32X32)
+[2019.10.22-23.33.19:546][530]LogTexture: Display: Building textures: Texture2D_108 (BGRA8, 32X32)
+[2019.10.22-23.33.19:550][530]LogTexture: Display: Building textures: Texture2D_115 (BGRA8, 32X32)
+[2019.10.22-23.33.19:554][530]LogTexture: Display: Building textures: Texture2D_116 (BGRA8, 32X32)
+[2019.10.22-23.33.19:566][530]LogTexture: Display: Building textures: Texture2D_91 (BGRA8, 32X32)
+[2019.10.22-23.33.19:572][530]LogTexture: Display: Building textures: Texture2D_99 (BGRA8, 32X32)
+[2019.10.22-23.33.26:928][779]Cmd: TRANSACTION UNDO
+[2019.10.22-23.33.26:928][779]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2019.10.22-23.33.27:054][779]LogTexture: Display: Building textures: Texture2D_93 (BGRA8, 32X32)
+[2019.10.22-23.33.27:057][779]LogTexture: Display: Building textures: Texture2D_82 (BGRA8, 32X32)
+[2019.10.22-23.33.27:065][779]LogTexture: Display: Building textures: Texture2D_110 (BGRA8, 32X32)
+[2019.10.22-23.33.27:070][779]LogTexture: Display: Building textures: Texture2D_100 (BGRA8, 32X32)
+[2019.10.22-23.33.27:076][779]LogTexture: Display: Building textures: Texture2D_92 (BGRA8, 32X32)
+[2019.10.22-23.33.27:085][779]LogTexture: Display: Building textures: Texture2D_90 (BGRA8, 32X32)
+[2019.10.22-23.33.27:090][779]LogTexture: Display: Building textures: Texture2D_91 (BGRA8, 32X32)
+[2019.10.22-23.33.27:094][779]LogTexture: Display: Building textures: Texture2D_109 (BGRA8, 32X32)
+[2019.10.22-23.33.27:098][779]LogTexture: Display: Building textures: Texture2D_101 (BGRA8, 32X32)
+[2019.10.22-23.33.27:103][779]LogTexture: Display: Building textures: Texture2D_83 (BGRA8, 32X32)
+[2019.10.22-23.33.27:129][779]LogTexture: Display: Building textures: Texture2D_108 (BGRA8, 32X32)
+[2019.10.22-23.33.27:135][779]LogTexture: Display: Building textures: Texture2D_99 (BGRA8, 32X32)
+[2019.10.22-23.33.27:142][779]LogTexture: Display: Building textures: Texture2D_98 (BGRA8, 32X32)
+[2019.10.22-23.33.27:150][779]LogTexture: Display: Building textures: Texture2D_107 (BGRA8, 32X32)
+[2019.10.22-23.33.27:157][779]LogTexture: Display: Building textures: Texture2D_106 (BGRA8, 32X32)
+[2019.10.22-23.33.28:851][834]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.22-23.33.38:936][178]Cmd: TRANSACTION UNDO
+[2019.10.22-23.33.38:936][178]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2019.10.22-23.33.39:023][178]LogTexture: Display: Building textures: Texture2D_108 (BGRA8, 32X32)
+[2019.10.22-23.33.39:027][178]LogTexture: Display: Building textures: Texture2D_107 (BGRA8, 32X32)
+[2019.10.22-23.33.39:031][178]LogTexture: Display: Building textures: Texture2D_117 (BGRA8, 32X32)
+[2019.10.22-23.33.39:039][178]LogTexture: Display: Building textures: Texture2D_109 (BGRA8, 32X32)
+[2019.10.22-23.33.39:044][178]LogTexture: Display: Building textures: Texture2D_101 (BGRA8, 32X32)
+[2019.10.22-23.33.39:052][178]LogTexture: Display: Building textures: Texture2D_118 (BGRA8, 32X32)
+[2019.10.22-23.33.39:056][178]LogTexture: Display: Building textures: Texture2D_116 (BGRA8, 32X32)
+[2019.10.22-23.33.39:061][178]LogTexture: Display: Building textures: Texture2D_115 (BGRA8, 32X32)
+[2019.10.22-23.33.39:066][178]LogTexture: Display: Building textures: Texture2D_99 (BGRA8, 32X32)
+[2019.10.22-23.33.39:070][178]LogTexture: Display: Building textures: Texture2D_100 (BGRA8, 32X32)
+[2019.10.22-23.33.39:228][183]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.22-23.33.41:890][272]Cmd: TRANSACTION UNDO
+[2019.10.22-23.33.41:890][272]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2019.10.22-23.33.42:004][272]LogTexture: Display: Building textures: Texture2D_91 (BGRA8, 32X32)
+[2019.10.22-23.33.42:019][272]LogTexture: Display: Building textures: Texture2D_93 (BGRA8, 32X32)
+[2019.10.22-23.33.42:023][272]LogTexture: Display: Building textures: Texture2D_92 (BGRA8, 32X32)
+[2019.10.22-23.33.46:705][429]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.22-23.33.46:794][432]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.22-23.33.46:803][432]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/spoopylevel.spoopylevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/spoopylevel.spoopylevel:PersistentLevel.spoopylevel' with GeneratedClass '/Game/Maps/spoopylevel.spoopylevel_C' with ClassGeneratedBy '/Game/Maps/spoopylevel.spoopylevel:PersistentLevel.spoopylevel'
+[2019.10.22-23.33.46:803][432]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.22-23.33.46:803][432]PIE: New page: PIE session: spoopylevel (Oct 22, 2019, 1:33:46 PM)
+[2019.10.22-23.33.46:803][432]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_spoopylevel
+[2019.10.22-23.33.46:823][432]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019936s)
+[2019.10.22-23.33.46:823][432]LogAIModule: Creating AISystem for world spoopylevel
+[2019.10.22-23.33.46:824][432]LogPlayLevel: PIE: World Init took: (0.000594s)
+[2019.10.22-23.33.46:824][432]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/spoopylevel.spoopylevel to /Game/Maps/UEDPIE_0_spoopylevel.spoopylevel (0.020658s)
+[2019.10.22-23.33.46:845][432]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2019.10.22-23.33.46:853][432]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.22-23.33.46:877][432]LogInit: FAudioDevice initialized.
+[2019.10.22-23.33.46:906][432]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.10.22-23.33.46:908][432]LogWorld: Bringing World /Game/Maps/UEDPIE_0_spoopylevel.spoopylevel up for play (max tick rate 0) at 2019.10.22-18.33.46
+[2019.10.22-23.33.46:908][432]LogWorld: Bringing up level for play took: 0.001470
+[2019.10.22-23.33.46:922][432]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_spoopylevel 0.906
+[2019.10.22-23.33.46:922][432]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/spoopylevel.spoopylevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/spoopylevel.spoopylevel:PersistentLevel.spoopylevel' with GeneratedClass '/Game/Maps/spoopylevel.spoopylevel_C' with ClassGeneratedBy '/Game/Maps/spoopylevel.spoopylevel:PersistentLevel.spoopylevel'
+[2019.10.22-23.33.52:445][641]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/spoopylevel.spoopylevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/spoopylevel.spoopylevel:PersistentLevel.spoopylevel' with GeneratedClass '/Game/Maps/spoopylevel.spoopylevel_C' with ClassGeneratedBy '/Game/Maps/spoopylevel.spoopylevel:PersistentLevel.spoopylevel'
+[2019.10.22-23.33.52:446][641]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.22-23.33.52:502][641]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.22-23.33.52:502][641]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/spoopylevel.spoopylevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/spoopylevel.spoopylevel:PersistentLevel.spoopylevel' with GeneratedClass '/Game/Maps/spoopylevel.spoopylevel_C' with ClassGeneratedBy '/Game/Maps/spoopylevel.spoopylevel:PersistentLevel.spoopylevel'
+[2019.10.22-23.33.52:527][641]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.22-23.33.52:529][641]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2019.10.22-23.33.52:547][642]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2019.10.22-23.33.59:005][860]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.22-23.34.01:669][952]Cmd: TRANSACTION UNDO
+[2019.10.22-23.34.01:669][952]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2019.10.22-23.34.01:716][952]LogTexture: Display: Building textures: Texture2D_115 (BGRA8, 32X32)
+[2019.10.22-23.34.01:720][952]LogTexture: Display: Building textures: Texture2D_114 (BGRA8, 32X32)
+[2019.10.22-23.34.01:723][952]LogTexture: Display: Building textures: Texture2D_116 (BGRA8, 32X32)
+[2019.10.22-23.34.01:788][953]Cmd: TRANSACTION UNDO
+[2019.10.22-23.34.01:788][953]LogEditorTransaction: Undo Edit Brush Size
+[2019.10.22-23.34.05:377][ 76]Cmd: TRANSACTION UNDO
+[2019.10.22-23.34.05:377][ 76]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2019.10.22-23.34.05:436][ 76]LogTexture: Display: Building textures: Texture2D_107 (BGRA8, 32X32)
+[2019.10.22-23.34.05:440][ 76]LogTexture: Display: Building textures: Texture2D_106 (BGRA8, 32X32)
+[2019.10.22-23.34.05:444][ 76]LogTexture: Display: Building textures: Texture2D_115 (BGRA8, 32X32)
+[2019.10.22-23.34.05:450][ 76]LogTexture: Display: Building textures: Texture2D_114 (BGRA8, 32X32)
+[2019.10.22-23.34.22:270][630]Cmd: TRANSACTION UNDO
+[2019.10.22-23.34.22:270][630]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2019.10.22-23.34.22:302][630]LogTexture: Display: Building textures: Texture2D_107 (BGRA8, 32X32)
+[2019.10.22-23.34.22:306][630]LogTexture: Display: Building textures: Texture2D_99 (BGRA8, 32X32)
+[2019.10.22-23.34.22:310][630]LogTexture: Display: Building textures: Texture2D_90 (BGRA8, 32X32)
+[2019.10.22-23.34.22:314][630]LogTexture: Display: Building textures: Texture2D_106 (BGRA8, 32X32)
+[2019.10.22-23.34.22:318][630]LogTexture: Display: Building textures: Texture2D_98 (BGRA8, 32X32)
+[2019.10.22-23.34.22:323][630]LogTexture: Display: Building textures: Texture2D_116 (BGRA8, 32X32)
+[2019.10.22-23.34.22:328][630]LogTexture: Display: Building textures: Texture2D_115 (BGRA8, 32X32)
+[2019.10.22-23.34.22:332][630]LogTexture: Display: Building textures: Texture2D_114 (BGRA8, 32X32)
+[2019.10.22-23.35.35:727][889]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2019.10.22-23.35.35:744][889]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/spoopylevel" FILE="E:/level design 2 stuff/spoopylevel/MMartinSpoopy/Saved/Autosaves/Game/Maps/spoopylevel_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.10.22-23.35.35:831][889]LogTexture: Display: Building textures: Texture2D_100 (BGRA8, 32X32)
+[2019.10.22-23.35.35:832][889]LogTexture: Display: Building textures: Texture2D_101 (BGRA8, 32X32)
+[2019.10.22-23.35.35:832][889]LogTexture: Display: Building textures: Texture2D_102 (BGRA8, 32X32)
+[2019.10.22-23.35.35:833][889]LogTexture: Display: Building textures: Texture2D_103 (BGRA8, 32X32)
+[2019.10.22-23.35.35:833][889]LogTexture: Display: Building textures: Texture2D_106 (BGRA8, 32X32)
+[2019.10.22-23.35.35:833][889]LogTexture: Display: Building textures: Texture2D_107 (BGRA8, 32X32)
+[2019.10.22-23.35.35:834][889]LogTexture: Display: Building textures: Texture2D_108 (BGRA8, 32X32)
+[2019.10.22-23.35.35:834][889]LogTexture: Display: Building textures: Texture2D_109 (BGRA8, 32X32)
+[2019.10.22-23.35.35:834][889]LogTexture: Display: Building textures: Texture2D_110 (BGRA8, 32X32)
+[2019.10.22-23.35.35:835][889]LogTexture: Display: Building textures: Texture2D_111 (BGRA8, 32X32)
+[2019.10.22-23.35.35:835][889]LogTexture: Display: Building textures: Texture2D_114 (BGRA8, 32X32)
+[2019.10.22-23.35.35:835][889]LogTexture: Display: Building textures: Texture2D_115 (BGRA8, 32X32)
+[2019.10.22-23.35.35:836][889]LogTexture: Display: Building textures: Texture2D_117 (BGRA8, 32X32)
+[2019.10.22-23.35.35:836][889]LogTexture: Display: Building textures: Texture2D_118 (BGRA8, 32X32)
+[2019.10.22-23.35.35:837][889]LogTexture: Display: Building textures: Texture2D_119 (BGRA8, 32X32)
+[2019.10.22-23.35.35:837][889]LogTexture: Display: Building textures: Texture2D_66 (BGRA8, 32X32)
+[2019.10.22-23.35.35:837][889]LogTexture: Display: Building textures: Texture2D_67 (BGRA8, 32X32)
+[2019.10.22-23.35.35:838][889]LogTexture: Display: Building textures: Texture2D_68 (BGRA8, 32X32)
+[2019.10.22-23.35.35:838][889]LogTexture: Display: Building textures: Texture2D_69 (BGRA8, 32X32)
+[2019.10.22-23.35.35:861][889]LogTexture: Display: Building textures: Texture2D_70 (BGRA8, 32X32)
+[2019.10.22-23.35.35:862][889]LogTexture: Display: Building textures: Texture2D_71 (BGRA8, 32X32)
+[2019.10.22-23.35.35:862][889]LogTexture: Display: Building textures: Texture2D_74 (BGRA8, 32X32)
+[2019.10.22-23.35.35:863][889]LogTexture: Display: Building textures: Texture2D_75 (BGRA8, 32X32)
+[2019.10.22-23.35.35:863][889]LogTexture: Display: Building textures: Texture2D_76 (BGRA8, 32X32)
+[2019.10.22-23.35.35:863][889]LogTexture: Display: Building textures: Texture2D_77 (BGRA8, 32X32)
+[2019.10.22-23.35.35:864][889]LogTexture: Display: Building textures: Texture2D_78 (BGRA8, 32X32)
+[2019.10.22-23.35.35:864][889]LogTexture: Display: Building textures: Texture2D_79 (BGRA8, 32X32)
+[2019.10.22-23.35.35:864][889]LogTexture: Display: Building textures: Texture2D_82 (BGRA8, 32X32)
+[2019.10.22-23.35.35:865][889]LogTexture: Display: Building textures: Texture2D_83 (BGRA8, 32X32)
+[2019.10.22-23.35.35:865][889]LogTexture: Display: Building textures: Texture2D_84 (BGRA8, 32X32)
+[2019.10.22-23.35.35:865][889]LogTexture: Display: Building textures: Texture2D_85 (BGRA8, 32X32)
+[2019.10.22-23.35.35:866][889]LogTexture: Display: Building textures: Texture2D_86 (BGRA8, 32X32)
+[2019.10.22-23.35.35:866][889]LogTexture: Display: Building textures: Texture2D_87 (BGRA8, 32X32)
+[2019.10.22-23.35.35:867][889]LogTexture: Display: Building textures: Texture2D_90 (BGRA8, 32X32)
+[2019.10.22-23.35.35:867][889]LogTexture: Display: Building textures: Texture2D_91 (BGRA8, 32X32)
+[2019.10.22-23.35.35:867][889]LogTexture: Display: Building textures: Texture2D_92 (BGRA8, 32X32)
+[2019.10.22-23.35.35:867][889]LogTexture: Display: Building textures: Texture2D_93 (BGRA8, 32X32)
+[2019.10.22-23.35.35:868][889]LogTexture: Display: Building textures: Texture2D_94 (BGRA8, 32X32)
+[2019.10.22-23.35.35:868][889]LogTexture: Display: Building textures: Texture2D_95 (BGRA8, 32X32)
+[2019.10.22-23.35.35:869][889]LogTexture: Display: Building textures: Texture2D_98 (BGRA8, 32X32)
+[2019.10.22-23.35.35:869][889]LogTexture: Display: Building textures: Texture2D_99 (BGRA8, 32X32)
+[2019.10.22-23.35.36:507][889]LogSavePackage: Moving 'E:/level design 2 stuff/spoopylevel/MMartinSpoopy/Saved/spoopylevel_Auto1C32BC08D49CA21E3DF36158CCEE1FD82.tmp' to 'E:/level design 2 stuff/spoopylevel/MMartinSpoopy/Saved/Autosaves/Game/Maps/spoopylevel_Auto1.umap'
+[2019.10.22-23.35.36:569][889]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/spoopylevel' took 0.865
+[2019.10.22-23.35.36:569][889]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.865
+[2019.10.22-23.37.16:242][188]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.22-23.39.32:401][859]LogSlate: FSceneViewport::OnFocusLost() reason 0
