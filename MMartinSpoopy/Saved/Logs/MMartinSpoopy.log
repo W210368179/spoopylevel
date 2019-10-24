@@ -742,3 +742,248 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.10.24-23.15.46:198][143]LogTexture: Display: Building textures: Texture2D_31 (BGRA8, 32X32)
 [2019.10.24-23.15.46:271][144]LogTexture: Display: Building textures: Texture2D_32 (BGRA8, 32X32)
 [2019.10.24-23.15.58:118][498]LogTexture: Display: Building textures: Texture2D_33 (BGRA8, 32X32)
+[2019.10.24-23.19.49:961][239]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-23.19.53:359][323]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-23.19.58:662][493]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-23.20.01:994][675]LogTexture: Display: Building textures: Texture2D_34 (BGRA8, 32X32)
+[2019.10.24-23.20.02:449][689]LogTexture: Display: Building textures: Texture2D_35 (BGRA8, 32X32)
+[2019.10.24-23.20.10:021][933]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-23.20.20:881][294]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.24-23.20.23:764][470]Cmd: TRANSACTION UNDO
+[2019.10.24-23.20.23:764][470]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2019.10.24-23.20.23:828][470]LogTexture: Display: Building textures: Texture2D_74 (BGRA8, 32X32)
+[2019.10.24-23.20.23:834][470]LogTexture: Display: Building textures: Texture2D_34 (BGRA8, 32X32)
+[2019.10.24-23.20.23:838][470]LogTexture: Display: Building textures: Texture2D_82 (BGRA8, 32X32)
+[2019.10.24-23.20.23:845][470]LogTexture: Display: Building textures: Texture2D_35 (BGRA8, 32X32)
+[2019.10.24-23.20.27:937][601]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-23.20.34:936][849]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.24-23.20.38:316][ 11]Cmd: TRANSACTION UNDO
+[2019.10.24-23.20.38:317][ 11]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2019.10.24-23.20.38:380][ 11]LogTexture: Display: Building textures: Texture2D_35 (BGRA8, 32X32)
+[2019.10.24-23.20.38:384][ 11]LogTexture: Display: Building textures: Texture2D_82 (BGRA8, 32X32)
+[2019.10.24-23.20.38:390][ 11]LogTexture: Display: Building textures: Texture2D_74 (BGRA8, 32X32)
+[2019.10.24-23.20.38:397][ 11]LogTexture: Display: Building textures: Texture2D_34 (BGRA8, 32X32)
+[2019.10.24-23.20.38:758][ 49]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.24-23.20.44:558][285]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.24-23.20.52:173][567]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.24-23.21.03:615][974]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-23.21.05:002][ 21]LogTexture: Display: Building textures: Texture2D_44 (BGRA8, 32X32)
+[2019.10.24-23.21.09:198][155]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-23.21.19:602][474]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-23.21.21:190][540]Cmd: TRANSACTION UNDO
+[2019.10.24-23.21.21:191][540]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2019.10.24-23.21.21:240][540]LogTexture: Display: Building textures: Texture2D_2 (BGRA8, 32X32)
+[2019.10.24-23.21.21:244][540]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 32X32)
+[2019.10.24-23.21.21:645][552]Cmd: TRANSACTION UNDO
+[2019.10.24-23.21.21:645][552]LogEditorTransaction: Undo Edit Brush Size
+[2019.10.24-23.21.21:948][562]Cmd: TRANSACTION UNDO
+[2019.10.24-23.21.21:948][562]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2019.10.24-23.21.22:004][562]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 32X32)
+[2019.10.24-23.21.22:008][562]LogTexture: Display: Building textures: Texture2D_2 (BGRA8, 32X32)
+[2019.10.24-23.21.22:013][562]LogTexture: Display: Building textures: Texture2D_44 (BGRA8, 32X32)
+[2019.10.24-23.21.41:351][157]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.24-23.21.43:819][290]Cmd: TRANSACTION UNDO
+[2019.10.24-23.21.43:819][290]LogEditorTransaction: Undo Landscape Editing: Smooth
+[2019.10.24-23.21.43:884][290]LogTexture: Display: Building textures: Texture2D_66 (BGRA8, 32X32)
+[2019.10.24-23.22.06:448][  0]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-23.22.07:676][ 43]LogTexture: Display: Building textures: Texture2D_45 (BGRA8, 32X32)
+[2019.10.24-23.22.08:718][ 77]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-23.22.17:860][419]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.24-23.22.36:732][ 35]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.24-23.22.47:521][402]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.24-23.22.53:247][687]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.24-23.22.59:850][976]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.24-23.23.04:466][163]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.24-23.23.08:020][323]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.24-23.23.18:109][692]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-23.23.18:208][697]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/spoopylevel" FILE="E:/level design 2 stuff/github stuff/spoopylevel/MMartinSpoopy/Content/Maps/spoopylevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.10.24-23.23.18:311][697]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2019.10.24-23.23.18:330][697]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 32X32)
+[2019.10.24-23.23.18:330][697]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 32X32)
+[2019.10.24-23.23.18:331][697]LogTexture: Display: Building textures: Texture2D_10 (BGRA8, 32X32)
+[2019.10.24-23.23.18:331][697]LogTexture: Display: Building textures: Texture2D_100 (BGRA8, 32X32)
+[2019.10.24-23.23.18:331][697]LogTexture: Display: Building textures: Texture2D_101 (BGRA8, 32X32)
+[2019.10.24-23.23.18:332][697]LogTexture: Display: Building textures: Texture2D_102 (BGRA8, 32X32)
+[2019.10.24-23.23.18:333][697]LogTexture: Display: Building textures: Texture2D_106 (BGRA8, 32X32)
+[2019.10.24-23.23.18:333][697]LogTexture: Display: Building textures: Texture2D_107 (BGRA8, 32X32)
+[2019.10.24-23.23.18:333][697]LogTexture: Display: Building textures: Texture2D_108 (BGRA8, 32X32)
+[2019.10.24-23.23.18:334][697]LogTexture: Display: Building textures: Texture2D_109 (BGRA8, 32X32)
+[2019.10.24-23.23.18:334][697]LogTexture: Display: Building textures: Texture2D_11 (BGRA8, 32X32)
+[2019.10.24-23.23.18:334][697]LogTexture: Display: Building textures: Texture2D_110 (BGRA8, 32X32)
+[2019.10.24-23.23.18:335][697]LogTexture: Display: Building textures: Texture2D_114 (BGRA8, 32X32)
+[2019.10.24-23.23.18:335][697]LogTexture: Display: Building textures: Texture2D_115 (BGRA8, 32X32)
+[2019.10.24-23.23.18:335][697]LogTexture: Display: Building textures: Texture2D_116 (BGRA8, 32X32)
+[2019.10.24-23.23.18:336][697]LogTexture: Display: Building textures: Texture2D_117 (BGRA8, 32X32)
+[2019.10.24-23.23.18:336][697]LogTexture: Display: Building textures: Texture2D_12 (BGRA8, 32X32)
+[2019.10.24-23.23.18:336][697]LogTexture: Display: Building textures: Texture2D_13 (BGRA8, 32X32)
+[2019.10.24-23.23.18:337][697]LogTexture: Display: Building textures: Texture2D_14 (BGRA8, 32X32)
+[2019.10.24-23.23.18:337][697]LogTexture: Display: Building textures: Texture2D_18 (BGRA8, 32X32)
+[2019.10.24-23.23.18:338][697]LogTexture: Display: Building textures: Texture2D_2 (BGRA8, 32X32)
+[2019.10.24-23.23.18:338][697]LogTexture: Display: Building textures: Texture2D_21 (BGRA8, 32X32)
+[2019.10.24-23.23.18:339][697]LogTexture: Display: Building textures: Texture2D_22 (BGRA8, 32X32)
+[2019.10.24-23.23.18:339][697]LogTexture: Display: Building textures: Texture2D_23 (BGRA8, 32X32)
+[2019.10.24-23.23.18:339][697]LogTexture: Display: Building textures: Texture2D_25 (BGRA8, 32X32)
+[2019.10.24-23.23.18:340][697]LogTexture: Display: Building textures: Texture2D_27 (BGRA8, 32X32)
+[2019.10.24-23.23.18:340][697]LogTexture: Display: Building textures: Texture2D_28 (BGRA8, 32X32)
+[2019.10.24-23.23.18:340][697]LogTexture: Display: Building textures: Texture2D_29 (BGRA8, 32X32)
+[2019.10.24-23.23.18:341][697]LogTexture: Display: Building textures: Texture2D_36 (BGRA8, 32X32)
+[2019.10.24-23.23.18:341][697]LogTexture: Display: Building textures: Texture2D_37 (BGRA8, 32X32)
+[2019.10.24-23.23.18:341][697]LogTexture: Display: Building textures: Texture2D_38 (BGRA8, 32X32)
+[2019.10.24-23.23.18:342][697]LogTexture: Display: Building textures: Texture2D_39 (BGRA8, 32X32)
+[2019.10.24-23.23.18:343][697]LogTexture: Display: Building textures: Texture2D_4 (BGRA8, 32X32)
+[2019.10.24-23.23.18:343][697]LogTexture: Display: Building textures: Texture2D_40 (BGRA8, 32X32)
+[2019.10.24-23.23.18:343][697]LogTexture: Display: Building textures: Texture2D_41 (BGRA8, 32X32)
+[2019.10.24-23.23.18:344][697]LogTexture: Display: Building textures: Texture2D_43 (BGRA8, 32X32)
+[2019.10.24-23.23.18:344][697]LogTexture: Display: Building textures: Texture2D_6 (BGRA8, 32X32)
+[2019.10.24-23.23.18:344][697]LogTexture: Display: Building textures: Texture2D_66 (BGRA8, 32X32)
+[2019.10.24-23.23.18:345][697]LogTexture: Display: Building textures: Texture2D_67 (BGRA8, 32X32)
+[2019.10.24-23.23.18:345][697]LogTexture: Display: Building textures: Texture2D_7 (BGRA8, 32X32)
+[2019.10.24-23.23.18:346][697]LogTexture: Display: Building textures: Texture2D_74 (BGRA8, 32X32)
+[2019.10.24-23.23.18:346][697]LogTexture: Display: Building textures: Texture2D_76 (BGRA8, 32X32)
+[2019.10.24-23.23.18:347][697]LogTexture: Display: Building textures: Texture2D_77 (BGRA8, 32X32)
+[2019.10.24-23.23.18:347][697]LogTexture: Display: Building textures: Texture2D_78 (BGRA8, 32X32)
+[2019.10.24-23.23.18:347][697]LogTexture: Display: Building textures: Texture2D_79 (BGRA8, 32X32)
+[2019.10.24-23.23.18:347][697]LogTexture: Display: Building textures: Texture2D_82 (BGRA8, 32X32)
+[2019.10.24-23.23.18:348][697]LogTexture: Display: Building textures: Texture2D_84 (BGRA8, 32X32)
+[2019.10.24-23.23.18:348][697]LogTexture: Display: Building textures: Texture2D_85 (BGRA8, 32X32)
+[2019.10.24-23.23.18:349][697]LogTexture: Display: Building textures: Texture2D_86 (BGRA8, 32X32)
+[2019.10.24-23.23.18:349][697]LogTexture: Display: Building textures: Texture2D_87 (BGRA8, 32X32)
+[2019.10.24-23.23.18:349][697]LogTexture: Display: Building textures: Texture2D_9 (BGRA8, 32X32)
+[2019.10.24-23.23.18:349][697]LogTexture: Display: Building textures: Texture2D_90 (BGRA8, 32X32)
+[2019.10.24-23.23.18:350][697]LogTexture: Display: Building textures: Texture2D_92 (BGRA8, 32X32)
+[2019.10.24-23.23.18:350][697]LogTexture: Display: Building textures: Texture2D_93 (BGRA8, 32X32)
+[2019.10.24-23.23.18:350][697]LogTexture: Display: Building textures: Texture2D_94 (BGRA8, 32X32)
+[2019.10.24-23.23.18:351][697]LogTexture: Display: Building textures: Texture2D_95 (BGRA8, 32X32)
+[2019.10.24-23.23.18:351][697]LogTexture: Display: Building textures: Texture2D_98 (BGRA8, 32X32)
+[2019.10.24-23.23.18:351][697]LogTexture: Display: Building textures: Texture2D_99 (BGRA8, 32X32)
+[2019.10.24-23.23.18:562][697]LogTexture: Display: Building textures: Texture2D_30 (BGRA8, 32X32)
+[2019.10.24-23.23.18:563][697]LogTexture: Display: Building textures: Texture2D_32 (BGRA8, 32X32)
+[2019.10.24-23.23.18:564][697]LogTexture: Display: Building textures: Texture2D_31 (BGRA8, 32X32)
+[2019.10.24-23.23.18:565][697]LogTexture: Display: Building textures: Texture2D_33 (BGRA8, 32X32)
+[2019.10.24-23.23.18:566][697]LogTexture: Display: Building textures: Texture2D_34 (BGRA8, 32X32)
+[2019.10.24-23.23.18:567][697]LogTexture: Display: Building textures: Texture2D_35 (BGRA8, 32X32)
+[2019.10.24-23.23.18:567][697]LogTexture: Display: Building textures: Texture2D_44 (BGRA8, 32X32)
+[2019.10.24-23.23.18:567][697]LogTexture: Display: Building textures: Texture2D_45 (BGRA8, 32X32)
+[2019.10.24-23.23.19:149][697]LogSavePackage: Moving 'E:/level design 2 stuff/github stuff/spoopylevel/MMartinSpoopy/Saved/spoopylevelFAF35AEA49E012132F39ADB244733095.tmp' to 'E:/level design 2 stuff/github stuff/spoopylevel/MMartinSpoopy/Content/Maps/spoopylevel.umap'
+[2019.10.24-23.24.46:049][ 22]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-23.26.13:427][201]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.24-23.27.11:610][255]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.24-23.27.14:006][512]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.24-23.27.15:043][635]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.24-23.28.04:174][766]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2019.10.24-23.28.04:187][766]LogMetaData: Removing '/Game/Maps/spoopylevel_sharedassets/spoopylevel.spoopylevel_C' ref from Metadata '/Game/Maps/spoopylevel.PackageMetaData'
+[2019.10.24-23.28.04:187][766]LogMetaData: Removing '/Game/Maps/spoopylevel_sharedassets/spoopylevel.spoopylevel:PersistentLevel.spoopylevel.EventGraph.K2Node_Event_0' ref from Metadata '/Game/Maps/spoopylevel.PackageMetaData'
+[2019.10.24-23.28.04:187][766]LogMetaData: Removing '/Game/Maps/spoopylevel_sharedassets/spoopylevel.spoopylevel:PersistentLevel.spoopylevel.EventGraph.K2Node_Event_1' ref from Metadata '/Game/Maps/spoopylevel.PackageMetaData'
+[2019.10.24-23.28.04:187][766]LogMetaData: Removing '/Game/Maps/spoopylevel_sharedassets/spoopylevel.SKEL_spoopylevel_C' ref from Metadata '/Game/Maps/spoopylevel.PackageMetaData'
+[2019.10.24-23.28.04:257][766]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2019.10.24-23.28.04:800][766]LogSavePackage: Moving 'E:/level design 2 stuff/github stuff/spoopylevel/MMartinSpoopy/Saved/spoopylevel0F9DBF6F40088C779ECA64BC33FCDD5B.tmp' to 'E:/level design 2 stuff/github stuff/spoopylevel/MMartinSpoopy/Content/Maps/spoopylevel_sharedassets/spoopylevel.umap'
+[2019.10.24-23.28.04:831][766]LogFileHelpers: Saving map 'spoopylevel' took 0.598
+[2019.10.24-23.28.04:979][766]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2019.10.24-23.28.09:421][106]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2019.10.24-23.28.09:421][106]LogMetaData: Removing '/Game/Flowers_and_Plants_Nature_Pack/mystuff/spoopylevel_sharedassets/spoopylevel.spoopylevel:PersistentLevel.spoopylevel.EventGraph.K2Node_Event_0' ref from Metadata '/Game/Maps/spoopylevel_sharedassets/spoopylevel.PackageMetaData'
+[2019.10.24-23.28.09:421][106]LogMetaData: Removing '/Game/Flowers_and_Plants_Nature_Pack/mystuff/spoopylevel_sharedassets/spoopylevel.spoopylevel:PersistentLevel.spoopylevel.EventGraph.K2Node_Event_1' ref from Metadata '/Game/Maps/spoopylevel_sharedassets/spoopylevel.PackageMetaData'
+[2019.10.24-23.28.09:421][106]LogMetaData: Removing '/Game/Flowers_and_Plants_Nature_Pack/mystuff/spoopylevel_sharedassets/spoopylevel.spoopylevel_C' ref from Metadata '/Game/Maps/spoopylevel_sharedassets/spoopylevel.PackageMetaData'
+[2019.10.24-23.28.09:421][106]LogMetaData: Removing '/Game/Flowers_and_Plants_Nature_Pack/mystuff/spoopylevel_sharedassets/spoopylevel.SKEL_spoopylevel_C' ref from Metadata '/Game/Maps/spoopylevel_sharedassets/spoopylevel.PackageMetaData'
+[2019.10.24-23.28.09:491][106]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2019.10.24-23.28.09:960][106]LogSavePackage: Moving 'E:/level design 2 stuff/github stuff/spoopylevel/MMartinSpoopy/Saved/spoopylevelFAF0A8B9432C43966FF376BD1236F0B7.tmp' to 'E:/level design 2 stuff/github stuff/spoopylevel/MMartinSpoopy/Content/Flowers_and_Plants_Nature_Pack/mystuff/spoopylevel_sharedassets/spoopylevel.umap'
+[2019.10.24-23.28.10:012][106]LogFileHelpers: Saving map 'spoopylevel' took 0.545
+[2019.10.24-23.28.10:135][106]LogSavePackage: Moving 'E:/level design 2 stuff/github stuff/spoopylevel/MMartinSpoopy/Saved/landscapestuff01185733448F2538B0DAD3A488CC17AE.tmp' to 'E:/level design 2 stuff/github stuff/spoopylevel/MMartinSpoopy/Content/Flowers_and_Plants_Nature_Pack/mystuff/spoopylevel_sharedassets/landscapestuff.uasset'
+[2019.10.24-23.28.10:189][106]LogSavePackage: Moving 'E:/level design 2 stuff/github stuff/spoopylevel/MMartinSpoopy/Saved/landscapestuff2D2B3FF54871C723E3F810B61B888E0E.tmp' to 'E:/level design 2 stuff/github stuff/spoopylevel/MMartinSpoopy/Content/Maps/spoopylevel_sharedassets/landscapestuff.uasset'
+[2019.10.24-23.28.10:220][106]LogSavePackage: Moving 'E:/level design 2 stuff/github stuff/spoopylevel/MMartinSpoopy/Saved/moss_LayerInfo0F3ACFCB4BE9769AFE9EEB88A780894A.tmp' to 'E:/level design 2 stuff/github stuff/spoopylevel/MMartinSpoopy/Content/Flowers_and_Plants_Nature_Pack/mystuff/spoopylevel_sharedassets/moss_LayerInfo.uasset'
+[2019.10.24-23.28.10:302][106]LogSavePackage: Moving 'E:/level design 2 stuff/github stuff/spoopylevel/MMartinSpoopy/Saved/moss_LayerInfo6695DAF64FEC845D9C9B9CA3D6499125.tmp' to 'E:/level design 2 stuff/github stuff/spoopylevel/MMartinSpoopy/Content/Maps/spoopylevel_sharedassets/moss_LayerInfo.uasset'
+[2019.10.24-23.28.10:331][106]LogSavePackage: Moving 'E:/level design 2 stuff/github stuff/spoopylevel/MMartinSpoopy/Saved/gravel_LayerInfo6EE79FB84854A2DE692902B2B0296F7A.tmp' to 'E:/level design 2 stuff/github stuff/spoopylevel/MMartinSpoopy/Content/Flowers_and_Plants_Nature_Pack/mystuff/spoopylevel_sharedassets/gravel_LayerInfo.uasset'
+[2019.10.24-23.28.10:394][106]LogSavePackage: Moving 'E:/level design 2 stuff/github stuff/spoopylevel/MMartinSpoopy/Saved/gravel_LayerInfo8B7EAD464211C49A5941B182A7D6A360.tmp' to 'E:/level design 2 stuff/github stuff/spoopylevel/MMartinSpoopy/Content/Maps/spoopylevel_sharedassets/gravel_LayerInfo.uasset'
+[2019.10.24-23.28.10:418][106]LogSavePackage: Moving 'E:/level design 2 stuff/github stuff/spoopylevel/MMartinSpoopy/Saved/grass_LayerInfo695379CC45675F69A65256B6F5334F48.tmp' to 'E:/level design 2 stuff/github stuff/spoopylevel/MMartinSpoopy/Content/Flowers_and_Plants_Nature_Pack/mystuff/spoopylevel_sharedassets/grass_LayerInfo.uasset'
+[2019.10.24-23.28.10:460][106]LogSavePackage: Moving 'E:/level design 2 stuff/github stuff/spoopylevel/MMartinSpoopy/Saved/grass_LayerInfo871BB2964C50AF8DC56647932F9EDB44.tmp' to 'E:/level design 2 stuff/github stuff/spoopylevel/MMartinSpoopy/Content/Maps/spoopylevel_sharedassets/grass_LayerInfo.uasset'
+[2019.10.24-23.28.10:583][106]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2019.10.24-23.28.10:609][106]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2019.10.24-23.28.10:631][106]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2019.10.24-23.28.13:084][312]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2019.10.24-23.28.13:084][312]LogMetaData: Removing '/Game/mystuff/spoopylevel_sharedassets/spoopylevel.spoopylevel:PersistentLevel.spoopylevel.EventGraph.K2Node_Event_0' ref from Metadata '/Game/Flowers_and_Plants_Nature_Pack/mystuff/spoopylevel_sharedassets/spoopylevel.PackageMetaData'
+[2019.10.24-23.28.13:084][312]LogMetaData: Removing '/Game/mystuff/spoopylevel_sharedassets/spoopylevel.spoopylevel:PersistentLevel.spoopylevel.EventGraph.K2Node_Event_1' ref from Metadata '/Game/Flowers_and_Plants_Nature_Pack/mystuff/spoopylevel_sharedassets/spoopylevel.PackageMetaData'
+[2019.10.24-23.28.13:084][312]LogMetaData: Removing '/Game/mystuff/spoopylevel_sharedassets/spoopylevel.spoopylevel_C' ref from Metadata '/Game/Flowers_and_Plants_Nature_Pack/mystuff/spoopylevel_sharedassets/spoopylevel.PackageMetaData'
+[2019.10.24-23.28.13:084][312]LogMetaData: Removing '/Game/mystuff/spoopylevel_sharedassets/spoopylevel.SKEL_spoopylevel_C' ref from Metadata '/Game/Flowers_and_Plants_Nature_Pack/mystuff/spoopylevel_sharedassets/spoopylevel.PackageMetaData'
+[2019.10.24-23.28.13:147][312]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2019.10.24-23.28.13:676][312]LogSavePackage: Moving 'E:/level design 2 stuff/github stuff/spoopylevel/MMartinSpoopy/Saved/spoopylevel9D80FBAB4B45522A6E9E389459ED57A0.tmp' to 'E:/level design 2 stuff/github stuff/spoopylevel/MMartinSpoopy/Content/mystuff/spoopylevel_sharedassets/spoopylevel.umap'
+[2019.10.24-23.28.13:729][312]LogFileHelpers: Saving map 'spoopylevel' took 0.616
+[2019.10.24-23.28.13:782][312]LogSavePackage: Moving 'E:/level design 2 stuff/github stuff/spoopylevel/MMartinSpoopy/Saved/landscapestuffD35747CB48DEE756E59B2C912394A33A.tmp' to 'E:/level design 2 stuff/github stuff/spoopylevel/MMartinSpoopy/Content/mystuff/spoopylevel_sharedassets/landscapestuff.uasset'
+[2019.10.24-23.28.13:846][312]LogSavePackage: Moving 'E:/level design 2 stuff/github stuff/spoopylevel/MMartinSpoopy/Saved/moss_LayerInfoC96C0B4C4B74AF77DB85A0B05ECFBC0D.tmp' to 'E:/level design 2 stuff/github stuff/spoopylevel/MMartinSpoopy/Content/mystuff/spoopylevel_sharedassets/moss_LayerInfo.uasset'
+[2019.10.24-23.28.13:870][312]LogSavePackage: Moving 'E:/level design 2 stuff/github stuff/spoopylevel/MMartinSpoopy/Saved/gravel_LayerInfo8348281B4119E7145C9B339F1654D2B6.tmp' to 'E:/level design 2 stuff/github stuff/spoopylevel/MMartinSpoopy/Content/mystuff/spoopylevel_sharedassets/gravel_LayerInfo.uasset'
+[2019.10.24-23.28.13:895][312]LogSavePackage: Moving 'E:/level design 2 stuff/github stuff/spoopylevel/MMartinSpoopy/Saved/grass_LayerInfo204F20EB48CC5F2D5C40D3B5309B926B.tmp' to 'E:/level design 2 stuff/github stuff/spoopylevel/MMartinSpoopy/Content/mystuff/spoopylevel_sharedassets/grass_LayerInfo.uasset'
+[2019.10.24-23.28.14:164][312]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2019.10.24-23.28.14:185][312]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2019.10.24-23.28.14:208][312]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2019.10.24-23.28.14:229][312]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2019.10.24-23.28.14:248][312]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2019.10.24-23.28.14:271][312]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2019.10.24-23.28.14:292][312]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2019.10.24-23.28.14:312][312]LogSavePackage: Moving 'E:/level design 2 stuff/github stuff/spoopylevel/MMartinSpoopy/Saved/landscapestuffE25521434299E09793187CA772814639.tmp' to 'E:/level design 2 stuff/github stuff/spoopylevel/MMartinSpoopy/Content/Maps/spoopylevel_sharedassets/landscapestuff.uasset'
+[2019.10.24-23.28.14:340][312]LogSavePackage: Moving 'E:/level design 2 stuff/github stuff/spoopylevel/MMartinSpoopy/Saved/moss_LayerInfo5A8A65D74B395CA2F8CFBEA52F47C5B0.tmp' to 'E:/level design 2 stuff/github stuff/spoopylevel/MMartinSpoopy/Content/Maps/spoopylevel_sharedassets/moss_LayerInfo.uasset'
+[2019.10.24-23.28.14:377][312]LogSavePackage: Moving 'E:/level design 2 stuff/github stuff/spoopylevel/MMartinSpoopy/Saved/gravel_LayerInfo86A73C10478BC8FB6F2F62A335E1A8A2.tmp' to 'E:/level design 2 stuff/github stuff/spoopylevel/MMartinSpoopy/Content/Maps/spoopylevel_sharedassets/gravel_LayerInfo.uasset'
+[2019.10.24-23.28.14:407][312]LogSavePackage: Moving 'E:/level design 2 stuff/github stuff/spoopylevel/MMartinSpoopy/Saved/grass_LayerInfoEA30678E48226F02AE52FBB46216CB1C.tmp' to 'E:/level design 2 stuff/github stuff/spoopylevel/MMartinSpoopy/Content/Maps/spoopylevel_sharedassets/grass_LayerInfo.uasset'
+[2019.10.24-23.28.41:223][967]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2019.10.24-23.28.46:611][967]LogSlate: Window 'Delete Assets' being destroyed
+[2019.10.24-23.30.10:068][125]LogDirectoryWatcher: A directory notification failed for 'E:/level design 2 stuff/github stuff/spoopylevel/MMartinSpoopy/Content/Collections/' because it could not be accessed. Aborting watch request...
+[2019.10.24-23.30.10:069][125]LogDirectoryWatcher: A directory notification failed for 'E:/level design 2 stuff/github stuff/spoopylevel/MMartinSpoopy/Content/Developers/w210368179/Collections/' because it could not be accessed. Aborting watch request...
+[2019.10.24-23.30.10:069][125]LogDirectoryWatcher: A directory notification failed for 'E:/level design 2 stuff/github stuff/spoopylevel/MMartinSpoopy/Saved/Collections/' because it could not be accessed. Aborting watch request...
+[2019.10.24-23.32.48:522][276]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-23.33.13:737][489]LogSlate: Window 'Color Picker' being destroyed
+[2019.10.24-23.33.17:795][651]LogSlate: Window 'Color Picker' being destroyed
+[2019.10.24-23.33.22:552][830]LogSlate: Window 'Color Picker' being destroyed
+[2019.10.24-23.33.23:373][862]Cmd: TRANSACTION UNDO
+[2019.10.24-23.33.23:373][862]LogEditorTransaction: Undo Edit Horizon Color
+[2019.10.24-23.33.24:115][889]Cmd: TRANSACTION UNDO
+[2019.10.24-23.33.24:115][889]LogEditorTransaction: Undo Edit Horizon Color
+[2019.10.24-23.33.27:508][ 18]Cmd: TRANSACTION UNDO
+[2019.10.24-23.33.27:508][ 18]LogEditorTransaction: Undo Clicking on Actors
+[2019.10.24-23.33.28:076][ 39]Cmd: TRANSACTION UNDO
+[2019.10.24-23.33.28:076][ 39]LogEditorTransaction: Undo Clicking on Actors
+[2019.10.24-23.33.51:167][803]LogTexture: Display: Building textures: T_GoodSky_noise_smooth (AutoDXT, 512X512)
+[2019.10.24-23.33.51:167][803]LogTexture: Display: Building textures: T_GoodSky_Lightning (AutoDXT, 1024X1024)
+[2019.10.24-23.33.51:167][803]LogTexture: Display: Building textures: T_GoodSky_clouds_F (AutoDXT, 2048X512)
+[2019.10.24-23.33.51:167][803]LogTexture: Display: Building textures: T_GoodSky_clouds_E (AutoDXT, 2048X512)
+[2019.10.24-23.33.51:167][803]LogTexture: Display: Building textures: T_GoodSky_clouds_D (AutoDXT, 2048X512)
+[2019.10.24-23.33.51:167][803]LogTexture: Display: Building textures: T_GoodSky_clouds_C (AutoDXT, 2048X512)
+[2019.10.24-23.33.51:167][803]LogTexture: Display: Building textures: T_GoodSky_clouds_sphere (AutoDXT, 2048X2048)
+[2019.10.24-23.33.51:167][803]LogTexture: Display: Building textures: T_GoodSky_clouds_A (AutoDXT, 2048X512)
+[2019.10.24-23.33.51:167][803]LogTexture: Display: Building textures: T_GoodSky_clouds_B (AutoDXT, 2048X512)
+[2019.10.24-23.33.51:167][803]LogTexture: Display: Building textures: T_GoodSky_Moon (AutoDXT, 512X512)
+[2019.10.24-23.33.51:167][803]LogTexture: Display: Building textures: T_GoodSky_SkyRing (AutoDXT, 256X256)
+[2019.10.24-23.33.51:167][803]LogMaterial: Display: Missing cached shader map for material M_GoodSky_Sun_Stars, compiling. 
+[2019.10.24-23.33.51:183][803]LogStaticMesh: Building static mesh SM_GoodSky_StarMesh...
+[2019.10.24-23.33.51:534][803]LogStaticMesh: Built static mesh [0.35s] /Game/GoodSky/Source/ArrowTool/SM_GoodSky_StarMesh.SM_GoodSky_StarMesh
+[2019.10.24-23.33.51:619][803]LogStaticMesh: Building static mesh SM_GoodSky_Sphere...
+[2019.10.24-23.33.51:658][803]LogStaticMesh: Built static mesh [0.04s] /Game/GoodSky/Source/Mesh/SM_GoodSky_Sphere.SM_GoodSky_Sphere
+[2019.10.24-23.33.51:669][803]LoadErrors: Warning: Linear color curves now accurately handle RGB values > 1. If you were relying on HSV clamping, please update Curve_GoodSky_AllOverlayColor
+[2019.10.24-23.33.51:669][803]LoadErrors: Warning: Linear color curves now accurately handle RGB values > 1. If you were relying on HSV clamping, please update Curve_GoodSky_BaseCloudColor
+[2019.10.24-23.33.51:699][803]LogStaticMesh: Building static mesh SM_GoodSky_Hemisphere...
+[2019.10.24-23.33.51:720][803]LogStaticMesh: Built static mesh [0.02s] /Game/GoodSky/Source/Mesh/SM_GoodSky_Hemisphere.SM_GoodSky_Hemisphere
+[2019.10.24-23.33.51:732][803]LogMaterial: Display: Missing cached shader map for material M_GoodSky_Moon, compiling. 
+[2019.10.24-23.33.51:744][803]LogMaterial: Display: Missing cached shader map for material M_GoodSky_SkyRing_, compiling. 
+[2019.10.24-23.33.51:796][803]LogMaterial: Display: Missing cached shader map for material M_GoodSky_Storm, compiling. 
+[2019.10.24-23.33.51:810][803]LogMaterial: Display: Missing cached shader map for material M_GoodSky_Base, compiling. 
+[2019.10.24-23.33.51:819][803]LogMaterial: Display: Missing cached shader map for material M_GoodSky_Sun_Emissive, compiling. 
+[2019.10.24-23.33.51:830][803]LoadErrors: Warning: Linear color curves now accurately handle RGB values > 1. If you were relying on HSV clamping, please update Curve_GoodSky_horizon_Color
+[2019.10.24-23.33.51:830][803]LoadErrors: Warning: Linear color curves now accurately handle RGB values > 1. If you were relying on HSV clamping, please update Curve_GoodSky_DomeColor
+[2019.10.24-23.33.51:838][803]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/GoodSky/Blueprint/BP_GoodSky.BP_GoodSky
+[2019.10.24-23.33.52:770][803]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 121 classes and 0 folders.
+[2019.10.24-23.33.54:695][804]LogSlate: Took 0.052783 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2019.10.24-23.33.57:494][901]LogSlate: Window 'BP_GoodSky' being destroyed
+[2019.10.24-23.33.57:498][901]LogSlate: Window 'BP_GoodSky' being destroyed
+[2019.10.24-23.34.00:337][993]LogAIModule: Creating AISystem for world Level_GoodSky_Showcase
+[2019.10.24-23.34.00:363][993]LogAssetEditorManager: Opening Asset editor for World /Game/GoodSky/Maps/Level_GoodSky_Showcase.Level_GoodSky_Showcase
+[2019.10.24-23.34.00:410][993]LogUObjectHash: Compacting FUObjectHashTables data took   4.05ms
+[2019.10.24-23.34.02:363][993]LogSlate: Window 'Save Content' being destroyed
+[2019.10.24-23.34.14:145][426]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-23.34.15:706][486]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.24-23.34.34:561][102]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-23.34.56:915][508]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-23.35.10:254][991]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-23.35.19:531][364]LogSlate: Window 'Color Picker' being destroyed
+[2019.10.24-23.35.23:708][502]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-23.35.48:279][496]Cmd: TRANSACTION UNDO
+[2019.10.24-23.35.48:279][496]LogEditorTransaction: Undo Edit Sun Brightness
+[2019.10.24-23.35.54:743][775]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-23.36.00:819][975]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.24-23.36.04:596][260]LogSlate: Window 'Color Picker' being destroyed
+[2019.10.24-23.36.12:205][501]LogSlate: FSceneViewport::OnFocusLost() reason 0
