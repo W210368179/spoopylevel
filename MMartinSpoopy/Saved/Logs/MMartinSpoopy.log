@@ -2590,3 +2590,172 @@ Exception rethrown at [0]:
 [2019.10.25-01.06.17:379][695]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
 [2019.10.25-01.06.17:980][695]LogSavePackage: Moving 'E:/level design 2 stuff/github stuff/spoopylevel/MMartinSpoopy/Saved/spoopylevelA49501594316B9B5350B54877A99CF61.tmp' to 'E:/level design 2 stuff/github stuff/spoopylevel/MMartinSpoopy/Content/mystuff/spoopylevel_sharedassets/spoopylevel.umap'
 [2019.10.25-01.06.18:099][695]LogSavePackage: Moving 'E:/level design 2 stuff/github stuff/spoopylevel/MMartinSpoopy/Saved/spoopylevel_BuiltData50D969574DD7805594DA598FA9E849D9.tmp' to 'E:/level design 2 stuff/github stuff/spoopylevel/MMartinSpoopy/Content/mystuff/spoopylevel_sharedassets/spoopylevel_BuiltData.uasset'
+[2019.10.25-01.08.46:174][328]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.25-01.08.56:999][604]LogAssetEditorManager: Opening Asset editor for MaterialInstanceConstant /Game/Flowers_and_Plants_Nature_Pack/Materials/Instances/MI_Rock_01.MI_Rock_01
+[2019.10.25-01.09.06:650][831]LogSlate: Window 'MI_Rock_01' being destroyed
+[2019.10.25-01.09.06:689][831]LogSlate: Window 'MI_Rock_01' being destroyed
+[2019.10.25-01.09.30:166][490]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.25-01.09.30:426][495]LogLinker: Warning: Can't find file '/Game/Flowers_and_Plants_Nature_Pack/Textures/T_Rubber01_512_B'
+[2019.10.25-01.09.30:426][495]LogLinker: Warning: Can't find file for asset '/Game/Flowers_and_Plants_Nature_Pack/Textures/T_Rubber01_512_B' while loading NULL.
+[2019.10.25-01.09.30:426][495]LogLinker: Warning: Can't find file '/Game/Flowers_and_Plants_Nature_Pack/Textures/T_Rubber01_512_N'
+[2019.10.25-01.09.30:427][495]LogLinker: Warning: Can't find file for asset '/Game/Flowers_and_Plants_Nature_Pack/Textures/T_Rubber01_512_N' while loading NULL.
+[2019.10.25-01.09.30:427][495]LogLinker: Warning: Can't find file '/Game/Flowers_and_Plants_Nature_Pack/Textures/T_Rubber01_512_B'
+[2019.10.25-01.09.30:427][495]LogLinker: Warning: Can't find file for asset '/Game/Flowers_and_Plants_Nature_Pack/Textures/T_Rubber01_512_B' while loading NULL.
+[2019.10.25-01.09.30:427][495]LogLinker: Warning: Can't find file '/Game/Flowers_and_Plants_Nature_Pack/Textures/T_Rubber01_512_N'
+[2019.10.25-01.09.30:427][495]LogLinker: Warning: Can't find file for asset '/Game/Flowers_and_Plants_Nature_Pack/Textures/T_Rubber01_512_N' while loading NULL.
+[2019.10.25-01.09.30:537][495]LogLinker: Warning: Can't find file '/Game/Flowers_and_Plants_Nature_Pack/Textures/T_Rubber01_512_B'
+[2019.10.25-01.09.30:538][495]LoadErrors: Failed to load /Game/Flowers_and_Plants_Nature_Pack/Textures/T_Rubber01_512_B.T_Rubber01_512_B Referenced by MaterialExpressionTextureSample_0
+[2019.10.25-01.09.30:538][495]LogLinker: Warning: Can't find file for asset '/Game/Flowers_and_Plants_Nature_Pack/Textures/T_Rubber01_512_B' while loading NULL.
+[2019.10.25-01.09.30:538][495]LogLinker: Warning: Can't find file '/Game/Flowers_and_Plants_Nature_Pack/Textures/T_Rubber01_512_N'
+[2019.10.25-01.09.30:538][495]LoadErrors: Failed to load /Game/Flowers_and_Plants_Nature_Pack/Textures/T_Rubber01_512_N.T_Rubber01_512_N Referenced by MaterialExpressionTextureSample_1
+[2019.10.25-01.09.30:538][495]LogLinker: Warning: Can't find file for asset '/Game/Flowers_and_Plants_Nature_Pack/Textures/T_Rubber01_512_N' while loading NULL.
+[2019.10.25-01.09.31:130][495]LogTexture: Display: Building textures: T_CharacterLOGO_512_B (AutoDXT, 512X512)
+[2019.10.25-01.09.31:130][495]LogTexture: Display: Building textures: T_CharacterLOGO_512_N (BC5, 512X512)
+[2019.10.25-01.09.31:130][495]LogTexture: Display: Building textures: T_Aluminum01_512_N (BC5, 512X512)
+[2019.10.25-01.09.31:130][495]LogTexture: Display: Building textures: T_Aluminum01_512_B (AutoDXT, 512X512)
+[2019.10.25-01.09.31:130][495]LogTexture: Display: Building textures: T_Character_1024_M (AutoDXT, 1024X1024)
+[2019.10.25-01.09.31:130][495]LogTexture: Display: Building textures: T_Character_2048_N (BC5, 2048X2048)
+[2019.10.25-01.09.31:130][495]LogMaterial: Display: Missing cached shader map for material M_Character_Body, compiling. 
+[2019.10.25-01.09.31:132][495]LogMaterial: Warning: E:\level design 2 stuff\github stuff\spoopylevel\MMartinSpoopy\Content\Flowers_and_Plants_Nature_Pack\Materials\Defaults\M_Character_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.10.25-01.09.31:132][495]LogMaterial: 	Function MF_GlossyBlack_Latex_UE4: (Node TextureSample) Texture Sample> Missing input texture
+[2019.10.25-01.09.31:132][495]LogMaterial: 	Function MF_GlossyBlack_Latex_UE4: (Node MakeMaterialAttributes) Error on property BaseColor
+[2019.10.25-01.09.31:132][495]LogMaterial: 	Function MF_GlossyBlack_Latex_UE4: (Node MakeMaterialAttributes) Error on property Roughness
+[2019.10.25-01.09.31:133][495]LogSkeletalMesh: Building Skeletal Mesh SK_Mannequin...
+[2019.10.25-01.09.31:270][495]LogSkeletalMesh: Built Skeletal Mesh [0.14s] /Game/Flowers_and_Plants_Nature_Pack/Meshes/Components/SK_Mannequin.SK_Mannequin
+[2019.10.25-01.09.31:280][495]LogMaterial: Display: Missing cached shader map for material M_Character_Body, compiling. 
+[2019.10.25-01.09.37:078][671]Cmd: TRANSACTION UNDO
+[2019.10.25-01.09.37:078][671]LogEditorTransaction: Undo Rotate Actors
+[2019.10.25-01.09.40:559][767]Cmd: TRANSACTION UNDO
+[2019.10.25-01.09.40:559][767]LogEditorTransaction: Undo Create Actors
+[2019.10.25-01.09.41:853][792]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.25-01.10.19:455][800]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.25-01.10.19:873][803]LogLinker: Warning: Can't find file '/Game/Flowers_and_Plants_Nature_Pack/Textures/T_DefaultMask_512_M'
+[2019.10.25-01.10.19:873][803]LogLinker: Warning: Can't find file for asset '/Game/Flowers_and_Plants_Nature_Pack/Textures/T_DefaultMask_512_M' while loading NULL.
+[2019.10.25-01.10.19:873][803]LogLinker: Warning: Can't find file '/Game/Flowers_and_Plants_Nature_Pack/Textures/T_DefaultMask_512_M'
+[2019.10.25-01.10.19:873][803]LogLinker: Warning: Can't find file for asset '/Game/Flowers_and_Plants_Nature_Pack/Textures/T_DefaultMask_512_M' while loading NULL.
+[2019.10.25-01.10.19:890][803]LogLinker: Warning: Can't find file '/Game/Flowers_and_Plants_Nature_Pack/Textures/T_Dactylis02_101x2_PP'
+[2019.10.25-01.10.19:890][803]LogLinker: Warning: Can't find file for asset '/Game/Flowers_and_Plants_Nature_Pack/Textures/T_Dactylis02_101x2_PP' while loading NULL.
+[2019.10.25-01.10.19:891][803]LogLinker: Warning: Can't find file '/Game/Flowers_and_Plants_Nature_Pack/Textures/T_DefaultBase_512_B'
+[2019.10.25-01.10.19:891][803]LogLinker: Warning: Can't find file for asset '/Game/Flowers_and_Plants_Nature_Pack/Textures/T_DefaultBase_512_B' while loading NULL.
+[2019.10.25-01.10.19:891][803]LogLinker: Warning: Can't find file '/Game/Flowers_and_Plants_Nature_Pack/Textures/T_DefaultMask_512_M'
+[2019.10.25-01.10.19:891][803]LogLinker: Warning: Can't find file for asset '/Game/Flowers_and_Plants_Nature_Pack/Textures/T_DefaultMask_512_M' while loading NULL.
+[2019.10.25-01.10.19:891][803]LogLinker: Warning: Can't find file '/Game/Flowers_and_Plants_Nature_Pack/Textures/T_DefaultNormal_512_N'
+[2019.10.25-01.10.19:891][803]LogLinker: Warning: Can't find file for asset '/Game/Flowers_and_Plants_Nature_Pack/Textures/T_DefaultNormal_512_N' while loading NULL.
+[2019.10.25-01.10.19:891][803]LogLinker: Warning: Can't find file '/Game/Flowers_and_Plants_Nature_Pack/Textures/T_DefaultRMA_512_RMA'
+[2019.10.25-01.10.19:891][803]LogLinker: Warning: Can't find file for asset '/Game/Flowers_and_Plants_Nature_Pack/Textures/T_DefaultRMA_512_RMA' while loading NULL.
+[2019.10.25-01.10.19:893][803]LogLinker: Warning: Can't find file '/Game/Flowers_and_Plants_Nature_Pack/Textures/T_Dactylis02_101x2_PP'
+[2019.10.25-01.10.19:893][803]LogLinker: Warning: Can't find file for asset '/Game/Flowers_and_Plants_Nature_Pack/Textures/T_Dactylis02_101x2_PP' while loading NULL.
+[2019.10.25-01.10.19:893][803]LogLinker: Warning: Can't find file '/Game/Flowers_and_Plants_Nature_Pack/Textures/T_DefaultBase_512_B'
+[2019.10.25-01.10.19:893][803]LogLinker: Warning: Can't find file for asset '/Game/Flowers_and_Plants_Nature_Pack/Textures/T_DefaultBase_512_B' while loading NULL.
+[2019.10.25-01.10.19:893][803]LogLinker: Warning: Can't find file '/Game/Flowers_and_Plants_Nature_Pack/Textures/T_DefaultMask_512_M'
+[2019.10.25-01.10.19:893][803]LogLinker: Warning: Can't find file for asset '/Game/Flowers_and_Plants_Nature_Pack/Textures/T_DefaultMask_512_M' while loading NULL.
+[2019.10.25-01.10.19:893][803]LogLinker: Warning: Can't find file '/Game/Flowers_and_Plants_Nature_Pack/Textures/T_DefaultNormal_512_N'
+[2019.10.25-01.10.19:893][803]LogLinker: Warning: Can't find file for asset '/Game/Flowers_and_Plants_Nature_Pack/Textures/T_DefaultNormal_512_N' while loading NULL.
+[2019.10.25-01.10.19:893][803]LogLinker: Warning: Can't find file '/Game/Flowers_and_Plants_Nature_Pack/Textures/T_DefaultRMA_512_RMA'
+[2019.10.25-01.10.19:893][803]LogLinker: Warning: Can't find file for asset '/Game/Flowers_and_Plants_Nature_Pack/Textures/T_DefaultRMA_512_RMA' while loading NULL.
+[2019.10.25-01.10.19:897][803]LogLinker: Warning: Can't find file '/Game/Flowers_and_Plants_Nature_Pack/Textures/Splines/T_Schisandra01_2048_B'
+[2019.10.25-01.10.19:897][803]LogLinker: Warning: Can't find file for asset '/Game/Flowers_and_Plants_Nature_Pack/Textures/Splines/T_Schisandra01_2048_B' while loading NULL.
+[2019.10.25-01.10.19:897][803]LogLinker: Warning: Can't find file '/Game/Flowers_and_Plants_Nature_Pack/Textures/Splines/T_Schisandra01_2048_N'
+[2019.10.25-01.10.19:898][803]LogLinker: Warning: Can't find file for asset '/Game/Flowers_and_Plants_Nature_Pack/Textures/Splines/T_Schisandra01_2048_N' while loading NULL.
+[2019.10.25-01.10.19:898][803]LogLinker: Warning: Can't find file '/Game/Flowers_and_Plants_Nature_Pack/Textures/Splines/T_Schisandra01_2048_RMA'
+[2019.10.25-01.10.19:898][803]LogLinker: Warning: Can't find file for asset '/Game/Flowers_and_Plants_Nature_Pack/Textures/Splines/T_Schisandra01_2048_RMA' while loading NULL.
+[2019.10.25-01.10.19:898][803]LogLinker: Warning: Can't find file '/Game/Flowers_and_Plants_Nature_Pack/Textures/T_DefaultMask_512_M'
+[2019.10.25-01.10.19:898][803]LogLinker: Warning: Can't find file for asset '/Game/Flowers_and_Plants_Nature_Pack/Textures/T_DefaultMask_512_M' while loading NULL.
+[2019.10.25-01.10.19:898][803]LogLinker: Warning: Can't find file '/Game/Flowers_and_Plants_Nature_Pack/Textures/Splines/T_Schisandra01_2048_B'
+[2019.10.25-01.10.19:898][803]LogLinker: Warning: Can't find file for asset '/Game/Flowers_and_Plants_Nature_Pack/Textures/Splines/T_Schisandra01_2048_B' while loading NULL.
+[2019.10.25-01.10.19:899][803]LogLinker: Warning: Can't find file '/Game/Flowers_and_Plants_Nature_Pack/Textures/Splines/T_Schisandra01_2048_N'
+[2019.10.25-01.10.19:899][803]LogLinker: Warning: Can't find file for asset '/Game/Flowers_and_Plants_Nature_Pack/Textures/Splines/T_Schisandra01_2048_N' while loading NULL.
+[2019.10.25-01.10.19:899][803]LogLinker: Warning: Can't find file '/Game/Flowers_and_Plants_Nature_Pack/Textures/Splines/T_Schisandra01_2048_RMA'
+[2019.10.25-01.10.19:899][803]LogLinker: Warning: Can't find file for asset '/Game/Flowers_and_Plants_Nature_Pack/Textures/Splines/T_Schisandra01_2048_RMA' while loading NULL.
+[2019.10.25-01.10.19:899][803]LogLinker: Warning: Can't find file '/Game/Flowers_and_Plants_Nature_Pack/Textures/T_DefaultMask_512_M'
+[2019.10.25-01.10.19:899][803]LogLinker: Warning: Can't find file for asset '/Game/Flowers_and_Plants_Nature_Pack/Textures/T_DefaultMask_512_M' while loading NULL.
+[2019.10.25-01.10.19:926][803]LogLinker: Warning: Can't find file '/Game/Flowers_and_Plants_Nature_Pack/Textures/T_DefaultNormal_512_N'
+[2019.10.25-01.10.19:926][803]LoadErrors: Failed to load /Game/Flowers_and_Plants_Nature_Pack/Textures/T_DefaultNormal_512_N.T_DefaultNormal_512_N Referenced by MaterialExpressionTextureSampleParameter2D_13
+[2019.10.25-01.10.19:926][803]LogLinker: Warning: Can't find file for asset '/Game/Flowers_and_Plants_Nature_Pack/Textures/T_DefaultNormal_512_N' while loading NULL.
+[2019.10.25-01.10.19:926][803]LogLinker: Warning: Can't find file '/Game/Flowers_and_Plants_Nature_Pack/Textures/T_DefaultRMA_512_RMA'
+[2019.10.25-01.10.19:926][803]LoadErrors: Failed to load /Game/Flowers_and_Plants_Nature_Pack/Textures/T_DefaultRMA_512_RMA.T_DefaultRMA_512_RMA Referenced by MaterialExpressionTextureSampleParameter2D_2
+[2019.10.25-01.10.19:926][803]LogLinker: Warning: Can't find file for asset '/Game/Flowers_and_Plants_Nature_Pack/Textures/T_DefaultRMA_512_RMA' while loading NULL.
+[2019.10.25-01.10.19:926][803]LogLinker: Warning: Can't find file '/Game/Flowers_and_Plants_Nature_Pack/Textures/T_DefaultMask_512_M'
+[2019.10.25-01.10.19:926][803]LoadErrors: Failed to load /Game/Flowers_and_Plants_Nature_Pack/Textures/T_DefaultMask_512_M.T_DefaultMask_512_M Referenced by MaterialExpressionTextureSampleParameter2D_3
+[2019.10.25-01.10.19:926][803]LogLinker: Warning: Can't find file for asset '/Game/Flowers_and_Plants_Nature_Pack/Textures/T_DefaultMask_512_M' while loading NULL.
+[2019.10.25-01.10.19:927][803]LogLinker: Warning: Can't find file '/Game/Flowers_and_Plants_Nature_Pack/Textures/T_Dactylis02_101x2_PP'
+[2019.10.25-01.10.19:927][803]LoadErrors: Failed to load /Game/Flowers_and_Plants_Nature_Pack/Textures/T_Dactylis02_101x2_PP.T_Dactylis02_101x2_PP Referenced by MaterialExpressionTextureSampleParameter2D_4
+[2019.10.25-01.10.19:927][803]LogLinker: Warning: Can't find file for asset '/Game/Flowers_and_Plants_Nature_Pack/Textures/T_Dactylis02_101x2_PP' while loading NULL.
+[2019.10.25-01.10.19:927][803]LogLinker: Warning: Can't find file '/Game/Flowers_and_Plants_Nature_Pack/Textures/T_Dactylis02_101x2_PP'
+[2019.10.25-01.10.19:927][803]LoadErrors: Failed to load /Game/Flowers_and_Plants_Nature_Pack/Textures/T_Dactylis02_101x2_PP.T_Dactylis02_101x2_PP Referenced by MaterialExpressionTextureSampleParameter2D_5
+[2019.10.25-01.10.19:927][803]LogLinker: Warning: Can't find file for asset '/Game/Flowers_and_Plants_Nature_Pack/Textures/T_Dactylis02_101x2_PP' while loading NULL.
+[2019.10.25-01.10.19:927][803]LogLinker: Warning: Can't find file '/Game/Flowers_and_Plants_Nature_Pack/Textures/T_DefaultBase_512_B'
+[2019.10.25-01.10.19:927][803]LoadErrors: Failed to load /Game/Flowers_and_Plants_Nature_Pack/Textures/T_DefaultBase_512_B.T_DefaultBase_512_B Referenced by MaterialExpressionTextureSampleParameter2D_7
+[2019.10.25-01.10.19:928][803]LogLinker: Warning: Can't find file for asset '/Game/Flowers_and_Plants_Nature_Pack/Textures/T_DefaultBase_512_B' while loading NULL.
+[2019.10.25-01.10.19:929][803]LogLinker: Warning: Can't find file '/Game/Flowers_and_Plants_Nature_Pack/Textures/Splines/T_Schisandra01_2048_B'
+[2019.10.25-01.10.19:929][803]LoadErrors: Failed to load /Game/Flowers_and_Plants_Nature_Pack/Textures/Splines/T_Schisandra01_2048_B.T_Schisandra01_2048_B Referenced by MI_Schisandra_01
+[2019.10.25-01.10.19:929][803]LogLinker: Warning: Can't find file for asset '/Game/Flowers_and_Plants_Nature_Pack/Textures/Splines/T_Schisandra01_2048_B' while loading NULL.
+[2019.10.25-01.10.19:929][803]LogLinker: Warning: Can't find file '/Game/Flowers_and_Plants_Nature_Pack/Textures/Splines/T_Schisandra01_2048_N'
+[2019.10.25-01.10.19:929][803]LoadErrors: Failed to load /Game/Flowers_and_Plants_Nature_Pack/Textures/Splines/T_Schisandra01_2048_N.T_Schisandra01_2048_N Referenced by MI_Schisandra_01
+[2019.10.25-01.10.19:929][803]LogLinker: Warning: Can't find file for asset '/Game/Flowers_and_Plants_Nature_Pack/Textures/Splines/T_Schisandra01_2048_N' while loading NULL.
+[2019.10.25-01.10.19:929][803]LogLinker: Warning: Can't find file '/Game/Flowers_and_Plants_Nature_Pack/Textures/Splines/T_Schisandra01_2048_RMA'
+[2019.10.25-01.10.19:929][803]LoadErrors: Failed to load /Game/Flowers_and_Plants_Nature_Pack/Textures/Splines/T_Schisandra01_2048_RMA.T_Schisandra01_2048_RMA Referenced by MI_Schisandra_01
+[2019.10.25-01.10.19:930][803]LogLinker: Warning: Can't find file for asset '/Game/Flowers_and_Plants_Nature_Pack/Textures/Splines/T_Schisandra01_2048_RMA' while loading NULL.
+[2019.10.25-01.10.19:930][803]LogLinker: Warning: Can't find file '/Game/Flowers_and_Plants_Nature_Pack/Textures/T_DefaultMask_512_M'
+[2019.10.25-01.10.19:930][803]LoadErrors: Failed to load /Game/Flowers_and_Plants_Nature_Pack/Textures/T_DefaultMask_512_M.T_DefaultMask_512_M Referenced by MI_Schisandra_01
+[2019.10.25-01.10.19:930][803]LogLinker: Warning: Can't find file for asset '/Game/Flowers_and_Plants_Nature_Pack/Textures/T_DefaultMask_512_M' while loading NULL.
+[2019.10.25-01.10.19:932][803]LogLinker: Warning: Can't find file '/Game/Flowers_and_Plants_Nature_Pack/Textures/T_DefaultMask_512_M'
+[2019.10.25-01.10.19:932][803]LoadErrors: Failed to load /Game/Flowers_and_Plants_Nature_Pack/Textures/T_DefaultMask_512_M.T_DefaultMask_512_M Referenced by MaterialExpressionTextureSampleParameter2D_24
+[2019.10.25-01.10.19:932][803]LogLinker: Warning: Can't find file for asset '/Game/Flowers_and_Plants_Nature_Pack/Textures/T_DefaultMask_512_M' while loading NULL.
+[2019.10.25-01.10.19:933][803]LogLinker: Warning: Can't find file '/Game/Flowers_and_Plants_Nature_Pack/Textures/T_DefaultMask_512_M'
+[2019.10.25-01.10.19:933][803]LoadErrors: Failed to load /Game/Flowers_and_Plants_Nature_Pack/Textures/T_DefaultMask_512_M.T_DefaultMask_512_M Referenced by MaterialExpressionTextureSampleParameter2D_25
+[2019.10.25-01.10.19:933][803]LogLinker: Warning: Can't find file for asset '/Game/Flowers_and_Plants_Nature_Pack/Textures/T_DefaultMask_512_M' while loading NULL.
+[2019.10.25-01.10.19:933][803]LogLinker: Warning: Can't find file '/Game/Flowers_and_Plants_Nature_Pack/Textures/T_DefaultMask_512_M'
+[2019.10.25-01.10.19:933][803]LoadErrors: Failed to load /Game/Flowers_and_Plants_Nature_Pack/Textures/T_DefaultMask_512_M.T_DefaultMask_512_M Referenced by MaterialExpressionTextureSampleParameter2D_26
+[2019.10.25-01.10.19:933][803]LogLinker: Warning: Can't find file for asset '/Game/Flowers_and_Plants_Nature_Pack/Textures/T_DefaultMask_512_M' while loading NULL.
+[2019.10.25-01.10.19:955][803]LogMaterial: Display: Missing cached shader map for material M_PlantsMasterMaterial, compiling. 
+[2019.10.25-01.10.19:958][803]LogMaterial: Warning: E:\level design 2 stuff\github stuff\spoopylevel\MMartinSpoopy\Content\Flowers_and_Plants_Nature_Pack\Materials\M_PlantsMasterMaterial.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.10.25-01.10.19:958][803]LogMaterial: 	(Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2019.10.25-01.10.19:958][803]LogMaterial: 	(Node TextureSampleParameter2D) (ENG) RMA map. Combined map (red channel - AO, green channel - Roughness, Blue channel - metallic). 
+It is recommended to disable sRGB in texture properties of this type, for correctness.
+(RUS) RMA карта. Комбинированая карта (красный канал - AO, зелёный канал - Roughness, Синий канал - metallic). 
+Рекомендуется отключать sRGB в свойствах текстуры данного типа, для корректности. > Requires Texture2D
+[2019.10.25-01.10.19:965][803]LogStaticMesh: Building static mesh SM_Schisandra_02...
+[2019.10.25-01.10.19:995][803]LogStaticMesh: Built static mesh [0.03s] /Game/Flowers_and_Plants_Nature_Pack/Meshes/Splines/SM_Schisandra_02.SM_Schisandra_02
+[2019.10.25-01.10.20:004][803]LogMaterial: Display: Missing cached shader map for material M_PlantsMasterMaterial, compiling. 
+[2019.10.25-01.10.20:010][803]LogMaterial: Warning: E:\level design 2 stuff\github stuff\spoopylevel\MMartinSpoopy\Content\Flowers_and_Plants_Nature_Pack\Materials\Instances\MI_01PlantsMasterInstance.uasset: Failed to compile Material Instance with Base M_PlantsMasterMaterial for platform PCD3D_SM5, Default Material will be used in game.
+[2019.10.25-01.10.20:010][803]LogMaterial: 	(Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2019.10.25-01.10.20:010][803]LogMaterial: 	Function MF_ColorCorrectionFlowers: (Node TextureSampleParameter2D) (ENG) Mask. For the correct work of textures of this type, it is recommended to set the "Compression Settings" parameter in the texture properties as "Mask (no sRGB)". (RUS) Маска. Для корретной работы текстур данного типа рекомендуется в свойствах текстуры установить параметр "Compression Settings" как "Mask (no sRGB)".> Requires Texture2D
+[2019.10.25-01.10.20:010][803]LogMaterial: 	(Node TextureSampleParameter2D) (ENG) RMA map. Combined map (red channel - AO, green channel - Roughness, Blue channel - metallic). 
+It is recommended to disable sRGB in texture properties of this type, for correctness.
+(RUS) RMA карта. Комбинированая карта (красный канал - AO, зелёный канал - Roughness, Синий канал - metallic). 
+Рекомендуется отключать sRGB в свойствах текстуры данного типа, для корректности. > Requires Texture2D
+[2019.10.25-01.10.20:015][803]LogMaterial: Display: Missing cached shader map for material M_PlantsMasterMaterial, compiling. 
+[2019.10.25-01.10.20:021][803]LogMaterial: Warning: E:\level design 2 stuff\github stuff\spoopylevel\MMartinSpoopy\Content\Flowers_and_Plants_Nature_Pack\Materials\Instances\MI_Schisandra_01.uasset: Failed to compile Material Instance with Base M_PlantsMasterMaterial for platform PCD3D_SM5, Default Material will be used in game.
+[2019.10.25-01.10.20:021][803]LogMaterial: 	(Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2019.10.25-01.10.20:021][803]LogMaterial: 	Function MF_ColorCorrectionFlowers: (Node TextureSampleParameter2D) (ENG) Mask. For the correct work of textures of this type, it is recommended to set the "Compression Settings" parameter in the texture properties as "Mask (no sRGB)". (RUS) Маска. Для корретной работы текстур данного типа рекомендуется в свойствах текстуры установить параметр "Compression Settings" как "Mask (no sRGB)".> Requires Texture2D
+[2019.10.25-01.10.20:021][803]LogMaterial: 	(Node TextureSampleParameter2D) (ENG) RMA map. Combined map (red channel - AO, green channel - Roughness, Blue channel - metallic). 
+It is recommended to disable sRGB in texture properties of this type, for correctness.
+(RUS) RMA карта. Комбинированая карта (красный канал - AO, зелёный канал - Roughness, Синий канал - metallic). 
+Рекомендуется отключать sRGB в свойствах текстуры данного типа, для корректности. > Requires Texture2D
+[2019.10.25-01.10.20:051][803]LogActorFactory: Actor Factory created SM_Schisandra_02
+[2019.10.25-01.10.20:388][813]LogActorFactory: Actor Factory created SM_Schisandra_02
+[2019.10.25-01.10.22:712][890]Cmd: TRANSACTION UNDO
+[2019.10.25-01.10.22:712][890]LogEditorTransaction: Undo Create Actors
+[2019.10.25-01.10.26:940][ 11]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.25-01.10.49:784][689]LogActorFactory: Actor Factory created SM_Rock
+[2019.10.25-01.10.50:591][713]LogActorFactory: Actor Factory created SM_Rock
+[2019.10.25-01.10.56:454][910]Cmd: TRANSACTION UNDO
+[2019.10.25-01.10.56:454][910]LogEditorTransaction: Undo Create Actors
+[2019.10.25-01.11.01:945][ 56]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.25-01.11.12:728][361]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.25-01.11.13:754][364]LogTexture: Display: Building textures: T_Adonis01_2048_M (AutoDXT, 2048X2048)
+[2019.10.25-01.11.13:754][364]LogTexture: Display: Building textures: T_Adonis01_2048_B (AutoDXT, 2048X2048)
+[2019.10.25-01.11.13:754][364]LogTexture: Display: Building textures: T_Adonis01_2048_RMA (AutoDXT, 2048X2048)
+[2019.10.25-01.11.13:754][364]LogTexture: Display: Building textures: T_Adonis01_2048_N (BC5, 2048X2048)
+[2019.10.25-01.11.13:754][364]LogStaticMesh: Building static mesh SM_Adonis_01...
+[2019.10.25-01.11.13:765][364]LogStaticMesh: Built static mesh [0.01s] /Game/Flowers_and_Plants_Nature_Pack/Meshes/SM_Adonis_01.SM_Adonis_01
+[2019.10.25-01.11.13:799][364]LogActorFactory: Actor Factory created SM_Adonis_01
+[2019.10.25-01.11.14:155][374]LogActorFactory: Actor Factory created SM_Adonis_01
+[2019.10.25-01.11.16:788][461]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.25-01.11.44:627][391]Cmd: DELETE
+[2019.10.25-01.11.44:627][391]Cmd: ACTOR DELETE
+[2019.10.25-01.11.44:632][391]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.25-01.11.44:671][391]LogUObjectHash: Compacting FUObjectHashTables data took   3.38ms
+[2019.10.25-01.11.44:671][391]LogEditorActor: Deleted 1 Actors (0.043 secs)
+[2019.10.25-01.11.57:422][779]LogSlate: FSceneViewport::OnFocusLost() reason 0
