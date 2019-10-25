@@ -987,3 +987,621 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.10.24-23.36.00:819][975]LogSlate: FSceneViewport::OnFocusLost() reason 2
 [2019.10.24-23.36.04:596][260]LogSlate: Window 'Color Picker' being destroyed
 [2019.10.24-23.36.12:205][501]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-23.37.00:192][264]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-23.37.47:047][330]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-23.37.50:260][431]LogSlate: Window 'Color Picker' being destroyed
+[2019.10.24-23.37.56:954][649]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-23.38.10:054][ 94]LogSlate: Window 'Color Picker' being destroyed
+[2019.10.24-23.38.23:851][772]MapCheck: New page: Map Check
+[2019.10.24-23.38.23:862][772]Cmd: MAP REBUILD ALLVISIBLE
+[2019.10.24-23.38.23:862][772]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2019.10.24-23.38.23:938][772]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2019.10.24-23.38.23:970][772]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.24-23.38.23:979][772]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.24-23.38.23:986][772]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.24-23.38.26:347][772]TextureStreamingBuild: Display: Compiling optional shaders took 2.404 seconds.
+[2019.10.24-23.38.26:406][772]LogLevel: Display: Export Material TexCoord Scales took 0.060 seconds.
+[2019.10.24-23.38.26:434][772]TextureStreamingBuild: Display: Build Texture Streaming took 0.009 seconds.
+[2019.10.24-23.38.26:461][772]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2019.10.24-23.38.26:522][772]LightingResults: New page: Lighting Build - Oct 24, 2019, 1:38:26 PM
+[2019.10.24-23.38.26:867][772]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2019.10.24-23.38.27:422][772]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2019.10.24-23.38.27:569][772]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2019.10.24-23.38.30:527][772]LogSwarmInterface: Error: [TryOpenConnection] Waiting for the agent to start up ...
+[2019.10.24-23.38.31:096][772]LogSwarmInterface: Error: System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:8008
+
+Server stack trace: 
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Runtime.Remoting.Channels.RemoteConnection.CreateNewSocket(EndPoint ipEndPoint)
+   at System.Runtime.Remoting.Channels.SocketCache.GetSocket(String machinePortAndSid, Boolean openNew)
+   at System.Runtime.Remoting.Channels.Tcp.TcpClientTransportSink.SendRequestWithRetry(IMessage msg, ITransportHeaders requestHeaders, Stream requestStream)
+   at System.Runtime.Remoting.Channels.Tcp.TcpClientTransportSink.AsyncProcessRequest(IClientChannelSinkStack sinkStack, IMessage msg, ITransportHeaders headers, Stream stream)
+   at System.Runtime.Remoting.Channels.BinaryClientFormatterSink.AsyncProcessMessage(IMessage msg, IMessageSink replySink)
+
+Exception rethrown at [0]: 
+   at System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage(IMessage reqMsg, IMessage retMsg)
+   at System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   at NSwarm.IAgentInterfaceWrapper.MethodDelegate.EndInvoke(Hashtable& OutParameters, IAsyncResult result)
+   at NSwarm.FSwarmInterface.TryOpenConnection(FConnectionCallback CallbackFunc, IntPtr CallbackData, ELogFlags LoggingFlags) in D:\Build\++UE4\Sync\Engine\Saved\CsTools\Engine\Source\Editor\SwarmInterface\DotNET\SwarmInterface.cs:line 2811
+[2019.10.24-23.38.36:137][772]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2019.10.24-23.38.36:137][772]LogSwarmInterface: [TryOpenConnection] Local Process ID is 3504
+[2019.10.24-23.38.36:303][772]LightingResults: Warning: No importance volume found and the scene is so large that the automatically synthesized volume will not yield good results.  Please add a tightly bounding lightmass importance volume to optimize your scene's quality and lighting build times.
+[2019.10.24-23.38.36:306][772]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2019.10.24-23.38.36:306][772]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2019.10.24-23.38.36:306][772]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2019.10.24-23.38.36:306][772]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2019.10.24-23.38.36:306][772]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2019.10.24-23.38.36:901][772]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2019.10.24-23.38.36:901][772]MapCheck: New page: spoopylevel - Oct 24, 2019, 1:38:36 PM
+[2019.10.24-23.38.36:917][772]MapCheck: Error: WorldSettings_1 Maps need lighting rebuilt 
+[2019.10.24-23.38.36:966][772]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 64.583ms to complete.
+[2019.10.24-23.38.36:989][772]LogEditorBuildUtils: Build time 0:13
+[2019.10.24-23.38.37:004][772]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer DefaultMaterial, compiling. 
+[2019.10.24-23.38.37:023][772]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer DefaultMaterial, compiling. 
+[2019.10.24-23.38.37:109][773]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer MaterialInstanceDynamic_0, compiling. 
+[2019.10.24-23.38.37:117][773]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer MaterialInstanceDynamic_0, compiling. 
+[2019.10.24-23.38.37:172][774]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_86, compiling. 
+[2019.10.24-23.38.37:181][774]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_86, compiling. 
+[2019.10.24-23.38.37:241][776]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_1149, compiling. 
+[2019.10.24-23.38.37:249][776]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_1149, compiling. 
+[2019.10.24-23.38.37:278][777]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_1152, compiling. 
+[2019.10.24-23.38.37:287][777]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_1152, compiling. 
+[2019.10.24-23.38.37:620][789]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_10, compiling. 
+[2019.10.24-23.38.37:629][789]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_10, compiling. 
+[2019.10.24-23.38.38:013][802]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer WorldGridMaterial, compiling. Is special engine material.
+[2019.10.24-23.38.38:021][802]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer WorldGridMaterial, compiling. Is special engine material.
+[2019.10.24-23.38.46:792][804]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2019.10.24-23.38.47:484][804]LogSavePackage: Moving 'E:/level design 2 stuff/github stuff/spoopylevel/MMartinSpoopy/Saved/spoopylevel_Auto11FAB48E34032813A734CB4870DE2459F.tmp' to 'E:/level design 2 stuff/github stuff/spoopylevel/MMartinSpoopy/Saved/Autosaves/Game/mystuff/spoopylevel_sharedassets/spoopylevel_Auto1.umap'
+[2019.10.24-23.38.47:499][804]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/mystuff/spoopylevel_sharedassets/spoopylevel' took 0.735
+[2019.10.24-23.38.47:499][804]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.735
+[2019.10.24-23.38.47:500][804]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/spoopylevel" FILE="E:/level design 2 stuff/github stuff/spoopylevel/MMartinSpoopy/Saved/Autosaves/Game/Maps/spoopylevel_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2019.10.24-23.38.47:513][804]LogSavePackage: Moving 'E:/level design 2 stuff/github stuff/spoopylevel/MMartinSpoopy/Saved/spoopylevel_Auto1EB2CC0DB4C409B26ABB0B9AA9501CB84.tmp' to 'E:/level design 2 stuff/github stuff/spoopylevel/MMartinSpoopy/Saved/Autosaves/Game/Maps/spoopylevel_Auto1.uasset'
+[2019.10.24-23.38.47:525][804]LogFileHelpers: Auto-saving content packages took 0.025
+[2019.10.24-23.38.52:101][910]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2019.10.24-23.39.04:716][269]Job is a success!
+[2019.10.24-23.39.05:093][270]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.233s
+[2019.10.24-23.39.05:093][270]LogVolumetricLightmapImport:      Indirection Texture 32x32x32 = 0.1Mb
+[2019.10.24-23.39.05:093][270]LogVolumetricLightmapImport:      BrickData 1280x20x5 = 4.5Mb
+[2019.10.24-23.39.05:093][270]LogVolumetricLightmapImport:      Bricks at Level
+[2019.10.24-23.39.05:093][270]LogVolumetricLightmapImport:          0: 0.9% covering 100.0% of volume
+[2019.10.24-23.39.05:093][270]LogVolumetricLightmapImport:          1: 6.1% covering 11.1% of volume
+[2019.10.24-23.39.05:093][270]LogVolumetricLightmapImport:          2: 93.1% covering 2.7% of volume
+[2019.10.24-23.39.05:352][270]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 256X256)
+[2019.10.24-23.39.05:352][270]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 256X256)
+[2019.10.24-23.39.05:352][270]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 512X512)
+[2019.10.24-23.39.05:352][270]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 512X512)
+[2019.10.24-23.39.05:453][270]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 1024X32)
+[2019.10.24-23.39.05:453][270]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 1024X64)
+[2019.10.24-23.39.05:797][270]Lightmass on SW-WLC124-08: 11.2 sec total, 261 ms importing, 75 ms setup, 1.26 sec photons, 9.65 sec processing, 0 ms extra exporting [54/54 mappings]. Threads: 1:07 min total, 9.65 sec processing.
+[2019.10.24-23.39.05:798][270]LogStaticLightingSystem: spoopylevel_BuiltData storing lightmap data for 54 meshes in 4 LightmapResourceClusters (13.5 Meshes per cluster).
+[2019.10.24-23.39.05:801][270]LogMaterial: Warning: Material /Game/mystuff/spoopylevel_sharedassets/landscapestuff.landscapestuff needed to have new flag set bUsedWithStaticLighting !
+[2019.10.24-23.39.05:805][270]LogMaterial: Display: Missing cached shader map for material landscapestuff, compiling. 
+[2019.10.24-23.39.05:840][270]LogMaterial: Display: Missing cached shader map for material landscapestuff, compiling. 
+[2019.10.24-23.39.05:848][270]LogMaterial: Display: Missing cached shader map for material landscapestuff, compiling. 
+[2019.10.24-23.39.05:858][270]LogMaterial: Display: Missing cached shader map for material landscapestuff, compiling. 
+[2019.10.24-23.39.05:871][270]LogMaterial: Display: Missing cached shader map for material landscapestuff, compiling. 
+[2019.10.24-23.39.05:885][270]LogMaterial: Display: Missing cached shader map for material landscapestuff, compiling. 
+[2019.10.24-23.39.05:930][270]LogMaterial: Display: Missing cached shader map for material landscapestuff, compiling. 
+[2019.10.24-23.39.05:974][270]LogMaterial: Display: Missing cached shader map for material landscapestuff, compiling. 
+[2019.10.24-23.39.06:018][270]LogMaterial: Display: Missing cached shader map for material landscapestuff, compiling. 
+[2019.10.24-23.39.06:089][270]LogMaterial: Display: Missing cached shader map for material landscapestuff, compiling. 
+[2019.10.24-23.39.06:177][270]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2019.10.24-23.39.06:184][270]LogStaticLightingSystem: Illumination: 39.6 sec (164 ms encoding lightmaps, 124 ms encoding shadowmaps)
+[2019.10.24-23.39.06:184][270]LogStaticLightingSystem: Lightmap texture memory:  0.6 MB (0.6 MB streaming, 0.0 MB non-streaming), 4 textures
+[2019.10.24-23.39.06:184][270]LogStaticLightingSystem: Shadowmap texture memory: 0.1 MB (0.1 MB streaming, 0.0 MB non-streaming), 2 textures
+[2019.10.24-23.39.06:313][270]DumpUnbuiltLightIteractions
+[2019.10.24-23.39.06:313][270]Lights with unbuilt interactions: 0
+[2019.10.24-23.39.06:313][270]
+[2019.10.24-23.39.06:313][270]Primitives with unbuilt interactions: 0
+[2019.10.24-23.40.27:511][271]Cmd: MAP CHECK NOTIFYRESULTS
+[2019.10.24-23.40.27:512][271]MapCheck: New page: spoopylevel - Oct 24, 2019, 1:40:27 PM
+[2019.10.24-23.40.27:512][271]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.47ms to complete.
+[2019.10.24-23.40.27:513][271]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.24-23.40.45:367][ 64]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-23.40.50:156][247]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.24-23.40.53:168][365]LogSlate: Window 'Color Picker' being destroyed
+[2019.10.24-23.40.56:692][569]Cmd: TRANSACTION UNDO
+[2019.10.24-23.40.56:692][569]LogEditorTransaction: Undo Edit Cloud Color
+[2019.10.24-23.41.00:590][844]LogSlate: Window 'Undo History' being destroyed
+[2019.10.24-23.41.00:593][844]LogSlate: Window 'Undo History' being destroyed
+[2019.10.24-23.41.06:768][ 80]Cmd: DELETE
+[2019.10.24-23.41.06:768][ 80]Cmd: ACTOR DELETE
+[2019.10.24-23.41.07:002][ 80]LogEditorActor: Deleted Actor: BP_Sky_Sphere_C
+[2019.10.24-23.41.07:040][ 80]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2019.10.24-23.41.07:040][ 80]LogEditorActor: Deleted 1 Actors (0.045 secs)
+[2019.10.24-23.41.10:192][225]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.24-23.41.13:544][477]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.24-23.41.13:752][500]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.24-23.41.13:925][520]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.24-23.41.16:228][796]Cmd: TRANSACTION UNDO
+[2019.10.24-23.41.16:228][796]LogEditorTransaction: Undo Delete Actors
+[2019.10.24-23.41.18:241][871]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-23.41.19:220][920]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (51.707 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.24-23.41.27:841][315]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-23.41.55:004][506]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-23.42.08:467][143]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-23.42.46:871][953]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-23.42.51:086][144]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-23.42.59:277][538]LogSlate: Window 'Color Picker' being destroyed
+[2019.10.24-23.43.00:760][603]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-23.43.11:383][ 80]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-23.43.21:765][554]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.24-23.43.32:184][999]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-23.43.40:302][406]LogSlate: Window 'Color Picker' being destroyed
+[2019.10.24-23.43.43:769][526]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-23.44.38:718][ 17]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/GoodSky/Source/Mesh/SM_GoodSky_Sphere.SM_GoodSky_Sphere
+[2019.10.24-23.44.38:862][ 17]LogBlueprintActionDatabase: Requesting refresh due to module change: StaticMeshEditor (loaded)
+[2019.10.24-23.44.41:271][ 51]LogSlate: Window 'SM_GoodSky_Sphere' being destroyed
+[2019.10.24-23.44.41:279][ 51]LogSlate: Window 'SM_GoodSky_Sphere' being destroyed
+[2019.10.24-23.44.42:239][ 72]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-23.44.42:358][ 74]LogActorFactory: Actor Factory created SM_GoodSky_Sphere
+[2019.10.24-23.44.44:164][151]LogActorFactory: Actor Factory created SM_GoodSky_Sphere
+[2019.10.24-23.44.51:099][416]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-23.45.01:338][820]Cmd: TRANSACTION UNDO
+[2019.10.24-23.45.01:338][820]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2019.10.24-23.45.03:098][878]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-23.45.09:067][105]Cmd: TRANSACTION UNDO
+[2019.10.24-23.45.09:068][105]LogEditorTransaction: Undo Create Actors
+[2019.10.24-23.45.10:342][202]LogActorFactory: Actor Factory created SM_GoodSky_Sphere
+[2019.10.24-23.45.12:810][298]LogActorFactory: Actor Factory created SM_GoodSky_Sphere
+[2019.10.24-23.45.14:941][381]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-23.45.22:556][678]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-23.45.27:590][826]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-23.45.48:426][336]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-23.46.01:966][704]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_GoodSky_Sphere)
+[2019.10.24-23.46.02:434][720]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_GoodSky_Sphere)
+[2019.10.24-23.46.08:019][906]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-23.46.33:439][740]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-23.46.40:152][898]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-23.46.52:504][457]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.24-23.46.58:813][601]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-23.47.08:791][987]Cmd: TRANSACTION UNDO
+[2019.10.24-23.47.08:791][987]LogEditorTransaction: Undo Move Actors
+[2019.10.24-23.47.09:221][  2]Cmd: TRANSACTION UNDO
+[2019.10.24-23.47.09:221][  2]LogEditorTransaction: Undo Edit Static Mesh
+[2019.10.24-23.47.11:282][ 58]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.24-23.47.17:282][198]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-23.47.23:213][409]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-23.47.32:088][676]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-23.47.49:915][150]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-23.47.54:855][351]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-23.48.01:391][785]LogSlate: Window 'Color Picker' being destroyed
+[2019.10.24-23.48.48:920][636]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-23.49.52:656][629]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-23.49.56:287][781]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-23.49.58:971][900]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-23.50.06:364][373]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.10.24-23.50.06:505][374]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (SkySphereMesh)
+[2019.10.24-23.50.08:595][466]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-23.50.20:882][364]LogConsoleManager: Warning: Console object named 'ActorComponents.Enable' already exists but is being registered again, but we weren't expected it to be! (FConsoleManager::AddConsoleObject)
+[2019.10.24-23.50.23:852][708]Cmd: DELETE
+[2019.10.24-23.50.23:852][708]Cmd: ACTOR DELETE
+[2019.10.24-23.50.23:855][708]LogEditorActor: Deleted Actor: BP_Sky_Sphere_C
+[2019.10.24-23.50.24:002][708]LogUObjectHash: Compacting FUObjectHashTables data took   5.87ms
+[2019.10.24-23.50.24:002][708]LogEditorActor: Deleted 1 Actors (0.150 secs)
+[2019.10.24-23.50.40:646][415]Cmd: TRANSACTION UNDO
+[2019.10.24-23.50.40:646][415]LogEditorTransaction: Undo Rotate Actors
+[2019.10.24-23.50.45:315][605]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_GoodSky_Sphere)
+[2019.10.24-23.50.46:505][648]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-23.50.56:509][ 77]LogSlate: Window 'Color Picker' being destroyed
+[2019.10.24-23.50.58:227][149]Cmd: TRANSACTION UNDO
+[2019.10.24-23.50.58:227][149]LogEditorTransaction: Undo Edit Light Color
+[2019.10.24-23.51.38:528][208]LogSlate: Window 'Color Picker' being destroyed
+[2019.10.24-23.51.47:700][556]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-23.52.39:162][534]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-23.52.46:518][773]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-23.52.51:310][965]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-23.53.12:042][812]Cmd: TRANSACTION UNDO
+[2019.10.24-23.53.12:043][812]LogEditorTransaction: Undo Rotate Actors
+[2019.10.24-23.53.12:672][834]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-23.53.16:781][987]Cmd: TRANSACTION UNDO
+[2019.10.24-23.53.16:781][987]LogEditorTransaction: Undo Rotate Actors
+[2019.10.24-23.53.22:851][215]Cmd: TRANSACTION UNDO
+[2019.10.24-23.53.22:851][215]LogEditorTransaction: Undo Rotate Actors
+[2019.10.24-23.53.24:765][283]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-23.53.29:633][486]Cmd: TRANSACTION UNDO
+[2019.10.24-23.53.29:633][486]LogEditorTransaction: Undo Rotate Actors
+[2019.10.24-23.53.34:922][703]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-23.53.51:742][369]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-23.53.58:458][662]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-23.54.00:281][744]LogSlate: Window 'Color Picker' being destroyed
+[2019.10.24-23.54.01:895][812]Cmd: TRANSACTION UNDO
+[2019.10.24-23.54.01:895][812]LogEditorTransaction: Undo Edit Default Light Color
+[2019.10.24-23.54.04:464][916]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-23.54.37:542][408]Cmd: TRANSACTION UNDO
+[2019.10.24-23.54.37:542][408]LogEditorTransaction: Undo Edit Sky Distance Threshold
+[2019.10.24-23.54.42:297][609]LogSlate: Window 'Color Picker' being destroyed
+[2019.10.24-23.55.00:475][662]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-23.55.09:271][ 38]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.24-23.55.10:592][ 79]LogMaterial: Display: Missing cached shader map for material M_GoodSky_StormLightning_LightFunction, compiling. 
+[2019.10.24-23.55.10:688][ 79]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-23.55.34:229][841]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.24-23.55.36:073][899]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-23.55.48:244][293]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.24-23.55.57:146][663]Cmd: TRANSACTION UNDO
+[2019.10.24-23.55.57:146][663]LogEditorTransaction: Undo Rotate Actors
+[2019.10.24-23.56.00:079][777]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-23.56.01:687][852]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.24-23.56.01:697][852]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/mystuff/spoopylevel_sharedassets/spoopylevel.spoopylevel:PersistentLevel' has LevelScriptBlueprint '/Game/mystuff/spoopylevel_sharedassets/spoopylevel.spoopylevel:PersistentLevel.spoopylevel' with GeneratedClass '/Game/mystuff/spoopylevel_sharedassets/spoopylevel.spoopylevel_C' with ClassGeneratedBy '/Game/mystuff/spoopylevel_sharedassets/spoopylevel.spoopylevel:PersistentLevel.spoopylevel'
+[2019.10.24-23.56.01:698][852]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.24-23.56.01:698][852]PIE: New page: PIE session: spoopylevel (Oct 24, 2019, 1:56:01 PM)
+[2019.10.24-23.56.01:710][852]LogPlayLevel: Creating play world package: /Game/mystuff/spoopylevel_sharedassets/UEDPIE_0_spoopylevel
+[2019.10.24-23.56.01:731][852]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020558s)
+[2019.10.24-23.56.01:731][852]LogAIModule: Creating AISystem for world spoopylevel
+[2019.10.24-23.56.01:732][852]LogPlayLevel: PIE: World Init took: (0.000935s)
+[2019.10.24-23.56.01:732][852]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/mystuff/spoopylevel_sharedassets/spoopylevel.spoopylevel to /Game/mystuff/spoopylevel_sharedassets/UEDPIE_0_spoopylevel.spoopylevel (0.021808s)
+[2019.10.24-23.56.01:788][852]LogUObjectHash: Compacting FUObjectHashTables data took   3.43ms
+[2019.10.24-23.56.01:792][852]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.24-23.56.01:816][852]LogInit: FAudioDevice initialized.
+[2019.10.24-23.56.01:858][852]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.10.24-23.56.01:880][852]LogWorld: Bringing World /Game/mystuff/spoopylevel_sharedassets/UEDPIE_0_spoopylevel.spoopylevel up for play (max tick rate 0) at 2019.10.24-18.56.01
+[2019.10.24-23.56.01:880][852]LogWorld: Bringing up level for play took: 0.001797
+[2019.10.24-23.56.01:985][852]LogBlueprintActionDatabase: Requesting refresh due to module change: Voice (loaded)
+[2019.10.24-23.56.02:021][852]LogBlueprintActionDatabase: Requesting refresh due to module change: MovieSceneCapture (loaded)
+[2019.10.24-23.56.02:021][852]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2019.10.24-23.56.02:090][852]PIE: Play in editor start time for /Game/mystuff/spoopylevel_sharedassets/UEDPIE_0_spoopylevel 0.432
+[2019.10.24-23.56.02:090][852]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/mystuff/spoopylevel_sharedassets/spoopylevel.spoopylevel:PersistentLevel' has LevelScriptBlueprint '/Game/mystuff/spoopylevel_sharedassets/spoopylevel.spoopylevel:PersistentLevel.spoopylevel' with GeneratedClass '/Game/mystuff/spoopylevel_sharedassets/spoopylevel.spoopylevel_C' with ClassGeneratedBy '/Game/mystuff/spoopylevel_sharedassets/spoopylevel.spoopylevel:PersistentLevel.spoopylevel'
+[2019.10.24-23.56.05:076][949]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/mystuff/spoopylevel_sharedassets/spoopylevel.spoopylevel:PersistentLevel' has LevelScriptBlueprint '/Game/mystuff/spoopylevel_sharedassets/spoopylevel.spoopylevel:PersistentLevel.spoopylevel' with GeneratedClass '/Game/mystuff/spoopylevel_sharedassets/spoopylevel.spoopylevel_C' with ClassGeneratedBy '/Game/mystuff/spoopylevel_sharedassets/spoopylevel.spoopylevel:PersistentLevel.spoopylevel'
+[2019.10.24-23.56.05:077][949]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.24-23.56.05:133][949]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.24-23.56.05:134][949]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/mystuff/spoopylevel_sharedassets/spoopylevel.spoopylevel:PersistentLevel' has LevelScriptBlueprint '/Game/mystuff/spoopylevel_sharedassets/spoopylevel.spoopylevel:PersistentLevel.spoopylevel' with GeneratedClass '/Game/mystuff/spoopylevel_sharedassets/spoopylevel.spoopylevel_C' with ClassGeneratedBy '/Game/mystuff/spoopylevel_sharedassets/spoopylevel.spoopylevel:PersistentLevel.spoopylevel'
+[2019.10.24-23.56.05:169][949]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.24-23.56.05:217][949]LogUObjectHash: Compacting FUObjectHashTables data took   4.77ms
+[2019.10.24-23.56.05:235][950]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2019.10.24-23.56.08:134][ 67]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-23.56.12:494][241]Cmd: TRANSACTION UNDO
+[2019.10.24-23.56.12:494][241]LogEditorTransaction: Undo Rotate Actors
+[2019.10.24-23.56.14:394][316]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-23.56.17:915][469]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-23.56.24:690][702]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-23.57.00:853][775]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.24-23.57.03:393][853]Cmd: TRANSACTION UNDO
+[2019.10.24-23.57.03:393][853]LogEditorTransaction: Undo Rotate Actors
+[2019.10.24-23.57.05:344][909]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (Light Source)
+[2019.10.24-23.57.09:723][ 55]Cmd: TRANSACTION UNDO
+[2019.10.24-23.57.09:723][ 55]LogEditorTransaction: Undo Rotate Actors
+[2019.10.24-23.57.10:215][ 71]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-23.57.17:684][337]Cmd: TRANSACTION UNDO
+[2019.10.24-23.57.17:684][337]LogEditorTransaction: Undo Rotate Actors
+[2019.10.24-23.57.20:092][412]Cmd: TRANSACTION REDO
+[2019.10.24-23.57.20:092][412]LogEditorTransaction: Redo Rotate Actors
+[2019.10.24-23.57.21:999][475]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-23.57.40:774][117]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-23.57.51:853][534]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-23.58.02:958][912]LogSlate: Window 'Color Picker' being destroyed
+[2019.10.24-23.58.17:006][384]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-23.58.21:193][523]LogSlate: Window 'Color Picker' being destroyed
+[2019.10.24-23.58.42:168][266]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-23.59.09:201][819]Cmd: DELETE
+[2019.10.24-23.59.09:201][819]Cmd: ACTOR DELETE
+[2019.10.24-23.59.09:204][819]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.24-23.59.09:258][819]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
+[2019.10.24-23.59.09:259][819]LogEditorActor: Deleted 1 Actors (0.057 secs)
+[2019.10.24-23.59.14:446][ 15]Cmd: TRANSACTION UNDO
+[2019.10.24-23.59.14:446][ 15]LogEditorTransaction: Undo Delete Actors
+[2019.10.24-23.59.19:505][179]Cmd: TRANSACTION UNDO
+[2019.10.24-23.59.19:505][179]LogEditorTransaction: Undo Clicking on Actors
+[2019.10.24-23.59.45:524][ 82]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.24-23.59.45:944][ 82]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2019.10.24-23.59.46:527][ 82]LogSavePackage: Moving 'E:/level design 2 stuff/github stuff/spoopylevel/MMartinSpoopy/Saved/spoopylevel_Auto2F6D9A4504AA16A5532DE8DAB1139860E.tmp' to 'E:/level design 2 stuff/github stuff/spoopylevel/MMartinSpoopy/Saved/Autosaves/Game/mystuff/spoopylevel_sharedassets/spoopylevel_Auto2.umap'
+[2019.10.24-23.59.46:556][ 82]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/mystuff/spoopylevel_sharedassets/spoopylevel' took 0.639
+[2019.10.24-23.59.46:556][ 82]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.639
+[2019.10.24-23.59.46:557][ 82]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/mystuff/spoopylevel_sharedassets/landscapestuff] ([1] browsable assets)...
+[2019.10.24-23.59.46:557][ 82]OBJ SavePackage: Finished generating thumbnails for package [/Game/mystuff/spoopylevel_sharedassets/landscapestuff]
+[2019.10.24-23.59.46:611][ 82]LogSavePackage: Moving 'E:/level design 2 stuff/github stuff/spoopylevel/MMartinSpoopy/Saved/landscapestuff_Auto2C0DD590241FD10FB98445FAD934567A6.tmp' to 'E:/level design 2 stuff/github stuff/spoopylevel/MMartinSpoopy/Saved/Autosaves/Game/mystuff/spoopylevel_sharedassets/landscapestuff_Auto2.uasset'
+[2019.10.24-23.59.46:624][ 82]LogFileHelpers: Auto-saving content packages took 0.068
+[2019.10.24-23.59.54:201][351]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-23.59.56:373][429]LogAssetEditorManager: Opening Asset editor for World /Game/GoodSky/Maps/Level_GoodSky_Showcase.Level_GoodSky_Showcase
+[2019.10.24-23.59.56:401][429]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
+[2019.10.24-23.59.58:992][429]LogSlate: Window 'Save Content' being destroyed
+[2019.10.25-00.00.00:959][500]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2019.10.25-00.00.01:523][500]LogSavePackage: Moving 'E:/level design 2 stuff/github stuff/spoopylevel/MMartinSpoopy/Saved/spoopylevel12DF4E0445E11E0B62A4D7B4D122449D.tmp' to 'E:/level design 2 stuff/github stuff/spoopylevel/MMartinSpoopy/Content/mystuff/spoopylevel_sharedassets/spoopylevel.umap'
+[2019.10.25-00.00.01:632][500]LogSavePackage: Moving 'E:/level design 2 stuff/github stuff/spoopylevel/MMartinSpoopy/Saved/spoopylevel_BuiltData2854250C4BD68F471AB608AE1438DECE.tmp' to 'E:/level design 2 stuff/github stuff/spoopylevel/MMartinSpoopy/Content/mystuff/spoopylevel_sharedassets/spoopylevel_BuiltData.uasset'
+[2019.10.25-00.00.02:440][528]LogAssetEditorManager: Opening Asset editor for World /Game/GoodSky/Maps/Level_GoodSky_Showcase.Level_GoodSky_Showcase
+[2019.10.25-00.00.02:469][528]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2019.10.25-00.00.03:919][528]LogSlate: Window 'Save Content' being destroyed
+[2019.10.25-00.00.03:925][528]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/spoopylevel" FILE="E:/level design 2 stuff/github stuff/spoopylevel/MMartinSpoopy/Content/Maps/spoopylevel.umap" SILENT=true
+[2019.10.25-00.00.04:034][528]LogSavePackage: Moving 'E:/level design 2 stuff/github stuff/spoopylevel/MMartinSpoopy/Saved/spoopylevel904F8EFD467E8ADC120C9BBD9C8E87A6.tmp' to 'E:/level design 2 stuff/github stuff/spoopylevel/MMartinSpoopy/Content/Maps/spoopylevel.umap'
+[2019.10.25-00.00.04:059][528]LogSavePackage: Moving 'E:/level design 2 stuff/github stuff/spoopylevel/MMartinSpoopy/Saved/landscapestuff316AF59744113F74D98F65851789D5AF.tmp' to 'E:/level design 2 stuff/github stuff/spoopylevel/MMartinSpoopy/Content/mystuff/spoopylevel_sharedassets/landscapestuff.uasset'
+[2019.10.25-00.00.04:082][528]Cmd: MAP LOAD FILE="E:/level design 2 stuff/github stuff/spoopylevel/MMartinSpoopy/Content/GoodSky/Maps/Level_GoodSky_Showcase.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.10.25-00.00.04:082][528]LightingResults: New page: Lighting Build
+[2019.10.25-00.00.04:083][528]LoadErrors: New page: Loading map: Level_GoodSky_Showcase.umap
+[2019.10.25-00.00.04:084][528]MapCheck: New page: Map Check
+[2019.10.25-00.00.04:084][528]LightingResults: New page: Lighting Build
+[2019.10.25-00.00.04:113][528]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
+[2019.10.25-00.00.04:117][528]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.10.25-00.00.04:142][528]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2019.10.25-00.00.04:160][528]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.10.25-00.00.04:160][528]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.079ms to complete.
+[2019.10.25-00.00.04:161][528]LogFileHelpers: Loading map 'Level_GoodSky_Showcase' took 0.079
+[2019.10.25-00.00.18:242][148]LogEditorViewport: Clicking on Actor (LMB): BP_GoodSky_C (BP_GoodSky)
+[2019.10.25-00.00.23:514][354]Cmd: TRANSACTION UNDO
+[2019.10.25-00.00.23:514][354]LogEditorTransaction: Undo Rotate Actors
+[2019.10.25-00.00.26:980][483]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.25-00.00.27:991][526]Cmd: TRANSACTION UNDO
+[2019.10.25-00.00.27:991][526]LogEditorTransaction: Undo Clicking on Actors
+[2019.10.25-00.00.39:262][949]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2019.10.25-00.00.41:815][949]LogSlate: Window 'Delete Assets' being destroyed
+[2019.10.25-00.00.41:888][949]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2019.10.25-00.00.41:917][949]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2019.10.25-00.00.41:945][949]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2019.10.25-00.00.41:973][949]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2019.10.25-00.00.42:002][949]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2019.10.25-00.00.42:029][949]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2019.10.25-00.00.45:968][ 77]LogAIModule: Creating AISystem for world spoopylevel
+[2019.10.25-00.00.45:975][ 77]LogAssetEditorManager: Opening Asset editor for World /Game/mystuff/spoopylevel_sharedassets/spoopylevel.spoopylevel
+[2019.10.25-00.00.46:003][ 77]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2019.10.25-00.00.53:890][ 77]LogSlate: Window 'Save Content' being destroyed
+[2019.10.25-00.00.53:895][ 77]Cmd: MAP LOAD FILE="E:/level design 2 stuff/github stuff/spoopylevel/MMartinSpoopy/Content/mystuff/spoopylevel_sharedassets/spoopylevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.10.25-00.00.53:896][ 77]LightingResults: New page: Lighting Build
+[2019.10.25-00.00.53:896][ 77]LoadErrors: New page: Loading map: spoopylevel.umap
+[2019.10.25-00.00.53:897][ 77]MapCheck: New page: Map Check
+[2019.10.25-00.00.53:897][ 77]LightingResults: New page: Lighting Build
+[2019.10.25-00.00.53:928][ 77]LogUObjectHash: Compacting FUObjectHashTables data took   3.15ms
+[2019.10.25-00.00.53:946][ 77]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.10.25-00.00.53:978][ 77]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2019.10.25-00.00.53:991][ 77]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.10.25-00.00.53:991][ 77]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.085ms to complete.
+[2019.10.25-00.00.53:991][ 77]LogFileHelpers: Loading map 'spoopylevel' took 0.097
+[2019.10.25-00.01.02:300][367]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.25-00.01.07:981][585]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.25-00.01.15:817][895]Cmd: TRANSACTION UNDO
+[2019.10.25-00.01.15:817][895]LogEditorTransaction: Undo Rotate Actors
+[2019.10.25-00.01.17:088][941]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.25-00.01.22:885][165]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.25-00.01.31:024][462]Cmd: TRANSACTION UNDO
+[2019.10.25-00.01.31:024][462]LogEditorTransaction: Undo Clicking on Actors
+[2019.10.25-00.01.31:500][474]Cmd: TRANSACTION UNDO
+[2019.10.25-00.01.31:500][474]LogEditorTransaction: Undo Set Actor Visibility
+[2019.10.25-00.01.32:180][498]Cmd: TRANSACTION UNDO
+[2019.10.25-00.01.32:180][498]LogEditorTransaction: Undo Rotate Actors
+[2019.10.25-00.01.36:398][632]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.25-00.01.42:296][833]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.25-00.01.49:949][115]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.25-00.02.06:554][567]LogSlate: Window 'Material Baking Options' being destroyed
+[2019.10.25-00.02.18:246][873]Cmd: TRANSACTION UNDO
+[2019.10.25-00.02.18:246][873]LogEditorTransaction: Undo Edit Overridden Light Map Res
+[2019.10.25-00.04.51:827][435]Cmd: TRANSACTION UNDO
+[2019.10.25-00.04.51:827][435]LogEditorTransaction: Undo Rotate Actors
+[2019.10.25-00.04.52:608][460]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (Light Source)
+[2019.10.25-00.05.01:454][796]Cmd: TRANSACTION UNDO
+[2019.10.25-00.05.01:454][796]LogEditorTransaction: Undo Rotate Actors
+[2019.10.25-00.05.03:671][879]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.25-00.05.15:076][332]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.25-00.05.23:820][653]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.25-00.05.28:759][844]Cmd: TRANSACTION UNDO
+[2019.10.25-00.05.28:759][844]LogEditorTransaction: Undo Rotate Actors
+[2019.10.25-00.05.45:702][407]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.10.25-00.05.47:646][473]Cmd: DELETE
+[2019.10.25-00.05.47:646][473]Cmd: ACTOR DELETE
+[2019.10.25-00.05.47:649][473]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.25-00.05.47:682][473]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2019.10.25-00.05.47:682][473]LogEditorActor: Deleted 1 Actors (0.036 secs)
+[2019.10.25-00.05.55:966][770]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.25-00.06.59:507][859]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.25-00.07.03:969][ 27]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.25-00.07.16:682][471]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.25-00.07.55:106][571]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.25-00.08.20:985][448]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.25-00.09.38:679][ 27]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.25-00.09.39:014][ 31]LogLinker: Warning: Can't find file '/Game/Flowers_and_Plants_Nature_Pack/Textures/T_DefaultBase_512_B'
+[2019.10.25-00.09.39:014][ 31]LogLinker: Warning: Can't find file for asset '/Game/Flowers_and_Plants_Nature_Pack/Textures/T_DefaultBase_512_B' while loading NULL.
+[2019.10.25-00.09.39:014][ 31]LogLinker: Warning: Can't find file '/Game/Flowers_and_Plants_Nature_Pack/Textures/T_DefaultNormal_512_N'
+[2019.10.25-00.09.39:014][ 31]LogLinker: Warning: Can't find file for asset '/Game/Flowers_and_Plants_Nature_Pack/Textures/T_DefaultNormal_512_N' while loading NULL.
+[2019.10.25-00.09.39:014][ 31]LogLinker: Warning: Can't find file '/Game/Flowers_and_Plants_Nature_Pack/Textures/T_DefaultRMA_512_RMA'
+[2019.10.25-00.09.39:015][ 31]LogLinker: Warning: Can't find file for asset '/Game/Flowers_and_Plants_Nature_Pack/Textures/T_DefaultRMA_512_RMA' while loading NULL.
+[2019.10.25-00.09.39:015][ 31]LogLinker: Warning: Can't find file '/Game/Flowers_and_Plants_Nature_Pack/Textures/T_DefaultBase_512_B'
+[2019.10.25-00.09.39:015][ 31]LogLinker: Warning: Can't find file for asset '/Game/Flowers_and_Plants_Nature_Pack/Textures/T_DefaultBase_512_B' while loading NULL.
+[2019.10.25-00.09.39:015][ 31]LogLinker: Warning: Can't find file '/Game/Flowers_and_Plants_Nature_Pack/Textures/T_DefaultNormal_512_N'
+[2019.10.25-00.09.39:015][ 31]LogLinker: Warning: Can't find file for asset '/Game/Flowers_and_Plants_Nature_Pack/Textures/T_DefaultNormal_512_N' while loading NULL.
+[2019.10.25-00.09.39:015][ 31]LogLinker: Warning: Can't find file '/Game/Flowers_and_Plants_Nature_Pack/Textures/T_DefaultRMA_512_RMA'
+[2019.10.25-00.09.39:015][ 31]LogLinker: Warning: Can't find file for asset '/Game/Flowers_and_Plants_Nature_Pack/Textures/T_DefaultRMA_512_RMA' while loading NULL.
+[2019.10.25-00.09.39:017][ 31]LogLinker: Warning: Can't find file '/Game/Flowers_and_Plants_Nature_Pack/Textures/T_Rock03_2048_B'
+[2019.10.25-00.09.39:017][ 31]LogLinker: Warning: Can't find file for asset '/Game/Flowers_and_Plants_Nature_Pack/Textures/T_Rock03_2048_B' while loading NULL.
+[2019.10.25-00.09.39:018][ 31]LogLinker: Warning: Can't find file '/Game/Flowers_and_Plants_Nature_Pack/Textures/T_Rock03_2048_N'
+[2019.10.25-00.09.39:018][ 31]LogLinker: Warning: Can't find file for asset '/Game/Flowers_and_Plants_Nature_Pack/Textures/T_Rock03_2048_N' while loading NULL.
+[2019.10.25-00.09.39:018][ 31]LogLinker: Warning: Can't find file '/Game/Flowers_and_Plants_Nature_Pack/Textures/T_Rock03_2048_RMA'
+[2019.10.25-00.09.39:018][ 31]LogLinker: Warning: Can't find file for asset '/Game/Flowers_and_Plants_Nature_Pack/Textures/T_Rock03_2048_RMA' while loading NULL.
+[2019.10.25-00.09.39:018][ 31]LogLinker: Warning: Can't find file '/Game/Flowers_and_Plants_Nature_Pack/Textures/T_Rock03_2048_B'
+[2019.10.25-00.09.39:018][ 31]LogLinker: Warning: Can't find file for asset '/Game/Flowers_and_Plants_Nature_Pack/Textures/T_Rock03_2048_B' while loading NULL.
+[2019.10.25-00.09.39:018][ 31]LogLinker: Warning: Can't find file '/Game/Flowers_and_Plants_Nature_Pack/Textures/T_Rock03_2048_N'
+[2019.10.25-00.09.39:019][ 31]LogLinker: Warning: Can't find file for asset '/Game/Flowers_and_Plants_Nature_Pack/Textures/T_Rock03_2048_N' while loading NULL.
+[2019.10.25-00.09.39:019][ 31]LogLinker: Warning: Can't find file '/Game/Flowers_and_Plants_Nature_Pack/Textures/T_Rock03_2048_RMA'
+[2019.10.25-00.09.39:019][ 31]LogLinker: Warning: Can't find file for asset '/Game/Flowers_and_Plants_Nature_Pack/Textures/T_Rock03_2048_RMA' while loading NULL.
+[2019.10.25-00.09.39:034][ 31]LogLinker: Warning: Can't find file '/Game/Flowers_and_Plants_Nature_Pack/Textures/T_Rock03_2048_B'
+[2019.10.25-00.09.39:034][ 31]LoadErrors: Failed to load /Game/Flowers_and_Plants_Nature_Pack/Textures/T_Rock03_2048_B.T_Rock03_2048_B Referenced by MI_Rock_03
+[2019.10.25-00.09.39:035][ 31]LogLinker: Warning: Can't find file for asset '/Game/Flowers_and_Plants_Nature_Pack/Textures/T_Rock03_2048_B' while loading NULL.
+[2019.10.25-00.09.39:035][ 31]LogLinker: Warning: Can't find file '/Game/Flowers_and_Plants_Nature_Pack/Textures/T_Rock03_2048_N'
+[2019.10.25-00.09.39:035][ 31]LoadErrors: Failed to load /Game/Flowers_and_Plants_Nature_Pack/Textures/T_Rock03_2048_N.T_Rock03_2048_N Referenced by MI_Rock_03
+[2019.10.25-00.09.39:035][ 31]LogLinker: Warning: Can't find file for asset '/Game/Flowers_and_Plants_Nature_Pack/Textures/T_Rock03_2048_N' while loading NULL.
+[2019.10.25-00.09.39:035][ 31]LogLinker: Warning: Can't find file '/Game/Flowers_and_Plants_Nature_Pack/Textures/T_Rock03_2048_RMA'
+[2019.10.25-00.09.39:035][ 31]LoadErrors: Failed to load /Game/Flowers_and_Plants_Nature_Pack/Textures/T_Rock03_2048_RMA.T_Rock03_2048_RMA Referenced by MI_Rock_03
+[2019.10.25-00.09.39:035][ 31]LogLinker: Warning: Can't find file for asset '/Game/Flowers_and_Plants_Nature_Pack/Textures/T_Rock03_2048_RMA' while loading NULL.
+[2019.10.25-00.09.39:058][ 31]LogLinker: Warning: Can't find file '/Game/Flowers_and_Plants_Nature_Pack/Textures/T_DefaultNormal_512_N'
+[2019.10.25-00.09.39:058][ 31]LoadErrors: Failed to load /Game/Flowers_and_Plants_Nature_Pack/Textures/T_DefaultNormal_512_N.T_DefaultNormal_512_N Referenced by MaterialExpressionTextureSampleParameter2D_12
+[2019.10.25-00.09.39:059][ 31]LogLinker: Warning: Can't find file for asset '/Game/Flowers_and_Plants_Nature_Pack/Textures/T_DefaultNormal_512_N' while loading NULL.
+[2019.10.25-00.09.39:059][ 31]LogLinker: Warning: Can't find file '/Game/Flowers_and_Plants_Nature_Pack/Textures/T_DefaultBase_512_B'
+[2019.10.25-00.09.39:059][ 31]LoadErrors: Failed to load /Game/Flowers_and_Plants_Nature_Pack/Textures/T_DefaultBase_512_B.T_DefaultBase_512_B Referenced by MaterialExpressionTextureSampleParameter2D_4
+[2019.10.25-00.09.39:059][ 31]LogLinker: Warning: Can't find file for asset '/Game/Flowers_and_Plants_Nature_Pack/Textures/T_DefaultBase_512_B' while loading NULL.
+[2019.10.25-00.09.39:059][ 31]LogLinker: Warning: Can't find file '/Game/Flowers_and_Plants_Nature_Pack/Textures/T_DefaultRMA_512_RMA'
+[2019.10.25-00.09.39:059][ 31]LoadErrors: Failed to load /Game/Flowers_and_Plants_Nature_Pack/Textures/T_DefaultRMA_512_RMA.T_DefaultRMA_512_RMA Referenced by MaterialExpressionTextureSampleParameter2D_8
+[2019.10.25-00.09.39:059][ 31]LogLinker: Warning: Can't find file for asset '/Game/Flowers_and_Plants_Nature_Pack/Textures/T_DefaultRMA_512_RMA' while loading NULL.
+[2019.10.25-00.09.39:062][ 31]LogMaterial: Display: Missing cached shader map for material M_MasterMaterial, compiling. 
+[2019.10.25-00.09.39:063][ 31]LogMaterial: Warning: E:\level design 2 stuff\github stuff\spoopylevel\MMartinSpoopy\Content\Flowers_and_Plants_Nature_Pack\Materials\M_MasterMaterial.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.10.25-00.09.39:063][ 31]LogMaterial: 	(Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2019.10.25-00.09.39:073][ 31]LogStaticMesh: Building static mesh SM_Rock_03...
+[2019.10.25-00.09.39:144][ 31]LogStaticMesh: Built static mesh [0.07s] /Game/Flowers_and_Plants_Nature_Pack/Meshes/Environment/SM_Rock_03.SM_Rock_03
+[2019.10.25-00.09.39:180][ 31]LogActorFactory: Actor Factory created SM_Rock_03
+[2019.10.25-00.09.39:938][ 55]LogActorFactory: Actor Factory created SM_Rock_03
+[2019.10.25-00.09.42:131][123]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.25-00.09.52:311][452]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.25-00.09.58:642][663]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.25-00.10.02:310][785]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.25-00.10.08:538][983]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.25-00.10.08:691][984]LogLinker: Warning: Can't find file '/Game/Flowers_and_Plants_Nature_Pack/Textures/T_Rock05_2048_B'
+[2019.10.25-00.10.08:691][984]LogLinker: Warning: Can't find file for asset '/Game/Flowers_and_Plants_Nature_Pack/Textures/T_Rock05_2048_B' while loading NULL.
+[2019.10.25-00.10.08:691][984]LogLinker: Warning: Can't find file '/Game/Flowers_and_Plants_Nature_Pack/Textures/T_Rock05_2048_N'
+[2019.10.25-00.10.08:692][984]LogLinker: Warning: Can't find file for asset '/Game/Flowers_and_Plants_Nature_Pack/Textures/T_Rock05_2048_N' while loading NULL.
+[2019.10.25-00.10.08:692][984]LogLinker: Warning: Can't find file '/Game/Flowers_and_Plants_Nature_Pack/Textures/T_Rock05_2048_RMA'
+[2019.10.25-00.10.08:692][984]LogLinker: Warning: Can't find file for asset '/Game/Flowers_and_Plants_Nature_Pack/Textures/T_Rock05_2048_RMA' while loading NULL.
+[2019.10.25-00.10.08:692][984]LogLinker: Warning: Can't find file '/Game/Flowers_and_Plants_Nature_Pack/Textures/T_Rock05_2048_B'
+[2019.10.25-00.10.08:692][984]LogLinker: Warning: Can't find file for asset '/Game/Flowers_and_Plants_Nature_Pack/Textures/T_Rock05_2048_B' while loading NULL.
+[2019.10.25-00.10.08:692][984]LogLinker: Warning: Can't find file '/Game/Flowers_and_Plants_Nature_Pack/Textures/T_Rock05_2048_N'
+[2019.10.25-00.10.08:692][984]LogLinker: Warning: Can't find file for asset '/Game/Flowers_and_Plants_Nature_Pack/Textures/T_Rock05_2048_N' while loading NULL.
+[2019.10.25-00.10.08:692][984]LogLinker: Warning: Can't find file '/Game/Flowers_and_Plants_Nature_Pack/Textures/T_Rock05_2048_RMA'
+[2019.10.25-00.10.08:693][984]LogLinker: Warning: Can't find file for asset '/Game/Flowers_and_Plants_Nature_Pack/Textures/T_Rock05_2048_RMA' while loading NULL.
+[2019.10.25-00.10.08:693][984]LogLinker: Warning: Can't find file '/Game/Flowers_and_Plants_Nature_Pack/Textures/T_Rock05_2048_B'
+[2019.10.25-00.10.08:693][984]LoadErrors: Failed to load /Game/Flowers_and_Plants_Nature_Pack/Textures/T_Rock05_2048_B.T_Rock05_2048_B Referenced by MI_Rock_05
+[2019.10.25-00.10.08:693][984]LogLinker: Warning: Can't find file for asset '/Game/Flowers_and_Plants_Nature_Pack/Textures/T_Rock05_2048_B' while loading NULL.
+[2019.10.25-00.10.08:694][984]LogLinker: Warning: Can't find file '/Game/Flowers_and_Plants_Nature_Pack/Textures/T_Rock05_2048_N'
+[2019.10.25-00.10.08:694][984]LoadErrors: Failed to load /Game/Flowers_and_Plants_Nature_Pack/Textures/T_Rock05_2048_N.T_Rock05_2048_N Referenced by MI_Rock_05
+[2019.10.25-00.10.08:694][984]LogLinker: Warning: Can't find file for asset '/Game/Flowers_and_Plants_Nature_Pack/Textures/T_Rock05_2048_N' while loading NULL.
+[2019.10.25-00.10.08:694][984]LogLinker: Warning: Can't find file '/Game/Flowers_and_Plants_Nature_Pack/Textures/T_Rock05_2048_RMA'
+[2019.10.25-00.10.08:694][984]LoadErrors: Failed to load /Game/Flowers_and_Plants_Nature_Pack/Textures/T_Rock05_2048_RMA.T_Rock05_2048_RMA Referenced by MI_Rock_05
+[2019.10.25-00.10.08:695][984]LogLinker: Warning: Can't find file for asset '/Game/Flowers_and_Plants_Nature_Pack/Textures/T_Rock05_2048_RMA' while loading NULL.
+[2019.10.25-00.10.08:707][984]LogStaticMesh: Building static mesh SM_Rock_05...
+[2019.10.25-00.10.08:792][984]LogStaticMesh: Built static mesh [0.08s] /Game/Flowers_and_Plants_Nature_Pack/Meshes/Environment/SM_Rock_05.SM_Rock_05
+[2019.10.25-00.10.08:829][984]LogActorFactory: Actor Factory created SM_Rock_05
+[2019.10.25-00.10.09:599][  9]LogActorFactory: Actor Factory created SM_Rock_05
+[2019.10.25-00.10.10:737][ 47]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.25-00.10.16:787][249]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.25-00.10.25:871][549]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.25-00.10.42:137][ 49]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.25-00.10.42:503][ 50]LogLinker: Warning: Can't find file '/Game/Flowers_and_Plants_Nature_Pack/Textures/T_Rock06_2048_B'
+[2019.10.25-00.10.42:503][ 50]LogLinker: Warning: Can't find file for asset '/Game/Flowers_and_Plants_Nature_Pack/Textures/T_Rock06_2048_B' while loading NULL.
+[2019.10.25-00.10.42:503][ 50]LogLinker: Warning: Can't find file '/Game/Flowers_and_Plants_Nature_Pack/Textures/T_Rock06_2048_N'
+[2019.10.25-00.10.42:504][ 50]LogLinker: Warning: Can't find file for asset '/Game/Flowers_and_Plants_Nature_Pack/Textures/T_Rock06_2048_N' while loading NULL.
+[2019.10.25-00.10.42:504][ 50]LogLinker: Warning: Can't find file '/Game/Flowers_and_Plants_Nature_Pack/Textures/T_Rock06_2048_RMA'
+[2019.10.25-00.10.42:504][ 50]LogLinker: Warning: Can't find file for asset '/Game/Flowers_and_Plants_Nature_Pack/Textures/T_Rock06_2048_RMA' while loading NULL.
+[2019.10.25-00.10.42:504][ 50]LogLinker: Warning: Can't find file '/Game/Flowers_and_Plants_Nature_Pack/Textures/T_Rock06_2048_B'
+[2019.10.25-00.10.42:504][ 50]LogLinker: Warning: Can't find file for asset '/Game/Flowers_and_Plants_Nature_Pack/Textures/T_Rock06_2048_B' while loading NULL.
+[2019.10.25-00.10.42:504][ 50]LogLinker: Warning: Can't find file '/Game/Flowers_and_Plants_Nature_Pack/Textures/T_Rock06_2048_N'
+[2019.10.25-00.10.42:504][ 50]LogLinker: Warning: Can't find file for asset '/Game/Flowers_and_Plants_Nature_Pack/Textures/T_Rock06_2048_N' while loading NULL.
+[2019.10.25-00.10.42:504][ 50]LogLinker: Warning: Can't find file '/Game/Flowers_and_Plants_Nature_Pack/Textures/T_Rock06_2048_RMA'
+[2019.10.25-00.10.42:504][ 50]LogLinker: Warning: Can't find file for asset '/Game/Flowers_and_Plants_Nature_Pack/Textures/T_Rock06_2048_RMA' while loading NULL.
+[2019.10.25-00.10.42:505][ 50]LogLinker: Warning: Can't find file '/Game/Flowers_and_Plants_Nature_Pack/Textures/T_Rock06_2048_B'
+[2019.10.25-00.10.42:505][ 50]LoadErrors: Failed to load /Game/Flowers_and_Plants_Nature_Pack/Textures/T_Rock06_2048_B.T_Rock06_2048_B Referenced by MI_Rock_06
+[2019.10.25-00.10.42:506][ 50]LogLinker: Warning: Can't find file for asset '/Game/Flowers_and_Plants_Nature_Pack/Textures/T_Rock06_2048_B' while loading NULL.
+[2019.10.25-00.10.42:506][ 50]LogLinker: Warning: Can't find file '/Game/Flowers_and_Plants_Nature_Pack/Textures/T_Rock06_2048_N'
+[2019.10.25-00.10.42:506][ 50]LoadErrors: Failed to load /Game/Flowers_and_Plants_Nature_Pack/Textures/T_Rock06_2048_N.T_Rock06_2048_N Referenced by MI_Rock_06
+[2019.10.25-00.10.42:506][ 50]LogLinker: Warning: Can't find file for asset '/Game/Flowers_and_Plants_Nature_Pack/Textures/T_Rock06_2048_N' while loading NULL.
+[2019.10.25-00.10.42:506][ 50]LogLinker: Warning: Can't find file '/Game/Flowers_and_Plants_Nature_Pack/Textures/T_Rock06_2048_RMA'
+[2019.10.25-00.10.42:506][ 50]LoadErrors: Failed to load /Game/Flowers_and_Plants_Nature_Pack/Textures/T_Rock06_2048_RMA.T_Rock06_2048_RMA Referenced by MI_Rock_06
+[2019.10.25-00.10.42:506][ 50]LogLinker: Warning: Can't find file for asset '/Game/Flowers_and_Plants_Nature_Pack/Textures/T_Rock06_2048_RMA' while loading NULL.
+[2019.10.25-00.10.42:523][ 50]LogStaticMesh: Building static mesh SM_Rock_06...
+[2019.10.25-00.10.42:682][ 50]LogStaticMesh: Built static mesh [0.16s] /Game/Flowers_and_Plants_Nature_Pack/Meshes/Environment/SM_Rock_06.SM_Rock_06
+[2019.10.25-00.10.42:725][ 50]LogActorFactory: Actor Factory created SM_Rock_06
+[2019.10.25-00.10.43:552][ 77]LogActorFactory: Actor Factory created SM_Rock_06
+[2019.10.25-00.10.45:293][135]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.25-00.10.51:547][328]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.25-00.11.07:689][843]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.25-00.11.07:747][845]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.25-00.11.07:755][845]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/mystuff/spoopylevel_sharedassets/spoopylevel.spoopylevel:PersistentLevel' has LevelScriptBlueprint '/Game/mystuff/spoopylevel_sharedassets/spoopylevel.spoopylevel:PersistentLevel.spoopylevel' with GeneratedClass '/Game/mystuff/spoopylevel_sharedassets/spoopylevel.spoopylevel_C' with ClassGeneratedBy '/Game/mystuff/spoopylevel_sharedassets/spoopylevel.spoopylevel:PersistentLevel.spoopylevel'
+[2019.10.25-00.11.07:755][845]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.25-00.11.07:755][845]PIE: New page: PIE session: spoopylevel (Oct 24, 2019, 2:11:07 PM)
+[2019.10.25-00.11.07:755][845]LogPlayLevel: Creating play world package: /Game/mystuff/spoopylevel_sharedassets/UEDPIE_0_spoopylevel
+[2019.10.25-00.11.07:778][845]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022666s)
+[2019.10.25-00.11.07:778][845]LogAIModule: Creating AISystem for world spoopylevel
+[2019.10.25-00.11.07:779][845]LogPlayLevel: PIE: World Init took: (0.000878s)
+[2019.10.25-00.11.07:779][845]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/mystuff/spoopylevel_sharedassets/spoopylevel.spoopylevel to /Game/mystuff/spoopylevel_sharedassets/UEDPIE_0_spoopylevel.spoopylevel (0.023701s)
+[2019.10.25-00.11.07:806][845]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2019.10.25-00.11.07:809][845]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.25-00.11.07:834][845]LogInit: FAudioDevice initialized.
+[2019.10.25-00.11.07:860][845]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.10.25-00.11.07:863][845]LogWorld: Bringing World /Game/mystuff/spoopylevel_sharedassets/UEDPIE_0_spoopylevel.spoopylevel up for play (max tick rate 0) at 2019.10.24-19.11.07
+[2019.10.25-00.11.07:863][845]LogWorld: Bringing up level for play took: 0.001767
+[2019.10.25-00.11.07:877][845]PIE: Play in editor start time for /Game/mystuff/spoopylevel_sharedassets/UEDPIE_0_spoopylevel 0.213
+[2019.10.25-00.11.07:877][845]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/mystuff/spoopylevel_sharedassets/spoopylevel.spoopylevel:PersistentLevel' has LevelScriptBlueprint '/Game/mystuff/spoopylevel_sharedassets/spoopylevel.spoopylevel:PersistentLevel.spoopylevel' with GeneratedClass '/Game/mystuff/spoopylevel_sharedassets/spoopylevel.spoopylevel_C' with ClassGeneratedBy '/Game/mystuff/spoopylevel_sharedassets/spoopylevel.spoopylevel:PersistentLevel.spoopylevel'
+[2019.10.25-00.11.41:160][ 74]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/mystuff/spoopylevel_sharedassets/spoopylevel.spoopylevel:PersistentLevel' has LevelScriptBlueprint '/Game/mystuff/spoopylevel_sharedassets/spoopylevel.spoopylevel:PersistentLevel.spoopylevel' with GeneratedClass '/Game/mystuff/spoopylevel_sharedassets/spoopylevel.spoopylevel_C' with ClassGeneratedBy '/Game/mystuff/spoopylevel_sharedassets/spoopylevel.spoopylevel:PersistentLevel.spoopylevel'
+[2019.10.25-00.11.41:160][ 74]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.25-00.11.41:213][ 74]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.25-00.11.41:213][ 74]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/mystuff/spoopylevel_sharedassets/spoopylevel.spoopylevel:PersistentLevel' has LevelScriptBlueprint '/Game/mystuff/spoopylevel_sharedassets/spoopylevel.spoopylevel:PersistentLevel.spoopylevel' with GeneratedClass '/Game/mystuff/spoopylevel_sharedassets/spoopylevel.spoopylevel_C' with ClassGeneratedBy '/Game/mystuff/spoopylevel_sharedassets/spoopylevel.spoopylevel:PersistentLevel.spoopylevel'
+[2019.10.25-00.11.41:246][ 74]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.25-00.11.41:250][ 74]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2019.10.25-00.11.41:269][ 75]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2019.10.25-00.11.44:919][191]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Rock_06)
+[2019.10.25-00.11.46:064][227]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.25-00.11.48:182][294]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.25-00.11.48:757][309]LogTexture: Display: Building textures: Texture2D_3 (G8, 128X128)
+[2019.10.25-00.12.00:294][681]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.25-00.12.11:739][ 45]Cmd: TRANSACTION UNDO
+[2019.10.25-00.12.11:739][ 45]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2019.10.25-00.12.11:796][ 45]LogTexture: Display: Building textures: Texture2D_110 (BGRA8, 32X32)
+[2019.10.25-00.12.11:801][ 45]LogTexture: Display: Building textures: Texture2D_103 (BGRA8, 32X32)
+[2019.10.25-00.12.11:807][ 45]LogTexture: Display: Building textures: Texture2D_102 (BGRA8, 32X32)
+[2019.10.25-00.12.11:814][ 45]LogTexture: Display: Building textures: Texture2D_111 (BGRA8, 32X32)
+[2019.10.25-00.12.20:721][329]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.25-00.12.36:171][834]Cmd: TRANSACTION UNDO
+[2019.10.25-00.12.36:171][834]LogEditorTransaction: Undo Landscape Editing: Smooth
+[2019.10.25-00.12.36:220][834]LogTexture: Display: Building textures: Texture2D_102 (BGRA8, 32X32)
+[2019.10.25-00.12.36:226][834]LogTexture: Display: Building textures: Texture2D_103 (BGRA8, 32X32)
+[2019.10.25-00.12.36:422][840]Cmd: TRANSACTION UNDO
+[2019.10.25-00.12.36:422][840]LogEditorTransaction: Undo Landscape Editing: Smooth
+[2019.10.25-00.12.36:459][840]LogTexture: Display: Building textures: Texture2D_110 (BGRA8, 32X32)
+[2019.10.25-00.12.36:463][840]LogTexture: Display: Building textures: Texture2D_103 (BGRA8, 32X32)
+[2019.10.25-00.12.36:468][840]LogTexture: Display: Building textures: Texture2D_102 (BGRA8, 32X32)
+[2019.10.25-00.12.36:473][840]LogTexture: Display: Building textures: Texture2D_111 (BGRA8, 32X32)
+[2019.10.25-00.12.36:946][856]Cmd: TRANSACTION UNDO
+[2019.10.25-00.12.36:946][856]LogEditorTransaction: Undo Landscape Editing: Smooth
+[2019.10.25-00.12.37:008][856]LogTexture: Display: Building textures: Texture2D_110 (BGRA8, 32X32)
+[2019.10.25-00.12.37:012][856]LogTexture: Display: Building textures: Texture2D_103 (BGRA8, 32X32)
+[2019.10.25-00.12.37:016][856]LogTexture: Display: Building textures: Texture2D_102 (BGRA8, 32X32)
+[2019.10.25-00.12.37:022][856]LogTexture: Display: Building textures: Texture2D_111 (BGRA8, 32X32)
+[2019.10.25-00.12.56:305][494]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.25-00.12.59:042][564]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.25-00.13.56:064][964]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.25-00.14.39:059][255]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.25-00.14.46:676][367]LogLinker: Warning: Can't find file '/Game/Flowers_and_Plants_Nature_Pack/Textures/T_Rock04_2048_B'
+[2019.10.25-00.14.46:676][367]LogLinker: Warning: Can't find file for asset '/Game/Flowers_and_Plants_Nature_Pack/Textures/T_Rock04_2048_B' while loading NULL.
+[2019.10.25-00.14.46:676][367]LogLinker: Warning: Can't find file '/Game/Flowers_and_Plants_Nature_Pack/Textures/T_Rock04_2048_N'
+[2019.10.25-00.14.46:677][367]LogLinker: Warning: Can't find file for asset '/Game/Flowers_and_Plants_Nature_Pack/Textures/T_Rock04_2048_N' while loading NULL.
+[2019.10.25-00.14.46:677][367]LogLinker: Warning: Can't find file '/Game/Flowers_and_Plants_Nature_Pack/Textures/T_Rock04_2048_RMA'
+[2019.10.25-00.14.46:677][367]LogLinker: Warning: Can't find file for asset '/Game/Flowers_and_Plants_Nature_Pack/Textures/T_Rock04_2048_RMA' while loading NULL.
+[2019.10.25-00.14.46:677][367]LogLinker: Warning: Can't find file '/Game/Flowers_and_Plants_Nature_Pack/Textures/T_Rock04_2048_B'
+[2019.10.25-00.14.46:677][367]LogLinker: Warning: Can't find file for asset '/Game/Flowers_and_Plants_Nature_Pack/Textures/T_Rock04_2048_B' while loading NULL.
+[2019.10.25-00.14.46:677][367]LogLinker: Warning: Can't find file '/Game/Flowers_and_Plants_Nature_Pack/Textures/T_Rock04_2048_N'
+[2019.10.25-00.14.46:677][367]LogLinker: Warning: Can't find file for asset '/Game/Flowers_and_Plants_Nature_Pack/Textures/T_Rock04_2048_N' while loading NULL.
+[2019.10.25-00.14.46:677][367]LogLinker: Warning: Can't find file '/Game/Flowers_and_Plants_Nature_Pack/Textures/T_Rock04_2048_RMA'
+[2019.10.25-00.14.46:678][367]LogLinker: Warning: Can't find file for asset '/Game/Flowers_and_Plants_Nature_Pack/Textures/T_Rock04_2048_RMA' while loading NULL.
+[2019.10.25-00.14.46:678][367]LogLinker: Warning: Can't find file '/Game/Flowers_and_Plants_Nature_Pack/Textures/T_Rock04_2048_B'
+[2019.10.25-00.14.46:678][367]LoadErrors: Failed to load /Game/Flowers_and_Plants_Nature_Pack/Textures/T_Rock04_2048_B.T_Rock04_2048_B Referenced by MI_Rock_04
+[2019.10.25-00.14.46:678][367]LogLinker: Warning: Can't find file for asset '/Game/Flowers_and_Plants_Nature_Pack/Textures/T_Rock04_2048_B' while loading NULL.
+[2019.10.25-00.14.46:678][367]LogLinker: Warning: Can't find file '/Game/Flowers_and_Plants_Nature_Pack/Textures/T_Rock04_2048_N'
+[2019.10.25-00.14.46:678][367]LoadErrors: Failed to load /Game/Flowers_and_Plants_Nature_Pack/Textures/T_Rock04_2048_N.T_Rock04_2048_N Referenced by MI_Rock_04
+[2019.10.25-00.14.46:679][367]LogLinker: Warning: Can't find file for asset '/Game/Flowers_and_Plants_Nature_Pack/Textures/T_Rock04_2048_N' while loading NULL.
+[2019.10.25-00.14.46:679][367]LogLinker: Warning: Can't find file '/Game/Flowers_and_Plants_Nature_Pack/Textures/T_Rock04_2048_RMA'
+[2019.10.25-00.14.46:679][367]LoadErrors: Failed to load /Game/Flowers_and_Plants_Nature_Pack/Textures/T_Rock04_2048_RMA.T_Rock04_2048_RMA Referenced by MI_Rock_04
+[2019.10.25-00.14.46:679][367]LogLinker: Warning: Can't find file for asset '/Game/Flowers_and_Plants_Nature_Pack/Textures/T_Rock04_2048_RMA' while loading NULL.
+[2019.10.25-00.14.46:692][367]LogStaticMesh: Building static mesh SM_Rock_04...
+[2019.10.25-00.14.46:776][367]LogStaticMesh: Built static mesh [0.08s] /Game/Flowers_and_Plants_Nature_Pack/Meshes/Environment/SM_Rock_04.SM_Rock_04
+[2019.10.25-00.14.47:134][377]LogActorFactory: Actor Factory created SM_Rock_04
+[2019.10.25-00.14.48:037][406]LogActorFactory: Actor Factory created SM_Rock_04
+[2019.10.25-00.14.49:326][447]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.25-00.14.56:905][688]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.25-00.15.02:006][851]Cmd: TRANSACTION UNDO
+[2019.10.25-00.15.02:006][851]LogEditorTransaction: Undo Move Actors
+[2019.10.25-00.15.03:279][892]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Rock_04)
+[2019.10.25-00.15.05:375][953]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.25-00.15.11:465][145]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.25-00.15.21:809][473]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.25-00.15.28:168][677]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.25-00.15.37:201][969]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.25-00.15.45:646][243]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.25-00.15.53:545][498]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.25-00.15.56:904][606]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.25-00.16.13:424][140]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.25-00.16.16:030][218]LogConsoleManager: Warning: Console object named 'ActorComponents.Enable' already exists but is being registered again, but we weren't expected it to be! (FConsoleManager::AddConsoleObject)
+[2019.10.25-00.16.16:967][248]LogConsoleManager: Warning: Console object named 'ActorComponents.Enable' already exists but is being registered again, but we weren't expected it to be! (FConsoleManager::AddConsoleObject)
+[2019.10.25-00.16.43:342][782]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SOutlinerTreeView [SSceneOutliner.cpp(387)].
+[2019.10.25-00.16.43:690][782]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2019.10.25-00.16.43:883][782]LogTexture: Display: Building textures: Texture2D_87 (BGRA8, 32X32)
+[2019.10.25-00.16.43:884][782]LogTexture: Display: Building textures: Texture2D_94 (BGRA8, 32X32)
+[2019.10.25-00.16.43:884][782]LogTexture: Display: Building textures: Texture2D_95 (BGRA8, 32X32)
+[2019.10.25-00.16.43:884][782]LogTexture: Display: Building textures: Texture2D_102 (BGRA8, 32X32)
+[2019.10.25-00.16.43:885][782]LogTexture: Display: Building textures: Texture2D_103 (BGRA8, 32X32)
+[2019.10.25-00.16.43:885][782]LogTexture: Display: Building textures: Texture2D_111 (BGRA8, 32X32)
+[2019.10.25-00.16.43:885][782]LogTexture: Display: Building textures: Texture2D_119 (BGRA8, 32X32)
+[2019.10.25-00.16.44:350][782]LogSavePackage: Moving 'E:/level design 2 stuff/github stuff/spoopylevel/MMartinSpoopy/Saved/spoopylevel_Auto356074EEE42721A8411039FB158C3BFB1.tmp' to 'E:/level design 2 stuff/github stuff/spoopylevel/MMartinSpoopy/Saved/Autosaves/Game/mystuff/spoopylevel_sharedassets/spoopylevel_Auto3.umap'
+[2019.10.25-00.16.44:380][782]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/mystuff/spoopylevel_sharedassets/spoopylevel' took 0.721
+[2019.10.25-00.16.44:380][782]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.721
