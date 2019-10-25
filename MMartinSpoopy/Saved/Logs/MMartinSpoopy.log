@@ -5469,3 +5469,451 @@ Script Stack (0 frames):
 [2019.10.25-01.40.00:189][698]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
 [2019.10.25-01.40.00:906][698]LogSavePackage: Moving 'E:/level design 2 stuff/github stuff/spoopylevel/MMartinSpoopy/Saved/spoopylevelBBD4660C4CC86071DFC79D82386F5551.tmp' to 'E:/level design 2 stuff/github stuff/spoopylevel/MMartinSpoopy/Content/mystuff/spoopylevel_sharedassets/spoopylevel.umap'
 [2019.10.25-01.40.01:095][698]LogSavePackage: Moving 'E:/level design 2 stuff/github stuff/spoopylevel/MMartinSpoopy/Saved/spoopylevel_BuiltData35497C1C462A83A62E8B26BDDA57366A.tmp' to 'E:/level design 2 stuff/github stuff/spoopylevel/MMartinSpoopy/Content/mystuff/spoopylevel_sharedassets/spoopylevel_BuiltData.uasset'
+[2019.10.25-01.41.22:945][ 94]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.25-01.41.27:132][ 97]LogTexture: Display: Building textures: T_Barrel03_2048_RMA (AutoDXT, 2048X2048)
+[2019.10.25-01.41.27:132][ 97]LogTexture: Display: Building textures: T_Barrel03_2048_B (AutoDXT, 2048X2048)
+[2019.10.25-01.41.27:132][ 97]LogTexture: Display: Building textures: T_Barrel03_2048_N (BC5, 2048X2048)
+[2019.10.25-01.41.27:132][ 97]LogStaticMesh: Building static mesh SM_Barrel_03...
+[2019.10.25-01.41.27:353][ 97]LogStaticMesh: Built static mesh [0.22s] /Game/Flowers_and_Plants_Nature_Pack/Meshes/Environment/SM_Barrel_03.SM_Barrel_03
+[2019.10.25-01.52.08:232][ 84]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.25-01.52.21:937][414]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.25-01.52.32:718][646]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Rock_09)
+[2019.10.25-01.52.36:413][781]LogEditorViewport: Clicking on Actor (LMB): BP_GoodSky_C (BP_GoodSky)
+[2019.10.25-01.52.39:905][858]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.25-01.53.51:256][155]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Rock_05)
+[2019.10.25-01.53.51:768][168]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (cave roof)
+[2019.10.25-01.53.52:388][190]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Rock_09)
+[2019.10.25-01.53.53:310][224]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Rock_03)
+[2019.10.25-01.53.53:805][240]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Rock_07)
+[2019.10.25-01.53.54:226][255]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Rock_04)
+[2019.10.25-01.53.57:726][374]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Rock_10)
+[2019.10.25-01.53.58:095][384]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Rock_08)
+[2019.10.25-01.53.59:825][439]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Rock_01)
+[2019.10.25-01.54.00:432][459]LogEditorViewport: Clicking on Actor (CTRL LMB): Landscape (Landscape)
+[2019.10.25-01.54.01:431][491]Cmd: TRANSACTION UNDO
+[2019.10.25-01.54.01:431][491]LogEditorTransaction: Undo Clicking on Actors
+[2019.10.25-01.54.03:462][558]Cmd: DELETE
+[2019.10.25-01.54.03:462][558]Cmd: ACTOR DELETE
+[2019.10.25-01.54.03:467][558]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.25-01.54.03:467][558]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.25-01.54.03:468][558]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.25-01.54.03:468][558]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.25-01.54.03:468][558]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.25-01.54.03:469][558]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.25-01.54.03:469][558]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.25-01.54.03:469][558]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.25-01.54.03:470][558]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.25-01.54.03:507][558]LogUObjectHash: Compacting FUObjectHashTables data took   3.54ms
+[2019.10.25-01.54.03:508][558]LogEditorActor: Deleted 9 Actors (0.045 secs)
+[2019.10.25-01.54.04:872][607]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Rock_02)
+[2019.10.25-01.54.05:658][633]Cmd: DELETE
+[2019.10.25-01.54.05:659][633]Cmd: ACTOR DELETE
+[2019.10.25-01.54.05:661][633]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.25-01.54.05:692][633]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2019.10.25-01.54.05:693][633]LogEditorActor: Deleted 1 Actors (0.034 secs)
+[2019.10.25-01.54.09:115][753]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Rock_17)
+[2019.10.25-01.54.09:867][777]Cmd: DELETE
+[2019.10.25-01.54.09:867][777]Cmd: ACTOR DELETE
+[2019.10.25-01.54.09:869][777]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.25-01.54.09:900][777]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2019.10.25-01.54.09:901][777]LogEditorActor: Deleted 1 Actors (0.033 secs)
+[2019.10.25-01.54.13:603][916]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.25-01.54.16:505][ 25]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2019.10.25-01.54.38:558][ 25]LogSlate: Window 'Delete Assets' being destroyed
+[2019.10.25-01.54.38:562][ 25]LogUObjectGlobals: Force Deleting 93 Package(s):
+	Asset Name: /Game/Flowers_and_Plants_Nature_Pack/Meshes/Environment/SM_Rock_07.SM_Rock_07
+	Asset Name: /Game/Flowers_and_Plants_Nature_Pack/Materials/Instances/MI_Rock_07.MI_Rock_07
+	Asset Name: /Game/Flowers_and_Plants_Nature_Pack/Maps/Landscape_Layers/Grass_1_LayerInfo.Grass_1_LayerInfo
+	Asset Name: /Game/Flowers_and_Plants_Nature_Pack/Blueprints/Components/Macro_VisibleObject.Macro_VisibleObject
+	Asset Name: /Game/Flowers_and_Plants_Nature_Pack/Blueprints/Components/Macro_VisibleObject2.Macro_VisibleObject2
+	Asset Name: /Game/Flowers_and_Plants_Nature_Pack/Meshes/Environment/SM_Rock_17.SM_Rock_17
+	Asset Name: /Game/Flowers_and_Plants_Nature_Pack/Materials/Instances/MI_Rock_17.MI_Rock_17
+	Asset Name: /Game/Flowers_and_Plants_Nature_Pack/Meshes/Environment/SM_Rock_10.SM_Rock_10
+	Asset Name: /Game/Flowers_and_Plants_Nature_Pack/Materials/Instances/MI_Rock_10.MI_Rock_10
+	Asset Name: /Game/Flowers_and_Plants_Nature_Pack/Meshes/Environment/SM_Rock_01.SM_Rock_01
+[2019.10.25-01.54.40:886][ 25]LogStaticMesh: Building static mesh SM_Rock_17...
+[2019.10.25-01.54.40:959][ 25]LogStaticMesh: Built static mesh [0.07s] /Game/Flowers_and_Plants_Nature_Pack/Meshes/Environment/SM_Rock_17.SM_Rock_17
+[2019.10.25-01.54.40:992][ 25]LogStaticMesh: Building static mesh SM_Rock_10...
+[2019.10.25-01.54.41:235][ 25]LogStaticMesh: Built static mesh [0.24s] /Game/Flowers_and_Plants_Nature_Pack/Meshes/Environment/SM_Rock_10.SM_Rock_10
+[2019.10.25-01.54.41:292][ 25]LogStaticMesh: Building static mesh SM_Rock_01...
+[2019.10.25-01.54.41:358][ 25]LogStaticMesh: Built static mesh [0.08s] /Game/Flowers_and_Plants_Nature_Pack/Meshes/Environment/SM_Rock_01.SM_Rock_01
+[2019.10.25-01.54.41:397][ 25]LogStaticMesh: Building static mesh SM_Rock_09...
+[2019.10.25-01.54.41:594][ 25]LogStaticMesh: Built static mesh [0.21s] /Game/Flowers_and_Plants_Nature_Pack/Meshes/Environment/SM_Rock_09.SM_Rock_09
+[2019.10.25-01.54.41:621][ 25]LogStaticMesh: Building static mesh SM_Rock_08...
+[2019.10.25-01.54.41:773][ 25]LogStaticMesh: Built static mesh [0.15s] /Game/Flowers_and_Plants_Nature_Pack/Meshes/Environment/SM_Rock_08.SM_Rock_08
+[2019.10.25-01.54.41:800][ 25]LogStaticMesh: Building static mesh SM_Rock_07...
+[2019.10.25-01.54.41:959][ 25]LogStaticMesh: Built static mesh [0.16s] /Game/Flowers_and_Plants_Nature_Pack/Meshes/Environment/SM_Rock_07.SM_Rock_07
+[2019.10.25-01.54.41:993][ 25]LogStaticMesh: Building static mesh SM_Rock_02...
+[2019.10.25-01.54.42:046][ 25]LogStaticMesh: Built static mesh [0.05s] /Game/Flowers_and_Plants_Nature_Pack/Meshes/Environment/SM_Rock_02.SM_Rock_02
+[2019.10.25-01.54.42:081][ 25]LogStaticMesh: Building static mesh SM_Rock_04...
+[2019.10.25-01.54.42:138][ 25]LogStaticMesh: Built static mesh [0.06s] /Game/Flowers_and_Plants_Nature_Pack/Meshes/Environment/SM_Rock_04.SM_Rock_04
+[2019.10.25-01.54.42:147][ 25]LogStaticMesh: Building static mesh SM_Rock_06...
+[2019.10.25-01.54.42:334][ 25]LogStaticMesh: Built static mesh [0.19s] /Game/Flowers_and_Plants_Nature_Pack/Meshes/Environment/SM_Rock_06.SM_Rock_06
+[2019.10.25-01.54.42:343][ 25]LogStaticMesh: Building static mesh SM_Rock_05...
+[2019.10.25-01.54.42:448][ 25]LogStaticMesh: Built static mesh [0.10s] /Game/Flowers_and_Plants_Nature_Pack/Meshes/Environment/SM_Rock_05.SM_Rock_05
+[2019.10.25-01.54.42:452][ 25]LogStaticMesh: Warning: SM_Rock_05 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2019.10.25-01.54.42:452][ 25]LogStaticMesh: Warning: SM_Rock_05 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2019.10.25-01.54.42:491][ 25]LogStaticMesh: Building static mesh SM_Rock_12...
+[2019.10.25-01.54.42:545][ 25]LogStaticMesh: Built static mesh [0.05s] /Game/Flowers_and_Plants_Nature_Pack/Meshes/Environment/SM_Rock_12.SM_Rock_12
+[2019.10.25-01.54.42:569][ 25]LogStaticMesh: Building static mesh SM_Rock_03...
+[2019.10.25-01.54.42:631][ 25]LogStaticMesh: Built static mesh [0.06s] /Game/Flowers_and_Plants_Nature_Pack/Meshes/Environment/SM_Rock_03.SM_Rock_03
+[2019.10.25-01.54.42:667][ 25]LogStaticMesh: Building static mesh SM_Barrel_04...
+[2019.10.25-01.54.42:774][ 25]LogStaticMesh: Built static mesh [0.11s] /Game/Flowers_and_Plants_Nature_Pack/Meshes/Environment/SM_Barrel_04.SM_Barrel_04
+[2019.10.25-01.54.42:786][ 25]LogMaterial: Display: Missing cached shader map for material M_Water, compiling. 
+[2019.10.25-01.54.42:787][ 25]LogMaterial: Warning: /Game/Flowers_and_Plants_Nature_Pack/Materials/M_Water.M_Water (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.10.25-01.54.42:787][ 25]LogMaterial: 	Missing Material Function
+[2019.10.25-01.54.42:787][ 25]LogMaterial: 	(Node TextureSampleParameterCube) ParamCube> Requires TextureCube
+[2019.10.25-01.54.42:794][ 25]LogMaterial: Display: Missing cached shader map for material M_Water, compiling. 
+[2019.10.25-01.54.42:795][ 25]LogMaterial: Warning: /Game/Flowers_and_Plants_Nature_Pack/Materials/M_Water.M_Water (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.10.25-01.54.42:795][ 25]LogMaterial: 	Missing Material Function
+[2019.10.25-01.54.42:796][ 25]LogMaterial: 	(Node TextureSampleParameterCube) ParamCube> Requires TextureCube
+[2019.10.25-01.54.42:801][ 25]LogMaterial: Display: Missing cached shader map for material M_Water, compiling. 
+[2019.10.25-01.54.42:803][ 25]LogMaterial: Warning: /Game/Flowers_and_Plants_Nature_Pack/Materials/M_Water.M_Water (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.10.25-01.54.42:803][ 25]LogMaterial: 	Missing Material Function
+[2019.10.25-01.54.42:803][ 25]LogMaterial: 	(Node TextureSampleParameterCube) ParamCube> Requires TextureCube
+[2019.10.25-01.54.42:826][ 25]LogStaticMesh: Building static mesh SM_Barrel_03...
+[2019.10.25-01.54.42:929][ 25]LogStaticMesh: Built static mesh [0.11s] /Game/Flowers_and_Plants_Nature_Pack/Meshes/Environment/SM_Barrel_03.SM_Barrel_03
+[2019.10.25-01.54.42:966][ 25]LogMaterial: Display: Missing cached shader map for material Material_22, compiling. 
+[2019.10.25-01.54.42:967][ 25]LogMaterial: Warning: /Engine/Transient.Material_22 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.10.25-01.54.42:967][ 25]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2019.10.25-01.54.42:971][ 25]LogMaterial: Display: Missing cached shader map for material Material_22, compiling. 
+[2019.10.25-01.54.42:971][ 25]LogMaterial: Warning: /Engine/Transient.Material_22 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.10.25-01.54.42:971][ 25]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2019.10.25-01.54.42:975][ 25]LogMaterial: Display: Missing cached shader map for material Material_23, compiling. 
+[2019.10.25-01.54.42:976][ 25]LogMaterial: Warning: /Engine/Transient.Material_23 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.10.25-01.54.42:976][ 25]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2019.10.25-01.54.42:979][ 25]LogMaterial: Display: Missing cached shader map for material Material_23, compiling. 
+[2019.10.25-01.54.42:979][ 25]LogMaterial: Warning: /Engine/Transient.Material_23 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.10.25-01.54.42:980][ 25]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2019.10.25-01.54.42:983][ 25]LogMaterial: Display: Missing cached shader map for material Material_21, compiling. 
+[2019.10.25-01.54.42:983][ 25]LogMaterial: Warning: /Engine/Transient.Material_21 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.10.25-01.54.42:983][ 25]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2019.10.25-01.54.42:987][ 25]LogMaterial: Display: Missing cached shader map for material Material_21, compiling. 
+[2019.10.25-01.54.42:987][ 25]LogMaterial: Warning: /Engine/Transient.Material_21 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.10.25-01.54.42:987][ 25]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2019.10.25-01.54.42:990][ 25]LogMaterial: Display: Missing cached shader map for material Material_20, compiling. 
+[2019.10.25-01.54.42:991][ 25]LogMaterial: Warning: /Engine/Transient.Material_20 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.10.25-01.54.42:991][ 25]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2019.10.25-01.54.42:994][ 25]LogMaterial: Display: Missing cached shader map for material Material_20, compiling. 
+[2019.10.25-01.54.42:994][ 25]LogMaterial: Warning: /Engine/Transient.Material_20 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.10.25-01.54.42:994][ 25]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2019.10.25-01.54.42:997][ 25]LogMaterial: Display: Missing cached shader map for material Material_19, compiling. 
+[2019.10.25-01.54.42:998][ 25]LogMaterial: Warning: /Engine/Transient.Material_19 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.10.25-01.54.42:998][ 25]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2019.10.25-01.54.43:001][ 25]LogMaterial: Display: Missing cached shader map for material Material_19, compiling. 
+[2019.10.25-01.54.43:002][ 25]LogMaterial: Warning: /Engine/Transient.Material_19 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.10.25-01.54.43:002][ 25]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2019.10.25-01.54.43:023][ 25]LogMaterial: Display: Missing cached shader map for material Material_24, compiling. 
+[2019.10.25-01.54.43:023][ 25]LogMaterial: Warning: /Engine/Transient.Material_24 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.10.25-01.54.43:023][ 25]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2019.10.25-01.54.43:027][ 25]LogMaterial: Display: Missing cached shader map for material Material_24, compiling. 
+[2019.10.25-01.54.43:027][ 25]LogMaterial: Warning: /Engine/Transient.Material_24 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.10.25-01.54.43:027][ 25]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2019.10.25-01.54.43:030][ 25]LogMaterial: Display: Missing cached shader map for material Material_18, compiling. 
+[2019.10.25-01.54.43:031][ 25]LogMaterial: Warning: /Engine/Transient.Material_18 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.10.25-01.54.43:031][ 25]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2019.10.25-01.54.43:034][ 25]LogMaterial: Display: Missing cached shader map for material Material_18, compiling. 
+[2019.10.25-01.54.43:034][ 25]LogMaterial: Warning: /Engine/Transient.Material_18 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.10.25-01.54.43:034][ 25]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2019.10.25-01.54.43:038][ 25]LogMaterial: Display: Missing cached shader map for material Material_17, compiling. 
+[2019.10.25-01.54.43:038][ 25]LogMaterial: Warning: /Engine/Transient.Material_17 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.10.25-01.54.43:038][ 25]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2019.10.25-01.54.43:042][ 25]LogMaterial: Display: Missing cached shader map for material Material_17, compiling. 
+[2019.10.25-01.54.43:042][ 25]LogMaterial: Warning: /Engine/Transient.Material_17 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.10.25-01.54.43:042][ 25]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2019.10.25-01.54.43:045][ 25]LogMaterial: Display: Missing cached shader map for material Material_16, compiling. 
+[2019.10.25-01.54.43:046][ 25]LogMaterial: Warning: /Engine/Transient.Material_16 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.10.25-01.54.43:046][ 25]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2019.10.25-01.54.43:050][ 25]LogMaterial: Display: Missing cached shader map for material Material_16, compiling. 
+[2019.10.25-01.54.43:050][ 25]LogMaterial: Warning: /Engine/Transient.Material_16 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.10.25-01.54.43:050][ 25]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2019.10.25-01.54.43:054][ 25]LogMaterial: Display: Missing cached shader map for material Material_25, compiling. 
+[2019.10.25-01.54.43:054][ 25]LogMaterial: Warning: /Engine/Transient.Material_25 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.10.25-01.54.43:054][ 25]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2019.10.25-01.54.43:058][ 25]LogMaterial: Display: Missing cached shader map for material Material_25, compiling. 
+[2019.10.25-01.54.43:058][ 25]LogMaterial: Warning: /Engine/Transient.Material_25 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.10.25-01.54.43:058][ 25]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2019.10.25-01.54.43:061][ 25]LogMaterial: Display: Missing cached shader map for material Material_26, compiling. 
+[2019.10.25-01.54.43:062][ 25]LogMaterial: Warning: /Engine/Transient.Material_26 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.10.25-01.54.43:062][ 25]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2019.10.25-01.54.43:065][ 25]LogMaterial: Display: Missing cached shader map for material Material_26, compiling. 
+[2019.10.25-01.54.43:066][ 25]LogMaterial: Warning: /Engine/Transient.Material_26 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.10.25-01.54.43:066][ 25]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2019.10.25-01.54.43:071][ 25]LogMaterial: Display: Missing cached shader map for material Material_31, compiling. 
+[2019.10.25-01.54.43:071][ 25]LogMaterial: Warning: /Engine/Transient.Material_31 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.10.25-01.54.43:071][ 25]LogMaterial: 	(Node CollectionParameter) CollectionParameter has invalid Collection!
+[2019.10.25-01.54.43:077][ 25]LogMaterial: Display: Missing cached shader map for material M_PlantsMasterMaterial, compiling. 
+[2019.10.25-01.54.43:079][ 25]LogMaterial: Warning: /Game/Flowers_and_Plants_Nature_Pack/Materials/M_PlantsMasterMaterial.M_PlantsMasterMaterial (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.10.25-01.54.43:079][ 25]LogMaterial: 	(Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2019.10.25-01.54.43:079][ 25]LogMaterial: 	(Node TextureSampleParameter2D) (ENG) RMA map. Combined map (red channel - AO, green channel - Roughness, Blue channel - metallic). 
+It is recommended to disable sRGB in texture properties of this type, for correctness.
+(RUS) RMA карта. Комбинированая карта (красный канал - AO, зелёный канал - Roughness, Синий канал - metallic). 
+Рекомендуется отключать sRGB в свойствах текстуры данного типа, для корректности. > Requires Texture2D
+[2019.10.25-01.54.43:079][ 25]LogMaterial: 	(Node CollectionParameter) CollectionParameter has invalid Collection!
+[2019.10.25-01.54.43:079][ 25]LogMaterial: 	Missing Material Function
+[2019.10.25-01.54.43:085][ 25]LogMaterial: Display: Missing cached shader map for material M_PlantsMasterMaterial, compiling. 
+[2019.10.25-01.54.43:087][ 25]LogMaterial: Warning: /Game/Flowers_and_Plants_Nature_Pack/Materials/M_PlantsMasterMaterial.M_PlantsMasterMaterial (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.10.25-01.54.43:087][ 25]LogMaterial: 	(Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2019.10.25-01.54.43:087][ 25]LogMaterial: 	(Node TextureSampleParameter2D) (ENG) RMA map. Combined map (red channel - AO, green channel - Roughness, Blue channel - metallic). 
+It is recommended to disable sRGB in texture properties of this type, for correctness.
+(RUS) RMA карта. Комбинированая карта (красный канал - AO, зелёный канал - Roughness, Синий канал - metallic). 
+Рекомендуется отключать sRGB в свойствах текстуры данного типа, для корректности. > Requires Texture2D
+[2019.10.25-01.54.43:087][ 25]LogMaterial: 	(Node CollectionParameter) CollectionParameter has invalid Collection!
+[2019.10.25-01.54.43:087][ 25]LogMaterial: 	Missing Material Function
+[2019.10.25-01.54.43:092][ 25]LogMaterial: Display: Missing cached shader map for material M_PlantsMasterMaterial, compiling. 
+[2019.10.25-01.54.43:095][ 25]LogMaterial: Warning: /Game/Flowers_and_Plants_Nature_Pack/Materials/M_PlantsMasterMaterial.M_PlantsMasterMaterial (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.10.25-01.54.43:095][ 25]LogMaterial: 	(Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2019.10.25-01.54.43:095][ 25]LogMaterial: 	(Node TextureSampleParameter2D) (ENG) RMA map. Combined map (red channel - AO, green channel - Roughness, Blue channel - metallic). 
+It is recommended to disable sRGB in texture properties of this type, for correctness.
+(RUS) RMA карта. Комбинированая карта (красный канал - AO, зелёный канал - Roughness, Синий канал - metallic). 
+Рекомендуется отключать sRGB в свойствах текстуры данного типа, для корректности. > Requires Texture2D
+[2019.10.25-01.54.43:095][ 25]LogMaterial: 	(Node CollectionParameter) CollectionParameter has invalid Collection!
+[2019.10.25-01.54.43:095][ 25]LogMaterial: 	Missing Material Function
+[2019.10.25-01.54.43:100][ 25]LogMaterial: Display: Missing cached shader map for material M_PlantsMasterMaterial, compiling. 
+[2019.10.25-01.54.43:102][ 25]LogMaterial: Warning: /Game/Flowers_and_Plants_Nature_Pack/Materials/M_PlantsMasterMaterial.M_PlantsMasterMaterial (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.10.25-01.54.43:102][ 25]LogMaterial: 	(Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2019.10.25-01.54.43:102][ 25]LogMaterial: 	(Node TextureSampleParameter2D) (ENG) RMA map. Combined map (red channel - AO, green channel - Roughness, Blue channel - metallic). 
+It is recommended to disable sRGB in texture properties of this type, for correctness.
+(RUS) RMA карта. Комбинированая карта (красный канал - AO, зелёный канал - Roughness, Синий канал - metallic). 
+Рекомендуется отключать sRGB в свойствах текстуры данного типа, для корректности. > Requires Texture2D
+[2019.10.25-01.54.43:102][ 25]LogMaterial: 	(Node CollectionParameter) CollectionParameter has invalid Collection!
+[2019.10.25-01.54.43:102][ 25]LogMaterial: 	Missing Material Function
+[2019.10.25-01.54.43:111][ 25]LogStaticMesh: Building static mesh SM_Adonis_01...
+[2019.10.25-01.54.43:144][ 25]LogStaticMesh: Built static mesh [0.03s] /Game/Flowers_and_Plants_Nature_Pack/Meshes/SM_Adonis_01.SM_Adonis_01
+[2019.10.25-01.54.43:194][ 25]LogStaticMesh: Building static mesh SM_Schisandra_02...
+[2019.10.25-01.54.43:233][ 25]LogStaticMesh: Built static mesh [0.06s] /Game/Flowers_and_Plants_Nature_Pack/Meshes/Splines/SM_Schisandra_02.SM_Schisandra_02
+[2019.10.25-01.54.43:242][ 25]LogMaterial: Display: Missing cached shader map for material M_Character_Body, compiling. 
+[2019.10.25-01.54.43:245][ 25]LogMaterial: Warning: /Game/Flowers_and_Plants_Nature_Pack/Materials/Defaults/M_Character_Body.M_Character_Body (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.10.25-01.54.43:245][ 25]LogMaterial: 	Missing Material Function
+[2019.10.25-01.54.43:245][ 25]LogMaterial: 	(Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2019.10.25-01.54.43:245][ 25]LogMaterial: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2019.10.25-01.54.43:245][ 25]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2019.10.25-01.54.43:245][ 25]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2019.10.25-01.54.43:245][ 25]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2019.10.25-01.54.43:245][ 25]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2019.10.25-01.54.43:245][ 25]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2019.10.25-01.54.43:253][ 25]LogMaterial: Display: Missing cached shader map for material M_Character_Body, compiling. 
+[2019.10.25-01.54.43:256][ 25]LogMaterial: Warning: /Game/Flowers_and_Plants_Nature_Pack/Materials/Defaults/M_Character_Body.M_Character_Body (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.10.25-01.54.43:256][ 25]LogMaterial: 	Missing Material Function
+[2019.10.25-01.54.43:256][ 25]LogMaterial: 	(Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2019.10.25-01.54.43:256][ 25]LogMaterial: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2019.10.25-01.54.43:256][ 25]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2019.10.25-01.54.43:256][ 25]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2019.10.25-01.54.43:257][ 25]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2019.10.25-01.54.43:257][ 25]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2019.10.25-01.54.43:257][ 25]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2019.10.25-01.54.43:262][ 25]LogMaterial: Display: Missing cached shader map for material M_Character_Body, compiling. 
+[2019.10.25-01.54.43:264][ 25]LogMaterial: Warning: /Game/Flowers_and_Plants_Nature_Pack/Materials/Defaults/M_Character_Body.M_Character_Body (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.10.25-01.54.43:264][ 25]LogMaterial: 	Missing Material Function
+[2019.10.25-01.54.43:264][ 25]LogMaterial: 	(Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2019.10.25-01.54.43:264][ 25]LogMaterial: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2019.10.25-01.54.43:264][ 25]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2019.10.25-01.54.43:264][ 25]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2019.10.25-01.54.43:264][ 25]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2019.10.25-01.54.43:264][ 25]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2019.10.25-01.54.43:264][ 25]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2019.10.25-01.54.43:269][ 25]LogMaterial: Display: Missing cached shader map for material M_Character_Body, compiling. 
+[2019.10.25-01.54.43:271][ 25]LogMaterial: Warning: /Game/Flowers_and_Plants_Nature_Pack/Materials/Defaults/M_Character_Body.M_Character_Body (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.10.25-01.54.43:271][ 25]LogMaterial: 	Missing Material Function
+[2019.10.25-01.54.43:271][ 25]LogMaterial: 	(Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2019.10.25-01.54.43:271][ 25]LogMaterial: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2019.10.25-01.54.43:271][ 25]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2019.10.25-01.54.43:271][ 25]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2019.10.25-01.54.43:271][ 25]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2019.10.25-01.54.43:271][ 25]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2019.10.25-01.54.43:271][ 25]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2019.10.25-01.54.43:276][ 25]LogMaterial: Display: Missing cached shader map for material M_Character_Body, compiling. 
+[2019.10.25-01.54.43:278][ 25]LogMaterial: Warning: /Game/Flowers_and_Plants_Nature_Pack/Materials/Defaults/M_Character_Body.M_Character_Body (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.10.25-01.54.43:278][ 25]LogMaterial: 	Missing Material Function
+[2019.10.25-01.54.43:278][ 25]LogMaterial: 	(Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2019.10.25-01.54.43:278][ 25]LogMaterial: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2019.10.25-01.54.43:278][ 25]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2019.10.25-01.54.43:278][ 25]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2019.10.25-01.54.43:278][ 25]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2019.10.25-01.54.43:278][ 25]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2019.10.25-01.54.43:278][ 25]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2019.10.25-01.54.43:283][ 25]LogMaterial: Display: Missing cached shader map for material M_Character_Body, compiling. 
+[2019.10.25-01.54.43:285][ 25]LogMaterial: Warning: /Game/Flowers_and_Plants_Nature_Pack/Materials/Defaults/M_Character_Body.M_Character_Body (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.10.25-01.54.43:285][ 25]LogMaterial: 	Missing Material Function
+[2019.10.25-01.54.43:285][ 25]LogMaterial: 	(Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2019.10.25-01.54.43:285][ 25]LogMaterial: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2019.10.25-01.54.43:285][ 25]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2019.10.25-01.54.43:285][ 25]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2019.10.25-01.54.43:285][ 25]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2019.10.25-01.54.43:285][ 25]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2019.10.25-01.54.43:285][ 25]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2019.10.25-01.54.43:292][ 25]LogMaterial: Display: Missing cached shader map for material M_Character_Body, compiling. 
+[2019.10.25-01.54.43:293][ 25]LogMaterial: Warning: /Game/Flowers_and_Plants_Nature_Pack/Materials/Defaults/M_Character_Body.M_Character_Body (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.10.25-01.54.43:293][ 25]LogMaterial: 	Missing Material Function
+[2019.10.25-01.54.43:293][ 25]LogMaterial: 	(Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2019.10.25-01.54.43:293][ 25]LogMaterial: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2019.10.25-01.54.43:293][ 25]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2019.10.25-01.54.43:293][ 25]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2019.10.25-01.54.43:293][ 25]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2019.10.25-01.54.43:293][ 25]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2019.10.25-01.54.43:293][ 25]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2019.10.25-01.54.43:300][ 25]LogMaterial: Display: Missing cached shader map for material M_Character_Body, compiling. 
+[2019.10.25-01.54.43:302][ 25]LogMaterial: Warning: /Game/Flowers_and_Plants_Nature_Pack/Materials/Defaults/M_Character_Body.M_Character_Body (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.10.25-01.54.43:302][ 25]LogMaterial: 	Missing Material Function
+[2019.10.25-01.54.43:302][ 25]LogMaterial: 	(Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2019.10.25-01.54.43:302][ 25]LogMaterial: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2019.10.25-01.54.43:302][ 25]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2019.10.25-01.54.43:302][ 25]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2019.10.25-01.54.43:302][ 25]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2019.10.25-01.54.43:302][ 25]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2019.10.25-01.54.43:302][ 25]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2019.10.25-01.54.43:308][ 25]LogMaterial: Display: Missing cached shader map for material M_Character_Body, compiling. 
+[2019.10.25-01.54.43:310][ 25]LogMaterial: Warning: /Game/Flowers_and_Plants_Nature_Pack/Materials/Defaults/M_Character_Body.M_Character_Body (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.10.25-01.54.43:310][ 25]LogMaterial: 	Missing Material Function
+[2019.10.25-01.54.43:310][ 25]LogMaterial: 	(Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2019.10.25-01.54.43:310][ 25]LogMaterial: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2019.10.25-01.54.43:310][ 25]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2019.10.25-01.54.43:310][ 25]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2019.10.25-01.54.43:310][ 25]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2019.10.25-01.54.43:310][ 25]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2019.10.25-01.54.43:310][ 25]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2019.10.25-01.54.43:320][ 25]LogSkeletalMesh: Building Skeletal Mesh SK_Mannequin...
+[2019.10.25-01.54.43:371][ 25]LogSkeletalMesh: Built Skeletal Mesh [0.05s] /Game/Flowers_and_Plants_Nature_Pack/Meshes/Components/SK_Mannequin.SK_Mannequin
+[2019.10.25-01.54.43:401][ 25]LogSkeletalMesh: Building Skeletal Mesh SK_Mannequin...
+[2019.10.25-01.54.43:458][ 25]LogSkeletalMesh: Built Skeletal Mesh [0.08s] /Game/Flowers_and_Plants_Nature_Pack/Meshes/Components/SK_Mannequin.SK_Mannequin
+[2019.10.25-01.54.43:464][ 25]LogSkeletalMesh: Building Skeletal Mesh SK_Mannequin...
+[2019.10.25-01.54.43:518][ 25]LogSkeletalMesh: Built Skeletal Mesh [0.05s] /Game/Flowers_and_Plants_Nature_Pack/Meshes/Components/SK_Mannequin.SK_Mannequin
+[2019.10.25-01.54.43:524][ 25]LogSkeletalMesh: Building Skeletal Mesh SK_Mannequin...
+[2019.10.25-01.54.43:578][ 25]LogSkeletalMesh: Built Skeletal Mesh [0.05s] /Game/Flowers_and_Plants_Nature_Pack/Meshes/Components/SK_Mannequin.SK_Mannequin
+[2019.10.25-01.54.43:592][ 25]LogMaterial: Display: Missing cached shader map for material Material_27, compiling. 
+[2019.10.25-01.54.43:593][ 25]LogMaterial: Warning: /Engine/Transient.Material_27 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.10.25-01.54.43:593][ 25]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2019.10.25-01.54.43:600][ 25]LogMaterial: Display: Missing cached shader map for material Material_27, compiling. 
+[2019.10.25-01.54.43:601][ 25]LogMaterial: Warning: /Engine/Transient.Material_27 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.10.25-01.54.43:601][ 25]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2019.10.25-01.54.43:607][ 25]LogMaterial: Display: Missing cached shader map for material Material_28, compiling. 
+[2019.10.25-01.54.43:608][ 25]LogMaterial: Warning: /Engine/Transient.Material_28 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.10.25-01.54.43:608][ 25]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2019.10.25-01.54.43:615][ 25]LogMaterial: Display: Missing cached shader map for material Material_28, compiling. 
+[2019.10.25-01.54.43:615][ 25]LogMaterial: Warning: /Engine/Transient.Material_28 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.10.25-01.54.43:615][ 25]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2019.10.25-01.54.43:643][ 25]LogMaterial: Display: Missing cached shader map for material Material_11, compiling. 
+[2019.10.25-01.54.43:643][ 25]LogMaterial: Warning: /Engine/Transient.Material_11 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.10.25-01.54.43:643][ 25]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2019.10.25-01.54.43:649][ 25]LogMaterial: Display: Missing cached shader map for material Material_11, compiling. 
+[2019.10.25-01.54.43:650][ 25]LogMaterial: Warning: /Engine/Transient.Material_11 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.10.25-01.54.43:650][ 25]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2019.10.25-01.54.43:656][ 25]LogMaterial: Display: Missing cached shader map for material Material_10, compiling. 
+[2019.10.25-01.54.43:656][ 25]LogMaterial: Warning: /Engine/Transient.Material_10 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.10.25-01.54.43:656][ 25]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2019.10.25-01.54.43:662][ 25]LogMaterial: Display: Missing cached shader map for material Material_10, compiling. 
+[2019.10.25-01.54.43:662][ 25]LogMaterial: Warning: /Engine/Transient.Material_10 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.10.25-01.54.43:662][ 25]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2019.10.25-01.54.43:667][ 25]LogMaterial: Display: Missing cached shader map for material Material_12, compiling. 
+[2019.10.25-01.54.43:668][ 25]LogMaterial: Warning: /Engine/Transient.Material_12 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.10.25-01.54.43:668][ 25]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2019.10.25-01.54.43:673][ 25]LogMaterial: Display: Missing cached shader map for material Material_12, compiling. 
+[2019.10.25-01.54.43:674][ 25]LogMaterial: Warning: /Engine/Transient.Material_12 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.10.25-01.54.43:674][ 25]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2019.10.25-01.54.43:679][ 25]LogMaterial: Display: Missing cached shader map for material Material_13, compiling. 
+[2019.10.25-01.54.43:679][ 25]LogMaterial: Warning: /Engine/Transient.Material_13 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.10.25-01.54.43:679][ 25]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2019.10.25-01.54.43:685][ 25]LogMaterial: Display: Missing cached shader map for material Material_13, compiling. 
+[2019.10.25-01.54.43:685][ 25]LogMaterial: Warning: /Engine/Transient.Material_13 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.10.25-01.54.43:685][ 25]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2019.10.25-01.54.43:690][ 25]LogMaterial: Display: Missing cached shader map for material Material_14, compiling. 
+[2019.10.25-01.54.43:691][ 25]LogMaterial: Warning: /Engine/Transient.Material_14 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.10.25-01.54.43:691][ 25]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2019.10.25-01.54.43:695][ 25]LogMaterial: Display: Missing cached shader map for material Material_14, compiling. 
+[2019.10.25-01.54.43:696][ 25]LogMaterial: Warning: /Engine/Transient.Material_14 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.10.25-01.54.43:696][ 25]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2019.10.25-01.54.43:719][ 25]LogMaterial: Display: Missing cached shader map for material M_LandscapeMasterMaterial, compiling. 
+[2019.10.25-01.54.43:720][ 25]LogMaterial: Warning: /Game/Flowers_and_Plants_Nature_Pack/Materials/M_LandscapeMasterMaterial.M_LandscapeMasterMaterial (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.10.25-01.54.43:720][ 25]LogMaterial: 	Missing Material Function
+[2019.10.25-01.54.43:727][ 25]LogMaterial: Display: Missing cached shader map for material M_LandscapeMasterMaterial, compiling. 
+[2019.10.25-01.54.43:727][ 25]LogMaterial: Warning: /Game/Flowers_and_Plants_Nature_Pack/Materials/M_LandscapeMasterMaterial.M_LandscapeMasterMaterial (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.10.25-01.54.43:727][ 25]LogMaterial: 	Missing Material Function
+[2019.10.25-01.54.43:734][ 25]LogMaterial: Display: Missing cached shader map for material M_LandscapeMasterMaterial, compiling. 
+[2019.10.25-01.54.43:734][ 25]LogMaterial: Warning: /Game/Flowers_and_Plants_Nature_Pack/Materials/M_LandscapeMasterMaterial.M_LandscapeMasterMaterial (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.10.25-01.54.43:734][ 25]LogMaterial: 	Missing Material Function
+[2019.10.25-01.54.43:741][ 25]LogMaterial: Display: Missing cached shader map for material M_LandscapeMasterMaterial, compiling. 
+[2019.10.25-01.54.43:741][ 25]LogMaterial: Warning: /Game/Flowers_and_Plants_Nature_Pack/Materials/M_LandscapeMasterMaterial.M_LandscapeMasterMaterial (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.10.25-01.54.43:741][ 25]LogMaterial: 	Missing Material Function
+[2019.10.25-01.54.43:747][ 25]LogMaterial: Display: Missing cached shader map for material M_LandscapeMasterMaterial, compiling. 
+[2019.10.25-01.54.43:748][ 25]LogMaterial: Warning: /Game/Flowers_and_Plants_Nature_Pack/Materials/M_LandscapeMasterMaterial.M_LandscapeMasterMaterial (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.10.25-01.54.43:748][ 25]LogMaterial: 	Missing Material Function
+[2019.10.25-01.54.43:755][ 25]LogMaterial: Display: Missing cached shader map for material M_LandscapeMasterMaterial, compiling. 
+[2019.10.25-01.54.43:755][ 25]LogMaterial: Warning: /Game/Flowers_and_Plants_Nature_Pack/Materials/M_LandscapeMasterMaterial.M_LandscapeMasterMaterial (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.10.25-01.54.43:755][ 25]LogMaterial: 	Missing Material Function
+[2019.10.25-01.54.43:762][ 25]LogMaterial: Display: Missing cached shader map for material M_LandscapeMasterMaterial, compiling. 
+[2019.10.25-01.54.43:763][ 25]LogMaterial: Warning: /Game/Flowers_and_Plants_Nature_Pack/Materials/M_LandscapeMasterMaterial.M_LandscapeMasterMaterial (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.10.25-01.54.43:763][ 25]LogMaterial: 	Missing Material Function
+[2019.10.25-01.54.43:769][ 25]LogMaterial: Display: Missing cached shader map for material M_LandscapeMasterMaterial, compiling. 
+[2019.10.25-01.54.43:770][ 25]LogMaterial: Warning: /Game/Flowers_and_Plants_Nature_Pack/Materials/M_LandscapeMasterMaterial.M_LandscapeMasterMaterial (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.10.25-01.54.43:770][ 25]LogMaterial: 	Missing Material Function
+[2019.10.25-01.54.43:776][ 25]LogMaterial: Display: Missing cached shader map for material M_LandscapeMasterMaterial, compiling. 
+[2019.10.25-01.54.43:777][ 25]LogMaterial: Warning: /Game/Flowers_and_Plants_Nature_Pack/Materials/M_LandscapeMasterMaterial.M_LandscapeMasterMaterial (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.10.25-01.54.43:777][ 25]LogMaterial: 	Missing Material Function
+[2019.10.25-01.54.43:783][ 25]LogMaterial: Display: Missing cached shader map for material M_LandscapeMasterMaterial, compiling. 
+[2019.10.25-01.54.43:784][ 25]LogMaterial: Warning: /Game/Flowers_and_Plants_Nature_Pack/Materials/M_LandscapeMasterMaterial.M_LandscapeMasterMaterial (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.10.25-01.54.43:784][ 25]LogMaterial: 	Missing Material Function
+[2019.10.25-01.54.43:791][ 25]LogMaterial: Display: Missing cached shader map for material M_LandscapeMasterMaterial, compiling. 
+[2019.10.25-01.54.43:791][ 25]LogMaterial: Warning: /Game/Flowers_and_Plants_Nature_Pack/Materials/M_LandscapeMasterMaterial.M_LandscapeMasterMaterial (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.10.25-01.54.43:791][ 25]LogMaterial: 	Missing Material Function
+[2019.10.25-01.54.43:798][ 25]LogMaterial: Display: Missing cached shader map for material M_LandscapeMasterMaterial, compiling. 
+[2019.10.25-01.54.43:798][ 25]LogMaterial: Warning: /Game/Flowers_and_Plants_Nature_Pack/Materials/M_LandscapeMasterMaterial.M_LandscapeMasterMaterial (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.10.25-01.54.43:798][ 25]LogMaterial: 	Missing Material Function
+[2019.10.25-01.54.43:804][ 25]LogMaterial: Display: Missing cached shader map for material M_LandscapeMasterMaterial, compiling. 
+[2019.10.25-01.54.43:804][ 25]LogMaterial: Warning: /Game/Flowers_and_Plants_Nature_Pack/Materials/M_LandscapeMasterMaterial.M_LandscapeMasterMaterial (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.10.25-01.54.43:804][ 25]LogMaterial: 	Missing Material Function
+[2019.10.25-01.54.43:811][ 25]LogMaterial: Display: Missing cached shader map for material M_LandscapeMasterMaterial, compiling. 
+[2019.10.25-01.54.43:812][ 25]LogMaterial: Warning: /Game/Flowers_and_Plants_Nature_Pack/Materials/M_LandscapeMasterMaterial.M_LandscapeMasterMaterial (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.10.25-01.54.43:812][ 25]LogMaterial: 	Missing Material Function
+[2019.10.25-01.54.43:818][ 25]LogMaterial: Display: Missing cached shader map for material M_LandscapeMasterMaterial, compiling. 
+[2019.10.25-01.54.43:819][ 25]LogMaterial: Warning: /Game/Flowers_and_Plants_Nature_Pack/Materials/M_LandscapeMasterMaterial.M_LandscapeMasterMaterial (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.10.25-01.54.43:819][ 25]LogMaterial: 	Missing Material Function
+[2019.10.25-01.54.43:826][ 25]LogMaterial: Display: Missing cached shader map for material M_LandscapeMasterMaterial, compiling. 
+[2019.10.25-01.54.43:826][ 25]LogMaterial: Warning: /Game/Flowers_and_Plants_Nature_Pack/Materials/M_LandscapeMasterMaterial.M_LandscapeMasterMaterial (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.10.25-01.54.43:826][ 25]LogMaterial: 	Missing Material Function
+[2019.10.25-01.54.43:833][ 25]LogMaterial: Display: Missing cached shader map for material M_LandscapeMasterMaterial, compiling. 
+[2019.10.25-01.54.43:833][ 25]LogMaterial: Warning: /Game/Flowers_and_Plants_Nature_Pack/Materials/M_LandscapeMasterMaterial.M_LandscapeMasterMaterial (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.10.25-01.54.43:833][ 25]LogMaterial: 	Missing Material Function
+[2019.10.25-01.54.43:839][ 25]LogMaterial: Display: Missing cached shader map for material M_LandscapeMasterMaterial, compiling. 
+[2019.10.25-01.54.43:840][ 25]LogMaterial: Warning: /Game/Flowers_and_Plants_Nature_Pack/Materials/M_LandscapeMasterMaterial.M_LandscapeMasterMaterial (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.10.25-01.54.43:840][ 25]LogMaterial: 	Missing Material Function
+[2019.10.25-01.54.43:846][ 25]LogMaterial: Display: Missing cached shader map for material M_LandscapeMasterMaterial, compiling. 
+[2019.10.25-01.54.43:846][ 25]LogMaterial: Warning: /Game/Flowers_and_Plants_Nature_Pack/Materials/M_LandscapeMasterMaterial.M_LandscapeMasterMaterial (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.10.25-01.54.43:846][ 25]LogMaterial: 	Missing Material Function
+[2019.10.25-01.54.43:853][ 25]LogMaterial: Display: Missing cached shader map for material M_LandscapeMasterMaterial, compiling. 
+[2019.10.25-01.54.43:853][ 25]LogMaterial: Warning: /Game/Flowers_and_Plants_Nature_Pack/Materials/M_LandscapeMasterMaterial.M_LandscapeMasterMaterial (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.10.25-01.54.43:853][ 25]LogMaterial: 	Missing Material Function
+[2019.10.25-01.54.43:861][ 25]LogMaterial: Display: Missing cached shader map for material M_LandscapeMasterMaterial, compiling. 
+[2019.10.25-01.54.43:861][ 25]LogMaterial: Warning: /Game/Flowers_and_Plants_Nature_Pack/Materials/M_LandscapeMasterMaterial.M_LandscapeMasterMaterial (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.10.25-01.54.43:861][ 25]LogMaterial: 	Missing Material Function
+[2019.10.25-01.54.43:866][ 25]LogMaterial: Display: Missing cached shader map for material Material_15, compiling. 
+[2019.10.25-01.54.43:867][ 25]LogMaterial: Warning: /Engine/Transient.Material_15 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.10.25-01.54.43:867][ 25]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2019.10.25-01.54.43:871][ 25]LogMaterial: Display: Missing cached shader map for material Material_15, compiling. 
+[2019.10.25-01.54.43:872][ 25]LogMaterial: Warning: /Engine/Transient.Material_15 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.10.25-01.54.43:872][ 25]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2019.10.25-01.54.43:877][ 25]LogMaterial: Display: Missing cached shader map for material Material_6, compiling. 
+[2019.10.25-01.54.43:899][ 25]LogMaterial: Display: Missing cached shader map for material Material_5, compiling. 
+[2019.10.25-01.54.43:900][ 25]LogMaterial: Warning: /Engine/Transient.Material_5 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.10.25-01.54.43:900][ 25]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2019.10.25-01.54.43:900][ 25]LogMaterial: 	(Node MakeMaterialAttributes) Error on property Normal
+[2019.10.25-01.54.43:900][ 25]LogMaterial: 	(Node MakeMaterialAttributes) Error on property BaseColor
+[2019.10.25-01.54.43:900][ 25]LogMaterial: 	(Node MakeMaterialAttributes) Error on property Roughness
+[2019.10.25-01.54.43:905][ 25]LogMaterial: Display: Missing cached shader map for material Material_5, compiling. 
+[2019.10.25-01.54.43:906][ 25]LogMaterial: Warning: /Engine/Transient.Material_5 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.10.25-01.54.43:906][ 25]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2019.10.25-01.54.43:906][ 25]LogMaterial: 	(Node MakeMaterialAttributes) Error on property Normal
+[2019.10.25-01.54.43:906][ 25]LogMaterial: 	(Node MakeMaterialAttributes) Error on property BaseColor
+[2019.10.25-01.54.43:906][ 25]LogMaterial: 	(Node MakeMaterialAttributes) Error on property Roughness
+[2019.10.25-01.55.02:163][ 25]LogUObjectHash: Compacting FUObjectHashTables data took   3.60ms
+[2019.10.25-01.55.02:189][ 25]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2019.10.25-01.55.02:216][ 25]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2019.10.25-01.55.02:244][ 25]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2019.10.25-01.55.02:270][ 25]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2019.10.25-01.55.02:298][ 25]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2019.10.25-01.55.02:328][ 25]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2019.10.25-01.55.02:359][ 25]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2019.10.25-01.55.02:387][ 25]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2019.10.25-01.55.02:415][ 25]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2019.10.25-01.55.02:440][ 25]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2019.10.25-01.55.02:471][ 25]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2019.10.25-01.55.02:500][ 25]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
