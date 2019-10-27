@@ -574,3 +574,10 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.10.27-21.52.01:935][822]LogDirectoryWatcher: A directory notification failed for 'D:/level design 2 stuff/github stuff/newer spoopy level/spoopylevel/MMartinSpoopy/Content/Collections/' because it could not be accessed. Aborting watch request...
 [2019.10.27-21.52.01:935][822]LogDirectoryWatcher: A directory notification failed for 'D:/level design 2 stuff/github stuff/newer spoopy level/spoopylevel/MMartinSpoopy/Content/Developers/MadelinesPC/Collections/' because it could not be accessed. Aborting watch request...
 [2019.10.27-21.52.01:935][822]LogDirectoryWatcher: A directory notification failed for 'D:/level design 2 stuff/github stuff/newer spoopy level/spoopylevel/MMartinSpoopy/Saved/Collections/' because it could not be accessed. Aborting watch request...
+[2019.10.27-22.06.27:912][410]LogHttp: Warning: 000002960B0F65C0: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.10.27-22.06.27:912][410]LogHttp: Warning: 000002960B0F65C0: libcurl info message cache 0 (Connection 7 seems to be dead!)
+[2019.10.27-22.06.27:912][410]LogHttp: Warning: 000002960B0F65C0: libcurl info message cache 1 (Closing connection 7)
+[2019.10.27-22.06.27:912][410]LogHttp: Warning: 000002960B0F65C0: libcurl info message cache 2 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.10.27-22.06.27:912][410]LogHttp: Warning: 000002960B0F65C0: libcurl info message cache 3 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.10.27-22.06.27:912][410]LogHttp: Warning: 000002960B0F65C0: libcurl info message cache 4 (Closing connection 8)
+[2019.10.27-22.06.27:912][410]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BBFC98B84-4ABC-95A4-4EDD-40BBF70919C1%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=9eb945d24af3e01034d8ce8509755eff%7C7ad885a91aaa47fe8175737e79d55733%7C674d337d-ae36-488c-bfd1-2327d908966f&AppEnvironment=datacollector-binary&UploadType=eteventstream

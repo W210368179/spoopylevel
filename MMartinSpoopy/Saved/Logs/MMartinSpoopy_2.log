@@ -1169,3 +1169,695 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.10.27-22.04.30:480][605]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2019.10.27-22.04.30:483][605]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
 [2019.10.27-22.04.30:501][606]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2019.10.27-22.05.02:735][927]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2019.10.27-22.05.04:177][927]LogSavePackage: Moving '../../../../../../level design 2 stuff/github stuff/newer spoopy level/spoopylevel/MMartinSpoopy/Saved/spoopylevel_Auto1FFE10B5043F50A4FA79B3183B64D8CB3.tmp' to '../../../../../../level design 2 stuff/github stuff/newer spoopy level/spoopylevel/MMartinSpoopy/Saved/Autosaves/Game/mystuff/spoopylevel_sharedassets/spoopylevel_Auto1.umap'
+[2019.10.27-22.05.04:229][927]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/mystuff/spoopylevel_sharedassets/spoopylevel' took 1.515
+[2019.10.27-22.05.04:229][927]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.515
+[2019.10.27-22.06.04:640][108]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-22.06.06:626][298]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2019.10.27-22.06.06:925][298]LogSavePackage: Moving '../../../../../../level design 2 stuff/github stuff/newer spoopy level/spoopylevel/MMartinSpoopy/Saved/spoopylevel65CCAB5549F176F7FA92E884305C1FE2.tmp' to '../../../../../../level design 2 stuff/github stuff/newer spoopy level/spoopylevel/MMartinSpoopy/Content/mystuff/spoopylevel_sharedassets/spoopylevel.umap'
+[2019.10.27-22.06.28:119][702]LogHttp: Warning: 000001C5924AC7C0: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.10.27-22.06.28:119][702]LogHttp: Warning: 000001C5924AC7C0: libcurl info message cache 0 (Connection 6 seems to be dead!)
+[2019.10.27-22.06.28:119][702]LogHttp: Warning: 000001C5924AC7C0: libcurl info message cache 1 (Closing connection 6)
+[2019.10.27-22.06.28:119][702]LogHttp: Warning: 000001C5924AC7C0: libcurl info message cache 2 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.10.27-22.06.28:119][702]LogHttp: Warning: 000001C5924AC7C0: libcurl info message cache 3 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.10.27-22.06.28:119][702]LogHttp: Warning: 000001C5924AC7C0: libcurl info message cache 4 (Closing connection 7)
+[2019.10.27-22.06.28:119][702]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B3D89DFEC-4882-BE72-2FBB-E7B1119700FC%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=9eb945d24af3e01034d8ce8509755eff%7C7ad885a91aaa47fe8175737e79d55733%7C674d337d-ae36-488c-bfd1-2327d908966f&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.10.27-22.17.14:958][624]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-22.17.16:103][653]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape)
+[2019.10.27-22.17.19:982][653]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.27-22.17.33:295][ 69]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-22.17.38:408][552]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.10.27-22.18.15:114][762]LogConsoleManager: Warning: Console object named 'ActorComponents.Enable' already exists but is being registered again, but we weren't expected it to be! (FConsoleManager::AddConsoleObject)
+[2019.10.27-22.18.16:917][932]Cmd: DELETE
+[2019.10.27-22.18.16:917][932]Cmd: ACTOR DELETE
+[2019.10.27-22.18.17:738][932]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-22.18.18:599][932]LogUObjectHash: Compacting FUObjectHashTables data took   9.38ms
+[2019.10.27-22.18.18:602][932]LogEditorActor: Deleted 1 Actors (1.245 secs)
+[2019.10.27-22.18.30:918][358]Cmd: DELETE
+[2019.10.27-22.18.30:918][358]Cmd: ACTOR DELETE
+[2019.10.27-22.18.30:939][358]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2019.10.27-22.18.30:939][358]LogEditorActor: Deleted 0 Actors (0.022 secs)
+[2019.10.27-22.19.19:624][990]EditorErrors: New page: Actor attachment
+[2019.10.27-22.19.42:570][657]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-22.19.42:875][667]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.27-22.19.43:041][667]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/mystuff/spoopylevel_sharedassets/spoopylevel.spoopylevel:PersistentLevel' has LevelScriptBlueprint '/Game/mystuff/spoopylevel_sharedassets/spoopylevel.spoopylevel:PersistentLevel.spoopylevel' with GeneratedClass '/Game/mystuff/spoopylevel_sharedassets/spoopylevel.spoopylevel_C' with ClassGeneratedBy '/Game/mystuff/spoopylevel_sharedassets/spoopylevel.spoopylevel:PersistentLevel.spoopylevel'
+[2019.10.27-22.19.43:082][667]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.27-22.19.43:208][667]PIE: New page: PIE session: spoopylevel (Oct 27, 2019, 12:19:43 PM)
+[2019.10.27-22.19.43:347][667]LogPlayLevel: Creating play world package: /Game/mystuff/spoopylevel_sharedassets/UEDPIE_0_spoopylevel
+[2019.10.27-22.19.43:906][667]LogPlayLevel: PIE: StaticDuplicateObject took: (0.558222s)
+[2019.10.27-22.19.44:259][667]LogAIModule: Creating AISystem for world spoopylevel
+[2019.10.27-22.19.44:329][667]LogPlayLevel: PIE: World Init took: (0.422614s)
+[2019.10.27-22.19.44:340][667]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/mystuff/spoopylevel_sharedassets/spoopylevel.spoopylevel to /Game/mystuff/spoopylevel_sharedassets/UEDPIE_0_spoopylevel.spoopylevel (0.993846s)
+[2019.10.27-22.19.44:384][667]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2019.10.27-22.19.44:514][667]LogInit: XAudio2 using 'Speakers (3- ATR USB microphone )' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.27-22.19.44:535][667]LogInit: FAudioDevice initialized.
+[2019.10.27-22.19.44:795][667]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.10.27-22.19.44:958][667]LogWorld: Bringing World /Game/mystuff/spoopylevel_sharedassets/UEDPIE_0_spoopylevel.spoopylevel up for play (max tick rate 0) at 2019.10.27-17.19.44
+[2019.10.27-22.19.44:966][667]LogWorld: Bringing up level for play took: 0.100710
+[2019.10.27-22.19.45:470][667]PIE: Play in editor start time for /Game/mystuff/spoopylevel_sharedassets/UEDPIE_0_spoopylevel 3.425
+[2019.10.27-22.19.45:483][667]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/mystuff/spoopylevel_sharedassets/spoopylevel.spoopylevel:PersistentLevel' has LevelScriptBlueprint '/Game/mystuff/spoopylevel_sharedassets/spoopylevel.spoopylevel:PersistentLevel.spoopylevel' with GeneratedClass '/Game/mystuff/spoopylevel_sharedassets/spoopylevel.spoopylevel_C' with ClassGeneratedBy '/Game/mystuff/spoopylevel_sharedassets/spoopylevel.spoopylevel:PersistentLevel.spoopylevel'
+[2019.10.27-22.19.47:091][813]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/mystuff/spoopylevel_sharedassets/spoopylevel.spoopylevel:PersistentLevel' has LevelScriptBlueprint '/Game/mystuff/spoopylevel_sharedassets/spoopylevel.spoopylevel:PersistentLevel.spoopylevel' with GeneratedClass '/Game/mystuff/spoopylevel_sharedassets/spoopylevel.spoopylevel_C' with ClassGeneratedBy '/Game/mystuff/spoopylevel_sharedassets/spoopylevel.spoopylevel:PersistentLevel.spoopylevel'
+[2019.10.27-22.19.47:091][813]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.27-22.19.47:186][813]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.27-22.19.47:186][813]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/mystuff/spoopylevel_sharedassets/spoopylevel.spoopylevel:PersistentLevel' has LevelScriptBlueprint '/Game/mystuff/spoopylevel_sharedassets/spoopylevel.spoopylevel:PersistentLevel.spoopylevel' with GeneratedClass '/Game/mystuff/spoopylevel_sharedassets/spoopylevel.spoopylevel_C' with ClassGeneratedBy '/Game/mystuff/spoopylevel_sharedassets/spoopylevel.spoopylevel:PersistentLevel.spoopylevel'
+[2019.10.27-22.19.47:242][813]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.27-22.19.47:430][813]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2019.10.27-22.19.47:445][814]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2019.10.27-22.20.12:439][ 63]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2019.10.27-22.20.16:202][ 63]LogSavePackage: Moving '../../../../../../level design 2 stuff/github stuff/newer spoopy level/spoopylevel/MMartinSpoopy/Saved/spoopylevel_Auto283BABD934151C5CFCBA5089A7CC50D03.tmp' to '../../../../../../level design 2 stuff/github stuff/newer spoopy level/spoopylevel/MMartinSpoopy/Saved/Autosaves/Game/mystuff/spoopylevel_sharedassets/spoopylevel_Auto2.umap'
+[2019.10.27-22.20.16:299][ 63]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/mystuff/spoopylevel_sharedassets/spoopylevel' took 3.883
+[2019.10.27-22.20.16:300][ 63]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 3.883
+[2019.10.27-22.21.58:745][ 34]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Fence_Var02)
+[2019.10.27-22.21.59:353][ 98]LogEditorViewport: Clicking on Actor (CTRL LMB): Landscape (Landscape)
+[2019.10.27-22.22.00:645][219]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Fence_Var03)
+[2019.10.27-22.22.01:617][331]Cmd: EDIT COPY
+[2019.10.27-22.22.01:947][342]Cmd: EDIT PASTE
+[2019.10.27-22.22.02:909][425]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-22.22.10:870][251]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-22.22.14:529][676]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-22.22.29:665][436]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence_Var9)
+[2019.10.27-22.22.49:682][795]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence_Var3)
+[2019.10.27-22.22.50:761][916]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Fence_Var4)
+[2019.10.27-22.22.51:454][994]Cmd: EDIT COPY
+[2019.10.27-22.22.51:692][ 21]Cmd: EDIT PASTE
+[2019.10.27-22.22.52:572][122]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-22.22.58:967][852]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-22.23.01:898][199]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-22.23.08:371][936]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence_Var11)
+[2019.10.27-22.23.15:874][824]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence_Var12)
+[2019.10.27-22.23.24:231][785]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence_Var6)
+[2019.10.27-22.23.25:047][873]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Fence_Var5)
+[2019.10.27-22.23.25:728][944]Cmd: EDIT COPY
+[2019.10.27-22.23.25:976][970]Cmd: EDIT PASTE
+[2019.10.27-22.23.33:655][828]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence_Var13)
+[2019.10.27-22.23.51:965][825]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-22.23.52:096][836]LogActorFactory: Actor Factory created SM_StreetLight_LightsOn
+[2019.10.27-22.23.53:203][960]LogActorFactory: Actor Factory created SM_StreetLight_LightsOn
+[2019.10.27-22.23.58:698][550]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-22.24.00:882][808]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.10.27-22.24.02:122][951]LogEditorViewport: Clicking on Actor (LMB): BP_GoodSky_C (BP_GoodSky)
+[2019.10.27-22.24.02:533][951]LogSlate: Took 0.155664 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2019.10.27-22.24.06:769][399]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.27-22.24.33:906][450]LogSlate: Window 'Color Picker' being destroyed
+[2019.10.27-22.24.39:282][870]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-22.24.56:692][903]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-22.25.07:742][206]EditorErrors: New page: Actor attachment
+[2019.10.27-22.25.21:771][805]LogStaticMesh: Building static mesh SM_Stone_Big_Var01...
+[2019.10.27-22.25.21:932][805]LogStaticMesh: Built static mesh [0.16s] /Game/AdvancedVillagePack/Meshes/SM_Stone_Big_Var01.SM_Stone_Big_Var01
+[2019.10.27-22.25.22:086][805]LogActorFactory: Actor Factory created SM_Stone_Big_Var01
+[2019.10.27-22.25.22:740][878]LogActorFactory: Actor Factory created SM_Stone_Big_Var01
+[2019.10.27-22.25.24:110][ 38]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-22.25.34:625][242]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-22.25.41:107][967]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-22.25.47:657][695]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-22.25.55:896][616]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-22.25.56:145][630]LogStaticMesh: Building static mesh SM_Stone_Medium_Var05...
+[2019.10.27-22.25.56:175][630]LogStaticMesh: Built static mesh [0.03s] /Game/AdvancedVillagePack/Meshes/SM_Stone_Medium_Var05.SM_Stone_Medium_Var05
+[2019.10.27-22.25.56:193][630]LogActorFactory: Actor Factory created SM_Stone_Medium_Var05
+[2019.10.27-22.25.56:668][685]LogActorFactory: Actor Factory created SM_Stone_Medium_Var05
+[2019.10.27-22.25.57:511][780]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-22.26.02:817][406]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-22.26.08:603][ 73]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-22.26.12:981][592]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-22.26.29:651][465]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-22.26.31:835][714]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-22.26.48:064][598]Cmd: EDIT COPY
+[2019.10.27-22.26.48:292][625]Cmd: EDIT PASTE
+[2019.10.27-22.26.55:795][431]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-22.26.58:316][728]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-22.27.21:245][382]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-22.27.21:328][392]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.27-22.27.21:341][392]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/mystuff/spoopylevel_sharedassets/spoopylevel.spoopylevel:PersistentLevel' has LevelScriptBlueprint '/Game/mystuff/spoopylevel_sharedassets/spoopylevel.spoopylevel:PersistentLevel.spoopylevel' with GeneratedClass '/Game/mystuff/spoopylevel_sharedassets/spoopylevel.spoopylevel_C' with ClassGeneratedBy '/Game/mystuff/spoopylevel_sharedassets/spoopylevel.spoopylevel:PersistentLevel.spoopylevel'
+[2019.10.27-22.27.21:342][392]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.27-22.27.21:342][392]PIE: New page: PIE session: spoopylevel (Oct 27, 2019, 12:27:21 PM)
+[2019.10.27-22.27.21:342][392]LogPlayLevel: Creating play world package: /Game/mystuff/spoopylevel_sharedassets/UEDPIE_0_spoopylevel
+[2019.10.27-22.27.21:376][392]LogPlayLevel: PIE: StaticDuplicateObject took: (0.034249s)
+[2019.10.27-22.27.21:377][392]LogAIModule: Creating AISystem for world spoopylevel
+[2019.10.27-22.27.21:377][392]LogPlayLevel: PIE: World Init took: (0.000684s)
+[2019.10.27-22.27.21:377][392]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/mystuff/spoopylevel_sharedassets/spoopylevel.spoopylevel to /Game/mystuff/spoopylevel_sharedassets/UEDPIE_0_spoopylevel.spoopylevel (0.035420s)
+[2019.10.27-22.27.21:471][392]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2019.10.27-22.27.21:483][392]LogInit: XAudio2 using 'Speakers (3- ATR USB microphone )' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.27-22.27.21:492][392]LogInit: FAudioDevice initialized.
+[2019.10.27-22.27.21:519][392]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.10.27-22.27.21:522][392]LogWorld: Bringing World /Game/mystuff/spoopylevel_sharedassets/UEDPIE_0_spoopylevel.spoopylevel up for play (max tick rate 0) at 2019.10.27-17.27.21
+[2019.10.27-22.27.21:522][392]LogWorld: Bringing up level for play took: 0.002930
+[2019.10.27-22.27.21:536][392]PIE: Play in editor start time for /Game/mystuff/spoopylevel_sharedassets/UEDPIE_0_spoopylevel -0.5
+[2019.10.27-22.27.21:536][392]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/mystuff/spoopylevel_sharedassets/spoopylevel.spoopylevel:PersistentLevel' has LevelScriptBlueprint '/Game/mystuff/spoopylevel_sharedassets/spoopylevel.spoopylevel:PersistentLevel.spoopylevel' with GeneratedClass '/Game/mystuff/spoopylevel_sharedassets/spoopylevel.spoopylevel_C' with ClassGeneratedBy '/Game/mystuff/spoopylevel_sharedassets/spoopylevel.spoopylevel:PersistentLevel.spoopylevel'
+[2019.10.27-22.27.44:879][103]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/mystuff/spoopylevel_sharedassets/spoopylevel.spoopylevel:PersistentLevel' has LevelScriptBlueprint '/Game/mystuff/spoopylevel_sharedassets/spoopylevel.spoopylevel:PersistentLevel.spoopylevel' with GeneratedClass '/Game/mystuff/spoopylevel_sharedassets/spoopylevel.spoopylevel_C' with ClassGeneratedBy '/Game/mystuff/spoopylevel_sharedassets/spoopylevel.spoopylevel:PersistentLevel.spoopylevel'
+[2019.10.27-22.27.44:879][103]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.27-22.27.44:908][103]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.27-22.27.44:909][103]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/mystuff/spoopylevel_sharedassets/spoopylevel.spoopylevel:PersistentLevel' has LevelScriptBlueprint '/Game/mystuff/spoopylevel_sharedassets/spoopylevel.spoopylevel:PersistentLevel.spoopylevel' with GeneratedClass '/Game/mystuff/spoopylevel_sharedassets/spoopylevel.spoopylevel_C' with ClassGeneratedBy '/Game/mystuff/spoopylevel_sharedassets/spoopylevel.spoopylevel:PersistentLevel.spoopylevel'
+[2019.10.27-22.27.44:934][103]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.27-22.27.44:937][103]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2019.10.27-22.27.44:987][107]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2019.10.27-22.27.58:998][431]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.27-22.28.01:970][775]Cmd: SELECT NONE
+[2019.10.27-22.28.14:943][289]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Medium_Var6)
+[2019.10.27-22.28.15:640][366]Cmd: EDIT COPY
+[2019.10.27-22.28.15:876][394]Cmd: EDIT PASTE
+[2019.10.27-22.28.29:174][944]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-22.28.30:901][147]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-22.28.34:027][506]Cmd: TRANSACTION UNDO
+[2019.10.27-22.28.34:027][506]LogEditorTransaction: Undo Move Actors
+[2019.10.27-22.29.00:005][451]Cmd: DELETE
+[2019.10.27-22.29.00:005][451]Cmd: ACTOR DELETE
+[2019.10.27-22.29.00:009][451]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-22.29.00:031][451]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2019.10.27-22.29.00:032][451]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2019.10.27-22.29.04:389][847]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-22.29.04:618][868]LogActorFactory: Actor Factory created SM_Stone_Small_Var02
+[2019.10.27-22.29.05:462][969]LogActorFactory: Actor Factory created SM_Stone_Small_Var02
+[2019.10.27-22.29.06:526][ 92]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-22.29.15:736][176]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-22.29.20:715][748]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-22.29.23:834][118]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-22.29.50:007][147]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Medium_Var05)
+[2019.10.27-22.29.50:838][235]Cmd: DELETE
+[2019.10.27-22.29.50:838][235]Cmd: ACTOR DELETE
+[2019.10.27-22.29.50:841][235]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-22.29.50:863][235]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2019.10.27-22.29.50:864][235]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2019.10.27-22.29.52:267][403]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Medium_Var6)
+[2019.10.27-22.29.52:964][482]Cmd: DELETE
+[2019.10.27-22.29.52:964][482]Cmd: ACTOR DELETE
+[2019.10.27-22.29.52:968][482]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-22.29.52:989][482]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2019.10.27-22.29.52:989][482]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2019.10.27-22.29.54:032][607]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Small_Var02)
+[2019.10.27-22.30.22:506][901]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-22.30.25:492][255]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-22.30.46:872][758]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Big_Var01)
+[2019.10.27-22.30.58:730][122]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-22.31.11:344][605]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-22.31.11:455][615]LogStaticMesh: Building static mesh SM_Stone_Big_Var05...
+[2019.10.27-22.31.11:523][615]LogStaticMesh: Built static mesh [0.07s] /Game/AdvancedVillagePack/Meshes/SM_Stone_Big_Var05.SM_Stone_Big_Var05
+[2019.10.27-22.31.11:542][615]LogActorFactory: Actor Factory created SM_Stone_Big_Var05
+[2019.10.27-22.31.12:269][699]LogActorFactory: Actor Factory created SM_Stone_Big_Var05
+[2019.10.27-22.31.13:206][807]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-22.31.16:088][149]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-22.31.20:975][727]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-22.31.35:151][297]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-22.31.35:358][302]LogActorFactory: Actor Factory created SM_Stone_Medium_Var05
+[2019.10.27-22.31.36:164][393]LogActorFactory: Actor Factory created SM_Stone_Medium_Var05
+[2019.10.27-22.31.37:221][515]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-22.31.39:539][788]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-22.31.42:564][147]Cmd: DELETE
+[2019.10.27-22.31.42:564][147]Cmd: ACTOR DELETE
+[2019.10.27-22.31.42:568][147]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-22.31.42:590][147]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2019.10.27-22.31.42:590][147]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2019.10.27-22.31.46:234][475]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-22.31.46:457][484]LogActorFactory: Actor Factory created SM_Stone_Small_Var04
+[2019.10.27-22.31.47:070][557]LogActorFactory: Actor Factory created SM_Stone_Small_Var04
+[2019.10.27-22.31.48:246][694]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-22.31.50:983][ 18]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-22.31.53:496][316]Cmd: TRANSACTION UNDO
+[2019.10.27-22.31.53:497][316]LogEditorTransaction: Undo Rotate Actors
+[2019.10.27-22.32.03:114][448]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-22.32.08:517][ 91]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-22.32.16:000][935]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-22.32.23:699][849]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-22.32.30:534][639]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-22.32.39:075][637]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-22.32.53:939][342]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-22.32.54:191][364]LogActorFactory: Actor Factory created SM_Stone_Small_Var05
+[2019.10.27-22.32.54:896][446]LogActorFactory: Actor Factory created SM_Stone_Small_Var05
+[2019.10.27-22.32.55:859][557]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-22.33.16:379][928]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-22.33.22:980][684]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-22.33.40:403][717]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Big_Var01)
+[2019.10.27-22.33.42:829][997]Cmd: TRANSACTION UNDO
+[2019.10.27-22.33.42:829][997]LogEditorTransaction: Undo Move Actors
+[2019.10.27-22.33.54:631][364]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-22.33.57:212][662]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-22.34.03:064][345]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.10.27-22.34.04:796][520]LogEditorViewport: Clicking on Actor (LMB): BP_GoodSky_C (BP_GoodSky)
+[2019.10.27-22.34.12:501][382]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight)
+[2019.10.27-22.34.13:673][489]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight)
+[2019.10.27-22.34.14:817][623]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-22.34.32:221][618]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-22.34.42:141][737]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2019.10.27-22.34.44:248][976]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2019.10.27-22.34.46:618][211]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2019.10.27-22.34.47:398][289]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-22.34.47:489][300]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.27-22.34.47:503][300]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/mystuff/spoopylevel_sharedassets/spoopylevel.spoopylevel:PersistentLevel' has LevelScriptBlueprint '/Game/mystuff/spoopylevel_sharedassets/spoopylevel.spoopylevel:PersistentLevel.spoopylevel' with GeneratedClass '/Game/mystuff/spoopylevel_sharedassets/spoopylevel.spoopylevel_C' with ClassGeneratedBy '/Game/mystuff/spoopylevel_sharedassets/spoopylevel.spoopylevel:PersistentLevel.spoopylevel'
+[2019.10.27-22.34.47:503][300]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.27-22.34.47:503][300]PIE: New page: PIE session: spoopylevel (Oct 27, 2019, 12:34:47 PM)
+[2019.10.27-22.34.47:503][300]LogPlayLevel: Creating play world package: /Game/mystuff/spoopylevel_sharedassets/UEDPIE_0_spoopylevel
+[2019.10.27-22.34.47:525][300]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021478s)
+[2019.10.27-22.34.47:526][300]LogAIModule: Creating AISystem for world spoopylevel
+[2019.10.27-22.34.47:626][300]LogPlayLevel: PIE: World Init took: (0.101145s)
+[2019.10.27-22.34.47:626][300]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/mystuff/spoopylevel_sharedassets/spoopylevel.spoopylevel to /Game/mystuff/spoopylevel_sharedassets/UEDPIE_0_spoopylevel.spoopylevel (0.122827s)
+[2019.10.27-22.34.47:648][300]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2019.10.27-22.34.47:659][300]LogInit: XAudio2 using 'Speakers (3- ATR USB microphone )' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.27-22.34.47:669][300]LogInit: FAudioDevice initialized.
+[2019.10.27-22.34.47:696][300]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.10.27-22.34.47:699][300]LogWorld: Bringing World /Game/mystuff/spoopylevel_sharedassets/UEDPIE_0_spoopylevel.spoopylevel up for play (max tick rate 0) at 2019.10.27-17.34.47
+[2019.10.27-22.34.47:699][300]LogWorld: Bringing up level for play took: 0.002536
+[2019.10.27-22.34.47:713][300]PIE: Play in editor start time for /Game/mystuff/spoopylevel_sharedassets/UEDPIE_0_spoopylevel -0.323
+[2019.10.27-22.34.47:713][300]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/mystuff/spoopylevel_sharedassets/spoopylevel.spoopylevel:PersistentLevel' has LevelScriptBlueprint '/Game/mystuff/spoopylevel_sharedassets/spoopylevel.spoopylevel:PersistentLevel.spoopylevel' with GeneratedClass '/Game/mystuff/spoopylevel_sharedassets/spoopylevel.spoopylevel_C' with ClassGeneratedBy '/Game/mystuff/spoopylevel_sharedassets/spoopylevel.spoopylevel:PersistentLevel.spoopylevel'
+[2019.10.27-22.34.59:088][644]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/mystuff/spoopylevel_sharedassets/spoopylevel.spoopylevel:PersistentLevel' has LevelScriptBlueprint '/Game/mystuff/spoopylevel_sharedassets/spoopylevel.spoopylevel:PersistentLevel.spoopylevel' with GeneratedClass '/Game/mystuff/spoopylevel_sharedassets/spoopylevel.spoopylevel_C' with ClassGeneratedBy '/Game/mystuff/spoopylevel_sharedassets/spoopylevel.spoopylevel:PersistentLevel.spoopylevel'
+[2019.10.27-22.34.59:088][644]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.27-22.34.59:118][644]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.27-22.34.59:118][644]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/mystuff/spoopylevel_sharedassets/spoopylevel.spoopylevel:PersistentLevel' has LevelScriptBlueprint '/Game/mystuff/spoopylevel_sharedassets/spoopylevel.spoopylevel:PersistentLevel.spoopylevel' with GeneratedClass '/Game/mystuff/spoopylevel_sharedassets/spoopylevel.spoopylevel_C' with ClassGeneratedBy '/Game/mystuff/spoopylevel_sharedassets/spoopylevel.spoopylevel:PersistentLevel.spoopylevel'
+[2019.10.27-22.34.59:144][644]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.27-22.34.59:147][644]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2019.10.27-22.34.59:190][647]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2019.10.27-22.35.00:535][806]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Big_Var01)
+[2019.10.27-22.35.01:534][920]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-22.35.04:196][235]Cmd: DELETE
+[2019.10.27-22.35.04:196][235]Cmd: ACTOR DELETE
+[2019.10.27-22.35.04:199][235]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-22.35.04:219][235]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2019.10.27-22.35.04:220][235]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2019.10.27-22.35.08:137][703]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Small_Var02)
+[2019.10.27-22.35.13:125][270]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-22.35.18:031][842]Cmd: TRANSACTION UNDO
+[2019.10.27-22.35.18:032][842]LogEditorTransaction: Undo Move Actors
+[2019.10.27-22.35.25:014][647]Cmd: TRANSACTION UNDO
+[2019.10.27-22.35.25:014][647]LogEditorTransaction: Undo Move Actors
+[2019.10.27-22.35.51:264][650]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-22.35.51:419][663]LogActorFactory: Actor Factory created SM_Stone_Big_Var01
+[2019.10.27-22.35.52:393][773]LogActorFactory: Actor Factory created SM_Stone_Big_Var01
+[2019.10.27-22.35.53:690][924]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-22.35.58:398][483]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-22.36.07:127][474]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-22.36.20:708][ 59]Cmd: DELETE
+[2019.10.27-22.36.20:708][ 59]Cmd: ACTOR DELETE
+[2019.10.27-22.36.20:711][ 59]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-22.36.20:733][ 59]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2019.10.27-22.36.20:733][ 59]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2019.10.27-22.36.21:861][183]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-22.36.21:971][193]LogStaticMesh: Building static mesh SM_Stone_Big_Var02...
+[2019.10.27-22.36.22:027][193]LogStaticMesh: Built static mesh [0.06s] /Game/AdvancedVillagePack/Meshes/SM_Stone_Big_Var02.SM_Stone_Big_Var02
+[2019.10.27-22.36.22:057][194]LogActorFactory: Actor Factory created SM_Stone_Big_Var02
+[2019.10.27-22.36.24:991][540]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.10.27-22.36.25:573][605]Cmd: TRANSACTION UNDO
+[2019.10.27-22.36.25:574][605]LogEditorTransaction: Undo Clicking on Actors
+[2019.10.27-22.36.28:079][815]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-22.36.28:229][828]LogActorFactory: Actor Factory created SM_Stone_Big_Var02
+[2019.10.27-22.36.28:594][870]LogActorFactory: Actor Factory created SM_Stone_Big_Var02
+[2019.10.27-22.36.34:542][567]Cmd: DELETE
+[2019.10.27-22.36.34:542][567]Cmd: ACTOR DELETE
+[2019.10.27-22.36.34:545][567]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-22.36.34:566][567]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2019.10.27-22.36.34:566][567]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2019.10.27-22.36.36:514][756]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-22.36.36:580][761]LogStaticMesh: Building static mesh SM_Stone_Medium_Var01...
+[2019.10.27-22.36.36:604][761]LogStaticMesh: Built static mesh [0.03s] /Game/AdvancedVillagePack/Meshes/SM_Stone_Medium_Var01.SM_Stone_Medium_Var01
+[2019.10.27-22.36.36:689][767]LogActorFactory: Actor Factory created SM_Stone_Medium_Var01
+[2019.10.27-22.36.37:343][844]LogActorFactory: Actor Factory created SM_Stone_Medium_Var01
+[2019.10.27-22.36.42:540][456]Cmd: DELETE
+[2019.10.27-22.36.42:540][456]Cmd: ACTOR DELETE
+[2019.10.27-22.36.42:543][456]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-22.36.42:564][456]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2019.10.27-22.36.42:564][456]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2019.10.27-22.37.12:518][702]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-22.37.13:603][723]LogMaterial: Display: Missing cached shader map for material LayerVisMaterial, compiling. 
+[2019.10.27-22.37.13:808][723]LogMaterial: Display: Missing cached shader map for material SelectBrushMaterial, compiling. 
+[2019.10.27-22.37.13:869][723]LogMaterial: Display: Missing cached shader map for material SelectBrushMaterial, compiling. 
+[2019.10.27-22.37.13:902][723]LogMaterial: Display: Missing cached shader map for material MaskBrushMaterial, compiling. 
+[2019.10.27-22.37.15:079][723]LogShaderCompilers: Display: Shaders left to compile 60
+[2019.10.27-22.37.15:080][723]LogMaterial: Display: Missing cached shader map for material LandscapeLayerUsageMaterial, compiling. 
+[2019.10.27-22.37.15:350][723]LogMaterial: Display: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2019.10.27-22.37.15:363][723]LogMaterial: Display: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2019.10.27-22.37.15:456][723]LogMaterial: Display: Missing cached shader map for material AlphaBrushMaterial, compiling. 
+[2019.10.27-22.37.15:526][723]LogMaterial: Display: Missing cached shader map for material MaskBrushMaterial, compiling. 
+[2019.10.27-22.37.15:744][723]LogMaterial: Display: Missing cached shader map for material landscapestuff, compiling. 
+[2019.10.27-22.37.15:763][723]LogMaterial: Display: Missing cached shader map for material landscapestuff, compiling. 
+[2019.10.27-22.37.15:786][723]LogMaterial: Display: Missing cached shader map for material landscapestuff, compiling. 
+[2019.10.27-22.37.15:801][723]LogMaterial: Display: Missing cached shader map for material landscapestuff, compiling. 
+[2019.10.27-22.37.15:865][723]LogTexture: Display: Building textures: Texture2D_2 (G8, 128X128)
+[2019.10.27-22.37.16:901][771]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2019.10.27-22.37.17:288][771]LogSavePackage: Moving '../../../../../../level design 2 stuff/github stuff/newer spoopy level/spoopylevel/MMartinSpoopy/Saved/spoopylevelAF3C4E6942B4341A470FE78F397FC7F4.tmp' to '../../../../../../level design 2 stuff/github stuff/newer spoopy level/spoopylevel/MMartinSpoopy/Content/mystuff/spoopylevel_sharedassets/spoopylevel.umap'
+[2019.10.27-22.37.17:454][771]LogShaderCompilers: Display: Shaders left to compile 170
+[2019.10.27-22.37.17:938][799]LogShaderCompilers: Display: Shaders left to compile 160
+[2019.10.27-22.37.19:663][984]LogShaderCompilers: Display: Shaders left to compile 150
+[2019.10.27-22.37.20:407][ 62]LogShaderCompilers: Display: Shaders left to compile 140
+[2019.10.27-22.37.20:793][103]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.27-22.37.22:051][238]LogShaderCompilers: Display: Shaders left to compile 130
+[2019.10.27-22.37.22:688][293]LogShaderCompilers: Display: Shaders left to compile 120
+[2019.10.27-22.37.24:263][474]LogShaderCompilers: Display: Shaders left to compile 110
+[2019.10.27-22.37.24:671][520]LogShaderCompilers: Display: Shaders left to compile 100
+[2019.10.27-22.37.25:126][571]Cmd: TRANSACTION UNDO
+[2019.10.27-22.37.25:126][571]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2019.10.27-22.37.25:269][571]LogTexture: Display: Building textures: Texture2D_95 (BGRA8, 32X32)
+[2019.10.27-22.37.25:276][571]LogTexture: Display: Building textures: Texture2D_103 (BGRA8, 32X32)
+[2019.10.27-22.37.26:659][706]LogShaderCompilers: Display: Shaders left to compile 90
+[2019.10.27-22.37.27:023][747]LogShaderCompilers: Display: Shaders left to compile 80
+[2019.10.27-22.37.28:532][910]Cmd: TRANSACTION UNDO
+[2019.10.27-22.37.28:532][910]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2019.10.27-22.37.29:067][935]LogShaderCompilers: Display: Shaders left to compile 70
+[2019.10.27-22.37.29:362][968]LogShaderCompilers: Display: Shaders left to compile 60
+[2019.10.27-22.37.30:957][129]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.27-22.37.31:549][185]LogShaderCompilers: Display: Shaders left to compile 50
+[2019.10.27-22.37.31:780][206]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.10.27-22.37.33:937][452]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.10.27-22.37.34:297][493]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.10.27-22.37.37:125][789]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.10.27-22.37.38:855][968]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.27-22.37.42:655][402]Cmd: TRANSACTION UNDO
+[2019.10.27-22.37.42:655][402]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2019.10.27-22.37.42:667][402]LogTexture: Display: Building textures: Texture2D_103 (BGRA8, 32X32)
+[2019.10.27-22.37.42:916][417]Cmd: TRANSACTION UNDO
+[2019.10.27-22.37.42:916][417]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2019.10.27-22.37.42:933][417]LogTexture: Display: Building textures: Texture2D_103 (BGRA8, 32X32)
+[2019.10.27-22.37.43:206][433]Cmd: TRANSACTION UNDO
+[2019.10.27-22.37.43:206][433]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2019.10.27-22.37.43:217][433]LogTexture: Display: Building textures: Texture2D_103 (BGRA8, 32X32)
+[2019.10.27-22.38.38:377][691]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.27-22.38.53:925][512]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-22.38.55:083][633]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2019.10.27-22.38.55:167][633]LogTexture: Display: Building textures: Texture2D_74 (BGRA8, 32X32)
+[2019.10.27-22.38.55:168][633]LogTexture: Display: Building textures: Texture2D_75 (BGRA8, 32X32)
+[2019.10.27-22.38.55:168][633]LogTexture: Display: Building textures: Texture2D_76 (BGRA8, 32X32)
+[2019.10.27-22.38.55:169][633]LogTexture: Display: Building textures: Texture2D_82 (BGRA8, 32X32)
+[2019.10.27-22.38.55:170][633]LogTexture: Display: Building textures: Texture2D_83 (BGRA8, 32X32)
+[2019.10.27-22.38.55:171][633]LogTexture: Display: Building textures: Texture2D_84 (BGRA8, 32X32)
+[2019.10.27-22.38.55:172][633]LogTexture: Display: Building textures: Texture2D_91 (BGRA8, 32X32)
+[2019.10.27-22.38.55:173][633]LogTexture: Display: Building textures: Texture2D_92 (BGRA8, 32X32)
+[2019.10.27-22.38.55:174][633]LogTexture: Display: Building textures: Texture2D_93 (BGRA8, 32X32)
+[2019.10.27-22.38.55:175][633]LogTexture: Display: Building textures: Texture2D_95 (BGRA8, 32X32)
+[2019.10.27-22.38.55:176][633]LogTexture: Display: Building textures: Texture2D_98 (BGRA8, 32X32)
+[2019.10.27-22.38.55:176][633]LogTexture: Display: Building textures: Texture2D_99 (BGRA8, 32X32)
+[2019.10.27-22.38.55:177][633]LogTexture: Display: Building textures: Texture2D_100 (BGRA8, 32X32)
+[2019.10.27-22.38.55:178][633]LogTexture: Display: Building textures: Texture2D_103 (BGRA8, 32X32)
+[2019.10.27-22.38.55:178][633]LogTexture: Display: Building textures: Texture2D_111 (BGRA8, 32X32)
+[2019.10.27-22.38.55:415][633]LogSavePackage: Moving '../../../../../../level design 2 stuff/github stuff/newer spoopy level/spoopylevel/MMartinSpoopy/Saved/spoopylevel8BD20E04475066EFEE81BF99E5D7ED54.tmp' to '../../../../../../level design 2 stuff/github stuff/newer spoopy level/spoopylevel/MMartinSpoopy/Content/mystuff/spoopylevel_sharedassets/spoopylevel.umap'
+[2019.10.27-22.39.29:233][307]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Small_Var05)
+[2019.10.27-22.39.31:194][512]Cmd: EDIT COPY
+[2019.10.27-22.39.31:447][541]Cmd: EDIT PASTE
+[2019.10.27-22.39.34:272][872]Cmd: TRANSACTION UNDO
+[2019.10.27-22.39.34:273][872]LogEditorTransaction: Undo Paste
+[2019.10.27-22.39.39:526][418]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-22.39.46:508][246]Cmd: EDIT COPY
+[2019.10.27-22.39.46:757][264]Cmd: EDIT PASTE
+[2019.10.27-22.39.48:762][495]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-22.40.26:153][465]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-22.40.30:107][898]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-22.40.35:129][450]Cmd: TRANSACTION UNDO
+[2019.10.27-22.40.35:129][450]LogEditorTransaction: Undo Move Actors
+[2019.10.27-22.40.45:510][637]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-22.40.45:526][638]LogStaticMesh: Building static mesh SM_Stone_Big_Var03...
+[2019.10.27-22.40.45:582][638]LogStaticMesh: Built static mesh [0.06s] /Game/AdvancedVillagePack/Meshes/SM_Stone_Big_Var03.SM_Stone_Big_Var03
+[2019.10.27-22.40.45:682][646]LogActorFactory: Actor Factory created SM_Stone_Big_Var03
+[2019.10.27-22.40.46:138][697]LogActorFactory: Actor Factory created SM_Stone_Big_Var03
+[2019.10.27-22.40.47:188][818]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-22.40.51:091][282]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-22.40.53:371][551]Cmd: DELETE
+[2019.10.27-22.40.53:371][551]Cmd: ACTOR DELETE
+[2019.10.27-22.40.53:373][551]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-22.40.53:395][551]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2019.10.27-22.40.53:396][551]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2019.10.27-22.40.54:691][685]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-22.40.54:821][696]LogStaticMesh: Building static mesh SM_Stone_Medium_Var04...
+[2019.10.27-22.40.54:857][696]LogStaticMesh: Built static mesh [0.04s] /Game/AdvancedVillagePack/Meshes/SM_Stone_Medium_Var04.SM_Stone_Medium_Var04
+[2019.10.27-22.40.54:980][709]LogActorFactory: Actor Factory created SM_Stone_Medium_Var04
+[2019.10.27-22.40.55:499][769]LogActorFactory: Actor Factory created SM_Stone_Medium_Var04
+[2019.10.27-22.40.57:364][988]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-22.41.00:136][316]LogEditorViewport: Clicking on Actor (LMB): BP_GoodSky_C (BP_GoodSky)
+[2019.10.27-22.41.00:502][355]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-22.41.01:047][418]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Medium_Var04)
+[2019.10.27-22.41.04:139][781]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-22.41.06:059][  7]Cmd: TRANSACTION UNDO
+[2019.10.27-22.41.06:059][  7]LogEditorTransaction: Undo Move Actors
+[2019.10.27-22.41.06:372][ 39]Cmd: TRANSACTION UNDO
+[2019.10.27-22.41.06:372][ 39]LogEditorTransaction: Undo Rotate Actors
+[2019.10.27-22.41.10:803][525]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-22.41.16:056][146]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-22.41.19:119][507]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-22.41.26:771][377]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-22.41.43:535][297]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-22.41.46:193][611]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-22.41.52:439][341]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Big_Var05)
+[2019.10.27-22.41.53:732][462]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-22.41.56:681][811]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-22.42.04:429][668]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-22.42.05:296][764]LogActorFactory: Actor Factory created SM_Stone_Small_Var01
+[2019.10.27-22.42.05:933][833]LogActorFactory: Actor Factory created SM_Stone_Small_Var01
+[2019.10.27-22.42.06:811][934]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-22.42.44:013][455]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-22.42.49:710][126]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-22.42.52:542][461]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-22.42.58:008][ 88]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-22.43.01:587][509]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-22.43.03:191][697]Cmd: TRANSACTION UNDO
+[2019.10.27-22.43.03:191][697]LogEditorTransaction: Undo Move Actors
+[2019.10.27-22.43.03:679][745]Cmd: TRANSACTION UNDO
+[2019.10.27-22.43.03:679][745]LogEditorTransaction: Undo Rotate Actors
+[2019.10.27-22.43.08:779][316]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-22.43.24:722][176]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Small_Var02)
+[2019.10.27-22.43.25:424][254]Cmd: EDIT COPY
+[2019.10.27-22.43.25:637][279]Cmd: EDIT PASTE
+[2019.10.27-22.43.26:431][369]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-22.43.31:537][976]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-22.43.38:691][803]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-22.43.51:837][369]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-22.44.01:113][447]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight)
+[2019.10.27-22.44.02:662][627]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-22.44.14:710][ 40]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Small_Var3)
+[2019.10.27-22.44.15:435][119]Cmd: EDIT COPY
+[2019.10.27-22.44.15:646][144]Cmd: EDIT PASTE
+[2019.10.27-22.44.16:581][252]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-22.44.19:564][603]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-22.44.24:585][164]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-22.44.27:431][498]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-22.44.40:512][966]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-22.44.53:607][469]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Small_Var04)
+[2019.10.27-22.44.54:613][585]Cmd: EDIT COPY
+[2019.10.27-22.44.54:850][613]Cmd: EDIT PASTE
+[2019.10.27-22.44.58:932][ 94]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-22.45.07:336][ 67]Cmd: DELETE
+[2019.10.27-22.45.07:336][ 67]Cmd: ACTOR DELETE
+[2019.10.27-22.45.07:339][ 67]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-22.45.07:361][ 67]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2019.10.27-22.45.07:361][ 67]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2019.10.27-22.45.08:784][208]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-22.45.09:046][230]LogActorFactory: Actor Factory created SM_Stone_Medium_Var05
+[2019.10.27-22.45.10:858][445]LogActorFactory: Actor Factory created SM_Stone_Medium_Var05
+[2019.10.27-22.45.11:929][568]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-22.45.14:760][903]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-22.45.18:634][360]Cmd: DELETE
+[2019.10.27-22.45.18:634][360]Cmd: ACTOR DELETE
+[2019.10.27-22.45.18:637][360]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-22.45.18:658][360]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2019.10.27-22.45.18:658][360]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2019.10.27-22.45.20:287][503]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-22.45.20:466][518]LogActorFactory: Actor Factory created SM_Stone_Small_Var05
+[2019.10.27-22.45.20:982][577]LogActorFactory: Actor Factory created SM_Stone_Small_Var05
+[2019.10.27-22.45.21:804][670]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-22.45.24:665][  9]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-22.45.28:431][454]Cmd: TRANSACTION UNDO
+[2019.10.27-22.45.28:431][454]LogEditorTransaction: Undo Rotate Actors
+[2019.10.27-22.45.31:793][831]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-22.45.37:589][481]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-22.45.55:951][566]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-22.45.59:600][980]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-22.46.08:956][ 58]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-22.46.21:397][520]LogEditorViewport: Clicking on Actor (LMB): BP_GoodSky_C (BP_GoodSky)
+[2019.10.27-22.46.28:920][370]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight)
+[2019.10.27-22.46.29:721][461]Cmd: EDIT COPY
+[2019.10.27-22.46.29:950][488]Cmd: EDIT PASTE
+[2019.10.27-22.47.04:064][432]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-22.47.09:955][891]LogMaterial: Display: Missing cached shader map for material M_Pfx_TranslucentLit, compiling. 
+[2019.10.27-22.47.10:314][891]LogStaticMesh: Building static mesh SM_Log_Var01...
+[2019.10.27-22.47.10:329][891]LogStaticMesh: Built static mesh [0.01s] /Game/AdvancedVillagePack/Meshes/SM_Log_Var01.SM_Log_Var01
+[2019.10.27-22.47.25:758][891]LogTexture: Display: Building textures: T_Pack_02_RM (AutoDXT, 4096X4096)
+[2019.10.27-22.47.25:829][891]LogTexture: Display: Building textures: T_Pack_06_D (AutoDXT, 4096X4096)
+[2019.10.27-22.47.25:829][891]LogTexture: Display: Building textures: T_Pack_02_N (BC5, 4096X4096)
+[2019.10.27-22.47.25:829][891]LogTexture: Display: Building textures: T_Pack_02_D (AutoDXT, 4096X4096)
+[2019.10.27-22.47.31:037][891]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape)
+[2019.10.27-22.47.32:210][891]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.27-22.47.36:115][ 62]LogEditorViewport: Clicking on Actor (LMB): BP_CampFire_C (BP_CampFire)
+[2019.10.27-22.47.54:175][869]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight2)
+[2019.10.27-22.47.55:365][939]Cmd: EDIT COPY
+[2019.10.27-22.47.56:477][939]Cmd: EDIT PASTE
+[2019.10.27-22.48.11:530][223]LogEditorViewport: Clicking on Actor (LMB): BP_CampFire_C (BP_CampFire)
+[2019.10.27-22.48.12:816][333]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-22.48.17:026][737]Cmd: TRANSACTION UNDO
+[2019.10.27-22.48.17:026][737]LogEditorTransaction: Undo Rotate Actors
+[2019.10.27-22.48.20:736][ 56]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (47.445 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-22.48.24:896][468]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-22.48.50:511][372]LogTexture: Display: Building textures: T_Newspaper01_SRM (AutoDXT, 1024X1024)
+[2019.10.27-22.48.50:511][372]LogTexture: Display: Building textures: T_Newspaper01_N (BC5, 1024X1024)
+[2019.10.27-22.48.50:511][372]LogTexture: Display: Building textures: BB_D (AutoDXT, 8X8)
+[2019.10.27-22.48.50:511][372]LogTexture: Display: Building textures: B_N (BC5, 8X8)
+[2019.10.27-22.48.50:511][372]LogTexture: Display: Building textures: T_MASK1 (AutoDXT, 256X256)
+[2019.10.27-22.48.50:511][372]LogTexture: Display: Building textures: BG_D (AutoDXT, 8X8)
+[2019.10.27-22.48.50:511][372]LogTexture: Display: Building textures: T_Newspaper01_D (AutoDXT, 1024X1024)
+[2019.10.27-22.48.50:511][372]LogTexture: Display: Building textures: T_MASK2 (AutoDXT, 2048X2048)
+[2019.10.27-22.48.50:511][372]LogMaterial: Display: Missing cached shader map for material M_base, compiling. 
+[2019.10.27-22.48.50:822][372]LogShaderCompilers: Display: Shaders left to compile 370
+[2019.10.27-22.48.50:822][372]LogShaderCompilers: Display: Shaders left to compile 360
+[2019.10.27-22.48.50:822][372]LogMaterial: Display: Missing cached shader map for material M_base, compiling. 
+[2019.10.27-22.48.51:607][372]LogStaticMesh: Building static mesh SM_Newspaper03...
+[2019.10.27-22.48.51:862][372]LogStaticMesh: Built static mesh [0.27s] /Game/IndustryPropsPack6/Meshes/SM_Newspaper03.SM_Newspaper03
+[2019.10.27-22.48.52:000][372]LogActorFactory: Actor Factory created SM_Newspaper03
+[2019.10.27-22.48.53:346][468]LogShaderCompilers: Display: Shaders left to compile 720
+[2019.10.27-22.48.53:699][494]LogShaderCompilers: Display: Shaders left to compile 710
+[2019.10.27-22.48.53:748][494]LogActorFactory: Actor Factory created SM_Newspaper03
+[2019.10.27-22.48.55:052][602]Cmd: TRANSACTION UNDO
+[2019.10.27-22.48.55:053][602]LogEditorTransaction: Undo Create Actors
+[2019.10.27-22.48.56:044][676]LogShaderCompilers: Display: Shaders left to compile 700
+[2019.10.27-22.48.57:272][785]LogShaderCompilers: Display: Shaders left to compile 690
+[2019.10.27-22.48.57:824][827]LogShaderCompilers: Display: Shaders left to compile 680
+[2019.10.27-22.48.59:678][969]LogShaderCompilers: Display: Shaders left to compile 670
+[2019.10.27-22.49.00:685][ 47]LogShaderCompilers: Display: Shaders left to compile 660
+[2019.10.27-22.49.02:458][176]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-22.49.02:480][178]LogShaderCompilers: Display: Shaders left to compile 650
+[2019.10.27-22.49.07:366][182]LogTexture: Display: Building textures: T_Cartonbox01_D (AutoDXT, 2048X2048)
+[2019.10.27-22.49.07:366][182]LogTexture: Display: Building textures: T_Cartonbox01_N (BC5, 2048X2048)
+[2019.10.27-22.49.07:366][182]LogTexture: Display: Building textures: T_Cartonbox01_SRM (AutoDXT, 2048X2048)
+[2019.10.27-22.49.07:366][182]LogShaderCompilers: Display: Shaders left to compile 640
+[2019.10.27-22.49.07:367][182]LogShaderCompilers: Display: Shaders left to compile 630
+[2019.10.27-22.49.07:367][182]LogShaderCompilers: Display: Shaders left to compile 620
+[2019.10.27-22.49.07:367][182]LogShaderCompilers: Display: Shaders left to compile 610
+[2019.10.27-22.49.07:367][182]LogMaterial: Display: Missing cached shader map for material M_base, compiling. 
+[2019.10.27-22.49.07:528][182]LogShaderCompilers: Display: Shaders left to compile 600
+[2019.10.27-22.49.07:528][182]LogStaticMesh: Building static mesh SM_CartonGarbage01...
+[2019.10.27-22.49.07:562][182]LogStaticMesh: Built static mesh [0.03s] /Game/IndustryPropsPack6/Meshes/SM_CartonGarbage01.SM_CartonGarbage01
+[2019.10.27-22.49.07:583][182]LogActorFactory: Actor Factory created SM_CartonGarbage01
+[2019.10.27-22.49.09:041][289]LogShaderCompilers: Display: Shaders left to compile 960
+[2019.10.27-22.49.09:077][292]LogShaderCompilers: Display: Shaders left to compile 950
+[2019.10.27-22.49.09:248][304]LogActorFactory: Actor Factory created SM_CartonGarbage01
+[2019.10.27-22.49.12:279][561]LogShaderCompilers: Display: Shaders left to compile 940
+[2019.10.27-22.49.12:999][609]LogShaderCompilers: Display: Shaders left to compile 930
+[2019.10.27-22.49.13:549][646]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-22.49.14:889][759]LogShaderCompilers: Display: Shaders left to compile 920
+[2019.10.27-22.49.15:098][777]LogShaderCompilers: Display: Shaders left to compile 910
+[2019.10.27-22.49.16:721][916]LogShaderCompilers: Display: Shaders left to compile 900
+[2019.10.27-22.49.16:987][939]LogShaderCompilers: Display: Shaders left to compile 890
+[2019.10.27-22.49.20:544][218]LogShaderCompilers: Display: Shaders left to compile 880
+[2019.10.27-22.49.20:996][258]LogShaderCompilers: Display: Shaders left to compile 870
+[2019.10.27-22.49.22:703][402]LogShaderCompilers: Display: Shaders left to compile 860
+[2019.10.27-22.49.23:012][426]LogShaderCompilers: Display: Shaders left to compile 850
+[2019.10.27-22.49.24:549][519]LogShaderCompilers: Display: Shaders left to compile 840
+[2019.10.27-22.49.26:172][643]LogShaderCompilers: Display: Shaders left to compile 830
+[2019.10.27-22.49.26:724][688]LogShaderCompilers: Display: Shaders left to compile 820
+[2019.10.27-22.49.27:764][772]LogShaderCompilers: Display: Shaders left to compile 810
+[2019.10.27-22.49.28:510][832]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-22.49.28:680][843]LogShaderCompilers: Display: Shaders left to compile 800
+[2019.10.27-22.49.30:840][ 13]LogShaderCompilers: Display: Shaders left to compile 790
+[2019.10.27-22.49.31:008][ 22]LogShaderCompilers: Display: Shaders left to compile 780
+[2019.10.27-22.49.31:788][ 77]Cmd: DELETE
+[2019.10.27-22.49.31:788][ 77]Cmd: ACTOR DELETE
+[2019.10.27-22.49.31:907][ 77]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-22.49.32:463][ 77]LogShaderCompilers: Display: Shaders left to compile 770
+[2019.10.27-22.49.32:509][ 77]LogUObjectHash: Compacting FUObjectHashTables data took   7.13ms
+[2019.10.27-22.49.32:534][ 77]LogEditorActor: Deleted 1 Actors (0.746 secs)
+[2019.10.27-22.49.32:552][ 78]LogShaderCompilers: Display: Shaders left to compile 760
+[2019.10.27-22.49.34:853][228]LogShaderCompilers: Display: Shaders left to compile 750
+[2019.10.27-22.49.35:734][279]LogShaderCompilers: Display: Shaders left to compile 740
+[2019.10.27-22.49.36:533][327]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-22.49.37:232][352]LogShaderCompilers: Display: Shaders left to compile 730
+[2019.10.27-22.49.37:906][385]LogShaderCompilers: Display: Shaders left to compile 720
+[2019.10.27-22.49.39:665][465]LogShaderCompilers: Display: Shaders left to compile 710
+[2019.10.27-22.49.39:678][465]LogActorFactory: Actor Factory created SM_Stonepath_Var03
+[2019.10.27-22.49.40:499][529]LogShaderCompilers: Display: Shaders left to compile 700
+[2019.10.27-22.49.42:165][668]LogShaderCompilers: Display: Shaders left to compile 690
+[2019.10.27-22.49.42:737][710]LogShaderCompilers: Display: Shaders left to compile 680
+[2019.10.27-22.49.44:204][824]LogActorFactory: Actor Factory created SM_Stonepath_Var03
+[2019.10.27-22.49.44:398][838]LogShaderCompilers: Display: Shaders left to compile 670
+[2019.10.27-22.49.45:340][915]LogShaderCompilers: Display: Shaders left to compile 660
+[2019.10.27-22.49.46:921][ 50]LogShaderCompilers: Display: Shaders left to compile 650
+[2019.10.27-22.49.47:972][132]LogShaderCompilers: Display: Shaders left to compile 640
+[2019.10.27-22.49.48:677][196]LogShaderCompilers: Display: Shaders left to compile 630
+[2019.10.27-22.49.50:473][352]LogShaderCompilers: Display: Shaders left to compile 620
+[2019.10.27-22.49.51:744][459]LogShaderCompilers: Display: Shaders left to compile 610
+[2019.10.27-22.49.52:228][499]LogShaderCompilers: Display: Shaders left to compile 600
+[2019.10.27-22.49.53:933][640]LogShaderCompilers: Display: Shaders left to compile 590
+[2019.10.27-22.49.53:958][642]LogShaderCompilers: Display: Shaders left to compile 580
+[2019.10.27-22.49.56:475][808]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-22.49.56:647][815]LogActorFactory: Actor Factory created SM_Stonepath_Var01
+[2019.10.27-22.49.57:170][851]LogShaderCompilers: Display: Shaders left to compile 570
+[2019.10.27-22.49.57:839][906]LogShaderCompilers: Display: Shaders left to compile 560
+[2019.10.27-22.49.59:176][ 10]LogActorFactory: Actor Factory created SM_Stonepath_Var01
+[2019.10.27-22.49.59:674][ 50]LogShaderCompilers: Display: Shaders left to compile 550
+[2019.10.27-22.49.59:919][ 71]LogShaderCompilers: Display: Shaders left to compile 540
+[2019.10.27-22.50.00:681][108]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stonepath_Var01)
+[2019.10.27-22.50.01:373][161]LogShaderCompilers: Display: Shaders left to compile 530
+[2019.10.27-22.50.01:569][177]LogShaderCompilers: Display: Shaders left to compile 520
+[2019.10.27-22.50.04:777][433]LogShaderCompilers: Display: Shaders left to compile 510
+[2019.10.27-22.50.05:015][451]LogShaderCompilers: Display: Shaders left to compile 500
+[2019.10.27-22.50.05:172][464]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-22.50.06:703][587]LogShaderCompilers: Display: Shaders left to compile 490
+[2019.10.27-22.50.07:070][615]LogShaderCompilers: Display: Shaders left to compile 480
+[2019.10.27-22.50.08:534][734]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stonepath_Var03)
+[2019.10.27-22.50.08:725][746]LogShaderCompilers: Display: Shaders left to compile 470
+[2019.10.27-22.50.10:443][887]LogShaderCompilers: Display: Shaders left to compile 460
+[2019.10.27-22.50.10:638][902]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stonepath_Var01)
+[2019.10.27-22.50.10:933][922]LogShaderCompilers: Display: Shaders left to compile 450
+[2019.10.27-22.50.11:967][  1]LogShaderCompilers: Display: Shaders left to compile 440
+[2019.10.27-22.50.12:418][ 40]LogEditorViewport: Clicking on Actor (LMB): BP_CampFire_C (BP_CampFire)
+[2019.10.27-22.50.12:742][ 62]LogShaderCompilers: Display: Shaders left to compile 430
+[2019.10.27-22.50.13:899][155]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-22.50.15:068][243]LogShaderCompilers: Display: Shaders left to compile 420
+[2019.10.27-22.50.15:544][283]LogShaderCompilers: Display: Shaders left to compile 410
+[2019.10.27-22.50.16:270][348]Cmd: TRANSACTION UNDO
+[2019.10.27-22.50.16:270][348]LogEditorTransaction: Undo Move Actors
+[2019.10.27-22.50.17:038][404]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight3)
+[2019.10.27-22.50.17:339][425]LogShaderCompilers: Display: Shaders left to compile 400
+[2019.10.27-22.50.17:831][466]LogShaderCompilers: Display: Shaders left to compile 390
+[2019.10.27-22.50.20:182][650]LogShaderCompilers: Display: Shaders left to compile 380
+[2019.10.27-22.50.21:287][743]LogShaderCompilers: Display: Shaders left to compile 370
+[2019.10.27-22.50.22:982][866]LogShaderCompilers: Display: Shaders left to compile 360
+[2019.10.27-22.50.23:447][905]LogShaderCompilers: Display: Shaders left to compile 350
+[2019.10.27-22.50.25:252][ 48]LogShaderCompilers: Display: Shaders left to compile 340
+[2019.10.27-22.50.26:183][106]LogShaderCompilers: Display: Shaders left to compile 330
+[2019.10.27-22.50.26:926][167]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-22.50.27:833][243]LogShaderCompilers: Display: Shaders left to compile 320
+[2019.10.27-22.50.28:562][298]LogShaderCompilers: Display: Shaders left to compile 310
+[2019.10.27-22.50.30:387][451]LogShaderCompilers: Display: Shaders left to compile 300
+[2019.10.27-22.50.31:590][570]LogShaderCompilers: Display: Shaders left to compile 290
+[2019.10.27-22.50.33:215][711]LogShaderCompilers: Display: Shaders left to compile 280
+[2019.10.27-22.50.34:064][769]LogShaderCompilers: Display: Shaders left to compile 270
+[2019.10.27-22.50.34:956][854]LogShaderCompilers: Display: Shaders left to compile 260
+[2019.10.27-22.50.36:767][ 22]LogShaderCompilers: Display: Shaders left to compile 250
+[2019.10.27-22.50.38:179][128]LogShaderCompilers: Display: Shaders left to compile 240
+[2019.10.27-22.50.38:358][141]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight)
+[2019.10.27-22.50.38:484][148]LogShaderCompilers: Display: Shaders left to compile 230
+[2019.10.27-22.50.39:008][202]Cmd: EDIT COPY
+[2019.10.27-22.50.39:232][222]Cmd: EDIT PASTE
+[2019.10.27-22.50.40:290][314]LogShaderCompilers: Display: Shaders left to compile 220
+[2019.10.27-22.50.40:417][325]LogShaderCompilers: Display: Shaders left to compile 210
+[2019.10.27-22.50.43:509][556]LogShaderCompilers: Display: Shaders left to compile 200
+[2019.10.27-22.50.44:335][618]LogShaderCompilers: Display: Shaders left to compile 190
+[2019.10.27-22.50.46:347][806]LogShaderCompilers: Display: Shaders left to compile 180
+[2019.10.27-22.50.46:526][824]LogShaderCompilers: Display: Shaders left to compile 170
+[2019.10.27-22.50.48:083][939]LogShaderCompilers: Display: Shaders left to compile 160
+[2019.10.27-22.50.48:396][968]LogShaderCompilers: Display: Shaders left to compile 150
+[2019.10.27-22.50.51:757][235]LogShaderCompilers: Display: Shaders left to compile 140
+[2019.10.27-22.50.52:154][271]LogShaderCompilers: Display: Shaders left to compile 130
+[2019.10.27-22.50.52:168][272]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-22.50.53:997][446]LogShaderCompilers: Display: Shaders left to compile 120
+[2019.10.27-22.50.54:273][472]LogShaderCompilers: Display: Shaders left to compile 110
+[2019.10.27-22.50.54:859][525]Cmd: TRANSACTION UNDO
+[2019.10.27-22.50.54:859][525]LogEditorTransaction: Undo Edit Attenuation Radius
+[2019.10.27-22.50.56:290][644]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight2)
+[2019.10.27-22.50.56:335][644]LogShaderCompilers: Display: Shaders left to compile 100
+[2019.10.27-22.50.57:846][764]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-22.50.58:116][788]LogShaderCompilers: Display: Shaders left to compile 90
+[2019.10.27-22.50.58:778][850]LogShaderCompilers: Display: Shaders left to compile 80
+[2019.10.27-22.50.59:862][953]LogShaderCompilers: Display: Shaders left to compile 70
+[2019.10.27-22.51.00:900][ 49]LogShaderCompilers: Display: Shaders left to compile 60
+[2019.10.27-22.51.02:446][189]LogEditorViewport: Clicking on Actor (LMB): BP_CampFire_C (BP_CampFire)
+[2019.10.27-22.51.03:326][269]LogShaderCompilers: Display: Shaders left to compile 50
+[2019.10.27-22.51.03:589][295]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.10.27-22.51.05:238][454]LogEditorViewport: Clicking on Actor (LMB): BP_CampFire_C (BP_CampFire)
+[2019.10.27-22.51.05:471][474]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.10.27-22.51.05:744][501]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.10.27-22.51.06:370][562]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight)
+[2019.10.27-22.51.07:432][656]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-22.51.08:397][747]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.10.27-22.51.11:182][984]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight4)
+[2019.10.27-22.51.12:542][122]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-22.51.16:925][622]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.27-22.51.17:089][622]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2019.10.27-22.51.19:016][622]LogSavePackage: Moving '../../../../../../level design 2 stuff/github stuff/newer spoopy level/spoopylevel/MMartinSpoopy/Saved/spoopylevel_Auto3CC2BE9994BD833A87399B3B980D76395.tmp' to '../../../../../../level design 2 stuff/github stuff/newer spoopy level/spoopylevel/MMartinSpoopy/Saved/Autosaves/Game/mystuff/spoopylevel_sharedassets/spoopylevel_Auto3.umap'
+[2019.10.27-22.51.19:090][622]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/mystuff/spoopylevel_sharedassets/spoopylevel' took 2.024
+[2019.10.27-22.51.19:090][622]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 2.024
+[2019.10.27-22.51.19:849][709]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-22.51.20:078][719]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2019.10.27-22.51.20:408][719]LogSavePackage: Moving '../../../../../../level design 2 stuff/github stuff/newer spoopy level/spoopylevel/MMartinSpoopy/Saved/spoopylevelE4B741594395FA047A05C2BEDA280AE9.tmp' to '../../../../../../level design 2 stuff/github stuff/newer spoopy level/spoopylevel/MMartinSpoopy/Content/mystuff/spoopylevel_sharedassets/spoopylevel.umap'
