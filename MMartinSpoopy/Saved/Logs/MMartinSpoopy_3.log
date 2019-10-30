@@ -3720,3 +3720,143 @@ Exception rethrown at [0]:
 [2019.10.30-02.22.42:388][ 93]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
 [2019.10.30-02.22.43:242][ 93]LogSavePackage: Moving 'E:/level design 2 stuff/github stuff/newer spoopy level/spoopylevel/spoopylevel/MMartinSpoopy/Saved/spoopylevelDCFB28C14BF30F6C7124EDA6D12ED2E7.tmp' to 'E:/level design 2 stuff/github stuff/newer spoopy level/spoopylevel/spoopylevel/MMartinSpoopy/Content/mystuff/spoopylevel_sharedassets/spoopylevel.umap'
 [2019.10.30-02.22.46:142][ 93]LogSavePackage: Moving 'E:/level design 2 stuff/github stuff/newer spoopy level/spoopylevel/spoopylevel/MMartinSpoopy/Saved/spoopylevel_BuiltData823B32144B83180A53C1299959E5BFE9.tmp' to 'E:/level design 2 stuff/github stuff/newer spoopy level/spoopylevel/spoopylevel/MMartinSpoopy/Content/mystuff/spoopylevel_sharedassets/spoopylevel_BuiltData.uasset'
+[2019.10.30-02.23.21:484][245]MapCheck: New page: Map Check
+[2019.10.30-02.23.21:492][245]Cmd: MAP REBUILD ALLVISIBLE
+[2019.10.30-02.23.21:493][245]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2019.10.30-02.23.21:512][245]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.10.30-02.23.21:512][245]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.10.30-02.23.21:512][245]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.10.30-02.23.21:512][245]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.10.30-02.23.21:522][245]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.10.30-02.23.21:522][245]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.10.30-02.23.21:581][245]LogUObjectHash: Compacting FUObjectHashTables data took   3.05ms
+[2019.10.30-02.23.21:651][245]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.30-02.23.21:669][245]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.30-02.23.21:685][245]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.30-02.23.21:694][245]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.30-02.23.21:706][245]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.30-02.23.21:715][245]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.30-02.23.21:725][245]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.30-02.23.21:735][245]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.30-02.23.21:781][245]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.30-02.23.21:827][245]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.30-02.23.21:836][245]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.30-02.23.21:846][245]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.30-02.23.21:857][245]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.30-02.23.21:871][245]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.30-02.23.21:879][245]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.30-02.23.21:887][245]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.30-02.23.21:895][245]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.30-02.23.21:908][245]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.30-02.23.29:939][245]TextureStreamingBuild: Display: Compiling optional shaders took 8.302 seconds.
+[2019.10.30-02.23.29:997][245]LogLevel: Display: Export Material TexCoord Scales took 0.058 seconds.
+[2019.10.30-02.23.30:041][245]TextureStreamingBuild: Display: Build Texture Streaming took 0.043 seconds.
+[2019.10.30-02.23.30:068][245]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2019.10.30-02.23.30:068][245]LightingResults: New page: Lighting Build - Oct 29, 2019, 4:23:30 PM
+[2019.10.30-02.23.30:177][245]LightingResults: Warning: InstancedFoliageActor_0 The total lightmap size for this InstancedStaticMeshComponent is large, consider reducing the component's lightmap resolution or number of mesh instances in this component
+[2019.10.30-02.23.30:177][245]LightingResults: Warning: InstancedFoliageActor_0 The total lightmap size for this InstancedStaticMeshComponent is large, consider reducing the component's lightmap resolution or number of mesh instances in this component
+[2019.10.30-02.23.30:177][245]LightingResults: Warning: InstancedFoliageActor_0 The total lightmap size for this InstancedStaticMeshComponent is large, consider reducing the component's lightmap resolution or number of mesh instances in this component
+[2019.10.30-02.23.30:177][245]LightingResults: Warning: InstancedFoliageActor_0 The total lightmap size for this InstancedStaticMeshComponent is large, consider reducing the component's lightmap resolution or number of mesh instances in this component
+[2019.10.30-02.23.30:178][245]LightingResults: Warning: InstancedFoliageActor_0 The total lightmap size for this InstancedStaticMeshComponent is large, consider reducing the component's lightmap resolution or number of mesh instances in this component
+[2019.10.30-02.23.30:178][245]LightingResults: Warning: InstancedFoliageActor_0 The total lightmap size for this InstancedStaticMeshComponent is large, consider reducing the component's lightmap resolution or number of mesh instances in this component
+[2019.10.30-02.23.30:179][245]LightingResults: Warning: InstancedFoliageActor_0 The total lightmap size for this InstancedStaticMeshComponent is large, consider reducing the component's lightmap resolution or number of mesh instances in this component
+[2019.10.30-02.23.30:180][245]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2019.10.30-02.23.30:182][245]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2019.10.30-02.23.30:182][245]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2019.10.30-02.23.30:184][245]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2019.10.30-02.23.30:184][245]LogSwarmInterface: [TryOpenConnection] Local Process ID is 8908
+[2019.10.30-02.23.30:208][245]LightingResults: Warning: No importance volume found and the scene is so large that the automatically synthesized volume will not yield good results.  Please add a tightly bounding lightmass importance volume to optimize your scene's quality and lighting build times.
+[2019.10.30-02.23.30:213][245]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2019.10.30-02.23.30:213][245]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2019.10.30-02.23.30:213][245]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2019.10.30-02.23.30:213][245]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2019.10.30-02.23.30:213][245]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2019.10.30-02.23.30:502][245]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2019.10.30-02.23.30:502][245]MapCheck: New page: spoopylevel - Oct 29, 2019, 4:23:30 PM
+[2019.10.30-02.23.30:503][245]MapCheck: Error: WorldSettings_1 Maps need lighting rebuilt 
+[2019.10.30-02.23.30:503][245]MapCheck: Warning: BP_GoodSky_305 Large actor receives a pre-shadow and will cause an extreme performance hit unless bCastDynamicShadow is set to false. 
+[2019.10.30-02.23.30:503][245]MapCheck: Error: SM_Tomato_98 /Game/mystuff/spoopylevel_sharedassets/spoopylevel.spoopylevel:PersistentLevel.SM_Tomato_98 : Invalid DrawScale/DrawScale3D 
+[2019.10.30-02.23.30:503][245]MapCheck: Error: SM_Tomato2 /Game/mystuff/spoopylevel_sharedassets/spoopylevel.spoopylevel:PersistentLevel.SM_Tomato2 : Invalid DrawScale/DrawScale3D 
+[2019.10.30-02.23.30:503][245]MapCheck: Error: GroupActor_3 /Game/mystuff/spoopylevel_sharedassets/spoopylevel.spoopylevel:PersistentLevel.GroupActor_3 : Invalid DrawScale/DrawScale3D 
+[2019.10.30-02.23.30:504][245]MapCheck: Error: SM_Tomato3 /Game/mystuff/spoopylevel_sharedassets/spoopylevel.spoopylevel:PersistentLevel.SM_Tomato3 : Invalid DrawScale/DrawScale3D 
+[2019.10.30-02.23.30:505][245]MapCheck: Map check complete: 5 Error(s), 1 Warning(s), took 2.186ms to complete.
+[2019.10.30-02.23.30:527][245]LogEditorBuildUtils: Build time 0:09
+[2019.10.30-02.23.30:548][245]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Inst_TreeLeafs, compiling. 
+[2019.10.30-02.23.30:556][245]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Inst_TreeLeafs, compiling. 
+[2019.10.30-02.23.30:564][245]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Inst_TreeLeafs, compiling. 
+[2019.10.30-02.23.30:652][247]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Inst_Landscape_Foliage_Var02, compiling. 
+[2019.10.30-02.23.30:659][247]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Inst_Landscape_Foliage_Var02, compiling. 
+[2019.10.30-02.23.30:667][247]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Inst_Landscape_Foliage_Var02, compiling. 
+[2019.10.30-02.23.36:026][259]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2019.10.30-02.32.42:902][686]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2019.10.30-02.32.44:452][686]LogSavePackage: Moving 'E:/level design 2 stuff/github stuff/newer spoopy level/spoopylevel/spoopylevel/MMartinSpoopy/Saved/spoopylevel_Auto78981B39546AAAC1586F91E82C83E24ED.tmp' to 'E:/level design 2 stuff/github stuff/newer spoopy level/spoopylevel/spoopylevel/MMartinSpoopy/Saved/Autosaves/Game/mystuff/spoopylevel_sharedassets/spoopylevel_Auto7.umap'
+[2019.10.30-02.32.44:498][686]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/mystuff/spoopylevel_sharedassets/spoopylevel' took 1.622
+[2019.10.30-02.32.44:498][686]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.622
+[2019.10.30-02.41.57:279][161]LogSlate: Window 'Message Log' being destroyed
+[2019.10.30-02.41.57:441][161]LogSlate: Window 'Message Log' being destroyed
+[2019.10.30-02.43.37:353][810]Job is a success!
+[2019.10.30-02.43.38:178][811]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.091s
+[2019.10.30-02.43.38:178][811]LogVolumetricLightmapImport:      Indirection Texture 32x32x32 = 0.1Mb
+[2019.10.30-02.43.38:178][811]LogVolumetricLightmapImport:      BrickData 610x5x5 = 0.5Mb (trimmed 6.1Mb due to 0.010000 MinBrickError)
+[2019.10.30-02.43.38:178][811]LogVolumetricLightmapImport:      Bricks at Level
+[2019.10.30-02.43.38:178][811]LogVolumetricLightmapImport:          0: 6.6% covering 100.0% of volume
+[2019.10.30-02.43.38:178][811]LogVolumetricLightmapImport:          1: 69.7% covering 16.6% of volume
+[2019.10.30-02.43.38:179][811]LogVolumetricLightmapImport:          2: 23.8% covering 0.1% of volume
+[2019.10.30-02.43.43:792][811]LightingResults: Warning: PointLight_1 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2019.10.30-02.43.58:335][811]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 4096X4096)
+[2019.10.30-02.43.58:335][811]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 4096X4096)
+[2019.10.30-02.43.58:335][811]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 4096X4096)
+[2019.10.30-02.43.58:335][811]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 4096X4096)
+[2019.10.30-02.43.58:335][811]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 2048X2048)
+[2019.10.30-02.43.58:335][811]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 2048X2048)
+[2019.10.30-02.43.58:335][811]LogTexture: Display: Building textures: HQ_Lightmap1_4 (AutoDXT, 2048X2048)
+[2019.10.30-02.43.58:335][811]LogTexture: Display: Building textures: LQ_Lightmap_1_4 (DXT1, 2048X2048)
+[2019.10.30-02.43.58:335][811]LogTexture: Display: Building textures: HQ_Lightmap1_5 (AutoDXT, 2048X2048)
+[2019.10.30-02.43.58:335][811]LogTexture: Display: Building textures: LQ_Lightmap_1_5 (DXT1, 2048X2048)
+[2019.10.30-02.43.58:335][811]LogTexture: Display: Building textures: HQ_Lightmap1_6 (AutoDXT, 2048X2048)
+[2019.10.30-02.43.58:335][811]LogTexture: Display: Building textures: LQ_Lightmap_1_6 (DXT1, 2048X2048)
+[2019.10.30-02.43.58:335][811]LogTexture: Display: Building textures: HQ_Lightmap1_7 (AutoDXT, 1024X1024)
+[2019.10.30-02.43.58:335][811]LogTexture: Display: Building textures: LQ_Lightmap_1_7 (DXT1, 1024X1024)
+[2019.10.30-02.43.58:335][811]LogTexture: Display: Building textures: HQ_Lightmap0_8 (AutoDXT, 128X128)
+[2019.10.30-02.43.58:335][811]LogTexture: Display: Building textures: LQ_Lightmap_0_8 (DXT1, 128X128)
+[2019.10.30-02.43.58:335][811]LogTexture: Display: Building textures: HQ_Lightmap0_9 (AutoDXT, 128X128)
+[2019.10.30-02.43.58:335][811]LogTexture: Display: Building textures: LQ_Lightmap_0_9 (DXT1, 128X128)
+[2019.10.30-02.43.58:335][811]LogTexture: Display: Building textures: HQ_Lightmap0_10 (AutoDXT, 64X64)
+[2019.10.30-02.43.58:335][811]LogTexture: Display: Building textures: LQ_Lightmap_0_10 (DXT1, 64X64)
+[2019.10.30-02.43.58:335][811]LogTexture: Display: Building textures: HQ_Lightmap0_11 (AutoDXT, 128X128)
+[2019.10.30-02.43.58:335][811]LogTexture: Display: Building textures: LQ_Lightmap_0_11 (DXT1, 128X128)
+[2019.10.30-02.43.59:046][811]LogTexture: Display: Building textures: ShadowMapTexture2D_40 (G8, 1024X1024)
+[2019.10.30-02.43.59:046][811]LogTexture: Display: Building textures: ShadowMapTexture2D_41 (BGRA8, 1024X256)
+[2019.10.30-02.43.59:046][811]LogTexture: Display: Building textures: ShadowMapTexture2D_42 (BGRA8, 128X64)
+[2019.10.30-02.43.59:046][811]LogTexture: Display: Building textures: ShadowMapTexture2D_43 (G8, 256X32)
+[2019.10.30-02.43.59:046][811]LogTexture: Display: Building textures: ShadowMapTexture2D_44 (G8, 32X32)
+[2019.10.30-02.43.59:246][811]LogTexture: Display: Building textures: ShadowMapTexture2D_39 (G8, 2048X1024)
+[2019.10.30-02.43.59:446][811]LogTexture: Display: Building textures: ShadowMapTexture2D_38 (BGRA8, 2048X1024)
+[2019.10.30-02.44.00:284][811]LogTexture: Display: Building textures: ShadowMapTexture2D_37 (BGRA8, 2048X2048)
+[2019.10.30-02.44.00:284][811]LogTexture: Display: Building textures: ShadowMapTexture2D_35 (BGRA8, 2048X2048)
+[2019.10.30-02.44.00:284][811]LogTexture: Display: Building textures: ShadowMapTexture2D_36 (BGRA8, 2048X2048)
+[2019.10.30-02.44.00:571][811]LogStaticLightingSystem: spoopylevel_BuiltData storing lightmap data for 163 meshes in 14 LightmapResourceClusters (11.6 Meshes per cluster).
+[2019.10.30-02.44.00:582][811]LogMaterial: Warning: Material /Game/AdvancedVillagePack/Materials/M_Simple_Cutout_Wind.M_Simple_Cutout_Wind needed to have new flag set bUsedWithStaticLighting !
+[2019.10.30-02.44.00:612][811]LogMaterial: Display: Missing cached shader map for material M_Simple_Cutout_Wind, compiling. 
+[2019.10.30-02.44.00:795][811]LogUObjectHash: Compacting FUObjectHashTables data took   3.58ms
+[2019.10.30-02.44.00:815][811]LogStaticLightingSystem: Illumination: 20:30 min (14.5 sec encoding lightmaps, 1.95 sec encoding shadowmaps)
+[2019.10.30-02.44.00:815][811]LogStaticLightingSystem: Lightmap texture memory:  98.1 MB (98.1 MB streaming, 0.0 MB non-streaming), 22 textures
+[2019.10.30-02.44.00:815][811]LogStaticLightingSystem: Shadowmap texture memory: 80.1 MB (80.1 MB streaming, 0.0 MB non-streaming), 10 textures
+[2019.10.30-02.44.00:988][811]DumpUnbuiltLightIteractions
+[2019.10.30-02.44.00:988][811]Lights with unbuilt interactions: 0
+[2019.10.30-02.44.00:988][811]
+[2019.10.30-02.44.00:988][811]Primitives with unbuilt interactions: 0
+[2019.10.30-02.44.30:279][812]Cmd: MAP CHECK NOTIFYRESULTS
+[2019.10.30-02.44.30:279][812]MapCheck: New page: spoopylevel - Oct 29, 2019, 4:44:30 PM
+[2019.10.30-02.44.30:279][812]MapCheck: Warning: BP_GoodSky_305 Large actor receives a pre-shadow and will cause an extreme performance hit unless bCastDynamicShadow is set to false. 
+[2019.10.30-02.44.30:280][812]MapCheck: Error: SM_Tomato_98 /Game/mystuff/spoopylevel_sharedassets/spoopylevel.spoopylevel:PersistentLevel.SM_Tomato_98 : Invalid DrawScale/DrawScale3D 
+[2019.10.30-02.44.30:280][812]MapCheck: Error: SM_Tomato2 /Game/mystuff/spoopylevel_sharedassets/spoopylevel.spoopylevel:PersistentLevel.SM_Tomato2 : Invalid DrawScale/DrawScale3D 
+[2019.10.30-02.44.30:280][812]MapCheck: Error: GroupActor_3 /Game/mystuff/spoopylevel_sharedassets/spoopylevel.spoopylevel:PersistentLevel.GroupActor_3 : Invalid DrawScale/DrawScale3D 
+[2019.10.30-02.44.30:281][812]MapCheck: Error: SM_Tomato3 /Game/mystuff/spoopylevel_sharedassets/spoopylevel.spoopylevel:PersistentLevel.SM_Tomato3 : Invalid DrawScale/DrawScale3D 
+[2019.10.30-02.44.30:281][812]MapCheck: Map check complete: 4 Error(s), 1 Warning(s), took 1.715ms to complete.
+[2019.10.30-02.44.37:981][927]LogSlate: Window 'Message Log' being destroyed
+[2019.10.30-02.44.38:050][927]LogSlate: Window 'Message Log' being destroyed
+[2019.10.30-02.44.41:066][966]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.30-02.44.41:269][968]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2019.10.30-02.44.42:154][968]LogSavePackage: Moving 'E:/level design 2 stuff/github stuff/newer spoopy level/spoopylevel/spoopylevel/MMartinSpoopy/Saved/spoopylevelCA0A34D044B255FA8A07B6A99BD174FB.tmp' to 'E:/level design 2 stuff/github stuff/newer spoopy level/spoopylevel/spoopylevel/MMartinSpoopy/Content/mystuff/spoopylevel_sharedassets/spoopylevel.umap'
+[2019.10.30-02.44.48:121][968]LogSavePackage: Moving 'E:/level design 2 stuff/github stuff/newer spoopy level/spoopylevel/spoopylevel/MMartinSpoopy/Saved/spoopylevel_BuiltData46601FB64EE6F918679C66B555C04E37.tmp' to 'E:/level design 2 stuff/github stuff/newer spoopy level/spoopylevel/spoopylevel/MMartinSpoopy/Content/mystuff/spoopylevel_sharedassets/spoopylevel_BuiltData.uasset'
