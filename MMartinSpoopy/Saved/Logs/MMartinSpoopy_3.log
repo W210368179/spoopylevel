@@ -2977,3 +2977,156 @@ Exception rethrown at [0]:
 [2019.10.30-01.28.13:976][661]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
 [2019.10.30-01.28.13:976][661]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
 [2019.10.30-01.28.13:976][661]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2019.10.30-01.28.14:373][661]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2019.10.30-01.28.14:373][661]MapCheck: New page: spoopylevel - Oct 29, 2019, 3:28:14 PM
+[2019.10.30-01.28.14:373][661]MapCheck: Error: WorldSettings_1 Maps need lighting rebuilt 
+[2019.10.30-01.28.14:373][661]MapCheck: Warning: BP_GoodSky_305 Large actor receives a pre-shadow and will cause an extreme performance hit unless bCastDynamicShadow is set to false. 
+[2019.10.30-01.28.14:374][661]MapCheck: Error: SM_Tomato_98 /Game/mystuff/spoopylevel_sharedassets/spoopylevel.spoopylevel:PersistentLevel.SM_Tomato_98 : Invalid DrawScale/DrawScale3D 
+[2019.10.30-01.28.14:374][661]MapCheck: Error: SM_Tomato2 /Game/mystuff/spoopylevel_sharedassets/spoopylevel.spoopylevel:PersistentLevel.SM_Tomato2 : Invalid DrawScale/DrawScale3D 
+[2019.10.30-01.28.14:374][661]MapCheck: Error: GroupActor_3 /Game/mystuff/spoopylevel_sharedassets/spoopylevel.spoopylevel:PersistentLevel.GroupActor_3 : Invalid DrawScale/DrawScale3D 
+[2019.10.30-01.28.14:374][661]MapCheck: Map check complete: 4 Error(s), 1 Warning(s), took 1.162ms to complete.
+[2019.10.30-01.28.14:398][661]LogEditorBuildUtils: Build time 0:08
+[2019.10.30-01.28.14:420][661]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Inst_TreeTrunks, compiling. 
+[2019.10.30-01.28.14:427][661]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Inst_TreeTrunks, compiling. 
+[2019.10.30-01.28.14:491][662]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Inst_TreeLeafs, compiling. 
+[2019.10.30-01.28.14:503][662]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Inst_TreeLeafs, compiling. 
+[2019.10.30-01.28.14:513][662]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Inst_TreeLeafs, compiling. 
+[2019.10.30-01.28.15:018][670]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Rock, compiling. 
+[2019.10.30-01.28.15:027][670]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Rock, compiling. 
+[2019.10.30-01.28.15:081][671]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer household_mattressstain-900x900_Mat, compiling. 
+[2019.10.30-01.28.15:088][671]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer household_mattressstain-900x900_Mat, compiling. 
+[2019.10.30-01.28.23:044][700]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2019.10.30-01.28.41:153][755]LogSlate: Window 'Message Log' being destroyed
+[2019.10.30-01.28.41:218][755]LogSlate: Window 'Message Log' being destroyed
+[2019.10.30-01.28.50:872][838]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.30-01.37.35:173][487]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2019.10.30-01.37.36:303][487]LogSavePackage: Moving 'E:/level design 2 stuff/github stuff/newer spoopy level/spoopylevel/spoopylevel/MMartinSpoopy/Saved/spoopylevel_Auto5DDC8C79343F34A04C92982B2B825007E.tmp' to 'E:/level design 2 stuff/github stuff/newer spoopy level/spoopylevel/spoopylevel/MMartinSpoopy/Saved/Autosaves/Game/mystuff/spoopylevel_sharedassets/spoopylevel_Auto5.umap'
+[2019.10.30-01.37.36:374][487]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/mystuff/spoopylevel_sharedassets/spoopylevel' took 1.229
+[2019.10.30-01.37.36:374][487]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.229
+[2019.10.30-01.42.49:703][633]Job is a success!
+[2019.10.30-01.42.50:097][634]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.092s
+[2019.10.30-01.42.50:097][634]LogVolumetricLightmapImport:      Indirection Texture 32x32x32 = 0.1Mb
+[2019.10.30-01.42.50:097][634]LogVolumetricLightmapImport:      BrickData 530x5x5 = 0.5Mb (trimmed 6.1Mb due to 0.010000 MinBrickError)
+[2019.10.30-01.42.50:097][634]LogVolumetricLightmapImport:      Bricks at Level
+[2019.10.30-01.42.50:097][634]LogVolumetricLightmapImport:          0: 7.5% covering 100.0% of volume
+[2019.10.30-01.42.50:097][634]LogVolumetricLightmapImport:          1: 80.2% covering 16.6% of volume
+[2019.10.30-01.42.50:097][634]LogVolumetricLightmapImport:          2: 12.3% covering 0.0% of volume
+[2019.10.30-01.42.51:988][634]LightingResults: Warning: PointLight_1 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2019.10.30-01.42.57:947][634]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 2048X2048)
+[2019.10.30-01.42.57:947][634]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 2048X2048)
+[2019.10.30-01.42.57:947][634]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 2048X2048)
+[2019.10.30-01.42.57:947][634]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 2048X2048)
+[2019.10.30-01.42.57:947][634]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 2048X2048)
+[2019.10.30-01.42.57:947][634]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 2048X2048)
+[2019.10.30-01.42.57:947][634]LogTexture: Display: Building textures: HQ_Lightmap0_4 (AutoDXT, 512X512)
+[2019.10.30-01.42.57:947][634]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (DXT1, 512X512)
+[2019.10.30-01.42.57:947][634]LogTexture: Display: Building textures: HQ_Lightmap0_5 (AutoDXT, 128X128)
+[2019.10.30-01.42.57:947][634]LogTexture: Display: Building textures: LQ_Lightmap_0_5 (DXT1, 128X128)
+[2019.10.30-01.42.57:947][634]LogTexture: Display: Building textures: HQ_Lightmap0_6 (AutoDXT, 128X128)
+[2019.10.30-01.42.57:947][634]LogTexture: Display: Building textures: LQ_Lightmap_0_6 (DXT1, 128X128)
+[2019.10.30-01.42.57:947][634]LogTexture: Display: Building textures: HQ_Lightmap0_7 (AutoDXT, 128X128)
+[2019.10.30-01.42.57:947][634]LogTexture: Display: Building textures: LQ_Lightmap_0_7 (DXT1, 128X128)
+[2019.10.30-01.42.57:947][634]LogTexture: Display: Building textures: HQ_Lightmap1_8 (AutoDXT, 128X128)
+[2019.10.30-01.42.57:947][634]LogTexture: Display: Building textures: LQ_Lightmap_1_8 (DXT1, 128X128)
+[2019.10.30-01.42.58:403][634]LogTexture: Display: Building textures: ShadowMapTexture2D_32 (BGRA8, 128X64)
+[2019.10.30-01.42.58:403][634]LogTexture: Display: Building textures: ShadowMapTexture2D_33 (G8, 128X32)
+[2019.10.30-01.42.58:403][634]LogTexture: Display: Building textures: ShadowMapTexture2D_34 (G8, 128X32)
+[2019.10.30-01.42.58:403][634]LogTexture: Display: Building textures: ShadowMapTexture2D_31 (BGRA8, 1024X128)
+[2019.10.30-01.42.59:014][634]LogTexture: Display: Building textures: ShadowMapTexture2D_30 (BGRA8, 2048X1024)
+[2019.10.30-01.42.59:591][634]LogTexture: Display: Building textures: ShadowMapTexture2D_29 (BGRA8, 2048X2048)
+[2019.10.30-01.42.59:636][634]Lightmass on SW-WLC124-08: 14:35 min total, 270 ms importing, 983 ms setup, 28.0 sec photons, 14:06 min processing, 0 ms extra exporting [1339/1339 mappings]. Threads: 1:38:42 hours total, 51:13 min processing.
+[2019.10.30-01.42.59:651][634]LogStaticLightingSystem: spoopylevel_BuiltData storing lightmap data for 152 meshes in 10 LightmapResourceClusters (15.2 Meshes per cluster).
+[2019.10.30-01.42.59:660][634]LogMaterial: Warning: Material /Game/AdvancedVillagePack/Materials/M_Uber_Cutout_Wind.M_Uber_Cutout_Wind needed to have new flag set bUsedWithStaticLighting !
+[2019.10.30-01.42.59:690][634]LogMaterial: Display: Missing cached shader map for material M_Uber_Cutout_Wind, compiling. 
+[2019.10.30-01.42.59:843][634]LogUObjectHash: Compacting FUObjectHashTables data took   3.34ms
+[2019.10.30-01.42.59:849][634]LogStaticLightingSystem: Illumination: 14:45 min (5.95 sec encoding lightmaps, 1.64 sec encoding shadowmaps)
+[2019.10.30-01.42.59:849][634]LogStaticLightingSystem: Lightmap texture memory:  24.6 MB (24.6 MB streaming, 0.0 MB non-streaming), 16 textures
+[2019.10.30-01.42.59:849][634]LogStaticLightingSystem: Shadowmap texture memory: 32.7 MB (32.7 MB streaming, 0.0 MB non-streaming), 6 textures
+[2019.10.30-01.43.00:547][634]DumpUnbuiltLightIteractions
+[2019.10.30-01.43.00:547][634]Lights with unbuilt interactions: 0
+[2019.10.30-01.43.00:547][634]
+[2019.10.30-01.43.00:547][634]Primitives with unbuilt interactions: 0
+[2019.10.30-01.43.30:228][635]Cmd: MAP CHECK NOTIFYRESULTS
+[2019.10.30-01.43.30:229][635]MapCheck: New page: spoopylevel - Oct 29, 2019, 3:43:30 PM
+[2019.10.30-01.43.30:229][635]MapCheck: Warning: BP_GoodSky_305 Large actor receives a pre-shadow and will cause an extreme performance hit unless bCastDynamicShadow is set to false. 
+[2019.10.30-01.43.30:230][635]MapCheck: Error: SM_Tomato_98 /Game/mystuff/spoopylevel_sharedassets/spoopylevel.spoopylevel:PersistentLevel.SM_Tomato_98 : Invalid DrawScale/DrawScale3D 
+[2019.10.30-01.43.30:230][635]MapCheck: Error: SM_Tomato2 /Game/mystuff/spoopylevel_sharedassets/spoopylevel.spoopylevel:PersistentLevel.SM_Tomato2 : Invalid DrawScale/DrawScale3D 
+[2019.10.30-01.43.30:230][635]MapCheck: Error: GroupActor_3 /Game/mystuff/spoopylevel_sharedassets/spoopylevel.spoopylevel:PersistentLevel.GroupActor_3 : Invalid DrawScale/DrawScale3D 
+[2019.10.30-01.43.30:230][635]MapCheck: Map check complete: 3 Error(s), 1 Warning(s), took 1.723ms to complete.
+[2019.10.30-01.43.34:249][720]LogSlate: Window 'Message Log' being destroyed
+[2019.10.30-01.43.34:298][720]LogSlate: Window 'Message Log' being destroyed
+[2019.10.30-01.43.47:733][  8]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.30-01.43.58:833][159]LogTexture: Display: Building textures: T_Foliage_Var01_O (AutoDXT, 512X512)
+[2019.10.30-01.43.58:833][159]LogStaticMesh: Building static mesh SM_GrassPatch_Var01...
+[2019.10.30-01.43.58:834][159]LogTexture: Display: Building textures: T_Foliage_Var01_D (AutoDXT, 512X512)
+[2019.10.30-01.43.58:880][159]LogStaticMesh: Built static mesh [0.05s] /Game/AdvancedVillagePack/Meshes/SM_GrassPatch_Var01.SM_GrassPatch_Var01
+[2019.10.30-01.44.00:331][182]LogTexture: Display: Building textures: T_Foliage_Var02_O (AutoDXT, 512X512)
+[2019.10.30-01.44.00:331][182]LogMaterial: Display: Missing cached shader map for material M_Simple_Cutout_Wind, compiling. 
+[2019.10.30-01.44.00:384][182]LogTexture: Display: Building textures: T_Foliage_Var02_D (AutoDXT, 512X512)
+[2019.10.30-01.44.09:880][361]LogTexture: Display: Building textures: T_Foliage_Var03_O (AutoDXT, 512X512)
+[2019.10.30-01.44.09:880][361]LogTexture: Display: Building textures: T_Foliage_Var03_D (AutoDXT, 512X512)
+[2019.10.30-01.44.18:627][521]Cmd: TRANSACTION UNDO
+[2019.10.30-01.44.18:627][521]LogEditorTransaction: Undo Foliage Editing
+[2019.10.30-01.44.22:003][605]Cmd: TRANSACTION UNDO
+[2019.10.30-01.44.22:003][605]LogEditorTransaction: Undo Foliage Editing
+[2019.10.30-01.44.22:457][615]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.30-01.44.56:425][491]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.30-01.44.56:469][492]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.30-01.44.56:478][492]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/mystuff/spoopylevel_sharedassets/spoopylevel.spoopylevel:PersistentLevel' has LevelScriptBlueprint '/Game/mystuff/spoopylevel_sharedassets/spoopylevel.spoopylevel:PersistentLevel.spoopylevel' with GeneratedClass '/Game/mystuff/spoopylevel_sharedassets/spoopylevel.spoopylevel_C' with ClassGeneratedBy '/Game/mystuff/spoopylevel_sharedassets/spoopylevel.spoopylevel:PersistentLevel.spoopylevel'
+[2019.10.30-01.44.56:478][492]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.30-01.44.56:479][492]PIE: New page: PIE session: spoopylevel (Oct 29, 2019, 3:44:56 PM)
+[2019.10.30-01.44.56:479][492]LogPlayLevel: Creating play world package: /Game/mystuff/spoopylevel_sharedassets/UEDPIE_0_spoopylevel
+[2019.10.30-01.44.56:516][492]LogPlayLevel: PIE: StaticDuplicateObject took: (0.036995s)
+[2019.10.30-01.44.56:517][492]LogAIModule: Creating AISystem for world spoopylevel
+[2019.10.30-01.44.56:517][492]LogPlayLevel: PIE: World Init took: (0.000710s)
+[2019.10.30-01.44.56:517][492]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/mystuff/spoopylevel_sharedassets/spoopylevel.spoopylevel to /Game/mystuff/spoopylevel_sharedassets/UEDPIE_0_spoopylevel.spoopylevel (0.037878s)
+[2019.10.30-01.44.56:542][492]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2019.10.30-01.44.56:545][492]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.30-01.44.56:568][492]LogInit: FAudioDevice initialized.
+[2019.10.30-01.44.56:598][492]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.10.30-01.44.56:602][492]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.10.30-01.44.56:602][492]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.10.30-01.44.56:602][492]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.10.30-01.44.56:602][492]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.10.30-01.44.56:675][492]LogWorld: Bringing World /Game/mystuff/spoopylevel_sharedassets/UEDPIE_0_spoopylevel.spoopylevel up for play (max tick rate 0) at 2019.10.29-20.44.56
+[2019.10.30-01.44.56:676][492]LogWorld: Bringing up level for play took: 0.078339
+[2019.10.30-01.44.56:690][492]PIE: Play in editor start time for /Game/mystuff/spoopylevel_sharedassets/UEDPIE_0_spoopylevel 0.553
+[2019.10.30-01.44.56:690][492]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/mystuff/spoopylevel_sharedassets/spoopylevel.spoopylevel:PersistentLevel' has LevelScriptBlueprint '/Game/mystuff/spoopylevel_sharedassets/spoopylevel.spoopylevel:PersistentLevel.spoopylevel' with GeneratedClass '/Game/mystuff/spoopylevel_sharedassets/spoopylevel.spoopylevel_C' with ClassGeneratedBy '/Game/mystuff/spoopylevel_sharedassets/spoopylevel.spoopylevel:PersistentLevel.spoopylevel'
+[2019.10.30-01.45.03:899][720]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/mystuff/spoopylevel_sharedassets/spoopylevel.spoopylevel:PersistentLevel' has LevelScriptBlueprint '/Game/mystuff/spoopylevel_sharedassets/spoopylevel.spoopylevel:PersistentLevel.spoopylevel' with GeneratedClass '/Game/mystuff/spoopylevel_sharedassets/spoopylevel.spoopylevel_C' with ClassGeneratedBy '/Game/mystuff/spoopylevel_sharedassets/spoopylevel.spoopylevel:PersistentLevel.spoopylevel'
+[2019.10.30-01.45.03:899][720]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.30-01.45.03:967][720]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.30-01.45.03:967][720]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/mystuff/spoopylevel_sharedassets/spoopylevel.spoopylevel:PersistentLevel' has LevelScriptBlueprint '/Game/mystuff/spoopylevel_sharedassets/spoopylevel.spoopylevel:PersistentLevel.spoopylevel' with GeneratedClass '/Game/mystuff/spoopylevel_sharedassets/spoopylevel.spoopylevel_C' with ClassGeneratedBy '/Game/mystuff/spoopylevel_sharedassets/spoopylevel.spoopylevel:PersistentLevel.spoopylevel'
+[2019.10.30-01.45.03:994][720]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.30-01.45.03:998][720]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2019.10.30-01.45.04:049][721]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2019.10.30-01.45.14:879][  7]LogEditorViewport: Clicking on Actor (double click): BP_GoodSky_C (BP_GoodSky)
+[2019.10.30-01.45.18:687][ 83]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.30-01.45.24:672][227]LogActorComponent: UnregisterComponent: (/Engine/Transient.SphereBrushComponent) Not registered. Aborting.
+[2019.10.30-01.45.31:371][430]LogSlate: Window 'Color Picker' being destroyed
+[2019.10.30-01.45.35:012][502]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.30-01.45.39:911][593]Cmd: TRANSACTION UNDO
+[2019.10.30-01.45.39:912][593]LogEditorTransaction: Undo Edit Global Overlay Color
+[2019.10.30-01.45.41:146][613]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.30-01.45.41:253][615]LogSlate: Window 'Color Picker' being destroyed
+[2019.10.30-01.45.52:130][824]Cmd: TRANSACTION UNDO
+[2019.10.30-01.45.52:130][824]LogEditorTransaction: Undo Rotate Actors
+[2019.10.30-01.45.57:514][921]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.30-01.46.05:751][ 80]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.30-01.46.14:355][228]Cmd: TRANSACTION UNDO
+[2019.10.30-01.46.14:355][228]LogEditorTransaction: Undo Modifier [Edit]
+[2019.10.30-01.46.34:824][679]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.30-01.47.11:413][516]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.30-01.47.54:962][280]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.30-01.48.26:744][774]Cmd: TRANSACTION UNDO
+[2019.10.30-01.48.26:744][774]LogEditorTransaction: Undo Foliage Editing
+[2019.10.30-01.48.27:277][782]Cmd: TRANSACTION UNDO
+[2019.10.30-01.48.27:277][782]LogEditorTransaction: Undo Foliage Editing
+[2019.10.30-01.48.30:370][837]Cmd: TRANSACTION UNDO
+[2019.10.30-01.48.30:370][837]LogEditorTransaction: Undo Foliage Editing
+[2019.10.30-01.48.30:816][845]Cmd: TRANSACTION UNDO
+[2019.10.30-01.48.30:816][845]LogEditorTransaction: Undo Foliage Editing
+[2019.10.30-01.48.32:201][869]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.30-01.49.31:956][ 46]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.30-01.49.32:438][ 47]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2019.10.30-01.49.33:188][ 47]LogSavePackage: Moving 'E:/level design 2 stuff/github stuff/newer spoopy level/spoopylevel/spoopylevel/MMartinSpoopy/Saved/spoopylevel2D3E70F347791EA97032CE9453ED971A.tmp' to 'E:/level design 2 stuff/github stuff/newer spoopy level/spoopylevel/spoopylevel/MMartinSpoopy/Content/mystuff/spoopylevel_sharedassets/spoopylevel.umap'
+[2019.10.30-01.49.35:778][ 47]LogSavePackage: Moving 'E:/level design 2 stuff/github stuff/newer spoopy level/spoopylevel/spoopylevel/MMartinSpoopy/Saved/spoopylevel_BuiltData45997A4A4F29F05E494DBDBC8A91E938.tmp' to 'E:/level design 2 stuff/github stuff/newer spoopy level/spoopylevel/spoopylevel/MMartinSpoopy/Content/mystuff/spoopylevel_sharedassets/spoopylevel_BuiltData.uasset'
