@@ -3425,3 +3425,298 @@ Exception rethrown at [0]:
 [2019.10.30-02.08.15:914][661]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
 [2019.10.30-02.08.16:760][661]LogSavePackage: Moving 'E:/level design 2 stuff/github stuff/newer spoopy level/spoopylevel/spoopylevel/MMartinSpoopy/Saved/spoopylevelEFFFA2854E3623AB71015591C325D1C9.tmp' to 'E:/level design 2 stuff/github stuff/newer spoopy level/spoopylevel/spoopylevel/MMartinSpoopy/Content/mystuff/spoopylevel_sharedassets/spoopylevel.umap'
 [2019.10.30-02.08.19:645][661]LogSavePackage: Moving 'E:/level design 2 stuff/github stuff/newer spoopy level/spoopylevel/spoopylevel/MMartinSpoopy/Saved/spoopylevel_BuiltData8372AD344533DEABD93421B8149A605C.tmp' to 'E:/level design 2 stuff/github stuff/newer spoopy level/spoopylevel/spoopylevel/MMartinSpoopy/Content/mystuff/spoopylevel_sharedassets/spoopylevel_BuiltData.uasset'
+[2019.10.30-02.09.06:582][956]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.30-02.09.11:495][ 19]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.10.30-02.09.17:233][ 98]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.30-02.09.35:927][345]Cmd: DELETE
+[2019.10.30-02.09.35:927][345]Cmd: ACTOR DELETE
+[2019.10.30-02.09.35:934][345]LogEditorActor: Deleted Actor: Brush
+[2019.10.30-02.09.36:004][345]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2019.10.30-02.09.36:006][345]LogEditorActor: Deleted 1 Actors (0.079 secs)
+[2019.10.30-02.09.45:701][476]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.30-02.10.02:280][668]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.30-02.10.06:552][719]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.30-02.10.06:635][720]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.30-02.10.06:645][720]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/mystuff/spoopylevel_sharedassets/spoopylevel.spoopylevel:PersistentLevel' has LevelScriptBlueprint '/Game/mystuff/spoopylevel_sharedassets/spoopylevel.spoopylevel:PersistentLevel.spoopylevel' with GeneratedClass '/Game/mystuff/spoopylevel_sharedassets/spoopylevel.spoopylevel_C' with ClassGeneratedBy '/Game/mystuff/spoopylevel_sharedassets/spoopylevel.spoopylevel:PersistentLevel.spoopylevel'
+[2019.10.30-02.10.06:645][720]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.30-02.10.06:645][720]PIE: New page: PIE session: spoopylevel (Oct 29, 2019, 4:10:06 PM)
+[2019.10.30-02.10.06:645][720]LogPlayLevel: Creating play world package: /Game/mystuff/spoopylevel_sharedassets/UEDPIE_0_spoopylevel
+[2019.10.30-02.10.06:681][720]LogPlayLevel: PIE: StaticDuplicateObject took: (0.035663s)
+[2019.10.30-02.10.06:682][720]LogAIModule: Creating AISystem for world spoopylevel
+[2019.10.30-02.10.06:682][720]LogPlayLevel: PIE: World Init took: (0.000577s)
+[2019.10.30-02.10.06:682][720]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/mystuff/spoopylevel_sharedassets/spoopylevel.spoopylevel to /Game/mystuff/spoopylevel_sharedassets/UEDPIE_0_spoopylevel.spoopylevel (0.036377s)
+[2019.10.30-02.10.06:723][720]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2019.10.30-02.10.06:726][720]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.30-02.10.06:749][720]LogInit: FAudioDevice initialized.
+[2019.10.30-02.10.06:774][720]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.10.30-02.10.06:778][720]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.10.30-02.10.06:778][720]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.10.30-02.10.06:778][720]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.10.30-02.10.06:778][720]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.10.30-02.10.06:780][720]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.10.30-02.10.06:780][720]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.10.30-02.10.06:780][720]LogWorld: Bringing World /Game/mystuff/spoopylevel_sharedassets/UEDPIE_0_spoopylevel.spoopylevel up for play (max tick rate 0) at 2019.10.29-21.10.06
+[2019.10.30-02.10.06:782][720]LogWorld: Bringing up level for play took: 0.007535
+[2019.10.30-02.10.06:796][720]PIE: Play in editor start time for /Game/mystuff/spoopylevel_sharedassets/UEDPIE_0_spoopylevel 0.65
+[2019.10.30-02.10.06:796][720]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/mystuff/spoopylevel_sharedassets/spoopylevel.spoopylevel:PersistentLevel' has LevelScriptBlueprint '/Game/mystuff/spoopylevel_sharedassets/spoopylevel.spoopylevel:PersistentLevel.spoopylevel' with GeneratedClass '/Game/mystuff/spoopylevel_sharedassets/spoopylevel.spoopylevel_C' with ClassGeneratedBy '/Game/mystuff/spoopylevel_sharedassets/spoopylevel.spoopylevel:PersistentLevel.spoopylevel'
+[2019.10.30-02.10.16:628][859]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/mystuff/spoopylevel_sharedassets/spoopylevel.spoopylevel:PersistentLevel' has LevelScriptBlueprint '/Game/mystuff/spoopylevel_sharedassets/spoopylevel.spoopylevel:PersistentLevel.spoopylevel' with GeneratedClass '/Game/mystuff/spoopylevel_sharedassets/spoopylevel.spoopylevel_C' with ClassGeneratedBy '/Game/mystuff/spoopylevel_sharedassets/spoopylevel.spoopylevel:PersistentLevel.spoopylevel'
+[2019.10.30-02.10.16:628][859]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.30-02.10.16:726][859]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.30-02.10.16:727][859]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/mystuff/spoopylevel_sharedassets/spoopylevel.spoopylevel:PersistentLevel' has LevelScriptBlueprint '/Game/mystuff/spoopylevel_sharedassets/spoopylevel.spoopylevel:PersistentLevel.spoopylevel' with GeneratedClass '/Game/mystuff/spoopylevel_sharedassets/spoopylevel.spoopylevel_C' with ClassGeneratedBy '/Game/mystuff/spoopylevel_sharedassets/spoopylevel.spoopylevel:PersistentLevel.spoopylevel'
+[2019.10.30-02.10.16:755][859]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.30-02.10.16:759][859]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2019.10.30-02.10.16:828][860]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2019.10.30-02.10.19:070][895]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.30-02.10.19:137][896]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.30-02.10.19:149][896]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/mystuff/spoopylevel_sharedassets/spoopylevel.spoopylevel:PersistentLevel' has LevelScriptBlueprint '/Game/mystuff/spoopylevel_sharedassets/spoopylevel.spoopylevel:PersistentLevel.spoopylevel' with GeneratedClass '/Game/mystuff/spoopylevel_sharedassets/spoopylevel.spoopylevel_C' with ClassGeneratedBy '/Game/mystuff/spoopylevel_sharedassets/spoopylevel.spoopylevel:PersistentLevel.spoopylevel'
+[2019.10.30-02.10.19:149][896]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.30-02.10.19:150][896]PIE: New page: PIE session: spoopylevel (Oct 29, 2019, 4:10:19 PM)
+[2019.10.30-02.10.19:150][896]LogPlayLevel: Creating play world package: /Game/mystuff/spoopylevel_sharedassets/UEDPIE_0_spoopylevel
+[2019.10.30-02.10.19:185][896]LogPlayLevel: PIE: StaticDuplicateObject took: (0.035160s)
+[2019.10.30-02.10.19:185][896]LogAIModule: Creating AISystem for world spoopylevel
+[2019.10.30-02.10.19:185][896]LogPlayLevel: PIE: World Init took: (0.000481s)
+[2019.10.30-02.10.19:185][896]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/mystuff/spoopylevel_sharedassets/spoopylevel.spoopylevel to /Game/mystuff/spoopylevel_sharedassets/UEDPIE_0_spoopylevel.spoopylevel (0.035775s)
+[2019.10.30-02.10.19:211][896]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2019.10.30-02.10.19:213][896]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.30-02.10.19:235][896]LogInit: FAudioDevice initialized.
+[2019.10.30-02.10.19:262][896]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.10.30-02.10.19:266][896]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.10.30-02.10.19:266][896]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.10.30-02.10.19:266][896]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.10.30-02.10.19:266][896]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.10.30-02.10.19:268][896]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.10.30-02.10.19:268][896]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.10.30-02.10.19:268][896]LogWorld: Bringing World /Game/mystuff/spoopylevel_sharedassets/UEDPIE_0_spoopylevel.spoopylevel up for play (max tick rate 0) at 2019.10.29-21.10.19
+[2019.10.30-02.10.19:270][896]LogWorld: Bringing up level for play took: 0.007345
+[2019.10.30-02.10.19:284][896]PIE: Play in editor start time for /Game/mystuff/spoopylevel_sharedassets/UEDPIE_0_spoopylevel -0.862
+[2019.10.30-02.10.19:284][896]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/mystuff/spoopylevel_sharedassets/spoopylevel.spoopylevel:PersistentLevel' has LevelScriptBlueprint '/Game/mystuff/spoopylevel_sharedassets/spoopylevel.spoopylevel:PersistentLevel.spoopylevel' with GeneratedClass '/Game/mystuff/spoopylevel_sharedassets/spoopylevel.spoopylevel_C' with ClassGeneratedBy '/Game/mystuff/spoopylevel_sharedassets/spoopylevel.spoopylevel:PersistentLevel.spoopylevel'
+[2019.10.30-02.10.35:803][148]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/mystuff/spoopylevel_sharedassets/spoopylevel.spoopylevel:PersistentLevel' has LevelScriptBlueprint '/Game/mystuff/spoopylevel_sharedassets/spoopylevel.spoopylevel:PersistentLevel.spoopylevel' with GeneratedClass '/Game/mystuff/spoopylevel_sharedassets/spoopylevel.spoopylevel_C' with ClassGeneratedBy '/Game/mystuff/spoopylevel_sharedassets/spoopylevel.spoopylevel:PersistentLevel.spoopylevel'
+[2019.10.30-02.10.35:803][148]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.30-02.10.35:895][148]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.30-02.10.35:895][148]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/mystuff/spoopylevel_sharedassets/spoopylevel.spoopylevel:PersistentLevel' has LevelScriptBlueprint '/Game/mystuff/spoopylevel_sharedassets/spoopylevel.spoopylevel:PersistentLevel.spoopylevel' with GeneratedClass '/Game/mystuff/spoopylevel_sharedassets/spoopylevel.spoopylevel_C' with ClassGeneratedBy '/Game/mystuff/spoopylevel_sharedassets/spoopylevel.spoopylevel:PersistentLevel.spoopylevel'
+[2019.10.30-02.10.35:924][148]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.30-02.10.35:928][148]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2019.10.30-02.10.35:978][149]LogPlayLevel: Display: Destroying online subsystem :Context_39
+[2019.10.30-02.10.41:583][219]LogEditorViewport: Clicking on Actor (LMB): LightmassImportanceVolume (LightmassImportanceVolume)
+[2019.10.30-02.10.59:666][383]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.30-02.10.59:673][383]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.10.30-02.11.23:973][605]LogEditorViewport: Clicking on Actor (LMB): LightmassImportanceVolume (LightmassImportanceVolume)
+[2019.10.30-02.11.25:004][615]Cmd: DELETE
+[2019.10.30-02.11.25:004][615]Cmd: ACTOR DELETE
+[2019.10.30-02.11.25:010][615]LogEditorActor: Deleted Actor: LightmassImportanceVolume
+[2019.10.30-02.11.25:115][615]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2019.10.30-02.11.25:115][615]LogEditorActor: Deleted 1 Actors (0.110 secs)
+[2019.10.30-02.11.26:219][625]LogEditorViewport: Clicking on Actor (LMB): BlockingVolume (BlockingVolume)
+[2019.10.30-02.11.27:911][641]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.30-02.11.35:852][712]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.30-02.11.35:959][714]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.30-02.11.35:968][714]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/mystuff/spoopylevel_sharedassets/spoopylevel.spoopylevel:PersistentLevel' has LevelScriptBlueprint '/Game/mystuff/spoopylevel_sharedassets/spoopylevel.spoopylevel:PersistentLevel.spoopylevel' with GeneratedClass '/Game/mystuff/spoopylevel_sharedassets/spoopylevel.spoopylevel_C' with ClassGeneratedBy '/Game/mystuff/spoopylevel_sharedassets/spoopylevel.spoopylevel:PersistentLevel.spoopylevel'
+[2019.10.30-02.11.35:968][714]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.30-02.11.35:968][714]PIE: New page: PIE session: spoopylevel (Oct 29, 2019, 4:11:35 PM)
+[2019.10.30-02.11.35:968][714]LogPlayLevel: Creating play world package: /Game/mystuff/spoopylevel_sharedassets/UEDPIE_0_spoopylevel
+[2019.10.30-02.11.36:004][714]LogPlayLevel: PIE: StaticDuplicateObject took: (0.035862s)
+[2019.10.30-02.11.36:005][714]LogAIModule: Creating AISystem for world spoopylevel
+[2019.10.30-02.11.36:005][714]LogPlayLevel: PIE: World Init took: (0.000510s)
+[2019.10.30-02.11.36:005][714]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/mystuff/spoopylevel_sharedassets/spoopylevel.spoopylevel to /Game/mystuff/spoopylevel_sharedassets/UEDPIE_0_spoopylevel.spoopylevel (0.036506s)
+[2019.10.30-02.11.36:026][714]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2019.10.30-02.11.36:029][714]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.30-02.11.36:052][714]LogInit: FAudioDevice initialized.
+[2019.10.30-02.11.36:097][714]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.10.30-02.11.36:101][714]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.10.30-02.11.36:101][714]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.10.30-02.11.36:101][714]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.10.30-02.11.36:101][714]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.10.30-02.11.36:103][714]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.10.30-02.11.36:103][714]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.10.30-02.11.36:104][714]LogWorld: Bringing World /Game/mystuff/spoopylevel_sharedassets/UEDPIE_0_spoopylevel.spoopylevel up for play (max tick rate 0) at 2019.10.29-21.11.36
+[2019.10.30-02.11.36:105][714]LogWorld: Bringing up level for play took: 0.007035
+[2019.10.30-02.11.36:118][714]PIE: Play in editor start time for /Game/mystuff/spoopylevel_sharedassets/UEDPIE_0_spoopylevel -0.029
+[2019.10.30-02.11.36:118][714]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/mystuff/spoopylevel_sharedassets/spoopylevel.spoopylevel:PersistentLevel' has LevelScriptBlueprint '/Game/mystuff/spoopylevel_sharedassets/spoopylevel.spoopylevel:PersistentLevel.spoopylevel' with GeneratedClass '/Game/mystuff/spoopylevel_sharedassets/spoopylevel.spoopylevel_C' with ClassGeneratedBy '/Game/mystuff/spoopylevel_sharedassets/spoopylevel.spoopylevel:PersistentLevel.spoopylevel'
+[2019.10.30-02.11.39:621][755]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/mystuff/spoopylevel_sharedassets/spoopylevel.spoopylevel:PersistentLevel' has LevelScriptBlueprint '/Game/mystuff/spoopylevel_sharedassets/spoopylevel.spoopylevel:PersistentLevel.spoopylevel' with GeneratedClass '/Game/mystuff/spoopylevel_sharedassets/spoopylevel.spoopylevel_C' with ClassGeneratedBy '/Game/mystuff/spoopylevel_sharedassets/spoopylevel.spoopylevel:PersistentLevel.spoopylevel'
+[2019.10.30-02.11.39:621][755]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.30-02.11.39:737][755]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.30-02.11.39:737][755]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/mystuff/spoopylevel_sharedassets/spoopylevel.spoopylevel:PersistentLevel' has LevelScriptBlueprint '/Game/mystuff/spoopylevel_sharedassets/spoopylevel.spoopylevel:PersistentLevel.spoopylevel' with GeneratedClass '/Game/mystuff/spoopylevel_sharedassets/spoopylevel.spoopylevel_C' with ClassGeneratedBy '/Game/mystuff/spoopylevel_sharedassets/spoopylevel.spoopylevel:PersistentLevel.spoopylevel'
+[2019.10.30-02.11.39:765][755]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.30-02.11.39:769][755]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2019.10.30-02.11.39:875][756]LogPlayLevel: Display: Destroying online subsystem :Context_40
+[2019.10.30-02.11.46:936][834]LogEditorViewport: Clicking on Actor (LMB): BlockingVolume (BlockingVolume)
+[2019.10.30-02.11.48:714][850]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.30-02.11.53:650][893]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.30-02.12.05:486][  3]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.30-02.12.10:469][ 55]Cmd: EDIT COPY
+[2019.10.30-02.12.10:758][ 58]Cmd: EDIT PASTE
+[2019.10.30-02.12.12:425][ 75]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.30-02.12.16:640][119]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.30-02.12.21:046][165]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.30-02.12.26:505][223]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.30-02.12.30:292][268]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.30-02.12.39:062][362]LogEditorViewport: Clicking on Actor (LMB): BlockingVolume (BlockingVolume)
+[2019.10.30-02.12.44:542][407]Cmd: EDIT COPY
+[2019.10.30-02.12.44:781][409]Cmd: EDIT PASTE
+[2019.10.30-02.12.49:420][448]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.30-02.12.56:717][511]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.30-02.13.11:095][658]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.30-02.13.15:727][710]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.30-02.13.19:190][749]Cmd: EDIT COPY
+[2019.10.30-02.13.19:369][751]Cmd: EDIT PASTE
+[2019.10.30-02.13.20:476][763]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.30-02.13.24:392][807]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.30-02.13.31:132][881]LogEditorViewport: Clicking on Actor (LMB): BlockingVolume (BlockingVolume3)
+[2019.10.30-02.13.32:043][891]Cmd: EDIT PASTE
+[2019.10.30-02.13.33:412][907]Cmd: TRANSACTION UNDO
+[2019.10.30-02.13.33:412][907]LogEditorTransaction: Undo Paste
+[2019.10.30-02.13.34:214][916]Cmd: EDIT COPY
+[2019.10.30-02.13.34:480][917]Cmd: EDIT PASTE
+[2019.10.30-02.13.42:838][ 19]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.30-02.13.47:343][ 78]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.30-02.13.52:205][142]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.30-02.13.56:619][200]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.30-02.14.04:128][299]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.30-02.14.10:532][382]Cmd: EDIT COPY
+[2019.10.30-02.14.10:756][385]Cmd: EDIT PASTE
+[2019.10.30-02.14.15:291][446]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.30-02.14.19:709][506]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.30-02.14.28:578][622]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.30-02.14.33:745][678]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.30-02.14.44:958][827]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.30-02.14.49:074][874]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.30-02.14.55:982][956]Cmd: EDIT COPY
+[2019.10.30-02.14.56:218][959]Cmd: EDIT PASTE
+[2019.10.30-02.14.58:245][982]LogEditorViewport: Clicking on Actor (LMB): BlockingVolume (BlockingVolume7)
+[2019.10.30-02.15.06:147][ 85]Cmd: EDIT COPY
+[2019.10.30-02.15.06:364][ 88]Cmd: EDIT PASTE
+[2019.10.30-02.15.07:486][102]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.30-02.15.12:318][168]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.30-02.15.20:611][278]Cmd: EDIT COPY
+[2019.10.30-02.15.20:791][282]Cmd: EDIT PASTE
+[2019.10.30-02.15.34:526][462]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.30-02.15.47:650][637]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.30-02.15.59:363][832]Cmd: EDIT COPY
+[2019.10.30-02.15.59:566][836]Cmd: EDIT PASTE
+[2019.10.30-02.16.00:614][856]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.30-02.16.06:683][958]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.30-02.16.10:374][  9]Cmd: EDIT COPY
+[2019.10.30-02.16.10:809][ 13]Cmd: EDIT PASTE
+[2019.10.30-02.16.16:913][ 93]LogEditorViewport: Clicking on Actor (LMB): BlockingVolume (BlockingVolume9)
+[2019.10.30-02.16.18:120][107]Cmd: EDIT COPY
+[2019.10.30-02.16.18:580][110]Cmd: EDIT PASTE
+[2019.10.30-02.16.24:599][178]Cmd: EDIT COPY
+[2019.10.30-02.16.24:869][181]Cmd: EDIT PASTE
+[2019.10.30-02.16.31:499][262]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.30-02.16.34:981][305]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.30-02.16.38:708][351]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.30-02.16.50:460][512]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.30-02.16.53:641][559]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.30-02.17.06:574][752]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.30-02.17.10:287][807]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.30-02.17.15:520][886]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.30-02.17.18:905][939]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.30-02.17.22:903][  2]Cmd: EDIT COPY
+[2019.10.30-02.17.23:154][  6]Cmd: EDIT PASTE
+[2019.10.30-02.17.24:199][ 22]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.30-02.17.28:153][ 84]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.30-02.17.37:900][213]LogEditorViewport: Clicking on Actor (LMB): BlockingVolume (BlockingVolume5)
+[2019.10.30-02.17.38:920][224]Cmd: EDIT COPY
+[2019.10.30-02.17.39:098][226]Cmd: EDIT PASTE
+[2019.10.30-02.17.42:074][256]Cmd: TRANSACTION UNDO
+[2019.10.30-02.17.42:074][256]LogEditorTransaction: Undo Move Actors
+[2019.10.30-02.17.50:418][349]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.30-02.18.01:073][460]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.30-02.18.05:747][509]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.30-02.18.14:339][599]LogEditorViewport: Clicking on Actor (LMB): BlockingVolume (BlockingVolume)
+[2019.10.30-02.18.16:188][620]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.30-02.18.20:672][670]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.30-02.18.27:764][749]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.30-02.18.42:556][960]LogEditorViewport: Clicking on Actor (LMB): BlockingVolume (BlockingVolume7)
+[2019.10.30-02.18.44:040][983]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.30-02.18.48:172][ 43]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.30-02.18.57:392][192]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.30-02.18.57:485][194]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.30-02.18.57:495][194]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/mystuff/spoopylevel_sharedassets/spoopylevel.spoopylevel:PersistentLevel' has LevelScriptBlueprint '/Game/mystuff/spoopylevel_sharedassets/spoopylevel.spoopylevel:PersistentLevel.spoopylevel' with GeneratedClass '/Game/mystuff/spoopylevel_sharedassets/spoopylevel.spoopylevel_C' with ClassGeneratedBy '/Game/mystuff/spoopylevel_sharedassets/spoopylevel.spoopylevel:PersistentLevel.spoopylevel'
+[2019.10.30-02.18.57:495][194]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.30-02.18.57:495][194]PIE: New page: PIE session: spoopylevel (Oct 29, 2019, 4:18:57 PM)
+[2019.10.30-02.18.57:495][194]LogPlayLevel: Creating play world package: /Game/mystuff/spoopylevel_sharedassets/UEDPIE_0_spoopylevel
+[2019.10.30-02.18.57:541][194]LogPlayLevel: PIE: StaticDuplicateObject took: (0.045617s)
+[2019.10.30-02.18.57:541][194]LogAIModule: Creating AISystem for world spoopylevel
+[2019.10.30-02.18.57:541][194]LogPlayLevel: PIE: World Init took: (0.000628s)
+[2019.10.30-02.18.57:542][194]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/mystuff/spoopylevel_sharedassets/spoopylevel.spoopylevel to /Game/mystuff/spoopylevel_sharedassets/UEDPIE_0_spoopylevel.spoopylevel (0.046412s)
+[2019.10.30-02.18.57:567][194]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2019.10.30-02.18.57:570][194]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.30-02.18.57:594][194]LogInit: FAudioDevice initialized.
+[2019.10.30-02.18.57:620][194]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.10.30-02.18.57:624][194]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.10.30-02.18.57:624][194]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.10.30-02.18.57:624][194]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.10.30-02.18.57:624][194]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.10.30-02.18.57:626][194]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.10.30-02.18.57:626][194]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.10.30-02.18.57:626][194]LogWorld: Bringing World /Game/mystuff/spoopylevel_sharedassets/UEDPIE_0_spoopylevel.spoopylevel up for play (max tick rate 0) at 2019.10.29-21.18.57
+[2019.10.30-02.18.57:628][194]LogWorld: Bringing up level for play took: 0.007169
+[2019.10.30-02.18.57:643][194]PIE: Play in editor start time for /Game/mystuff/spoopylevel_sharedassets/UEDPIE_0_spoopylevel -0.506
+[2019.10.30-02.18.57:643][194]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/mystuff/spoopylevel_sharedassets/spoopylevel.spoopylevel:PersistentLevel' has LevelScriptBlueprint '/Game/mystuff/spoopylevel_sharedassets/spoopylevel.spoopylevel:PersistentLevel.spoopylevel' with GeneratedClass '/Game/mystuff/spoopylevel_sharedassets/spoopylevel.spoopylevel_C' with ClassGeneratedBy '/Game/mystuff/spoopylevel_sharedassets/spoopylevel.spoopylevel:PersistentLevel.spoopylevel'
+[2019.10.30-02.19.52:437][ 86]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/mystuff/spoopylevel_sharedassets/spoopylevel.spoopylevel:PersistentLevel' has LevelScriptBlueprint '/Game/mystuff/spoopylevel_sharedassets/spoopylevel.spoopylevel:PersistentLevel.spoopylevel' with GeneratedClass '/Game/mystuff/spoopylevel_sharedassets/spoopylevel.spoopylevel_C' with ClassGeneratedBy '/Game/mystuff/spoopylevel_sharedassets/spoopylevel.spoopylevel:PersistentLevel.spoopylevel'
+[2019.10.30-02.19.52:437][ 86]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.30-02.19.52:536][ 86]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.30-02.19.52:536][ 86]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/mystuff/spoopylevel_sharedassets/spoopylevel.spoopylevel:PersistentLevel' has LevelScriptBlueprint '/Game/mystuff/spoopylevel_sharedassets/spoopylevel.spoopylevel:PersistentLevel.spoopylevel' with GeneratedClass '/Game/mystuff/spoopylevel_sharedassets/spoopylevel.spoopylevel_C' with ClassGeneratedBy '/Game/mystuff/spoopylevel_sharedassets/spoopylevel.spoopylevel:PersistentLevel.spoopylevel'
+[2019.10.30-02.19.52:564][ 86]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.30-02.19.52:568][ 86]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2019.10.30-02.19.52:644][ 87]LogPlayLevel: Display: Destroying online subsystem :Context_41
+[2019.10.30-02.19.57:318][154]LogEditorViewport: Clicking on Actor (LMB): BlockingVolume (BlockingVolume7)
+[2019.10.30-02.19.58:251][166]LogEditorViewport: Clicking on Actor (LMB): BlockingVolume (BlockingVolume8)
+[2019.10.30-02.20.00:982][203]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.30-02.20.29:227][717]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.30-02.20.29:592][717]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2019.10.30-02.20.30:446][717]LogSavePackage: Moving 'E:/level design 2 stuff/github stuff/newer spoopy level/spoopylevel/spoopylevel/MMartinSpoopy/Saved/spoopylevel_Auto6B62D8B744C13B8A72FE291A5E481AD8B.tmp' to 'E:/level design 2 stuff/github stuff/newer spoopy level/spoopylevel/spoopylevel/MMartinSpoopy/Saved/Autosaves/Game/mystuff/spoopylevel_sharedassets/spoopylevel_Auto6.umap'
+[2019.10.30-02.20.30:469][717]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/mystuff/spoopylevel_sharedassets/spoopylevel' took 0.901
+[2019.10.30-02.20.30:469][717]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.901
+[2019.10.30-02.20.30:472][717]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AdvancedVillagePack/Materials/M_Inst_TreeLeafs] ([1] browsable assets)...
+[2019.10.30-02.20.30:546][717]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/AdvancedVillagePack/Materials/M_Inst_TreeLeafs.M_Inst_TreeLeafs]
+[2019.10.30-02.20.30:546][717]OBJ SavePackage: Finished generating thumbnails for package [/Game/AdvancedVillagePack/Materials/M_Inst_TreeLeafs]
+[2019.10.30-02.20.30:602][717]LogSavePackage: Moving 'E:/level design 2 stuff/github stuff/newer spoopy level/spoopylevel/spoopylevel/MMartinSpoopy/Saved/M_Inst_TreeLeafs_Auto6A81AD88E4C5B4833F16591BF63082A45.tmp' to 'E:/level design 2 stuff/github stuff/newer spoopy level/spoopylevel/spoopylevel/MMartinSpoopy/Saved/Autosaves/Game/AdvancedVillagePack/Materials/M_Inst_TreeLeafs_Auto6.uasset'
+[2019.10.30-02.20.30:623][717]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AdvancedVillagePack/Materials/M_Uber_Cutout_Wind] ([1] browsable assets)...
+[2019.10.30-02.20.30:651][717]OBJ SavePackage:     Rendered thumbnail for [Material /Game/AdvancedVillagePack/Materials/M_Uber_Cutout_Wind.M_Uber_Cutout_Wind]
+[2019.10.30-02.20.30:651][717]OBJ SavePackage: Finished generating thumbnails for package [/Game/AdvancedVillagePack/Materials/M_Uber_Cutout_Wind]
+[2019.10.30-02.20.30:749][717]LogSavePackage: Moving 'E:/level design 2 stuff/github stuff/newer spoopy level/spoopylevel/spoopylevel/MMartinSpoopy/Saved/M_Uber_Cutout_Wind_Auto6D47A325541FF4487760B359140D4119D.tmp' to 'E:/level design 2 stuff/github stuff/newer spoopy level/spoopylevel/spoopylevel/MMartinSpoopy/Saved/Autosaves/Game/AdvancedVillagePack/Materials/M_Uber_Cutout_Wind_Auto6.uasset'
+[2019.10.30-02.20.30:767][717]LogFileHelpers: Auto-saving content packages took 0.295
+[2019.10.30-02.20.59:802][260]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.30-02.21.03:804][333]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.30-02.21.06:410][380]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.30-02.21.10:936][463]Cmd: EDIT COPY
+[2019.10.30-02.21.11:264][467]Cmd: EDIT PASTE
+[2019.10.30-02.21.15:532][546]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.30-02.21.21:540][652]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.30-02.21.49:225][139]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.30-02.21.49:289][140]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.30-02.21.49:594][140]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/mystuff/spoopylevel_sharedassets/spoopylevel.spoopylevel:PersistentLevel' has LevelScriptBlueprint '/Game/mystuff/spoopylevel_sharedassets/spoopylevel.spoopylevel:PersistentLevel.spoopylevel' with GeneratedClass '/Game/mystuff/spoopylevel_sharedassets/spoopylevel.spoopylevel_C' with ClassGeneratedBy '/Game/mystuff/spoopylevel_sharedassets/spoopylevel.spoopylevel:PersistentLevel.spoopylevel'
+[2019.10.30-02.21.49:594][140]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.30-02.21.49:594][140]PIE: New page: PIE session: spoopylevel (Oct 29, 2019, 4:21:49 PM)
+[2019.10.30-02.21.49:595][140]LogPlayLevel: Creating play world package: /Game/mystuff/spoopylevel_sharedassets/UEDPIE_0_spoopylevel
+[2019.10.30-02.21.49:639][140]LogPlayLevel: PIE: StaticDuplicateObject took: (0.044008s)
+[2019.10.30-02.21.49:639][140]LogAIModule: Creating AISystem for world spoopylevel
+[2019.10.30-02.21.49:639][140]LogPlayLevel: PIE: World Init took: (0.000572s)
+[2019.10.30-02.21.49:639][140]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/mystuff/spoopylevel_sharedassets/spoopylevel.spoopylevel to /Game/mystuff/spoopylevel_sharedassets/UEDPIE_0_spoopylevel.spoopylevel (0.044766s)
+[2019.10.30-02.21.49:664][140]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2019.10.30-02.21.49:666][140]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.30-02.21.49:691][140]LogInit: FAudioDevice initialized.
+[2019.10.30-02.21.49:722][140]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.10.30-02.21.49:726][140]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.10.30-02.21.49:726][140]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.10.30-02.21.49:726][140]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.10.30-02.21.49:726][140]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.10.30-02.21.49:728][140]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.10.30-02.21.49:728][140]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.10.30-02.21.49:728][140]LogWorld: Bringing World /Game/mystuff/spoopylevel_sharedassets/UEDPIE_0_spoopylevel.spoopylevel up for play (max tick rate 0) at 2019.10.29-21.21.49
+[2019.10.30-02.21.49:730][140]LogWorld: Bringing up level for play took: 0.007342
+[2019.10.30-02.21.49:744][140]PIE: Play in editor start time for /Game/mystuff/spoopylevel_sharedassets/UEDPIE_0_spoopylevel -0.405
+[2019.10.30-02.21.49:744][140]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/mystuff/spoopylevel_sharedassets/spoopylevel.spoopylevel:PersistentLevel' has LevelScriptBlueprint '/Game/mystuff/spoopylevel_sharedassets/spoopylevel.spoopylevel:PersistentLevel.spoopylevel' with GeneratedClass '/Game/mystuff/spoopylevel_sharedassets/spoopylevel.spoopylevel_C' with ClassGeneratedBy '/Game/mystuff/spoopylevel_sharedassets/spoopylevel.spoopylevel:PersistentLevel.spoopylevel'
+[2019.10.30-02.22.34:963][  5]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/mystuff/spoopylevel_sharedassets/spoopylevel.spoopylevel:PersistentLevel' has LevelScriptBlueprint '/Game/mystuff/spoopylevel_sharedassets/spoopylevel.spoopylevel:PersistentLevel.spoopylevel' with GeneratedClass '/Game/mystuff/spoopylevel_sharedassets/spoopylevel.spoopylevel_C' with ClassGeneratedBy '/Game/mystuff/spoopylevel_sharedassets/spoopylevel.spoopylevel:PersistentLevel.spoopylevel'
+[2019.10.30-02.22.34:964][  5]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.30-02.22.35:051][  5]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.30-02.22.35:051][  5]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/mystuff/spoopylevel_sharedassets/spoopylevel.spoopylevel:PersistentLevel' has LevelScriptBlueprint '/Game/mystuff/spoopylevel_sharedassets/spoopylevel.spoopylevel:PersistentLevel.spoopylevel' with GeneratedClass '/Game/mystuff/spoopylevel_sharedassets/spoopylevel.spoopylevel_C' with ClassGeneratedBy '/Game/mystuff/spoopylevel_sharedassets/spoopylevel.spoopylevel:PersistentLevel.spoopylevel'
+[2019.10.30-02.22.35:080][  5]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.30-02.22.35:084][  5]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2019.10.30-02.22.35:131][  6]LogPlayLevel: Display: Destroying online subsystem :Context_42
+[2019.10.30-02.22.42:119][ 93]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.30-02.22.42:388][ 93]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2019.10.30-02.22.43:242][ 93]LogSavePackage: Moving 'E:/level design 2 stuff/github stuff/newer spoopy level/spoopylevel/spoopylevel/MMartinSpoopy/Saved/spoopylevelDCFB28C14BF30F6C7124EDA6D12ED2E7.tmp' to 'E:/level design 2 stuff/github stuff/newer spoopy level/spoopylevel/spoopylevel/MMartinSpoopy/Content/mystuff/spoopylevel_sharedassets/spoopylevel.umap'
+[2019.10.30-02.22.46:142][ 93]LogSavePackage: Moving 'E:/level design 2 stuff/github stuff/newer spoopy level/spoopylevel/spoopylevel/MMartinSpoopy/Saved/spoopylevel_BuiltData823B32144B83180A53C1299959E5BFE9.tmp' to 'E:/level design 2 stuff/github stuff/newer spoopy level/spoopylevel/spoopylevel/MMartinSpoopy/Content/mystuff/spoopylevel_sharedassets/spoopylevel_BuiltData.uasset'
